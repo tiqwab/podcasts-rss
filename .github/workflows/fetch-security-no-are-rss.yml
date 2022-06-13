@@ -1,6 +1,8 @@
 name: "Fetch RSS for 'セキュリティのアレ'"
 on:
   workflow_dispatch: null
+  schedule:
+    - cron: '30 9 * * *'
 jobs:
   Fetch:
     runs-on: ubuntu-latest
