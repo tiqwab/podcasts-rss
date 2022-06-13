@@ -1,0 +1,15 @@
+name: "Fetch RSS for 'セキュリティのアレ'"
+on:
+  workflow_dispatch: null
+jobs:
+  Fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch RSS
+        run: curl -o security-no-are.rss https://www.tsujileaks.com/?feed=podcast
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update RSS for 'セキュリティのアレ'"
