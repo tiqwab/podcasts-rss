@@ -1,0 +1,2453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>セキュリティのアレ</title>
+	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
+	<link>http://www.tsujileaks.com</link>
+	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
+	<lastBuildDate>Mon, 06 Jun 2022 11:00:42 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=6.0</generator>
+<!-- podcast_generator="Blubrry PowerPress/9.1.1" mode="advanced" feedslug="podcast" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<itunes:new-feed-url>https://www.tsujileaks.com/?feed=podcast</itunes:new-feed-url>
+	<itunes:summary>サイバーでセキュリティな話題を取り上げるポッドキャストです！!</itunes:summary>
+	<itunes:author>セキュリティのアレ</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="anchor_thumb.png" />
+	<itunes:owner>
+		<itunes:name>セキュリティのアレ</itunes:name>
+		<itunes:email>wootgotroot@gmail.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>wootgotroot@gmail.com (セキュリティのアレ)</managingEditor>
+	<itunes:subtitle>ゆるーいセキュリティのポッドキャストですよ。</itunes:subtitle>
+	<image>
+		<title>セキュリティのアレ</title>
+		<url>https://tsujileaks.com/are_logo.png</url>
+		<link>http://www.tsujileaks.com</link>
+	</image>
+	<itunes:category text="Technology" />
+	<googleplay:category text="Technology"/>
+	<itunes:category text="News">
+		<itunes:category text="Tech News" />
+	</itunes:category>
+	<itunes:category text="Business" />
+	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
+	<item>
+		<title>第136回 in 太陽と埃！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1226</link>
+		<pubDate>Mon, 06 Jun 2022 20:00:42 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1226</guid>
+		<comments>https://www.tsujileaks.com/?p=1226#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1226</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet  【関連記事】 ・TECH+ セキュリティ – 専門家とベンダーの対話 第9[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1226" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1226&amp;text=%E7%AC%AC136%E5%9B%9E%20in%20%E5%A4%AA%E9%99%BD%E3%81%A8%E5%9F%83%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1226" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://news.mynavi.jp/itsearch/seminar/624">TECH+ セキュリティ &#8211; 専門家とベンダーの対話 第9回理想と現実の“折り合い”を探る｜2022-06-10｜ITセミナー・製品情報</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2022/06/02/010119">Microsoft サポート診断ツールの脆弱性 (CVE-2022-30190) についてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/">GoodWill ransomware forces victims to donate to the poor and provides financial assistance to patients in need &#8211; CloudSEK</a><br />
+・<a href="https://www.bleepingcomputer.com/news/security/duckduckgo-browser-allows-microsoft-trackers-due-to-search-agreement/">DuckDuckGo browser allows Microsoft trackers due to search agreement</a><br />
+・<a href="https://blog.mozilla.org/en/mozilla/local-translation-add-on-project-bergamot/">Mozilla releases local machine translation tools as part of Project Bergamot</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/20150221/1424523632">翻訳サイトを通じてメール本文が公開されていた件をまとめてみた。 &#8211; piyolog</a><br />
+・<a href="https://www.asahiinryo.co.jp/products/milkybeverage/calpis_ringosu/">「カルピス(R)とリンゴ酢」PET500ml｜乳性・乳酸菌飲料｜商品情報｜アサヒ飲料</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/tro.png"><img loading="lazy" class="alignnone size-medium wp-image-1227" src="http://www.tsujileaks.com/wp-content/uploads/tro-298x300.png" alt="" width="298" height="300" srcset="https://www.tsujileaks.com/wp-content/uploads/tro-298x300.png 298w, https://www.tsujileaks.com/wp-content/uploads/tro-1017x1024.png 1017w, https://www.tsujileaks.com/wp-content/uploads/tro-150x150.png 150w, https://www.tsujileaks.com/wp-content/uploads/tro-768x773.png 768w, https://www.tsujileaks.com/wp-content/uploads/tro-144x144.png 144w, https://www.tsujileaks.com/wp-content/uploads/tro.png 1080w" sizes="(max-width: 298px) 100vw, 298px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>良い感じの疲れ。久しぶりに物理的に集まった。喋る側が学びのあるセミナー。ステッカーも準備できました。いつでもまだまだ。いつでもこれから。リヴァイではないほう。何重チェックまでいくのか。王道ネタはずし初耳。怖い脆弱性。ヤバさが上がる可能性がまだある状態。攻撃が先。攻撃側と防御側のモチベーションの非対称性。CONTIめちゃ減った。アフィリエイトが離れた？リブランド？すでに別口でやってる？いいことをしなさいという脅迫。ケンタッキー・フライド・チキンの皮だけ食べたい。暗号化するけどランサムノートがでてこない。暗号化するファイルもえらく限定的でした。パルチザンって聞くとどうしてもチーズが頭に浮かびます。ちょっと燃えたダック。分からなくはないけど苦しい。Jがない。ジャマイカが邪魔するときありますよね。103年。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年06月04日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_220606_ilovetranslation.mp3" length="29672544" type="audio/mpeg" />
+		<itunes:subtitle>Tweet  【関連記事】 ・TECH+ セキュリティ – 専門家とベンダーの対話 第9[...]</itunes:subtitle>
+		<itunes:summary>Tweet  【関連記事】 ・TECH+ セキュリティ – 専門家とベンダーの対話 第9[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:01:36</itunes:duration>
+		</item>
+	<item>
+		<title>第135回 ただいま！16+3時間寝てしまったぜ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1221</link>
+		<pubDate>Tue, 31 May 2022 08:00:49 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1221</guid>
+		<comments>https://www.tsujileaks.com/?p=1221#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1221</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet【関連記事】 ・Risky Business News | Patrick Gray | Subst[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1221" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1221&amp;text=%E7%AC%AC135%E5%9B%9E%20%E3%81%9F%E3%81%A0%E3%81%84%E3%81%BE%EF%BC%8116%2B3%E6%99%82%E9%96%93%E5%AF%9D%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%9C%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1221" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
+<p>・<a href="https://riskybiznews.substack.com/">Risky Business News | Patrick Gray | Substack</a><br />
+・<a href="https://risky.biz/">Risky Business &#8211; Risky Business</a><br />
+・<a href="https://www.chunichi.co.jp/article/476527">富山県、今月２件目情報漏えい　メールに書類を誤添付</a><br />
+・<a href="https://sccs-jp.org/symposium26/">第26回 &#8211; サイバー犯罪に関する白浜シンポジウム</a><br />
+・<a href="https://ja.wikipedia.org/wiki/%E9%87%91%E5%B1%B1%E5%AF%BA%E5%91%B3%E5%99%8C">金山寺味噌 &#8211; Wikipedia</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/log.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/log-300x270.png" alt="" width="300" height="270" class="alignnone size-medium wp-image-1222" srcset="https://www.tsujileaks.com/wp-content/uploads/log-300x270.png 300w, https://www.tsujileaks.com/wp-content/uploads/log.png 747w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>ただいま！亜種アランス。アレ勢の使いの者です。ドライヤー関連。おもいましました。悪戦苦闘。出張には自前のドライヤー持っていく派。吐息のほうが乾くやろ。コンビニのステッカーちゃんと進めてます。小ネタ結構楽しみなんですよね。大パイセンポッドキャスト。やみくもに探すよりRSSよりとっつきやすいかも。ネタのチョイスもいい。まずはやってみる大切さ。頻発する誤送信誤送付。二重チェックの二重目が原因を生むことも。誤送信が多いところはもちろん外部とのやり取りが多い。対策：めっちゃ気を付ける。テーマになるとはなぁ。比較的見つけやすい辻。持って行った名刺がすべて他人のものに置き換わる。クロノロジー。この二年の総まとめをしゃべった感じでした。写真撮影OKのセッションにしました。取り組みの中で逮捕だけではなくどういった形で貢献できるのかと広い視野を持ったほうがいいと思っております。驚き味噌でした。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年05月29日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_220531_result20.mp3" length="30807932" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・Risky Business News | Patrick Gray | Subst[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・Risky Business News | Patrick Gray | Subst[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:03:58</itunes:duration>
+		</item>
+	<item>
+		<title>第134回 脅威 Inside！驚異 beside！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1216</link>
+		<pubDate>Mon, 23 May 2022 20:00:43 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1216</guid>
+		<comments>https://www.tsujileaks.com/?p=1216#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1216</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet【関連記事】 ・第26回 – サイバー犯罪に関する白浜シンポジウム ・Insider T[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1216" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1216&amp;text=%E7%AC%AC134%E5%9B%9E%20%E8%84%85%E5%A8%81%20Inside%EF%BC%81%E9%A9%9A%E7%95%B0%20beside%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1216" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
+<p>・<a href="https://sccs-jp.org/symposium26/">第26回 &#8211; サイバー犯罪に関する白浜シンポジウム</a><br />
+・<a href="https://flashpoint.io/blog/understanding-insider-threats-recruitment-ttps/">Insider Threats: Recruitment Tactics and TTPs | Flashpoint</a><br />
+・<a href="https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220516">Publication of North Korea Information Technology Workers Advisory | U.S. Department of the Treasury</a><br />
+・<a href="https://www.hitachi-id.com/resources/graphics/malware-employees-approached-by-pulse-0-0">The Rising Insider Threat</a><br />
+・<a href="https://www.yomiuri.co.jp/national/20220517-OYT1T50286/">【独自】北朝鮮技術者、日本のスマホアプリ開発…自治体防災アプリなど７件の業務請け負う : 読売新聞オンライン</a><br />
+・<a href="https://www.yomiuri.co.jp/national/20220519-OYT1T50286/">北朝鮮技術者のアプリ開発、２年前の事件でも仲介サイト使用 : 読売新聞オンライン</a><br />
+・<a href="https://web.pref.hyogo.lg.jp/press/20220519_10295.html">兵庫県／ひょうご防災ネットに係る報道の対応について</a><br />
+・<a href="https://news.sophos.com/en-us/2022/04/27/the-state-of-ransomware-2022/">The State of Ransomware 2022 – Sophos News</a><br />
+・<a href="https://news.sophos.com/ja-jp/2022/04/27/the-state-of-ransomware-2022-jp/">ランサムウェアの現状 2022 年版 – Sophos News</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/dryer.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/dryer-300x237.png" alt="" width="300" height="237" class="alignnone size-medium wp-image-1217" srcset="https://www.tsujileaks.com/wp-content/uploads/dryer-300x237.png 300w, https://www.tsujileaks.com/wp-content/uploads/dryer-1024x808.png 1024w, https://www.tsujileaks.com/wp-content/uploads/dryer-768x606.png 768w, https://www.tsujileaks.com/wp-content/uploads/dryer.png 1037w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>久々に東京から出るんです。聞いたらアカンやつって何あんねん。ランサム以外喋られない病気。3人まだ会えてない。抜き打ちのアレクイズ。一風変わった内部不正の話。増えてる勧誘。そのパターン。人間エモテット。今のご時世も成功率に関係してそう。考えてきてこられなかった印象を受ける。故に手薄なんじゃなかろうか。アクターからアプローチ。規模が大きいとお金もあるけど守るポイントは多くなるんですよね。情報漏洩の〇%は内部犯行なんてフレーズ一時期よく聞きましたね。KangoPiyoのちょうどいい話。マッチングしたその先。チェックが甘かったと行ってしまう気持ちは分かる。でも、現実、チェックしきれないものもあると思う。悪意のある異常とみなせる行動をしていなかったら気付けない問題。いずれにしても成果物の品質は管理しないといけないけれど。今週もブレない。かなり増えてる。日本もいよいよ。参入障壁下がってる。プレイヤーが増えると品質の低いものも出てきますよね。身代金平均支払額が一番多かった国はまさかの。発音への違和感かいな。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年05月21日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_220523_insidebeside.mp3" length="37464332" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・第26回 – サイバー犯罪に関する白浜シンポジウム ・Insider T[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・第26回 – サイバー犯罪に関する白浜シンポジウム ・Insider T[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:17:50</itunes:duration>
+		</item>
+	<item>
+		<title>第133回 充ちるレポート！アップデートされる小ネタ！交渉の実態！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1211</link>
+		<pubDate>Mon, 16 May 2022 20:00:18 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1211</guid>
+		<comments>https://www.tsujileaks.com/?p=1211#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1211</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet【関連記事】 ・ババ・ガンプ・シュリンプ 公式サイト – Bubba Gump Shri[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1211" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1211&amp;text=%E7%AC%AC133%E5%9B%9E%20%E5%85%85%E3%81%A1%E3%82%8B%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%EF%BC%81%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%81%95%E3%82%8C%E3%82%8B%E5%B0%8F%E3%83%8D%E3%82%BF%EF%BC%81%E4%BA%A4%E6%B8%89%E3%81%AE%E5%AE%9F%E6%85%8B%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1211" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
+<p>・<a href="https://bubbagump.jp/">ババ・ガンプ・シュリンプ 公式サイト &#8211; Bubba Gump Shrimp Co.</a><br />
+・<a href="https://blog.talosintelligence.com/2022/05/conti-and-hive-ransomware-operations.html">Cisco Talos Intelligence Group &#8211; Comprehensive Threat Intelligence: Conti and Hive ransomware operations: What we learned from these groups&#8217; victim chats</a><br />
+・<a href="https://www.atlassian.com/ja/blog/post-incident-review-april-2022-outage">2022年4月に発生したアトラシアンのサービス停止に関するインシデント事後レビュー | Atlassian Japan 公式ブログ | アトラシアン株式会社</a><br />
+・<a href="https://developers.google.com/identity/fido">FIDO authentication with passkeys | Google Identity | Google Developers</a><br />
+・<a href="https://www.youtube.com/watch?v=6vnQDn3AUbo">A path to a world without passwords &#8211; YouTube</a><br />
+・<a href="https://www.state.gov/attribution-of-russias-malicious-cyber-activity-against-ukraine/">Attribution of Russia’s Malicious Cyber Activity Against Ukraine &#8211; United States Department of State</a><br />
+・<a href="https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610">Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies | by Alex Birsan | Medium</a><br />
+・<a href="https://snyk.io/blog/npm-dependency-confusion-attack-gxm-reference/">Targeted npm dependency confusion attack caught red-handed | Snyk</a><br />
+・<a href="https://jfrog.com/blog/npm-supply-chain-attack-targets-german-based-companies/">npm Supply Chain Attack Targeting Germany-Based Companies</a><br />
+・<a href="https://blog.reversinglabs.com/blog/npm-dependency-confusion-hacks-target-german-firms">Update: NPM dependency confusion hacks target German firms</a><br />
+・<a href="https://www.lawson.co.jp/recommend/original/detail/1452109_1996.html">生カスタードプリン｜ローソン公式サイト</a><br />
+・<a href="https://www.lawson.co.jp/recommend/original/detail/1452108_1996.html">充ちるカスタードクリームのパイ｜ローソン公式サイト</a><br />
+・<a href="https://www.lawson.co.jp/recommend/original/detail/1452107_1996.html">台湾カステラ ホイップ＆カスタード｜ローソン公式サイト</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/8318ac74d5e68a810cfed71bd58a4389.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/8318ac74d5e68a810cfed71bd58a4389-244x300.png" alt="" width="244" height="300" class="alignnone size-medium wp-image-1214" srcset="https://www.tsujileaks.com/wp-content/uploads/8318ac74d5e68a810cfed71bd58a4389-244x300.png 244w, https://www.tsujileaks.com/wp-content/uploads/8318ac74d5e68a810cfed71bd58a4389-833x1024.png 833w, https://www.tsujileaks.com/wp-content/uploads/8318ac74d5e68a810cfed71bd58a4389-768x944.png 768w, https://www.tsujileaks.com/wp-content/uploads/8318ac74d5e68a810cfed71bd58a4389.png 976w" sizes="(max-width: 244px) 100vw, 244px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>どこも誰にも気付かれてない。天気の話をしているということは。やっぱりお便りは嬉しいなぁ。悪意がない場合は個人ではなく仕組みに目を向けるのがおすすめ。AirH&#8221;。まとめは少なくともボクたちの需要はありありです。誰から話すか迷うときとそうでないときがある。人それぞれ。コンサルじゃないだろ。言い方とトーンは別として。金額感みなさんはどうですか。ヒント：夜景。減額というよりも適正価格にという感覚かもしれませんね。これから被害に遭うかもしれない方々。もしくは、知りたいだけというニーズの予想かもしれない。中身ぎっしりだけどきれいでボリューミー。報告書に入れるべき感情と姿勢。サイバー攻撃が否かをまず示す、示せることは大事。アトラシアンより知ってたのは。今回のインシデントで知ったのでボクによってはアタラシアン。アップデート地味に好きなんですよね。特定はしたが理由は言えない。気持ちは分かるんだけどモヤっとする。読み込み順序問題。テストだった問題。テストでできているということは既にどこかで？踏み込み度合いはいろいろなところで議論になりますね。スイーツ詳しいわけではないんです。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年05月14日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_20220516_CMYB.mp3" length="32301314" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・ババ・ガンプ・シュリンプ 公式サイト – Bubba Gump Shri[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・ババ・ガンプ・シュリンプ 公式サイト – Bubba Gump Shri[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:07:05</itunes:duration>
+		</item>
+	<item>
+		<title>第132回 さっきまで五月病！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1205</link>
+		<pubDate>Mon, 09 May 2022 20:00:37 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1205</guid>
+		<comments>https://www.tsujileaks.com/?p=1205#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1205</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet【関連記事】 ・Zero Tolerance: More Zero-Days Exploited i[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1205" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1205&amp;text=%E7%AC%AC132%E5%9B%9E%20%E3%81%95%E3%81%A3%E3%81%8D%E3%81%BE%E3%81%A7%E4%BA%94%E6%9C%88%E7%97%85%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1205" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
+<p>・<a href="https://www.mandiant.com/resources/zero-days-exploited-2021">Zero Tolerance: More Zero-Days Exploited in 2021 Than Ever Before | Mandiant</a><br />
+・<a href="https://www.rapid7.com/blog/post/2022/03/28/analyzing-the-attack-landscape-rapid7s-annual-vulnerability-intelligence-report/">Analyzing the Attack Landscape: Rapid7’s 2021 Vulnerability Intelligence Report | Rapid7 Blog</a><br />
+・<a href="https://fidoalliance.org/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard-to-accelerate-availability-of-passwordless-sign-ins/">Apple, Google and Microsoft Commit to Expanded Support for FIDO Standard to Accelerate Availability of Passwordless Sign-Ins &#8211; FIDO Alliance</a><br />
+・<a href="https://fidoalliance.org/charting-an-accelerated-path-forward-for-passwordless-authentication-adoption/">Charting an Accelerated Path Forward for Passwordless Authentication Adoption &#8211; FIDO Alliance</a><br />
+・<a href="https://news.sophos.com/en-us/2022/04/12/attackers-linger-on-government-agency-computers-before-deploying-lockbit-ransomware/">Attackers linger on government agency computers before deploying Lockbit ransomware – Sophos News</a><br />
+・<a href="https://news.sophos.com/ja-jp/2022/04/12/attackers-linger-on-government-agency-computers-before-deploying-lockbit-ransomware-jp/">政府機関のコンピュータに数か月潜伏した後、Lockbit ランサムウェアを展開した攻撃者 – Sophos News</a><br />
+・<a href="https://thedfirreport.com/2022/04/25/quantum-ransomware/">Quantum Ransomware</a><br />
+・<a href="https://www.city.yokohama.lg.jp/city-info/koho-kocho/press/kyoiku/2022/0428hokubusomu.files/20220428.pdf">市立学校の防犯カメラ等取替修繕工事における個人情報の漏洩について</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2019/12/07/091332">「世界最悪級の流出」と報じられた廃棄ハードディスク転売事案についてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://www.hikkoshi-sakai.co.jp/wp-cms/wp-content/uploads/2022/05/bc5b538041d1d5c2736364120737cad5.pdf">お客様の個人情報の漏洩に関してのお詫び</a><br />
+・<a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%88%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%97/%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A">フォレスト・ガンプ/一期一会 &#8211; Wikipedia</a></p>
+<p>&nbsp;</p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/bluebird.jpg"><img loading="lazy" class="alignnone size-full wp-image-1206" src="http://www.tsujileaks.com/wp-content/uploads/bluebird.jpg" alt="" width="250" height="166" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>やる気が行方知れずに。と思ったら家に居た。GWはいつもより仕事が捗った。最高のプレゼント。憧れのハイブランドYubiKey。コレきっかけ。アレきっかけ。マンディアンなのかマンディアントなのか。まずは目的は何かだと思っています。工場見学の話。人を責めず方法を責める。何の流れで話した分からないけどそれに大きな流れが来たっぽい。普及しなかった理由。それを解消するもの。スマホを買い替えただけなのに。未来が見えてきたかもしれない。蛇足をした。侵入してからまずChrome。Chromeって初めて見た時チュロメって呼んだ人いますか？用意周到じゃない攻撃者。行き当たりばったりのログというのも追跡しにくい。内部侵入で内部to内部のRDPって結構あるんですよね。暗号化のすんでで止めると拡張子変更だけで済む場合もある。断片から全体をどこまで想像、想定できるかが運命の別れ道。異常は平常を知っているから分かること。ツールにも何かしらの重み付けあるといいかもしれない。今回は風に飛ばされてないほう。地理的デジャブ感。廃棄と処分とはどうすることなのか。家のシュレッダー。現実的ではない対策は。届け出るモチベーションを考えるとやはり氷山の一角なのではないか。暗号化しかないのかもしれない。話をしている全員が見ているとシーンいじりで盛り上がれますね。NOT ハートフルイメージ。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年05月07日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_220509_NPOWER.mp3" length="34333403" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・Zero Tolerance: More Zero-Days Exploited i[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・Zero Tolerance: More Zero-Days Exploited i[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:11:19</itunes:duration>
+		</item>
+	<item>
+		<title>第131回 続けることよりも止めないことの大切さ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1201</link>
+		<pubDate>Mon, 25 Apr 2022 20:00:38 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1201</guid>
+		<comments>https://www.tsujileaks.com/?p=1201#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1201</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet【関連記事】 ・Project Zero: The More You Know, The More [...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1201" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1201&amp;text=%E7%AC%AC131%E5%9B%9E%20%E7%B6%9A%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8%E3%82%88%E3%82%8A%E3%82%82%E6%AD%A2%E3%82%81%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%81%AE%E5%A4%A7%E5%88%87%E3%81%95%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1201" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
+<p>・<a href="https://googleprojectzero.blogspot.com/2022/04/the-more-you-know-more-you-know-you.html">Project Zero: The More You Know, The More You Know You Don’t Know</a><br />
+・<a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/">Introducing DuckDuckGo for Mac: A Private, Fast, and Secure Browsing App</a><br />
+・<a href="https://atmarkit.itmedia.co.jp/ait/articles/1112/26/news117.html">攻撃はまるでレーザービーム：セキュリティ・ダークナイト（8）（1/3 ページ） &#8211; ＠IT</a><br />
+・<a href="https://atmarkit.itmedia.co.jp/ait/articles/1512/28/news023.html">「標的型メール攻撃訓練」にもの申す：セキュリティのアレ（7） &#8211; ＠IT</a><br />
+・<a href="https://ukky3.hatenablog.com/entry/20110416/1302961997">ソーシャルエンジニアリングをユーザー教育によって防ぐことはできない？ &#8211; セキュリティは楽しいかね？ Part 1</a><br />
+・<a href="https://xtech.nikkei.com/it/atcl/column/16/012900025/042100041/">訓練メールなのに注意喚起で大騒ぎ、失敗しない標的型攻撃訓練の進め方 | 日経クロステック（xTECH）</a><br />
+・<a href="https://www.meishoku.co.jp/shop/pages/det.aspx">天然フルーツの力でつるすべ肌実感！DETクリアシリーズで角質ポロポロピーリング♪|明色化粧品公式サイト</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/caroline-attwood-QLjeFvxpdxc-unsplash-scaled.jpg"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/caroline-attwood-QLjeFvxpdxc-unsplash-300x169.jpg" alt="" width="300" height="169" class="alignnone size-medium wp-image-1202" srcset="https://www.tsujileaks.com/wp-content/uploads/caroline-attwood-QLjeFvxpdxc-unsplash-300x169.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/caroline-attwood-QLjeFvxpdxc-unsplash-1024x576.jpg 1024w, https://www.tsujileaks.com/wp-content/uploads/caroline-attwood-QLjeFvxpdxc-unsplash-768x432.jpg 768w, https://www.tsujileaks.com/wp-content/uploads/caroline-attwood-QLjeFvxpdxc-unsplash-1536x864.jpg 1536w, https://www.tsujileaks.com/wp-content/uploads/caroline-attwood-QLjeFvxpdxc-unsplash-2048x1152.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>暖かくなってまいりました。いつでも気にしてしまう天気。代り映えはやっぱりいい刺激。禁煙は褒めてもらえない。試験に役立った。バトーバトラー。思ったことや感想などを教えていただけるのは助かってます。ゼロデイかどうかよりも予想されるインパクトのほうが印象に残ります。数が増えるというのはプレイヤーの数やモチベーションの高まりが影響する場合もある。これまでは出されてこなかったものもあるかもしれない。「見ただけで感染」という言葉は懐かしい言葉です。「BubbleBoy」。すげぇの定義。探したから見つかった。探してないから見つかってない。脆弱性情報と悪用情報。分かったと思ったときは大体分かってない説。MacMacGo。初のデスクトップアプリ。超絶にシンプル。普段使いを目指して。拡張使えるといいけどそれだと差別化できなくなってきそう。Firefoxのこれから。久々のメール訓練。行列のできるセキュリティサービス。ゼロにならないという前提。開封率のみ着目問題。たまたま開かなかったがあるならたまたま開いたもあるはず。訓練が別の対応の本番になってしまうケース。訓練は誰の訓練なのか。「小さい頃は誰でも自分の未来はキラキラ輝いてるって思うでしょ？でも大人になると、自分の思い通りになることなんて一つもなくて辛くて情けなくて逆ギレして」。ピールしようぜ！確執も洗い流せたらええな。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年04月23日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_220425_curryRamen.mp3" length="31108243" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・Project Zero: The More You Know, The More [...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・Project Zero: The More You Know, The More [...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:04:36</itunes:duration>
+		</item>
+	<item>
+		<title>第130回 モヤモヤするからこそ続けたい旅がある！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1196</link>
+		<pubDate>Mon, 18 Apr 2022 20:00:48 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1196</guid>
+		<comments>https://www.tsujileaks.com/?p=1196#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1196</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet【関連記事】 ・京セラ複合機におけるセキュリティー上の脆弱性について | 京セラドキュメントソリュー[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1196" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1196&amp;text=%E7%AC%AC130%E5%9B%9E%20%E3%83%A2%E3%83%A4%E3%83%A2%E3%83%A4%E3%81%99%E3%82%8B%E3%81%8B%E3%82%89%E3%81%93%E3%81%9D%E7%B6%9A%E3%81%91%E3%81%9F%E3%81%84%E6%97%85%E3%81%8C%E3%81%82%E3%82%8B%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1196" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
+<p>・<a href="https://www.kyoceradocumentsolutions.co.jp/support/information/info_20220405.html">京セラ複合機におけるセキュリティー上の脆弱性について | 京セラドキュメントソリューションズ</a><br />
+・<a href="https://www.rapid7.com/blog/post/2022/03/29/cve-2022-1026-kyocera-net-view-address-book-exposure/">CVE-2022-1026: Kyocera Net View Address Book Exposure | Rapid7 Blog</a><br />
+・<a href="https://blog.cloudflare.com/ja-jp/ddos-attack-trends-for-2022-q1-ja-jp/">2022年第1四半期におけるDDoS攻撃の傾向</a><br />
+・<a href="https://www.europol.europa.eu/media-press/newsroom/news/one-of-world%E2%80%99s-biggest-hacker-forums-taken-down">One of the world’s biggest hacker forums taken down | Europol</a><br />
+・<a href="https://www.justice.gov/opa/pr/united-states-leads-seizure-one-world-s-largest-hacker-forums-and-arrests-administrator">United States Leads Seizure of One of the World’s Largest Hacker Forums and Arrests Administrator | OPA | Department of Justice</a><br />
+・<a href="https://therecord.media/what-its-like-to-run-a-hacking-forum-a-conversation-with-raidforums-owner-omnipotent/">What It’s Like to Run a Hacking Forum: A Conversation With RaidForums Owner Omnipotent &#8211; The Record by Recorded Future</a><br />
+・<a href="https://www.vice.com/en/article/k7w9mv/tmobile-hacked-bought-data-mandiant">T-Mobile Secretly Bought Its Customer Data from Hackers to Stop Leak. It Failed.</a><br />
+・<a href="https://www.lamaisonduchocolat.com/ja_jp/white-chocolate-puffed-rice-bar">チョコレートブラン フリソナン &#8211; ラ・メゾン・デュ・ショコラ</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/t.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/t.png" alt="" width="216" height="227" class="alignnone size-full wp-image-1197" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>最近PPAPですよ。時間が経つことによるリセットってありますね。アレがいいバランスポイントになってます。そこだけ鳥あげたら。虎岩石。タイトルは一番最後に決めてます。見えちゃうタイプの脆弱性。ほんとは怖いアドレス帳。複合機なのか復号キーなのか。ローカルネットワークでっていうのは今時の対策としてはちょっと弱く感じました。アップデートのハードル高いなぁ。久しぶり！アンケートの取り組みはいいですね。名乗りを上げるアノニマス。よく分からないこと多いけど、その中で本質を見極めていくことが大事ですよね。ボリュームゾーンは500M以下。Booter, Stresserとの関係。もっともらしく信じられやすいことが事実とは限らない。モヤモヤするからこそ続けたい旅がある。21歳！コミュニティがなくなっても人が存在し続ける。では、どこに。なぜ今まで生き延びられたのか。時は来た！太らされてた説。司法取引説。Company 3のもらい事故。盗まれたデータ = コピーされたデータ。金銭を支払うということ。根岸さんがよくなる語彙力の喪失。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年04月16日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_220418_sampojapan1yearAniv.mp3" length="35589132" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・京セラ複合機におけるセキュリティー上の脆弱性について | 京セラドキュメントソリュー[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・京セラ複合機におけるセキュリティー上の脆弱性について | 京セラドキュメントソリュー[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:13:56</itunes:duration>
+		</item>
+	<item>
+		<title>第129回 驚異の脅威！風とリークとテイクダウン！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1189</link>
+		<pubDate>Mon, 11 Apr 2022 20:00:58 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1189</guid>
+		<comments>https://www.tsujileaks.com/?p=1189#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1189</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet【関連記事】 ・ドメイン名ハイジャックに備えよ! コインチェックの対応から得られた教訓 &amp;#8211[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1189" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1189&amp;text=%E7%AC%AC129%E5%9B%9E%20%E9%A9%9A%E7%95%B0%E3%81%AE%E8%84%85%E5%A8%81%EF%BC%81%E9%A2%A8%E3%81%A8%E3%83%AA%E3%83%BC%E3%82%AF%E3%81%A8%E3%83%86%E3%82%A4%E3%82%AF%E3%83%80%E3%82%A6%E3%83%B3%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1189" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
+<p>・<a href="https://news.mynavi.jp/techplus/article/techp5359/">ドメイン名ハイジャックに備えよ! コインチェックの対応から得られた教訓 &#8211; 情報セキュリティ事故対応アワード2020受賞レポート | TECH+</a><br />
+・<a href="https://www.asahi.com/articles/ASQ482TDRQ47PLZB011.html">焼却するはずの書類1600枚、強風で飛ばされ紛失 京都府警が謝罪：朝日新聞デジタル</a><br />
+・<a href="https://mainichi.jp/articles/20220407/k00/00m/040/259000c">風に飛ばされ文書1600枚紛失 京都府交通安全協職員、自宅保管中 | 毎日新聞</a><br />
+・<a href="https://www.jnsa.org/result/incident/2018.html">2018年 情報セキュリティインシデントに関する調査報告書</a><br />
+・<a href="https://www.tsr-net.co.jp/news/analysis/20210117_01.html">上場企業の個人情報漏えい・紛失事故は、調査開始以来最多の137件 574万人分（2021年） ： 東京商工リサーチ</a><br />
+・<a href="https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/conti-leaks-examining-the-panama-papers-of-ransomware.html">Conti Leaks: Examining the Panama Papers of Ransomware | Trellix</a><br />
+・<a href="https://research.nccgroup.com/2022/03/31/conti-nuation-methods-and-techniques-observed-in-operations-post-the-leaks/">Conti-nuation: methods and techniques observed in operations post the leaks – NCC Group Research</a><br />
+・<a href="https://news.sophos.com/en-us/2021/02/16/conti-ransomware-attack-day-by-day/">A Conti ransomware attack day-by-day – Sophos News</a><br />
+・<a href="https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-disruption-botnet-controlled-russian-federation">Justice Department Announces Court-Authorized Disruption of Botnet Controlled by the Russian Federation’s Main Intelligence Directorate (GRU) | OPA | Department of Justice</a><br />
+・<a href="https://www.ncsc.gov.uk/news/joint-advisory-shows-new-sandworm-malware-cyclops-blink-replaces-vpnfilter">New Sandworm malware Cyclops Blink replaces VPNFilter &#8211; NCSC.GOV.UK</a><br />
+・<a href="https://www.watchguard.com/wgrd-news/blog/important-detection-and-remediation-actions-cyclops-blink-state-sponsored-botnet">Important Detection and Remediation Actions for Cyclops Blink State-Sponsored Botnet | WatchGuard Technologies</a><br />
+・<a href="https://www.shadowserver.org/news/shadowserver-special-reports-cyclops-blink/">Shadowserver Special Reports – Cyclops Blink | The Shadowserver Foundation</a><br />
+・<a href="https://www.okabe-group.com/products/kaibashira/">サクッとしっとり新食感！そのまんま貝柱 &#8211; &#8211; 株式会社オカベ</a></p>
+<p>&nbsp;</p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/plus6.png"><img loading="lazy" class="alignnone size-medium wp-image-1190" src="http://www.tsujileaks.com/wp-content/uploads/plus6-300x207.png" alt="" width="300" height="207" srcset="https://www.tsujileaks.com/wp-content/uploads/plus6-300x207.png 300w, https://www.tsujileaks.com/wp-content/uploads/plus6.png 337w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>自然に新鮮な気持ちでの2回目。噛みしめる大切さ。一巻前がわからんループ。寝る前のポップコーンはやめたほうがいいです。勉強会のネタのもってこいのイベント。「無関心」でも「無関係」ではいられない。脅威タイプ：風。ミステリーインシデント。見つからなかったものに燃やしたは入ってるのかな。「妖怪BOX」だと思ってた。鬼太郎のポストみたいな。対策：風の強い日は処分しない。その後のCONTI。RDPだけじゃない。インターネットから取ってくるのはポイント。ソフォスを止めたってが観察されてましたが、ほかのアンチウイルス止めるってのもよくありますね。定番攻撃ツールは把握しておくといいです。アフィリエイトって言えるようになってきた。ド定番RClone。初期アクセスから横展開までのラグ。リーク後は過去最高件数。怖くなる一方ではなくて。CONTI Leaksはどれほど影響があったのか。必要な人には必要な情報。立場の違いで必要な情報は変わる。知らなくてもいいんです。ちょっと違うテイクダウン。公表していなかった脆弱性が悪用。誰もやらないならオレ（FBI）がやる。C2への指令を偽装に成功。やっちゃえとは思う。課題の洗い出しからの見直しは必要。「しない」であって「できない」ではない。ちなみに記憶をなくしたことはありません。</p></blockquote>
+<p>収録日: 2022年04月09日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_220411_pang4yau5.mp3" length="30760447" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・ドメイン名ハイジャックに備えよ! コインチェックの対応から得られた教訓 &amp;#8211[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・ドメイン名ハイジャックに備えよ! コインチェックの対応から得られた教訓 &amp;#8211[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:03:52</itunes:duration>
+		</item>
+	<item>
+		<title>第128回 そういえば新年度はじまってます！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1183</link>
+		<pubDate>Mon, 04 Apr 2022 20:00:44 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1183</guid>
+		<comments>https://www.tsujileaks.com/?p=1183#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1183</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet【関連記事】 ・KA-SAT Network cyber attack overview | Via[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1183" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1183&amp;text=%E7%AC%AC128%E5%9B%9E%20%E3%81%9D%E3%81%86%E3%81%84%E3%81%88%E3%81%B0%E6%96%B0%E5%B9%B4%E5%BA%A6%E3%81%AF%E3%81%98%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1183" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
+<p>・<a href="https://www.viasat.com/about/newsroom/blog/ka-sat-network-cyber-attack-overview/">KA-SAT Network cyber attack overview | Viasat</a><br />
+・<a href="https://www.sentinelone.com/labs/acidrain-a-modem-wiper-rains-down-on-europe/">AcidRain | A Modem Wiper Rains Down on Europe &#8211; SentinelOne</a><br />
+・<a href="https://www.bleepingcomputer.com/news/security/viasat-confirms-satellite-modems-were-wiped-with-acidrain-malware/">Viasat confirms satellite modems were wiped with AcidRain malware</a><br />
+・<a href="https://blog.aquasec.com/python-ransomware-jupyter-notebook">Threat Alert: First Python Ransomware Attack Targeting Jupyter Notebooks</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2022/04/01/065946">Spring Frameworkの脆弱性 CVE-2022-22965（Spring4shell）についてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://jasonmarkk.co.jp/">Jason Markk Premium Shoe Care Products and Drop-Off Cleaning service</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/wjs.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/wjs-300x188.png" alt="" width="300" height="188" class="alignnone size-medium wp-image-1184" srcset="https://www.tsujileaks.com/wp-content/uploads/wjs-300x188.png 300w, https://www.tsujileaks.com/wp-content/uploads/wjs.png 685w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>
+辻伸弘メモ：</p>
+<blockquote><p>覚えてない前提。一人称が「余」。身につけた力の使い道。アレタソも成長なさいましたなぁ。色々なお便りほんとお役立ちです。鈴木亜美さん思い出した。設定ミスとは。またかのワイパー。何かと似ているといったような比較って一朝一夕に言えることじゃないんですよね。どこまで見越しての攻撃だったのか。意外と手探りも？WebShellやんけ！メジャーどころだけではなくてね。外からスキャンしてる組織って意外と少ないのかな？便利なものを悪用したらの観点で見る大切さ。ダウングレードするという対策。脆弱性対応の硬直化。止めるルールと判断。何を拠り所にするのか。脆弱性対応の今昔。「ん」抜けてた。ちょっと口がなめらかではなかった。技術もスニーカーも磨こうぜ！</p></blockquote>
+<p>  </p>
+<p>収録日: 2022年04月02日</p>
+]]></content:encoded>
+		<enclosure url="https://tsujileaks.com/media/are_220404_greoka.mp3" length="32182160" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・KA-SAT Network cyber attack overview | Via[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・KA-SAT Network cyber attack overview | Via[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:06:50</itunes:duration>
+		</item>
+	<item>
+		<title>第127回 色々で様々な手口にBECらこいた！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1178</link>
+		<pubDate>Mon, 28 Mar 2022 20:00:09 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1178</guid>
+		<comments>https://www.tsujileaks.com/?p=1178#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1178</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet【関連記事】 ・ロシアでVPNアプリの利用が急増、1日あたり40万DL | Forbes JAPAN[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1178" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1178&amp;text=%E7%AC%AC127%E5%9B%9E%20%E8%89%B2%E3%80%85%E3%81%A7%E6%A7%98%E3%80%85%E3%81%AA%E6%89%8B%E5%8F%A3%E3%81%ABBEC%E3%82%89%E3%81%93%E3%81%84%E3%81%9F%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1178" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
+<p>・<a href="https://forbesjapan.com/articles/detail/46505">ロシアでVPNアプリの利用が急増、1日あたり40万DL | Forbes JAPAN（フォーブス ジャパン）</a><br />
+・<a href="https://www.nikkei.com/article/DGKKZO59257860Q2A320C2TB0000/">匿名化ツール、ネット統制のロシアで利用増: 日本経済新聞</a><br />
+・<a href="https://omny.fm/shows/asahi/611">サイバー事件簿⑤ これは南海トラフなのか ランサムウェアと地域の病院 #612 &#8211; 朝日新聞ポッドキャスト &#8211; Omny.fm</a><br />
+・<a href="https://omny.fm/shows/asahi/612">サイバー事件簿⑥ サイバー攻撃、受けた病院の「孤立」 あすは我が身のはずが #613 &#8211; 朝日新聞ポッドキャスト &#8211; Omny.fm</a><br />
+・<a href="https://www.mbs.jp/4chantv/news/kodawari/article/2022/01/087200.shtml">サイバー攻撃と戦った公立病院の２か月間『電子カルテが暗号化』過去の検査結果も病歴もわからず&#8230;手書き対応にも苦労 &#8211; よんチャンTV | MBS</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2022/03/24/071018">東京コンピュータサービスのランサムウェア感染についてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://www.ic3.gov/Media/PDF/AnnualReport/2021_IC3Report.pdf">Internet Crime Report 2021</a><br />
+・<a href="https://msrc-blog.microsoft.com/2022/03/16/supportscamjp/">マイクロソフトのサポートを装った詐欺にご注意ください – Microsoft Security Response Center</a><br />
+・<a href="https://www.okta.com/blog/2022/03/oktas-investigation-of-the-january-2022-compromise/">Okta’s Investigation of the January 2022 Compromise | Okta</a><br />
+・<a href="https://www.microsoft.com/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/">DEV-0537 criminal actor targeting organizations for data exfiltration and destruction &#8211; Microsoft Security Blog</a><br />
+・<a href="https://fidoalliance.org/charting-an-accelerated-path-forward-for-passwordless-authentication-adoption/">Charting an Accelerated Path Forward for Passwordless Authentication Adoption &#8211; FIDO Alliance</a><br />
+・<a href="https://www.ikkaku.co.jp/">骨付鳥 一鶴 -IKKAKU-：香川県丸亀市</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/in.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/in-296x300.png" alt="" width="148" height="150" class="alignnone size-medium wp-image-1179" srcset="https://www.tsujileaks.com/wp-content/uploads/in-296x300.png 296w, https://www.tsujileaks.com/wp-content/uploads/in-768x780.png 768w, https://www.tsujileaks.com/wp-content/uploads/in.png 788w" sizes="(max-width: 148px) 100vw, 148px" /></a></p>
+<p>
+辻伸弘メモ：</p>
+<blockquote><p>いつか形を変えてでも共有します。薄なったら重ねるのか。実質Pro。買うしかなかった2人。お便り増えてきてる。正確な話を聴きたければコレというかアレを。スボム！相関と因果を分けて考えよう。事故対応はリリース後も続きます。異なる見え方と相互理解。社名への誤認の気持ち分かる。リバースプロキシ介してのランサム事案は過去にCL0Pでありましたね。小粒も増えて。細く長く。初めの侵入から内部での動きまでに期間があいている場合は。攻撃を助長するって具体的にどういうことなんでしょうかね。昨年より劣化してる。オンライン会議経由のBEC。人を介するものはやっぱり厄介。愛に気付いてください。サポート詐欺にひっかからないようにこちら側でサポートするには。注意喚起の方法も大事だけどカバレッジももっと意識しないといけないですね。マネタイズ方法の詳細は大事なポイント。セキュリティキー最強説。つじるしです。</p></blockquote>
+<p>  </p>
+<p>収録日: 2022年03月26日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_220328_shikujiri.mp3" length="34357430" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・ロシアでVPNアプリの利用が急増、1日あたり40万DL | Forbes JAPAN[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・ロシアでVPNアプリの利用が急増、1日あたり40万DL | Forbes JAPAN[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:11:22</itunes:duration>
+		</item>
+	<item>
+		<title>第126回 ツールとレポートとサボタージュ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1169</link>
+		<pubDate>Mon, 21 Mar 2022 20:00:32 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1169</guid>
+		<description>Tweet【関連記事】 ・VT4Browsers++ Any indicator, every detail,[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_220321_souhou.mp3" length="30356970" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・VT4Browsers++ Any indicator, every detail,[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・VT4Browsers++ Any indicator, every detail,[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:03:02</itunes:duration>
+		</item>
+	<item>
+		<title>第125回 今回までは、ゆくアレ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1161</link>
+		<pubDate>Tue, 15 Mar 2022 01:47:14 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1161</guid>
+		<description>Tweet【関連記事】 ・About twitter.com supported browsers ・Russ[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_220315_areikuyokuruyo.mp3" length="27230042" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・About twitter.com supported browsers ・Russ[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・About twitter.com supported browsers ・Russ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>56:31</itunes:duration>
+		</item>
+	<item>
+		<title>第124回 おめでとうをありがとう。スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1156</link>
+		<pubDate>Mon, 07 Mar 2022 20:00:05 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1156</guid>
+		<description>Tweet【関連記事】 ・総務省｜報道資料｜「サイバーセキュリティに関する総務大臣奨励賞」の受賞者の公表 ・ポ[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_220307_aresama.mp3" length="36267107" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・総務省｜報道資料｜「サイバーセキュリティに関する総務大臣奨励賞」の受賞者の公表 ・ポ[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・総務省｜報道資料｜「サイバーセキュリティに関する総務大臣奨励賞」の受賞者の公表 ・ポ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:15:20</itunes:duration>
+		</item>
+	<item>
+		<title>第123回 無意識無想にねじ曲げディスコ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1148</link>
+		<pubDate>Mon, 21 Feb 2022 20:00:51 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1148</guid>
+		<description>Tweet【関連記事】 ・友達からもらった実行ファイルでマルウェア感染!? 「Windows Sandbox」[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_220221_iiwasure.mp3" length="31801611" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・友達からもらった実行ファイルでマルウェア感染!? 「Windows Sandbox」[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・友達からもらった実行ファイルでマルウェア感染!? 「Windows Sandbox」[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:06:15</itunes:duration>
+		</item>
+	<item>
+		<title>第122回 CVSSと認証関係にシャラララ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1137</link>
+		<pubDate>Mon, 14 Feb 2022 20:00:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=1137</guid>
+		<description>Tweet【関連記事】 ・脆弱性管理でCVSS基本値だけに振り回されないためのメモ – Feat.[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_220214_utahime.mp3" length="26176346" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・脆弱性管理でCVSS基本値だけに振り回されないためのメモ – Feat.[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・脆弱性管理でCVSS基本値だけに振り回されないためのメモ – Feat.[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>54:32</itunes:duration>
+		</item>
+	<item>
+		<title>第121回 今回、あなたにとっての珍味はありましたか？スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1125</link>
+		<pubDate>Mon, 07 Feb 2022 20:00:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=1125</guid>
+		<description>Tweet【関連記事】 ・メモアプリ装い口座情報をフィッシング 680万円詐取容疑：朝日新聞デジタル ・メモア[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_220207_weareare.mp3" length="32217571" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・メモアプリ装い口座情報をフィッシング 680万円詐取容疑：朝日新聞デジタル ・メモア[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・メモアプリ装い口座情報をフィッシング 680万円詐取容疑：朝日新聞デジタル ・メモア[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:07:07</itunes:duration>
+		</item>
+	<item>
+		<title>第120回 DDoSにちょっぴりランサム！国会もあるよ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1120</link>
+		<pubDate>Mon, 31 Jan 2022 20:00:28 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1120</guid>
+		<description>Tweet    【関連記事】 ・Azure DDoS Protection—2021 Q[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_220131_WC.mp3" length="32395957" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・Azure DDoS Protection—2021 Q[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・Azure DDoS Protection—2021 Q[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:07:29</itunes:duration>
+		</item>
+	<item>
+		<title>第119回 話すネタに関係なく大体いつも同じ時間になってるな！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1115</link>
+		<pubDate>Mon, 24 Jan 2022 20:00:53 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1115</guid>
+		<description>Tweet    【関連記事】 ・【ご注意ください】ペイディを利用していないのに認証コード[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_220124_carmen.mp3" length="29662727" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・【ご注意ください】ペイディを利用していないのに認証コード[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・【ご注意ください】ペイディを利用していないのに認証コード[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:01:48</itunes:duration>
+		</item>
+	<item>
+		<title>第118回 見てるぞMix！でやでやでーや！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1111</link>
+		<pubDate>Tue, 18 Jan 2022 20:00:48 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1111</guid>
+		<description>Tweet    【関連記事】 ・約5000の学校へ影響したランサムウェア事案へのFina[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_220118_dreamMask.mp3" length="30961107" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・約5000の学校へ影響したランサムウェア事案へのFina[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・約5000の学校へ影響したランサムウェア事案へのFina[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:04:30</itunes:duration>
+		</item>
+	<item>
+		<title>第117回 二度目の新年だ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1105</link>
+		<pubDate>Tue, 11 Jan 2022 20:00:40 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1105</guid>
+		<description>Tweet    【関連記事】 ・LastPass users warned their [...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_220111_AI.mp3" length="33622456" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・LastPass users warned their [...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・LastPass users warned their [...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:10:03</itunes:duration>
+		</item>
+	<item>
+		<title>第116回 室長！不死長！？ネクサス長！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1099</link>
+		<pubDate>Mon, 27 Dec 2021 20:00:23 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1099</guid>
+		<description>Tweet    【関連記事】 ・サイバーセキュリティネクサス | NICT-情報通信研究[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_211227_nexus.mp3" length="33407934" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・サイバーセキュリティネクサス | NICT-情報通信研究[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・サイバーセキュリティネクサス | NICT-情報通信研究[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:09:36</itunes:duration>
+		</item>
+	<item>
+		<title>第115回 大きな動きの影で！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1094</link>
+		<pubDate>Mon, 20 Dec 2021 20:00:10 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1094</guid>
+		<description>Tweet    【関連記事】 ・[重要] Movable Type 7 r.5003 /[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_211220_hahaha.mp3" length="32881477" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・[重要] Movable Type 7 r.5003 /[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・[重要] Movable Type 7 r.5003 /[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:08:30</itunes:duration>
+		</item>
+	<item>
+		<title>第114回 繋ぐ鎖、断つ鎖！DDoSソムリエとpiyolog4j！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1084</link>
+		<pubDate>Mon, 13 Dec 2021 20:08:00 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1084</guid>
+		<description>Tweet    【関連記事】 ・第30回基調講演1 もっと身近なDDoS攻撃 &amp;#821[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_211213_are4j.mp3" length="34194208" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・第30回基調講演1 もっと身近なDDoS攻撃 &amp;#821[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・第30回基調講演1 もっと身近なDDoS攻撃 &amp;#821[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:11:14</itunes:duration>
+		</item>
+	<item>
+		<title>第113回 本編より特典のほうが本編に思える感覚ってあるよな！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1077</link>
+		<pubDate>Mon, 06 Dec 2021 20:00:02 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1077</guid>
+		<description>Tweet    【関連記事】 ・現役女子高校生「JKセキュリティ委員」が情報漏洩の脅威に[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_211206_CIO.mp3" length="35749706" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・現役女子高校生「JKセキュリティ委員」が情報漏洩の脅威に[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・現役女子高校生「JKセキュリティ委員」が情報漏洩の脅威に[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:14:29</itunes:duration>
+		</item>
+	<item>
+		<title>第112回 収録中にコーヒーを零してしまっているのは誰だ！？スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1073</link>
+		<pubDate>Tue, 30 Nov 2021 20:00:35 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1073</guid>
+		<description>Tweet    【関連記事】 ・SUNAO スナオ | グリコ ・第74回 ニュースウォ[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_211130_coffee.mp3" length="30793441" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・SUNAO スナオ | グリコ ・第74回 ニュースウォ[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・SUNAO スナオ | グリコ ・第74回 ニュースウォ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:04:09</itunes:duration>
+		</item>
+	<item>
+		<title>第111回 持ちつ持たれつ業務拡大の未承諾な奴ら！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1069</link>
+		<pubDate>Tue, 23 Nov 2021 20:00:46 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1069</guid>
+		<description>Tweet    【関連記事】 ・Emotet botnet returns after [...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_211123_dozan11.mp3" length="33569379" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・Emotet botnet returns after [...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・Emotet botnet returns after [...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:09:56</itunes:duration>
+		</item>
+	<item>
+		<title>第110回 おはようからおやすみまで見つめひろげる！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1064</link>
+		<pubDate>Mon, 15 Nov 2021 20:00:04 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1064</guid>
+		<description>Tweet    【関連記事】 ・A Brief History of the Meris[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_211115_noransom.mp3" length="38914040" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・A Brief History of the Meris[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・A Brief History of the Meris[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:21:04</itunes:duration>
+		</item>
+	<item>
+		<title>第109回 ドイツの通貨は！？スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1058</link>
+		<pubDate>Mon, 08 Nov 2021 20:00:28 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1058</guid>
+		<description>Tweet    【関連記事】 ・CISA Releases Directive on R[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_211108_de.mp3" length="36951266" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・CISA Releases Directive on R[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・CISA Releases Directive on R[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:16:59</itunes:duration>
+		</item>
+	<item>
+		<title>第108回 なんと！ぼんのう！ごかっけい！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1050</link>
+		<pubDate>Mon, 01 Nov 2021 20:00:38 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1050</guid>
+		<description>Tweet    【関連記事】 ・FBI Raids Chinese Point-of-S[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_211030_oldnormal.mp3" length="36290129" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・FBI Raids Chinese Point-of-S[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・FBI Raids Chinese Point-of-S[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:15:36</itunes:duration>
+		</item>
+	<item>
+		<title>第107回 編集長復帰特番！コードブルーに出たよ！セキュリティのアレのアレ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1043</link>
+		<pubDate>Mon, 25 Oct 2021 20:00:01 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1043</guid>
+		<description>Tweet    【関連記事】 ・セキュリティのアレ ～ 知識と技術とあと2つ ～ ・おし[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_211025_coxdbxxx.mp3" length="36086403" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・セキュリティのアレ ～ 知識と技術とあと2つ ～ ・おし[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・セキュリティのアレ ～ 知識と技術とあと2つ ～ ・おし[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:15:11</itunes:duration>
+		</item>
+	<item>
+		<title>第106回 令和の時代のセキュリティを考えたかもしれない秋の夜長！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1035</link>
+		<pubDate>Mon, 11 Oct 2021 19:56:59 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1035</guid>
+		<description>Tweet    【関連記事】 ・Home | MeowTalk ・It’s Time t[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_211011_nyansom.mp3" length="33520486" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・Home | MeowTalk ・It’s Time t[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・Home | MeowTalk ・It’s Time t[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:09:50</itunes:duration>
+		</item>
+	<item>
+		<title>第105回 偽サイトに偽情報に偽攻撃者！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1029</link>
+		<pubDate>Mon, 04 Oct 2021 20:00:18 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1029</guid>
+		<description>Tweet    【関連記事】 ・MyJVN – MyJVNバージョンチェッカ[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_211004_ikatai.mp3" length="32329053" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・MyJVN – MyJVNバージョンチェッカ[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・MyJVN – MyJVNバージョンチェッカ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:07:21</itunes:duration>
+		</item>
+	<item>
+		<title>第104回 ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1026</link>
+		<pubDate>Mon, 27 Sep 2021 20:00:23 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1026</guid>
+		<description>Tweet    【関連記事】 ・piyokango&amp;apos;s Profile &amp;#8[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210927_nidoarukotoha.mp3" length="38561589" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・piyokango&amp;apos;s Profile &amp;#8[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・piyokango&amp;apos;s Profile &amp;#8[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:20:20</itunes:duration>
+		</item>
+	<item>
+		<title>第103回 緩くブレずにオーマイワッフル！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1021</link>
+		<pubDate>Mon, 20 Sep 2021 20:00:54 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1021</guid>
+		<description>Tweet    【関連記事】 ・Malware-Traffic-Analysis.net[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210920_aruware.mp3" length="35242716" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・Malware-Traffic-Analysis.net[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・Malware-Traffic-Analysis.net[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:13:25</itunes:duration>
+		</item>
+	<item>
+		<title>第102回 最後のコインに祈りを込めてヤンバラヤンヤンヤン！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1017</link>
+		<pubDate>Mon, 13 Sep 2021 20:00:48 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1017</guid>
+		<description>Tweet    【関連記事】 ・Blog — Mēris botnet, climbin[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210913_namidanoRPS.mp3" length="31249939" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・Blog — Mēris botnet, climbin[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・Blog — Mēris botnet, climbin[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:05:06</itunes:duration>
+		</item>
+	<item>
+		<title>第101回 パンっ！茶っ！宿直っ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1010</link>
+		<pubDate>Mon, 06 Sep 2021 20:00:26 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1010</guid>
+		<description>Tweet    【関連記事】 ・【TECH+ セキュリティセミナー】利便性と安全性の調和[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210906_sadaharu.mp3" length="31041968" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・【TECH+ セキュリティセミナー】利便性と安全性の調和[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・【TECH+ セキュリティセミナー】利便性と安全性の調和[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:04:40</itunes:duration>
+		</item>
+	<item>
+		<title>第100回 目指せ！200回！We Can Do！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1003</link>
+		<pubDate>Mon, 30 Aug 2021 22:43:49 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1003</guid>
+		<description>Tweet    【関連記事】 ・日本アノニマス超会議！！（#anonloft）のつぶやき[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210830_100.mp3" length="34482234" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・日本アノニマス超会議！！（#anonloft）のつぶやき[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・日本アノニマス超会議！！（#anonloft）のつぶやき[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:11:50</itunes:duration>
+		</item>
+	<item>
+		<title>第99回 アノ超会議からきっかり9年！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=999</link>
+		<pubDate>Mon, 23 Aug 2021 19:30:42 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=999</guid>
+		<description>Tweet    【関連記事】 ・Protect security settings wi[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210823_guruguru.mp3" length="38801581" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・Protect security settings wi[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・Protect security settings wi[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:20:50</itunes:duration>
+		</item>
+	<item>
+		<title>第98回 abcd2.0！OEMにMPD！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=993</link>
+		<pubDate>Mon, 16 Aug 2021 22:23:06 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=993</guid>
+		<description>Tweet    【関連記事】 ・LockBit ransomware now encry[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210817_fightMPD.mp3" length="34145289" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・LockBit ransomware now encry[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・LockBit ransomware now encry[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:11:08</itunes:duration>
+		</item>
+	<item>
+		<title>第97回 初Common &#8211; &#x1f424;透明性 &#8211; 公開鍵認証妨害！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=981</link>
+		<pubDate>Mon, 02 Aug 2021 20:00:37 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=981</guid>
+		<description>Tweet    【関連記事】 ・CWE – 2021 CWE Top 25 [...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210802_CWECVECVSSCVV.mp3" length="34273370" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・CWE – 2021 CWE Top 25 [...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・CWE – 2021 CWE Top 25 [...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:11:24</itunes:duration>
+		</item>
+	<item>
+		<title>第96回 広がる話と広がらない話！悪夢が至急でガチ脅迫！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=975</link>
+		<pubDate>Mon, 26 Jul 2021 20:00:33 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=975</guid>
+		<description>Tweet    【関連記事】 ・Update Regarding VSA Securit[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210726_higan_island.mp3" length="36242104" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・Update Regarding VSA Securit[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・Update Regarding VSA Securit[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:15:30</itunes:duration>
+		</item>
+	<item>
+		<title>第95回 [PR]悪魔のテヘペロ攻撃！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=972</link>
+		<pubDate>Mon, 19 Jul 2021 20:01:50 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=972</guid>
+		<description>Tweet    【関連記事】 ・PR TIMES 発表前情報への不正アクセスに関するお詫[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210719_nokoriGo.mp3" length="32040680" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・PR TIMES 発表前情報への不正アクセスに関するお詫[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・PR TIMES 発表前情報への不正アクセスに関するお詫[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:06:45</itunes:duration>
+		</item>
+	<item>
+		<title>第94回 まさかのネタ被り！互いのネタがいつもと逆！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=962</link>
+		<pubDate>Mon, 12 Jul 2021 20:00:21 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=962</guid>
+		<description>Tweet    【関連記事】 ・Out-of-Band (OOB) Security U[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210712_arenakorenasorena.mp3" length="34897881" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・Out-of-Band (OOB) Security U[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・Out-of-Band (OOB) Security U[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:12:42</itunes:duration>
+		</item>
+	<item>
+		<title>第93回 あと7回だ！紛失 x 火山 x 悪夢！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=957</link>
+		<pubDate>Tue, 06 Jul 2021 20:00:18 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=957</guid>
+		<description>Tweet    【関連記事】 ・Volue Releases Postmortem Re[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210706_chochocho.mp3" length="3522560" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・Volue Releases Postmortem Re[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・Volue Releases Postmortem Re[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>7:20</itunes:duration>
+		</item>
+	<item>
+		<title>第92回 100回への道も1回から！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=949</link>
+		<pubDate>Mon, 21 Jun 2021 20:00:04 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=949</guid>
+		<description>Tweet    【関連記事】 ・Store and Sync Passwords wit[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210621_tsuyunobuhiro.mp3" length="35090110" type="audio/mpeg" />
+		<itunes:subtitle>Tweet    【関連記事】 ・Store and Sync Passwords wit[...]</itunes:subtitle>
+		<itunes:summary>Tweet    【関連記事】 ・Store and Sync Passwords wit[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:13:06</itunes:duration>
+		</item>
+	<item>
+		<title>第91回 100回まであと9回だ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=938</link>
+		<pubDate>Mon, 14 Jun 2021 20:00:37 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=938</guid>
+		<description>Tweet【関連記事】 ・マイナビニュース　スペシャルセミナー 事件・事故発生時の対策 有事に混乱しないための[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210614_KANE-BO-KANE.mp3" length="35458004" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・マイナビニュース　スペシャルセミナー 事件・事故発生時の対策 有事に混乱しないための[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・マイナビニュース　スペシャルセミナー 事件・事故発生時の対策 有事に混乱しないための[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:13:52</itunes:duration>
+		</item>
+	<item>
+		<title>第90回 100回が見えてきたぜ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=932</link>
+		<pubDate>Mon, 07 Jun 2021 20:00:19 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=932</guid>
+		<description>Tweet【関連記事】 ・ISEPA 情報セキュリティ教育事業者連絡会 ・人材の見える化 | 一般財団法人日本[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210607_nolicenseman.mp3" length="36826306" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・ISEPA 情報セキュリティ教育事業者連絡会 ・人材の見える化 | 一般財団法人日本[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・ISEPA 情報セキュリティ教育事業者連絡会 ・人材の見える化 | 一般財団法人日本[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:16:43</itunes:duration>
+		</item>
+	<item>
+		<title>第89回 ナイモノネダリの折り合い！押し合いへし合いおしまい！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=928</link>
+		<pubDate>Mon, 31 May 2021 20:00:29 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=928</guid>
+		<description>Tweet【関連記事】 ・Cyber Insurance: Insurers and Policyholder[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210531_oniai.mp3" length="36834289" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・Cyber Insurance: Insurers and Policyholder[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・Cyber Insurance: Insurers and Policyholder[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:16:44</itunes:duration>
+		</item>
+	<item>
+		<title>第88回 お値段以上のプライスレス！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=921</link>
+		<pubDate>Mon, 24 May 2021 20:00:54 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=921</guid>
+		<description>Tweet【関連記事】 ・なとりのロングセラー商品「チーズ鱈」のヒミツ ・運航情報管理システムの情報の流出につ[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210524_soucedebut.mp3" length="28513538" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・なとりのロングセラー商品「チーズ鱈」のヒミツ ・運航情報管理システムの情報の流出につ[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・なとりのロングセラー商品「チーズ鱈」のヒミツ ・運航情報管理システムの情報の流出につ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>59:24</itunes:duration>
+		</item>
+	<item>
+		<title>第87回 ニューノーマル発ニューノーマル行き！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=915</link>
+		<pubDate>Tue, 18 May 2021 20:00:57 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=915</guid>
+		<description>Tweet【関連記事】 ・</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210518_iamyourfather.mp3" length="31937273" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:06:32</itunes:duration>
+		</item>
+	<item>
+		<title>第86回 入口は色々！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=901</link>
+		<pubDate>Mon, 10 May 2021 20:00:58 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=901</guid>
+		<description>Tweet【関連記事】 ・Anonymousによるオペレーション #OpFukushima メモ | (n)i[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210510_M1N1.mp3" length="29913733" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・Anonymousによるオペレーション #OpFukushima メモ | (n)i[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・Anonymousによるオペレーション #OpFukushima メモ | (n)i[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:02:19</itunes:duration>
+		</item>
+	<item>
+		<title>第85回 オレたちにゴールデンウィークはないぜ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=895</link>
+		<pubDate>Mon, 03 May 2021 20:00:55 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=895</guid>
+		<description>Tweet【関連記事】 ・ネットワークセキュリティのエバンジェリスト・辻伸弘が語る『攻殻機動隊 ARISE』と[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210503_nogw.mp3" length="38866021" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・ネットワークセキュリティのエバンジェリスト・辻伸弘が語る『攻殻機動隊 ARISE』と[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・ネットワークセキュリティのエバンジェリスト・辻伸弘が語る『攻殻機動隊 ARISE』と[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:20:58</itunes:duration>
+		</item>
+	<item>
+		<title>第84回 禅と新オペからのモクシー語るネギシー！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=892</link>
+		<pubDate>Mon, 26 Apr 2021 20:00:48 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=892</guid>
+		<description>Tweet【関連記事】 ・セキュリティのアレ – ＠IT ・内閣府職員等が利用する「ファイル共有ス[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210426_signal.mp3" length="31873958" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・セキュリティのアレ – ＠IT ・内閣府職員等が利用する「ファイル共有ス[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・セキュリティのアレ – ＠IT ・内閣府職員等が利用する「ファイル共有ス[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:06:24</itunes:duration>
+		</item>
+	<item>
+		<title>第83回 まだまだステイホーム！話題の事件には触れません！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=884</link>
+		<pubDate>Mon, 19 Apr 2021 20:00:34 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=884</guid>
+		<description>Tweet【関連記事】 ・April 2021 Update Tuesday packages now ava[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210419_homestay.mp3" length="32581740" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・April 2021 Update Tuesday packages now ava[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・April 2021 Update Tuesday packages now ava[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:07:53</itunes:duration>
+		</item>
+	<item>
+		<title>第82回 YobiKeyが飛び火ぃ！公開範囲は全世界から丸見えだ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=875</link>
+		<pubDate>Mon, 12 Apr 2021 20:00:25 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=875</guid>
+		<description>Tweet【関連記事】 ・ポプラ、１４０店を「ローソン・ポプラ」か「ローソン」に切り替え　２１年３月から、収益[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_20210412_100YenLawsonHaJikyuuMo100YenNanodarouka.mp3" length="34905688" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・ポプラ、１４０店を「ローソン・ポプラ」か「ローソン」に切り替え　２１年３月から、収益[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・ポプラ、１４０店を「ローソン・ポプラ」か「ローソン」に切り替え　２１年３月から、収益[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:12:43</itunes:duration>
+		</item>
+	<item>
+		<title>第81回 新たなバラマキ？3月のランサム！偽キュリティ企業！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=868</link>
+		<pubDate>Mon, 05 Apr 2021 20:00:46 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=868</guid>
+		<description>Tweet【関連記事】 ・コンビニエンスストア等における証明書等の自動交付【コンビニ交付】 | ホーム ・ポプ[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210405_SQLiLink.mp3" length="34281554" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・コンビニエンスストア等における証明書等の自動交付【コンビニ交付】 | ホーム ・ポプ[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・コンビニエンスストア等における証明書等の自動交付【コンビニ交付】 | ホーム ・ポプ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:11:25</itunes:duration>
+		</item>
+	<item>
+		<title>第80回 今回第80回だけにHTTP(s)周りの話だったのか？！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=847</link>
+		<pubDate>Mon, 29 Mar 2021 20:00:21 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=847</guid>
+		<description>Tweet【関連記事】 ・根岸カップリング – Wikipedia ・EmotetとIcedIDと[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210329_negicup.mp3" length="30465403" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・根岸カップリング – Wikipedia ・EmotetとIcedIDと[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・根岸カップリング – Wikipedia ・EmotetとIcedIDと[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:03:28</itunes:duration>
+		</item>
+	<item>
+		<title>第79回 PiyoPiyoGO！Trickbotと比較！犯罪件数被害額レポート！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=839</link>
+		<pubDate>Mon, 22 Mar 2021 20:00:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=839</guid>
+		<description>Tweet【関連記事】 ・ひとくちPKI • A podcast on Anchor ・DuckDuckGo [...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_20210321_hitok_uchi.mp3" length="30977527" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・ひとくちPKI • A podcast on Anchor ・DuckDuckGo [...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・ひとくちPKI • A podcast on Anchor ・DuckDuckGo [...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:04:32</itunes:duration>
+		</item>
+	<item>
+		<title>第78回 それぞれの年度末仕事納めでのびのびしてんのか？！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=834</link>
+		<pubDate>Mon, 15 Mar 2021 20:00:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=834</guid>
+		<description>Tweet【関連記事】 ・攻撃発生中のExchange Serverの脆弱性 ProxyLogonなどについて[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_20210315_shigotoosame.mp3" length="33423031" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・攻撃発生中のExchange Serverの脆弱性 ProxyLogonなどについて[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・攻撃発生中のExchange Serverの脆弱性 ProxyLogonなどについて[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:09:38</itunes:duration>
+		</item>
+	<item>
+		<title>第77回 編集長復活！今年初のブログとやう゛ぇえ脆弱性を何卒！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=827</link>
+		<pubDate>Mon, 08 Mar 2021 20:00:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=827</guid>
+		<description>Tweet【関連記事】 ・How I Could Have Hacked Any Instagram Acco[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_20210308_dekafilebin.mp3" length="31577672" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・How I Could Have Hacked Any Instagram Acco[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・How I Could Have Hacked Any Instagram Acco[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:05:47</itunes:duration>
+		</item>
+	<item>
+		<title>第76回 帯に短し、襷に長し！命短し、恋せよ〇〇！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=821</link>
+		<pubDate>Mon, 22 Feb 2021 20:00:06 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=821</guid>
+		<description>Tweet【関連記事】 ・Changes to LastPass Free – The LastP[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210222_inochimijikashikoiseyoN.mp3" length="31689633" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・Changes to LastPass Free – The LastP[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・Changes to LastPass Free – The LastP[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:06:01</itunes:duration>
+		</item>
+	<item>
+		<title>第75回 収録中に何度かトラブルがあったんです！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=816</link>
+		<pubDate>Mon, 15 Feb 2021 20:00:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=816</guid>
+		<description>Tweet【関連記事】 ・米国で発生した浄水システムの不正操作についてまとめてみた – piyol[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210215_otawa.mp3" length="35498230" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・米国で発生した浄水システムの不正操作についてまとめてみた – piyol[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・米国で発生した浄水システムの不正操作についてまとめてみた – piyol[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:13:57</itunes:duration>
+		</item>
+	<item>
+		<title>第74回 ニュースウォッチ！VT！ランサム変化！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=810</link>
+		<pubDate>Mon, 08 Feb 2021 20:00:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=810</guid>
+		<description>Tweet【関連記事】 ・韓国農水産食品-キムチ｜韓国農水産食品流通公社（aTセンター） ・NTT東日本 | [...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_20210208_cholestetoite.mp3" length="33304923" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・韓国農水産食品-キムチ｜韓国農水産食品流通公社（aTセンター） ・NTT東日本 | [...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・韓国農水産食品-キムチ｜韓国農水産食品流通公社（aTセンター） ・NTT東日本 | [...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:09:23</itunes:duration>
+		</item>
+	<item>
+		<title>第73回 乾杯！朗報！でも注意！根岸さんのところに攻撃が！？スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=804</link>
+		<pubDate>Mon, 01 Feb 2021 20:00:15 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=804</guid>
+		<description>Tweet【関連記事】 ・最恐ウイルスEmotetをテイクダウンしたOperation Ladybirdについ[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_20210130_kiretyanaiyo.mp3" length="31029266" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・最恐ウイルスEmotetをテイクダウンしたOperation Ladybirdについ[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・最恐ウイルスEmotetをテイクダウンしたOperation Ladybirdについ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:04:39</itunes:duration>
+		</item>
+	<item>
+		<title>第72回 新コーナー（今回限り?）あるでよ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=800</link>
+		<pubDate>Mon, 25 Jan 2021 20:00:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=800</guid>
+		<description>Tweet【関連記事】 ・TryHackMe(THM): Zero Logon -walkthrough &amp;#[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210125_ryouleague.mp3" length="30680544" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・TryHackMe(THM): Zero Logon -walkthrough &amp;#[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・TryHackMe(THM): Zero Logon -walkthrough &amp;#[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:03:55</itunes:duration>
+		</item>
+	<item>
+		<title>第71回 修正パッチとADとゲスト！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=793</link>
+		<pubDate>Tue, 19 Jan 2021 20:00:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=793</guid>
+		<description>Tweet【関連記事】 ・新しいセキュリティ更新プログラム ガイド (Security Update Guid[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210119_GOUF.mp3" length="39162821" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・新しいセキュリティ更新プログラム ガイド (Security Update Guid[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・新しいセキュリティ更新プログラム ガイド (Security Update Guid[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:21:35</itunes:duration>
+		</item>
+	<item>
+		<title>第70回 明けまして！成人おめでとう！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=785</link>
+		<pubDate>Tue, 12 Jan 2021 20:00:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=785</guid>
+		<description>Tweet【関連記事】 ・Instagramのなりすましアカウントが急増中。資生堂、コクヨ等有名企業70社以上[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_210112_USO.mp3" length="28953427" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・Instagramのなりすましアカウントが急増中。資生堂、コクヨ等有名企業70社以上[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・Instagramのなりすましアカウントが急増中。資生堂、コクヨ等有名企業70社以上[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:00:19</itunes:duration>
+		</item>
+	<item>
+		<title>第69回 一年ぶり三回目の室長スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=780</link>
+		<pubDate>Mon, 28 Dec 2020 20:00:53 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=780</guid>
+		<description>Tweet【関連記事】 ・菅首相がNICTの次世代の情報通信に係る 研究をご視察 | NICT-情報通信研究機[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_201228_daibouken.mp3" length="29650179" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・菅首相がNICTの次世代の情報通信に係る 研究をご視察 | NICT-情報通信研究機[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・菅首相がNICTの次世代の情報通信に係る 研究をご視察 | NICT-情報通信研究機[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:01:46</itunes:duration>
+		</item>
+	<item>
+		<title>第68回 ソロリソロリと2020年を振り返るぜ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=775</link>
+		<pubDate>Mon, 21 Dec 2020 20:00:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=775</guid>
+		<description>Tweet【関連記事】 ・SolarWindsのサプライチェーン攻撃についてまとめてみた – pi[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_201221_solorisolori.mp3" length="37034869" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・SolarWindsのサプライチェーン攻撃についてまとめてみた – pi[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・SolarWindsのサプライチェーン攻撃についてまとめてみた – pi[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:17:09</itunes:duration>
+		</item>
+	<item>
+		<title>第67回 仕事納めた感の割に重めの話！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=769</link>
+		<pubDate>Mon, 14 Dec 2020 20:00:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=769</guid>
+		<description>Tweet【関連記事】 ・三菱パワー株式会社 | 当社ネットワークに対するマネージド・サービス・プロバイダを経[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_201214_NPowerPiyoPower.mp3" length="28241764" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・三菱パワー株式会社 | 当社ネットワークに対するマネージド・サービス・プロバイダを経[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・三菱パワー株式会社 | 当社ネットワークに対するマネージド・サービス・プロバイダを経[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>58:50</itunes:duration>
+		</item>
+	<item>
+		<title>第66回 テック感から始まって脱暗号化Zipについて考えたぜ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=766</link>
+		<pubDate>Mon, 07 Dec 2020 20:00:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=766</guid>
+		<description>Tweet【関連記事】 ・Discover YubiKeys | Strong Two-Factor Auth[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_201207_sitsuchohaarimasu.mp3" length="30425527" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・Discover YubiKeys | Strong Two-Factor Auth[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・Discover YubiKeys | Strong Two-Factor Auth[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:03:23</itunes:duration>
+		</item>
+	<item>
+		<title>第65回 From USAとNoMore放置！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=760</link>
+		<pubDate>Mon, 30 Nov 2020 20:00:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=760</guid>
+		<description>Tweet【関連記事】 ・Safely open apps on your Mac – Apple[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_201130_nomorehouti.mp3" length="33479704" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・Safely open apps on your Mac – Apple[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・Safely open apps on your Mac – Apple[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:09:45</itunes:duration>
+		</item>
+	<item>
+		<title>第64回 いつもの三人でテック・ランサム・認証！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=752</link>
+		<pubDate>Tue, 24 Nov 2020 20:00:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=752</guid>
+		<description>Tweet【関連記事】 ・Firefox 83 introduces HTTPS-Only Mode &amp;#82[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_201123_3nin.mp3" length="28361553" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・Firefox 83 introduces HTTPS-Only Mode &amp;#82[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・Firefox 83 introduces HTTPS-Only Mode &amp;#82[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>59:05</itunes:duration>
+		</item>
+	<item>
+		<title>第63回 ピースの足りないパズルのように僕らの対話は加速する！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=745</link>
+		<pubDate>Mon, 16 Nov 2020 20:00:37 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=745</guid>
+		<description>Tweet今回は、それぞれ気になったトピックを紹介するいつもの(？)の形式ではありませんが、最後まで聞いてくだ[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_201116_piyohiro.mp3" length="67137408" type="audio/mpeg" />
+		<itunes:subtitle>Tweet今回は、それぞれ気になったトピックを紹介するいつもの(？)の形式ではありませんが、最後まで聞いてくだ[...]</itunes:subtitle>
+		<itunes:summary>Tweet今回は、それぞれ気になったトピックを紹介するいつもの(？)の形式ではありませんが、最後まで聞いてくだ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:09:55</itunes:duration>
+		</item>
+	<item>
+		<title>第62回 IcedIDに無くならないスクリーニング！二年ぶりにブログ書いたぜ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=738</link>
+		<pubDate>Mon, 09 Nov 2020 20:00:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=738</guid>
+		<description>Tweet【関連記事】 ・Analysis Center on Twitter: “先週から複数の[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_201109_dendendedenden.mp3" length="28985796" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・Analysis Center on Twitter: “先週から複数の[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・Analysis Center on Twitter: “先週から複数の[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:00:23</itunes:duration>
+		</item>
+	<item>
+		<title>第61回 伏線回収と変わり種注意喚起とちょっとだけ社会派！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=730</link>
+		<pubDate>Mon, 02 Nov 2020 20:04:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=730</guid>
+		<description>Tweet【関連記事】 NIST Special Publication 800-88, Revision 1[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/201102_are_liveshitemitai.mp3" length="36625343" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 NIST Special Publication 800-88, Revision 1[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 NIST Special Publication 800-88, Revision 1[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:16:18</itunes:duration>
+		</item>
+	<item>
+		<title>第60回 nanoネタから公職選挙法違反ネタまで！ガイド紹介もあるぜ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=720</link>
+		<pubDate>Mon, 26 Oct 2020 20:00:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=720</guid>
+		<description>Tweet【関連記事】 ･[Announcement] Recent and upcoming changes[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_201025_injelly.mp3" length="8011776" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ･[Announcement] Recent and upcoming changes[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ･[Announcement] Recent and upcoming changes[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>16:41</itunes:duration>
+		</item>
+	<item>
+		<title>第59回 雑談3割！おかわり偽給付金ととある勉強法とE2EEの話！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=712</link>
+		<pubDate>Mon, 19 Oct 2020 20:00:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=712</guid>
+		<description>Tweet【関連記事】 ･フィッシング対策協議会　Council of Anti-Phishing Japan[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_201019_jandj.mp3" length="32015009" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ･フィッシング対策協議会　Council of Anti-Phishing Japan[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ･フィッシング対策協議会　Council of Anti-Phishing Japan[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:06:42</itunes:duration>
+		</item>
+	<item>
+		<title>第58回 トリプル！フィッシュ！ハイフン！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=704</link>
+		<pubDate>Mon, 05 Oct 2020 20:00:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=704</guid>
+		<description>Tweet【関連記事】 ･Ransomware gangs add DDoS attacks to their[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_201005_yazawa.mp3" length="31801752" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ･Ransomware gangs add DDoS attacks to their[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ･Ransomware gangs add DDoS attacks to their[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:06:15</itunes:duration>
+		</item>
+	<item>
+		<title>第57回 狐から玉葱！ヒドゥンからオニオン！川崎市の紙対応！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=696</link>
+		<pubDate>Mon, 28 Sep 2020 18:00:27 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=696</guid>
+		<description>Tweet【関連記事】 ･First death reported following a ransomwar[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_200928_neushitoraburyu.mp3" length="31105587" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ･First death reported following a ransomwar[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ･First death reported following a ransomwar[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:04:48</itunes:duration>
+		</item>
+	<item>
+		<title>第56回 ゼ口とT信とサクソ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=687</link>
+		<pubDate>Tue, 22 Sep 2020 10:27:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=687</guid>
+		<description>Tweet【関連記事】 ・[Blog] Zerologon: instantly become domain [...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_200922_kanchigai.mp3" length="30751459" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・[Blog] Zerologon: instantly become domain [...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・[Blog] Zerologon: instantly become domain [...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:04:04</itunes:duration>
+		</item>
+	<item>
+		<title>第55回 NICT砲強化！ニュースレター&#x1f39b;食い！ドコモロ座！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=676</link>
+		<pubDate>Mon, 14 Sep 2020 19:00:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=676</guid>
+		<description>Tweet【関連記事】 ・総務省｜サイバー攻撃に悪用されるおそれのあるIoT機器の調査（NOTICE）の取組強[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_200914_tottoriken.mp3" length="32287405" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・総務省｜サイバー攻撃に悪用されるおそれのあるIoT機器の調査（NOTICE）の取組強[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・総務省｜サイバー攻撃に悪用されるおそれのあるIoT機器の調査（NOTICE）の取組強[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:07:16</itunes:duration>
+		</item>
+	<item>
+		<title>第54回 おいで夏の境界線！興味深いが過ぎたRDoSも再び！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=672</link>
+		<pubDate>Tue, 08 Sep 2020 19:00:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=672</guid>
+		<description>Tweet【関連記事】 ・マルウェア Emotet の感染拡大および新たな攻撃手法について ・【ご注意ください[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_200906_emotot.mp3" length="29817034" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・マルウェア Emotet の感染拡大および新たな攻撃手法について ・【ご注意ください[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・マルウェア Emotet の感染拡大および新たな攻撃手法について ・【ご注意ください[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:02:07</itunes:duration>
+		</item>
+	<item>
+		<title>第53回 CVE-2019-11510と持ちかけ不正とセキューカンバー！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=662</link>
+		<pubDate>Mon, 31 Aug 2020 20:00:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=662</guid>
+		<description>Tweet【関連記事】 ・ギャル電きょうこのストリート電子工作　接触確認アプリCOCOAで盛れる！ 感染対策意[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_200831_galgal.mp3" length="32376547" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・ギャル電きょうこのストリート電子工作　接触確認アプリCOCOAで盛れる！ 感染対策意[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・ギャル電きょうこのストリート電子工作　接触確認アプリCOCOAで盛れる！ 感染対策意[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:07:27</itunes:duration>
+		</item>
+	<item>
+		<title>第52回 海の向こうの標的型とキルスイッチ！このポッドキャストはTLP: Whiteです！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=653</link>
+		<pubDate>Sun, 23 Aug 2020 17:00:42 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=653</guid>
+		<description>Tweet【関連記事】 ･事業者に発行したVPNアカウント盗用による台湾政府へのサイバー攻撃についてまとめてみ[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_200824_garake.mp3" length="27511480" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ･事業者に発行したVPNアカウント盗用による台湾政府へのサイバー攻撃についてまとめてみ[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ･事業者に発行したVPNアカウント盗用による台湾政府へのサイバー攻撃についてまとめてみ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>57:19</itunes:duration>
+		</item>
+	<item>
+		<title>第51回 は？ほーん… なるほどっ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=648</link>
+		<pubDate>Mon, 17 Aug 2020 14:10:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=648</guid>
+		<description>Tweet【関連記事】 ・【お詫び】IPアドレスが他者からも確認できてしまう不具合について｜note株式会社 [...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_200817_kobo.mp3" length="47310343" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・【お詫び】IPアドレスが他者からも確認できてしまう不具合について｜note株式会社 [...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・【お詫び】IPアドレスが他者からも確認できてしまう不具合について｜note株式会社 [...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:03:43</itunes:duration>
+		</item>
+	<item>
+		<title>第50回  ランサムがありあまる！重工なお知らせ！51%！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=642</link>
+		<pubDate>Mon, 10 Aug 2020 20:00:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=642</guid>
+		<description>Tweet【関連記事】 ・三菱重工 | 当社グループ名古屋地区のネットワークに対する第三者からの不正アクセスに[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_200809_ADIF.mp3" length="58468056" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・三菱重工 | 当社グループ名古屋地区のネットワークに対する第三者からの不正アクセスに[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・三菱重工 | 当社グループ名古屋地区のネットワークに対する第三者からの不正アクセスに[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:17:59</itunes:duration>
+		</item>
+	<item>
+		<title>第49回 継続ウォッチForever！フラッシュニュース！怖い話もあるよ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=632</link>
+		<pubDate>Tue, 04 Aug 2020 20:00:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=632</guid>
+		<description>Tweet【関連記事】 ・なりすまし申請による特別定額給付金詐欺事件についてまとめてみた – pi[...]</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_200804_zhif.mp3" length="54346848" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・なりすまし申請による特別定額給付金詐欺事件についてまとめてみた – pi[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・なりすまし申請による特別定額給付金詐欺事件についてまとめてみた – pi[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:12:57</itunes:duration>
+		</item>
+	<item>
+		<title>第48回 無理矢理！スペシャル！ feat. マジで、マジでw</title>
+		<link>https://www.tsujileaks.com/?p=629</link>
+		<pubDate>Mon, 27 Jul 2020 22:00:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=629</guid>
+		<description>Tweet</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_200727_zamz.mp3" length="42638328" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>57:48</itunes:duration>
+		</item>
+	<item>
+		<title>第47回 シグナルミラクル！標的型偽転居！ スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=625</link>
+		<pubDate>Mon, 20 Jul 2020 20:00:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=625</guid>
+		<description>Tweet</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_200720_kori.mp3" length="39042792" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>51:08</itunes:duration>
+		</item>
+	<item>
+		<title>第46回 テック系の入り口！えーっきしっっっ！！ スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=621</link>
+		<pubDate>Mon, 13 Jul 2020 20:00:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=621</guid>
+		<description>Tweet</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_200713_gggh.mp3" length="44207880" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>55:35</itunes:duration>
+		</item>
+	<item>
+		<title>第45回 うまくいく秘訣は完璧を目指さない！何も足さない！何も引かない！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=618</link>
+		<pubDate>Mon, 06 Jul 2020 12:00:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=618</guid>
+		<description>Tweet</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_200706_aase.mp3" length="51607008" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:07:51</itunes:duration>
+		</item>
+	<item>
+		<title>第44回 自己記録更新だ！！！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=616</link>
+		<pubDate>Mon, 29 Jun 2020 20:04:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=616</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_200629_pppa.mp3" length="45845256" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:00:32</itunes:duration>
+		</item>
+	<item>
+		<title>第43回 COCOA！DDOS！EXCEL！ちばしがさが！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=611</link>
+		<pubDate>Sun, 21 Jun 2020 19:57:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=611</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_200621_allll.mp3" length="55955472" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:14:39</itunes:duration>
+		</item>
+	<item>
+		<title>第42回 透明性を考えるNEGIZINE！アバドンもあるよ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=608</link>
+		<pubDate>Sun, 14 Jun 2020 20:00:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=608</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_200614_djakljd.mp3" length="54850824" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:14:12</itunes:duration>
+		</item>
+	<item>
+		<title>第41回 訳あって2週間ぶり！テック系ポッドキャストTor！？スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=605</link>
+		<pubDate>Mon, 08 Jun 2020 20:00:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=605</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_200608_kuhjis.mp3" length="46260144" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:00:56</itunes:duration>
+		</item>
+	<item>
+		<title>第40回 毎日がエブリデイ！ある意味毎回室長！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=602</link>
+		<pubDate>Mon, 25 May 2020 20:00:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=602</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_200525_aja.mp3" length="43671744" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>57:09</itunes:duration>
+		</item>
+	<item>
+		<title>第39回 3s3s！3密3密！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=599</link>
+		<pubDate>Mon, 18 May 2020 20:00:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=599</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_0518_cccc.mp3" length="42028800" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>55:03</itunes:duration>
+		</item>
+	<item>
+		<title>第38回 今回は3人！病み上がりだけど元気にお届け！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=594</link>
+		<pubDate>Mon, 11 May 2020 20:00:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=594</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_0511_0511.mp3" length="61878864" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:18:56</itunes:duration>
+		</item>
+	<item>
+		<title>第37回 1人欠席！自作PCネタから始まるよ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=589</link>
+		<pubDate>Sun, 03 May 2020 20:00:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=589</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_0503_twww.mp3" length="46420344" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>54:35</itunes:duration>
+		</item>
+	<item>
+		<title>第36回 小ネタ盛りだくさん！Home From Homeを目指して！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=584</link>
+		<pubDate>Sun, 26 Apr 2020 20:00:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=584</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_0426_defl.mp3" length="60454560" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:05:05</itunes:duration>
+		</item>
+	<item>
+		<title>第35回 頻度上げてくぜ！外に出られなくても気分も上げてくぜ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=580</link>
+		<pubDate>Sun, 19 Apr 2020 20:00:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=580</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_200420_3177.mp3" length="51284461" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:04:47</itunes:duration>
+		</item>
+	<item>
+		<title>第34回 初リモート収録！Stay at Home！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=576</link>
+		<pubDate>Tue, 07 Apr 2020 20:00:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=576</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_0406_12kjsa.m4a" length="38139014" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		</item>
+	<item>
+		<title>第33回 タイトル付けるのに困るほどおもろかったぞ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=570</link>
+		<pubDate>Fri, 06 Mar 2020 17:40:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=570</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_200306_azxcv.mp3" length="73551294" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:16:37</itunes:duration>
+		</item>
+	<item>
+		<title>第32回 本島？ほんとに！？ねずみ年だぜ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=566</link>
+		<pubDate>Wed, 05 Feb 2020 13:04:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=566</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/200205_kikiki.mp3" length="60797349" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:03:20</itunes:duration>
+		</item>
+	<item>
+		<title>第31回 帰ってきた室長！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=563</link>
+		<pubDate>Tue, 31 Dec 2019 14:38:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=563</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_191231_bvbv.mp3" length="5242880" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:15:39</itunes:duration>
+		</item>
+	<item>
+		<title>第30回 良いお年を！はまだ言わないぜ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=561</link>
+		<pubDate>Sun, 29 Dec 2019 17:14:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=561</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_191229_1603.mp3" length="63326871" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:05:58</itunes:duration>
+		</item>
+	<item>
+		<title>第29回 新たなDDoSトレンド！ヤバさを増したEmotet？！18億円欲しいぞ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=556</link>
+		<pubDate>Tue, 12 Nov 2019 20:32:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=556</guid>
+		<description>Tweet</description>
+		<enclosure url="https://www.tsujileaks.com/media/are_191112_codebbb.mp3" length="66712494" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:09:29</itunes:duration>
+		</item>
+	<item>
+		<title>第28回 壺割りウォーキン！ランサム愛とエラスティックサーチと時々DoH！！！ スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=553</link>
+		<pubDate>Mon, 30 Sep 2019 21:58:27 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=553</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_190930_dqw9.mp3" length="70962141" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:13:55</itunes:duration>
+		</item>
+	<item>
+		<title>第27回 時代は移りゆく！セキュリティに興味を持っていこう！！！ スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=539</link>
+		<pubDate>Mon, 09 Sep 2019 13:09:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=539</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_190909_hijq.mp3" length="61492905" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:04:03</itunes:duration>
+		</item>
+	<item>
+		<title>第26回 熱中症を吹き飛ばせ！大阪でリサーチャーズナイトしてきたぜ！ スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=535</link>
+		<pubDate>Thu, 08 Aug 2019 21:00:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=535</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_190807_poke.mp3" length="71832837" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:14:49</itunes:duration>
+		</item>
+	<item>
+		<title>第25回  GW2019！令和！世界パスワードデイって知ってた？ スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=531</link>
+		<pubDate>Wed, 08 May 2019 08:30:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=531</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_190508_xxxl.mp3" length="83473471" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>57:58</itunes:duration>
+		</item>
+	<item>
+		<title>第24回  3人揃うと安定感が増すのかも！ スペシャル （後編）</title>
+		<link>https://www.tsujileaks.com/?p=528</link>
+		<pubDate>Sun, 07 Apr 2019 21:11:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=528</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_190408_2bbb.mp3" length="37537089" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>39:06</itunes:duration>
+		</item>
+	<item>
+		<title>第24回  3人揃うと安定感が増すのかも！ スペシャル （前編）</title>
+		<link>https://www.tsujileaks.com/?p=526</link>
+		<pubDate>Sun, 07 Apr 2019 21:08:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=526</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_190408_1aaa.mp3" length="62173449" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:04:46</itunes:duration>
+		</item>
+	<item>
+		<title>第23回 piyo辻だけでお届けだ！セキュリティ月間ひっそり終わってたやん！ スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=523</link>
+		<pubDate>Sun, 24 Mar 2019 19:00:25 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=523</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_190325_1gas.mp3" length="71141034" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:14:06</itunes:duration>
+		</item>
+	<item>
+		<title>第22回 318セキュリティ月間だ！ スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=518</link>
+		<pubDate>Sat, 16 Feb 2019 23:34:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=518</guid>
+		<description>TweetNICT サイバーセキュリティシンポジウム 2019にも参加してきました！ でもって、ボクたちがこれ[...]</description>
+		<enclosure url="http://tsujileaks.com/media/are_190217_xsd.m4a" length="49212144" type="audio/x-m4a" />
+		<itunes:subtitle>TweetNICT サイバーセキュリティシンポジウム 2019にも参加してきました！ でもって、ボクたちがこれ[...]</itunes:subtitle>
+		<itunes:summary>TweetNICT サイバーセキュリティシンポジウム 2019にも参加してきました！ でもって、ボクたちがこれ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		</item>
+	<item>
+		<title>第21回 あけおめ！ランサム！DDoS！艦Collection #1 スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=515</link>
+		<pubDate>Thu, 24 Jan 2019 01:36:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=515</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_190124_zxcoo.mp3" length="1835008" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:55</itunes:duration>
+		</item>
+	<item>
+		<title>第20回 室長スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=510</link>
+		<pubDate>Sun, 30 Dec 2018 11:04:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=510</guid>
+		<description>Tweet ※お食事中の方はお食事を終えてからご視聴くださいませ。</description>
+		<enclosure url="http://www.tsujileaks.com/media/are181228_djjaljda.mp3" length="75383175" type="audio/mpeg" />
+		<itunes:subtitle>Tweet ※お食事中の方はお食事を終えてからご視聴くださいませ。</itunes:subtitle>
+		<itunes:summary>Tweet ※お食事中の方はお食事を終えてからご視聴くださいませ。</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:18:31</itunes:duration>
+		</item>
+	<item>
+		<title>第19回 ポッドキャストを19回しただけなのに スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=507</link>
+		<pubDate>Tue, 18 Dec 2018 16:12:53 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=507</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are181217_987b.mp3" length="72161850" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:15:10</itunes:duration>
+		</item>
+	<item>
+		<title>第18回 ポッドキャストを18回しただけなのに スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=503</link>
+		<pubDate>Fri, 02 Nov 2018 01:54:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=503</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_181102_taitai.m4a" length="45179470" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		</item>
+	<item>
+		<title>第17回 スクープ！スクープ！16億！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=498</link>
+		<pubDate>Fri, 21 Sep 2018 10:29:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=498</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_180918_ujh4.m4a" length="57337717" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		</item>
+	<item>
+		<title>第16回 STOP！提供元不明インストール！！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=495</link>
+		<pubDate>Sun, 05 Aug 2018 21:32:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=495</guid>
+		<description>Tweetポッドキャスト内で紹介していたイベントはこちら！ 8月22日開催！絶賛ご参加受付中！！</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_180803_akjdu.m4a" length="5242880" type="audio/x-m4a" />
+		<itunes:subtitle>Tweetポッドキャスト内で紹介していたイベントはこちら！ 8月22日開催！絶賛ご参加受付中！！</itunes:subtitle>
+		<itunes:summary>Tweetポッドキャスト内で紹介していたイベントはこちら！ 8月22日開催！絶賛ご参加受付中！！</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		</item>
+	<item>
+		<title>第15回 リスト型攻撃はなくなってないんだ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=491</link>
+		<pubDate>Tue, 26 Jun 2018 23:33:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=491</guid>
+		<description>Tweet</description>
+		<enclosure url="http://tsujileaks.com/media/are_180626_jnbh.m4a" length="5242880" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		</item>
+	<item>
+		<title>第14回 カレーを食べながらSP 800-63B From USAだ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=488</link>
+		<pubDate>Wed, 23 May 2018 19:53:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=488</guid>
+		<description>Tweet</description>
+		<enclosure url="http://tsujileaks.com/media/are180520_jdajy.m4a" length="5242880" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		</item>
+	<item>
+		<title>第13回 雑談しすぎの定期変更強制しない！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=484</link>
+		<pubDate>Thu, 19 Apr 2018 00:30:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=484</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_180413_vbn.m4a" length="5242880" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		</item>
+	<item>
+		<title>第12回 都内某所からDDoSウォッチへの愛が止まらない！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=480</link>
+		<pubDate>Mon, 05 Mar 2018 12:39:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=480</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are180305_pptp.mp3" length="5242880" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		</item>
+	<item>
+		<title>第11回 「ビジネスメール詐欺」詐欺に気をつけろ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=474</link>
+		<pubDate>Sun, 31 Dec 2017 02:11:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=474</guid>
+		<description>Tweet</description>
+		<enclosure url="http://tsujileaks.com/media/are171228_1543.mp3" length="5242880" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		</item>
+	<item>
+		<title>第10回 マイニングとエストニアの話をしたよ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=469</link>
+		<pubDate>Mon, 30 Oct 2017 03:12:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=469</guid>
+		<description>Tweet</description>
+		<enclosure url="http://tsujileaks.com/media/are_171030_zxcvf.mp3" length="5242880" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		</item>
+	<item>
+		<title>第9回 DDoSがありあまる！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=465</link>
+		<pubDate>Thu, 28 Sep 2017 01:58:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=465</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_170926_1620bbb.mp3" length="5242880" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		</item>
+	<item>
+		<title>第8回 これもこの後も本番なんだぜ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=460</link>
+		<pubDate>Wed, 30 Aug 2017 22:43:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=460</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_170830_1500.mp3" length="47255274" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>49:13</itunes:duration>
+		</item>
+	<item>
+		<title>第7回分の雑談やで！</title>
+		<link>https://www.tsujileaks.com/?p=457</link>
+		<pubDate>Sun, 06 Aug 2017 20:55:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=457</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_170803_ppz.mp3" length="38949885" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>40:34</itunes:duration>
+		</item>
+	<item>
+		<title>第7回 ランサムがありあまるっ♪スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=455</link>
+		<pubDate>Thu, 03 Aug 2017 13:17:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=455</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_170803_ppapt.mp3" length="42457689" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>44:14</itunes:duration>
+		</item>
+	<item>
+		<title>第6回分の雑談だ！</title>
+		<link>https://www.tsujileaks.com/?p=450</link>
+		<pubDate>Wed, 19 Jul 2017 03:52:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=450</guid>
+		<description>Tweet</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_170720_zzz.mp3" length="41221284" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>42:56</itunes:duration>
+		</item>
+	<item>
+		<title>第6回 40人キャパの部屋で振り返れば2人がいる！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=448</link>
+		<pubDate>Wed, 19 Jul 2017 02:37:06 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=448</guid>
+		<description>Tweet2人しかしゃべってないのですが割と尺取れました。 今回は、後日、雑談編を公開するのでよかったら聴いて[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_170719_two_z.mp3" length="55574007" type="audio/mpeg" />
+		<itunes:subtitle>Tweet2人しかしゃべってないのですが割と尺取れました。 今回は、後日、雑談編を公開するのでよかったら聴いて[...]</itunes:subtitle>
+		<itunes:summary>Tweet2人しかしゃべってないのですが割と尺取れました。 今回は、後日、雑談編を公開するのでよかったら聴いて[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>57:53</itunes:duration>
+		</item>
+	<item>
+		<title>第5回 緊急特番的な感じでペチャクチャやろうぜ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=445</link>
+		<pubDate>Sat, 01 Jul 2017 00:24:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=445</guid>
+		<description>Tweetマルウェアの名前も含め色々情報が錯綜しているようなので集まってペチャクチャお話してみました。</description>
+		<enclosure url="http://tsujileaks.com/media/are_170701_b.mp3" length="25198592" type="audio/mpeg" />
+		<itunes:subtitle>Tweetマルウェアの名前も含め色々情報が錯綜しているようなので集まってペチャクチャお話してみました。</itunes:subtitle>
+		<itunes:summary>Tweetマルウェアの名前も含め色々情報が錯綜しているようなので集まってペチャクチャお話してみました。</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>26:15</itunes:duration>
+		</item>
+	<item>
+		<title>第4回 表彰されておめでたいので今回はなんだか人が多いよ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=441</link>
+		<pubDate>Thu, 29 Jun 2017 13:15:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=441</guid>
+		<description>Tweetということで今回も自己紹介はありませんが 6人でお話ししていますよ。歴代最多人数！ おめでたい話とラ[...]</description>
+		<enclosure url="http://tsujileaks.com/media/are_170628_z.mp3" length="59112252" type="audio/mpeg" />
+		<itunes:subtitle>Tweetということで今回も自己紹介はありませんが 6人でお話ししていますよ。歴代最多人数！ おめでたい話とラ[...]</itunes:subtitle>
+		<itunes:summary>Tweetということで今回も自己紹介はありませんが 6人でお話ししていますよ。歴代最多人数！ おめでたい話とラ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:01:34</itunes:duration>
+		</item>
+	<item>
+		<title>第3回 人材育成にエモく語るボクたちにはキルスイッチはないぜ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=435</link>
+		<pubDate>Mon, 29 May 2017 22:00:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=435</guid>
+		<description>Tweet今回は5人で人材育成的なものに関するお話をしました。 あ、五人で話しているのですが自己紹介とかしてい[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/are_170529.mp3" length="30588928" type="audio/mpeg" />
+		<itunes:subtitle>Tweet今回は5人で人材育成的なものに関するお話をしました。 あ、五人で話しているのですが自己紹介とかしてい[...]</itunes:subtitle>
+		<itunes:summary>Tweet今回は5人で人材育成的なものに関するお話をしました。 あ、五人で話しているのですが自己紹介とかしてい[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>21:15</itunes:duration>
+		</item>
+	<item>
+		<title>第2回 今週末はリサーチャーズナイトだよ！Don’t Wanna Cry！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=431</link>
+		<pubDate>Tue, 23 May 2017 22:05:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=431</guid>
+		<description>Tweet今週末は、第2回 リサーチャーズナイトを開催します！ それ向けてメンバー3人で打ち合わせをしたので、[...]</description>
+		<enclosure url="http://tsujileaks.com/media/are_170523.mp3" length="76711698" type="audio/mpeg" />
+		<itunes:subtitle>Tweet今週末は、第2回 リサーチャーズナイトを開催します！ それ向けてメンバー3人で打ち合わせをしたので、[...]</itunes:subtitle>
+		<itunes:summary>Tweet今週末は、第2回 リサーチャーズナイトを開催します！ それ向けてメンバー3人で打ち合わせをしたので、[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>45:40</itunes:duration>
+		</item>
+	<item>
+		<title>第1回 動画のアレからポッドキャストのアレに帰ってきたよ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=426</link>
+		<pubDate>Sun, 23 Apr 2017 23:08:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=426</guid>
+		<description>Tweetセキュリティのアレは、ポッドキャストをお休みして@ITで動画のセキュリティのアレとして連載していまし[...]</description>
+		<enclosure url="http://tsujileaks.com/media/are_170423.mp3" length="57425128" type="audio/mpeg" />
+		<itunes:subtitle>Tweetセキュリティのアレは、ポッドキャストをお休みして@ITで動画のセキュリティのアレとして連載していまし[...]</itunes:subtitle>
+		<itunes:summary>Tweetセキュリティのアレは、ポッドキャストをお休みして@ITで動画のセキュリティのアレとして連載していまし[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>59:49</itunes:duration>
+		</item>
+	<item>
+		<title>第26回 空けましておめでとう！スペシャル 後編</title>
+		<link>https://www.tsujileaks.com/?p=400</link>
+		<pubDate>Mon, 30 Mar 2015 10:28:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=400</guid>
+		<description>Tweetまさかの後編！！！ 【その他・関連リンク】 ・家庭内インフラ管理者の独り言（はなずきんの日記っぽいの[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks_201503_2.m4a" length="6525672" type="audio/x-m4a" />
+		<itunes:subtitle>Tweetまさかの後編！！！ 【その他・関連リンク】 ・家庭内インフラ管理者の独り言（はなずきんの日記っぽいの[...]</itunes:subtitle>
+		<itunes:summary>Tweetまさかの後編！！！ 【その他・関連リンク】 ・家庭内インフラ管理者の独り言（はなずきんの日記っぽいの[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>12:41</itunes:duration>
+		</item>
+	<item>
+		<title>第25回 空けましておめでとう！スペシャル 前編</title>
+		<link>https://www.tsujileaks.com/?p=395</link>
+		<pubDate>Wed, 25 Mar 2015 16:05:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=395</guid>
+		<description>Tweetなんとか前回が最終回にならずにすみました… 今回もオフライン！ 大阪のセミナーでのパネルディスカッシ[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks_201503_1.m4a" length="18159128" type="audio/x-m4a" />
+		<itunes:subtitle>Tweetなんとか前回が最終回にならずにすみました… 今回もオフライン！ 大阪のセミナーでのパネルディスカッシ[...]</itunes:subtitle>
+		<itunes:summary>Tweetなんとか前回が最終回にならずにすみました… 今回もオフライン！ 大阪のセミナーでのパネルディスカッシ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>36:06</itunes:duration>
+		</item>
+	<item>
+		<title>第24回 ボクたちの戦いは始まったばかりだ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=381</link>
+		<pubDate>Wed, 24 Sep 2014 23:32:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=381</guid>
+		<description>Tweet今回はゲストに武田圭史さん、北河拓士さんをお招きしてパスワードの定期変更についてお話しました。 動画[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks24.m4a" length="23530676" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet今回はゲストに武田圭史さん、北河拓士さんをお招きしてパスワードの定期変更についてお話しました。 動画[...]</itunes:subtitle>
+		<itunes:summary>Tweet今回はゲストに武田圭史さん、北河拓士さんをお招きしてパスワードの定期変更についてお話しました。 動画[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>50:21</itunes:duration>
+		</item>
+	<item>
+		<title>第23回 二週続けて！毎回がスペシャルかね？スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=372</link>
+		<pubDate>Tue, 12 Aug 2014 23:24:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=372</guid>
+		<description>Tweet諸事情あって二週連続で集まったのでちょびっと短め収録をしましたよ。 収録の反省会です！ 9月9日から[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks_0811.m4a" length="9200971" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet諸事情あって二週連続で集まったのでちょびっと短め収録をしましたよ。 収録の反省会です！ 9月9日から[...]</itunes:subtitle>
+		<itunes:summary>Tweet諸事情あって二週連続で集まったのでちょびっと短め収録をしましたよ。 収録の反省会です！ 9月9日から[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>17:57</itunes:duration>
+		</item>
+	<item>
+		<title>第22回 人が集まったので収録したよ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=367</link>
+		<pubDate>Sun, 10 Aug 2014 22:48:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=367</guid>
+		<description>Tweetお久しぶりです！ ひょんなことから人が集まったので勢いで収録しました！ ４人でお話しています！ 誰が[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks_0804.m4a" length="14239435" type="audio/x-m4a" />
+		<itunes:subtitle>Tweetお久しぶりです！ ひょんなことから人が集まったので勢いで収録しました！ ４人でお話しています！ 誰が[...]</itunes:subtitle>
+		<itunes:summary>Tweetお久しぶりです！ ひょんなことから人が集まったので勢いで収録しました！ ４人でお話しています！ 誰が[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>28:03</itunes:duration>
+		</item>
+	<item>
+		<title>第21回 とりあえず聞いてよっ！奥さんっ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=348</link>
+		<pubDate>Mon, 12 May 2014 08:11:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=348</guid>
+		<description>Tweet今回はもう何もここで言うことはありません！ まぁ、聞いてみてくださいよ！ ゲストいるよ！！！ 【その[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks0509.m4a" length="23038413" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet今回はもう何もここで言うことはありません！ まぁ、聞いてみてくださいよ！ ゲストいるよ！！！ 【その[...]</itunes:subtitle>
+		<itunes:summary>Tweet今回はもう何もここで言うことはありません！ まぁ、聞いてみてくださいよ！ ゲストいるよ！！！ 【その[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>46:47</itunes:duration>
+		</item>
+	<item>
+		<title>第20回 ありがとう！XP！お疲れさま！XP！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=344</link>
+		<pubDate>Mon, 14 Apr 2014 23:11:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=344</guid>
+		<description>Tweetおひさしぶりぶり！！！ 連載の最終回書いたり 転職してたりしたら間空いてしまいました。 はい！言い訳[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks0409.m4a" length="5242880" type="audio/x-m4a" />
+		<itunes:subtitle>Tweetおひさしぶりぶり！！！ 連載の最終回書いたり 転職してたりしたら間空いてしまいました。 はい！言い訳[...]</itunes:subtitle>
+		<itunes:summary>Tweetおひさしぶりぶり！！！ 連載の最終回書いたり 転職してたりしたら間空いてしまいました。 はい！言い訳[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		</item>
+	<item>
+		<title>第19回 大阪より愛を込めて。あけましておめでとうスペシャル</title>
+		<link>https://www.tsujileaks.com/?p=339</link>
+		<pubDate>Tue, 04 Mar 2014 14:49:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=339</guid>
+		<description>Tweetということで収録したてほやほやのポッドキャスト！ 今回は先ほどまで某Tmediaのパネルでご一緒させ[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks_0304.m4a" length="16211999" type="audio/x-m4a" />
+		<itunes:subtitle>Tweetということで収録したてほやほやのポッドキャスト！ 今回は先ほどまで某Tmediaのパネルでご一緒させ[...]</itunes:subtitle>
+		<itunes:summary>Tweetということで収録したてほやほやのポッドキャスト！ 今回は先ほどまで某Tmediaのパネルでご一緒させ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>32:02</itunes:duration>
+		</item>
+	<item>
+		<title>第18回 本当によいお年を！質問がきたので話題にしたよ！ スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=333</link>
+		<pubDate>Mon, 23 Dec 2013 20:42:42 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=333</guid>
+		<description>Tweet前回、「良いお年を！」と言いつつもなんとか年内に配信することができました。 最近セキュリティに興味が[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks20131223.m4a" length="29071993" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet前回、「良いお年を！」と言いつつもなんとか年内に配信することができました。 最近セキュリティに興味が[...]</itunes:subtitle>
+		<itunes:summary>Tweet前回、「良いお年を！」と言いつつもなんとか年内に配信することができました。 最近セキュリティに興味が[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>59:53</itunes:duration>
+		</item>
+	<item>
+		<title>第17回 もうパスワードの定期変更言うななんて言わないよ絶対！！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=329</link>
+		<pubDate>Mon, 28 Oct 2013 09:45:16 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=329</guid>
+		<description>Tweet 全国3人のリスナーの皆様、七夕ぶりです。 安心安定の不定期っぷり申し訳ございません。 今回は、nt[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks201310.m4a" length="26052802" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet 全国3人のリスナーの皆様、七夕ぶりです。 安心安定の不定期っぷり申し訳ございません。 今回は、nt[...]</itunes:subtitle>
+		<itunes:summary>Tweet 全国3人のリスナーの皆様、七夕ぶりです。 安心安定の不定期っぷり申し訳ございません。 今回は、nt[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>53:35</itunes:duration>
+		</item>
+	<item>
+		<title>第16回 しゃっくりが止まらない！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=315</link>
+		<pubDate>Sun, 07 Jul 2013 19:37:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=315</guid>
+		<description>Tweet ４月ぶりっ！！！ お互い色々状況が変わったりとバタバタしつつも このポッドキャストのことはいつも気[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks16.m4a" length="23749885" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet ４月ぶりっ！！！ お互い色々状況が変わったりとバタバタしつつも このポッドキャストのことはいつも気[...]</itunes:subtitle>
+		<itunes:summary>Tweet ４月ぶりっ！！！ お互い色々状況が変わったりとバタバタしつつも このポッドキャストのことはいつも気[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>48:48</itunes:duration>
+		</item>
+	<item>
+		<title>第15回 収録して公開までのデモしたよ！ スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=309</link>
+		<pubDate>Wed, 24 Apr 2013 21:42:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=309</guid>
+		<description>Tweetひょんなことでこのポッドキャストが取材を受けることになり 都内某所で取材を受けながら収録をしてその場[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks_15.m4a" length="3533711" type="audio/x-m4a" />
+		<itunes:subtitle>Tweetひょんなことでこのポッドキャストが取材を受けることになり 都内某所で取材を受けながら収録をしてその場[...]</itunes:subtitle>
+		<itunes:summary>Tweetひょんなことでこのポッドキャストが取材を受けることになり 都内某所で取材を受けながら収録をしてその場[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>6:39</itunes:duration>
+		</item>
+	<item>
+		<title>第14回 目まぐるしいけど各々頑張ってるよ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=300</link>
+		<pubDate>Sun, 07 Apr 2013 23:58:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=300</guid>
+		<description>Tweet 危うく二ヶ月空いてしまうところでした… 収録するする詐欺になっており申し訳ございません！ ここのと[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks14.m4a" length="23837773" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet 危うく二ヶ月空いてしまうところでした… 収録するする詐欺になっており申し訳ございません！ ここのと[...]</itunes:subtitle>
+		<itunes:summary>Tweet 危うく二ヶ月空いてしまうところでした… 収録するする詐欺になっており申し訳ございません！ ここのと[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>49:01</itunes:duration>
+		</item>
+	<item>
+		<title>第13回 勢いにまかせて急遽収録が開始されたよ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=281</link>
+		<pubDate>Wed, 13 Feb 2013 21:39:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=281</guid>
+		<description>Tweet 某所で某セミナーの打ち合わせをした勢いで収録しました。 後先考えず急遽収録したら… 今回、短いです[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks_special.m4a" length="3546117" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet 某所で某セミナーの打ち合わせをした勢いで収録しました。 後先考えず急遽収録したら… 今回、短いです[...]</itunes:subtitle>
+		<itunes:summary>Tweet 某所で某セミナーの打ち合わせをした勢いで収録しました。 後先考えず急遽収録したら… 今回、短いです[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>6:48</itunes:duration>
+		</item>
+	<item>
+		<title>第12回 みんなが幸せになる嘘！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=266</link>
+		<pubDate>Tue, 05 Feb 2013 22:57:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=266</guid>
+		<description>Tweet 目指せリスナー２桁！ 年始に公開されたntsujiの記事についてお話しました。 何でもそうですが、[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks201302.m4a" length="25257686" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet 目指せリスナー２桁！ 年始に公開されたntsujiの記事についてお話しました。 何でもそうですが、[...]</itunes:subtitle>
+		<itunes:summary>Tweet 目指せリスナー２桁！ 年始に公開されたntsujiの記事についてお話しました。 何でもそうですが、[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>52:05</itunes:duration>
+		</item>
+	<item>
+		<title>第11回 メリー ナノリマス！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=223</link>
+		<pubDate>Mon, 24 Dec 2012 23:01:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=223</guid>
+		<description>Tweet メリー ナノリマス！ 忘れた頃にやってくるポッドキャストでおなじみの… 地道にがんばっていきますの[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks11.m4a" length="23011949" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet メリー ナノリマス！ 忘れた頃にやってくるポッドキャストでおなじみの… 地道にがんばっていきますの[...]</itunes:subtitle>
+		<itunes:summary>Tweet メリー ナノリマス！ 忘れた頃にやってくるポッドキャストでおなじみの… 地道にがんばっていきますの[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>49:06</itunes:duration>
+		</item>
+	<item>
+		<title>第10回 風邪？花粉症？豚草なのか？えーくしっ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=204</link>
+		<pubDate>Tue, 23 Oct 2012 21:38:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=204</guid>
+		<description>Tweet ntsuji, mtakeshiのスケジュールが噛み合ずペースダウンをしてしまいました。 ペースダ[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks10.m4a" length="27465566" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet ntsuji, mtakeshiのスケジュールが噛み合ずペースダウンをしてしまいました。 ペースダ[...]</itunes:subtitle>
+		<itunes:summary>Tweet ntsuji, mtakeshiのスケジュールが噛み合ずペースダウンをしてしまいました。 ペースダ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>56:46</itunes:duration>
+		</item>
+	<item>
+		<title>第9回 短い間隔でノーアイデアだスペシャル</title>
+		<link>https://www.tsujileaks.com/?p=196</link>
+		<pubDate>Mon, 03 Sep 2012 23:00:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=196</guid>
+		<description>Tweet いつものようにやるやる詐欺で数ヶ月空くというパターンにならず 今回は比較的早く出すことができちゃい[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks9.m4a" length="5242880" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet いつものようにやるやる詐欺で数ヶ月空くというパターンにならず 今回は比較的早く出すことができちゃい[...]</itunes:subtitle>
+		<itunes:summary>Tweet いつものようにやるやる詐欺で数ヶ月空くというパターンにならず 今回は比較的早く出すことができちゃい[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		</item>
+	<item>
+		<title>第8回 初めてのオフライン収録！初めてのゲスト！しかも女性！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=174</link>
+		<pubDate>Sun, 12 Aug 2012 22:56:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=174</guid>
+		<description>Tweet 普段はムサい（？）男二人でお送りしてきたポットキャストですが 今期は初にして女性ゲストをお迎えして[...]</description>
+		<enclosure url="http://tsujileaks.com/media/tsujileaks8.m4a" length="32401575" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet 普段はムサい（？）男二人でお送りしてきたポットキャストですが 今期は初にして女性ゲストをお迎えして[...]</itunes:subtitle>
+		<itunes:summary>Tweet 普段はムサい（？）男二人でお送りしてきたポットキャストですが 今期は初にして女性ゲストをお迎えして[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:04:28</itunes:duration>
+		</item>
+	<item>
+		<title>第7回 セキュリティに関係のある話をできるだけしようスペシャル。</title>
+		<link>https://www.tsujileaks.com/?p=162</link>
+		<pubDate>Sat, 28 Jul 2012 17:13:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=162</guid>
+		<description>Tweet ちょっとノイズが乗っちゃてますがご容赦ください。 取り上げてたわー アノニマス１年以上前からこのP[...]</description>
+		<enclosure url="http://tsujileaks.com/media/tsujileaks7.m4a" length="29613059" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet ちょっとノイズが乗っちゃてますがご容赦ください。 取り上げてたわー アノニマス１年以上前からこのP[...]</itunes:subtitle>
+		<itunes:summary>Tweet ちょっとノイズが乗っちゃてますがご容赦ください。 取り上げてたわー アノニマス１年以上前からこのP[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:01:06</itunes:duration>
+		</item>
+	<item>
+		<title>第6回 色々あるけど楽にいこうぜ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=152</link>
+		<pubDate>Mon, 14 May 2012 13:18:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=152</guid>
+		<description>Tweet 先に言っておきます。 今回はこのPodcastに反してセキュリティの話題が２割くらいしかありません[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks06.m4a" length="41913817" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet 先に言っておきます。 今回はこのPodcastに反してセキュリティの話題が２割くらいしかありません[...]</itunes:subtitle>
+		<itunes:summary>Tweet 先に言っておきます。 今回はこのPodcastに反してセキュリティの話題が２割くらいしかありません[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:26:34</itunes:duration>
+		</item>
+	<item>
+		<title>第5回 チョコレートは数ではない！量より質だ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=131</link>
+		<pubDate>Mon, 20 Feb 2012 22:30:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=131</guid>
+		<description>Tweet バレンタインも無事やり過ごすことができました。 皆さんいかがお過ごしでしょうか。 今回のお話は、す[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks05.m4a" length="34554885" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet バレンタインも無事やり過ごすことができました。 皆さんいかがお過ごしでしょうか。 今回のお話は、す[...]</itunes:subtitle>
+		<itunes:summary>Tweet バレンタインも無事やり過ごすことができました。 皆さんいかがお過ごしでしょうか。 今回のお話は、す[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:11:25</itunes:duration>
+		</item>
+	<item>
+		<title>第4回 うかうかしてたら冬が始まるよスペシャル</title>
+		<link>https://www.tsujileaks.com/?p=114</link>
+		<pubDate>Sat, 03 Dec 2011 21:52:06 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=114</guid>
+		<description>Tweet お久しぶりです！ この感じだとエントリーを書く度にこの挨拶をしないといけなくなりそうですね。 とい[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks04.m4a" length="21546809" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet お久しぶりです！ この感じだとエントリーを書く度にこの挨拶をしないといけなくなりそうですね。 とい[...]</itunes:subtitle>
+		<itunes:summary>Tweet お久しぶりです！ この感じだとエントリーを書く度にこの挨拶をしないといけなくなりそうですね。 とい[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		</item>
+	<item>
+		<title>第3回 成り行きでこのポッドキャストのタイトルが決まりましたスペシャル</title>
+		<link>https://www.tsujileaks.com/?p=73</link>
+		<pubDate>Tue, 05 Jul 2011 23:40:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=73</guid>
+		<description>Tweetまたまたのお久しぶりです。 今回は、dpost.jpのポッドキャストに出られている @machiko[...]</description>
+		<enclosure url="http://tsujileaks.com/media/tsujileaks03.m4a" length="34391447" type="audio/x-m4a" />
+		<itunes:subtitle>Tweetまたまたのお久しぶりです。 今回は、dpost.jpのポッドキャストに出られている @machiko[...]</itunes:subtitle>
+		<itunes:summary>Tweetまたまたのお久しぶりです。 今回は、dpost.jpのポッドキャストに出られている @machiko[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		</item>
+	<item>
+		<title>第2回 「自粛」は自粛させていただきますスペシャル</title>
+		<link>https://www.tsujileaks.com/?p=41</link>
+		<pubDate>Sun, 10 Apr 2011 22:38:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=41</guid>
+		<description>Tweet月１くらいでぼちぼちやっていきたいですねー とか言いつつ、第1回から2ヶ月ほどのご無沙汰となってしま[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/tsujileaks02.m4a" length="10945866" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet月１くらいでぼちぼちやっていきたいですねー とか言いつつ、第1回から2ヶ月ほどのご無沙汰となってしま[...]</itunes:subtitle>
+		<itunes:summary>Tweet月１くらいでぼちぼちやっていきたいですねー とか言いつつ、第1回から2ヶ月ほどのご無沙汰となってしま[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		</item>
+	<item>
+		<title>第1回 タイトルも決まってないけどとりあえず始めましたスペシャル</title>
+		<link>https://www.tsujileaks.com/?p=10</link>
+		<pubDate>Mon, 21 Feb 2011 01:46:27 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=10</guid>
+		<description>Tweet某ポッドキャストで告知させていただいた「セキュリティのポッドキャスト(仮）」の第１回です。 色々と探[...]</description>
+		<enclosure url="http://www.tsujileaks.com/media/security01.m4a" length="16323195" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet某ポッドキャストで告知させていただいた「セキュリティのポッドキャスト(仮）」の第１回です。 色々と探[...]</itunes:subtitle>
+		<itunes:summary>Tweet某ポッドキャストで告知させていただいた「セキュリティのポッドキャスト(仮）」の第１回です。 色々と探[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		</item>
+</channel>
+</rss>
