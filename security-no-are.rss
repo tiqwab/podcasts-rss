@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 06 Jun 2022 11:00:42 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 Jun 2022 11:00:07 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -46,6 +46,39 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</itunes:category>
 	<itunes:category text="Business" />
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
+	<item>
+		<title>第137回 KEV大好き！からのパスワードネタ三連発！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1232</link>
+		<pubDate>Mon, 13 Jun 2022 20:00:07 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1232</guid>
+		<comments>https://www.tsujileaks.com/?p=1232#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1232</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet  【関連記事】 ・Reducing the Significant Risk of Kn[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1232" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1232&amp;text=%E7%AC%AC137%E5%9B%9E%20KEV%E5%A4%A7%E5%A5%BD%E3%81%8D%EF%BC%81%E3%81%8B%E3%82%89%E3%81%AE%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%83%8D%E3%82%BF%E4%B8%89%E9%80%A3%E7%99%BA%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1232" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://www.cisa.gov/known-exploited-vulnerabilities">Reducing the Significant Risk of Known Exploited Vulnerabilities</a><br />
+・<a href="https://www.cisa.gov/binding-operational-directive-22-01">Binding Operational Directive 22-01 | CISA</a><br />
+・<a href="https://developer.apple.com/videos/play/wwdc2022/10092">Meet passkeys &#8211; WWDC22 &#8211; Videos &#8211; Apple Developer</a><br />
+・<a href="https://blog.1password.com/1password-is-joining-the-fido-alliance/">We’ve joined the FIDO Alliance to build a better future for authentication | 1Password</a><br />
+・<a href="https://blog.lastpass.com/2022/06/passwordless-is-possible-lastpass-gets-you-there-sooner/">Passwordless Is Possible: LastPass Gets You There Sooner &#8211; The LastPass Blog</a><br />
+・<a href="https://research.google/pubs/pub43963/">“&#8230;no one can hack my mind”: Comparing Expert and Non-Expert Security Practices – Google Research</a><br />
+・<a href="https://housefoods.jp/products/special/currypowder/index.html">味付カレーパウダー | ブランドサイト | ハウス食品</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/ebiten.jpg"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/ebiten-300x200.jpg" alt="" width="300" height="200" class="alignnone size-medium wp-image-1233" srcset="https://www.tsujileaks.com/wp-content/uploads/ebiten-300x200.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/ebiten-1024x682.jpg 1024w, https://www.tsujileaks.com/wp-content/uploads/ebiten-768x512.jpg 768w, https://www.tsujileaks.com/wp-content/uploads/ebiten.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>先週した話をまたすると見せかけて。オフライン収録もそろそろしたい。チャゲアス。お湯かけてお湯かけても。カラオケ行きたい。お三方。見るアレ。聴くアレ。フリソナン売り切れてた。食べてみないと分からない。一部で知られているだけのこともまだまだあるかも。ゆーて。はっとするお便りありがたい。やばいんですリスト。厳しい強制。ミトレ。英語力の無さへのフォローありがとうございます！意図的なものではなく見えているかどうかのアクティブ。100%でないと掲載しない。古いものが追加されまくっている理由が分かってよかった。脆弱性ちょっと分かる。知ってるから思い込むこと。勝手に補完しちゃうことは避けていこう。ミニマムでまずはコレ！というのいいけど、これにないから大丈夫ではないということですね。777。件数多かったり、連日追加されたり。これ対処するのも大変だけど、古い脆弱性が対処されていると証明するのも大変そうなんですよね。仕組みがないときつそう。三連発！スンスンスン。元年！パスワード管理ソフトの生きる道。LastPassってネーミングほんとセンスいいと思う。オススメしないコレ。誤ってポチィで地獄行き。購入の壁。天ぷら食べたくなってきた。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年06月11日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_220613_konayatabetai.mp3" length="31862596" type="audio/mpeg" />
+		<itunes:subtitle>Tweet  【関連記事】 ・Reducing the Significant Risk of Kn[...]</itunes:subtitle>
+		<itunes:summary>Tweet  【関連記事】 ・Reducing the Significant Risk of Kn[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:06:10</itunes:duration>
+		</item>
 	<item>
 		<title>第136回 in 太陽と埃！スペシャル</title>
 		<link>https://www.tsujileaks.com/?p=1226</link>
@@ -360,31 +393,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1178</link>
 		<pubDate>Mon, 28 Mar 2022 20:00:09 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1178</guid>
-		<comments>https://www.tsujileaks.com/?p=1178#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1178</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・ロシアでVPNアプリの利用が急増、1日あたり40万DL | Forbes JAPAN[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1178" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1178&amp;text=%E7%AC%AC127%E5%9B%9E%20%E8%89%B2%E3%80%85%E3%81%A7%E6%A7%98%E3%80%85%E3%81%AA%E6%89%8B%E5%8F%A3%E3%81%ABBEC%E3%82%89%E3%81%93%E3%81%84%E3%81%9F%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1178" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://forbesjapan.com/articles/detail/46505">ロシアでVPNアプリの利用が急増、1日あたり40万DL | Forbes JAPAN（フォーブス ジャパン）</a><br />
-・<a href="https://www.nikkei.com/article/DGKKZO59257860Q2A320C2TB0000/">匿名化ツール、ネット統制のロシアで利用増: 日本経済新聞</a><br />
-・<a href="https://omny.fm/shows/asahi/611">サイバー事件簿⑤ これは南海トラフなのか ランサムウェアと地域の病院 #612 &#8211; 朝日新聞ポッドキャスト &#8211; Omny.fm</a><br />
-・<a href="https://omny.fm/shows/asahi/612">サイバー事件簿⑥ サイバー攻撃、受けた病院の「孤立」 あすは我が身のはずが #613 &#8211; 朝日新聞ポッドキャスト &#8211; Omny.fm</a><br />
-・<a href="https://www.mbs.jp/4chantv/news/kodawari/article/2022/01/087200.shtml">サイバー攻撃と戦った公立病院の２か月間『電子カルテが暗号化』過去の検査結果も病歴もわからず&#8230;手書き対応にも苦労 &#8211; よんチャンTV | MBS</a><br />
-・<a href="https://piyolog.hatenadiary.jp/entry/2022/03/24/071018">東京コンピュータサービスのランサムウェア感染についてまとめてみた &#8211; piyolog</a><br />
-・<a href="https://www.ic3.gov/Media/PDF/AnnualReport/2021_IC3Report.pdf">Internet Crime Report 2021</a><br />
-・<a href="https://msrc-blog.microsoft.com/2022/03/16/supportscamjp/">マイクロソフトのサポートを装った詐欺にご注意ください – Microsoft Security Response Center</a><br />
-・<a href="https://www.okta.com/blog/2022/03/oktas-investigation-of-the-january-2022-compromise/">Okta’s Investigation of the January 2022 Compromise | Okta</a><br />
-・<a href="https://www.microsoft.com/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/">DEV-0537 criminal actor targeting organizations for data exfiltration and destruction &#8211; Microsoft Security Blog</a><br />
-・<a href="https://fidoalliance.org/charting-an-accelerated-path-forward-for-passwordless-authentication-adoption/">Charting an Accelerated Path Forward for Passwordless Authentication Adoption &#8211; FIDO Alliance</a><br />
-・<a href="https://www.ikkaku.co.jp/">骨付鳥 一鶴 -IKKAKU-：香川県丸亀市</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/in.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/in-296x300.png" alt="" width="148" height="150" class="alignnone size-medium wp-image-1179" srcset="https://www.tsujileaks.com/wp-content/uploads/in-296x300.png 296w, https://www.tsujileaks.com/wp-content/uploads/in-768x780.png 768w, https://www.tsujileaks.com/wp-content/uploads/in.png 788w" sizes="(max-width: 148px) 100vw, 148px" /></a></p>
-<p>
-辻伸弘メモ：</p>
-<blockquote><p>いつか形を変えてでも共有します。薄なったら重ねるのか。実質Pro。買うしかなかった2人。お便り増えてきてる。正確な話を聴きたければコレというかアレを。スボム！相関と因果を分けて考えよう。事故対応はリリース後も続きます。異なる見え方と相互理解。社名への誤認の気持ち分かる。リバースプロキシ介してのランサム事案は過去にCL0Pでありましたね。小粒も増えて。細く長く。初めの侵入から内部での動きまでに期間があいている場合は。攻撃を助長するって具体的にどういうことなんでしょうかね。昨年より劣化してる。オンライン会議経由のBEC。人を介するものはやっぱり厄介。愛に気付いてください。サポート詐欺にひっかからないようにこちら側でサポートするには。注意喚起の方法も大事だけどカバレッジももっと意識しないといけないですね。マネタイズ方法の詳細は大事なポイント。セキュリティキー最強説。つじるしです。</p></blockquote>
-<p>  </p>
-<p>収録日: 2022年03月26日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_220328_shikujiri.mp3" length="34357430" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・ロシアでVPNアプリの利用が急増、1日あたり40万DL | Forbes JAPAN[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・ロシアでVPNアプリの利用が急増、1日あたり40万DL | Forbes JAPAN[...]</itunes:summary>
