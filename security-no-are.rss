@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 13 Jun 2022 11:00:07 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 20 Jun 2022 11:00:08 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -46,6 +46,36 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</itunes:category>
 	<itunes:category text="Business" />
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
+	<item>
+		<title>第138回 あるある募集と謎草プロジェクト始動！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1237</link>
+		<pubDate>Mon, 20 Jun 2022 20:00:08 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1237</guid>
+		<comments>https://www.tsujileaks.com/?p=1237#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1237</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet  【関連記事】 ・Password policies of most top websi[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1237" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1237&amp;text=%E7%AC%AC138%E5%9B%9E%20%E3%81%82%E3%82%8B%E3%81%82%E3%82%8B%E5%8B%9F%E9%9B%86%E3%81%A8%E8%AC%8E%E8%8D%89%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E5%A7%8B%E5%8B%95%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1237" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://passwordpolicies.cs.princeton.edu/">Password policies of most top websites fail to follow best practices</a><br />
+・<a href="https://github.com/dropbox/zxcvbn">GitHub &#8211; dropbox/zxcvbn: Low-Budget Password Strength Estimation</a><br />
+・<a href="https://www.cybersolutions.co.jp/news/20220606/">20代は8％しか上司に報告しない！？ビジネスメールの誤送信と対応の実態調査を発表新入社員から企業情報が漏洩するリスクに要注意 | 法人向けクラウドメールサービスのサイバーソリューションズ</a><br />
+・<a href="https://www.bourbon.co.jp/alfort/">ブルボン アルフォートの公式サイト</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/nazokusa.jpg"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/nazokusa-225x300.jpg" alt="" width="225" height="300" class="alignnone size-medium wp-image-1238" srcset="https://www.tsujileaks.com/wp-content/uploads/nazokusa-225x300.jpg 225w, https://www.tsujileaks.com/wp-content/uploads/nazokusa-768x1024.jpg 768w, https://www.tsujileaks.com/wp-content/uploads/nazokusa-1152x1536.jpg 1152w, https://www.tsujileaks.com/wp-content/uploads/nazokusa.jpg 1352w" sizes="(max-width: 225px) 100vw, 225px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>きゅうり覚えてますか。こっそりピーマン。謎草生えてきた。1より2が面白い。どっちがメリットがあるか。時間の流れによる変化もある。メール訓練の話大好き。あるあるネタのお便り待ってます！過去のアレもお役に立てているようで何よりです。パスワードづく。ベストプラクティスってどんくらい守られているのか。無理難題を押し付けると抜け道を探し始める。折角機能としてあるのにメッセージが悪いケース。ちゃんとやってる風はあかん。何もしてないより良くない。正しい知識や技術だけではダメで仕組みが必要。消費税より少ない報告率。誤送信とは。記事タイトルにある言葉の定義が自分の思うものとは限らない。なくせないから放り投げるのはよくない。精神論のみに頼ってはいけないけど、不要なものではない。iPadのサイズに例えたらめちゃくちゃ分かりやすかった。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年06月18日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_220620_hamoge.mp3" length="30994837" type="audio/mpeg" />
+		<itunes:subtitle>Tweet  【関連記事】 ・Password policies of most top websi[...]</itunes:subtitle>
+		<itunes:summary>Tweet  【関連記事】 ・Password policies of most top websi[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:04:22</itunes:duration>
+		</item>
 	<item>
 		<title>第137回 KEV大好き！からのパスワードネタ三連発！スペシャル</title>
 		<link>https://www.tsujileaks.com/?p=1232</link>
@@ -362,25 +392,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1183</link>
 		<pubDate>Mon, 04 Apr 2022 20:00:44 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1183</guid>
-		<comments>https://www.tsujileaks.com/?p=1183#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1183</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・KA-SAT Network cyber attack overview | Via[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1183" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1183&amp;text=%E7%AC%AC128%E5%9B%9E%20%E3%81%9D%E3%81%86%E3%81%84%E3%81%88%E3%81%B0%E6%96%B0%E5%B9%B4%E5%BA%A6%E3%81%AF%E3%81%98%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1183" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://www.viasat.com/about/newsroom/blog/ka-sat-network-cyber-attack-overview/">KA-SAT Network cyber attack overview | Viasat</a><br />
-・<a href="https://www.sentinelone.com/labs/acidrain-a-modem-wiper-rains-down-on-europe/">AcidRain | A Modem Wiper Rains Down on Europe &#8211; SentinelOne</a><br />
-・<a href="https://www.bleepingcomputer.com/news/security/viasat-confirms-satellite-modems-were-wiped-with-acidrain-malware/">Viasat confirms satellite modems were wiped with AcidRain malware</a><br />
-・<a href="https://blog.aquasec.com/python-ransomware-jupyter-notebook">Threat Alert: First Python Ransomware Attack Targeting Jupyter Notebooks</a><br />
-・<a href="https://piyolog.hatenadiary.jp/entry/2022/04/01/065946">Spring Frameworkの脆弱性 CVE-2022-22965（Spring4shell）についてまとめてみた &#8211; piyolog</a><br />
-・<a href="https://jasonmarkk.co.jp/">Jason Markk Premium Shoe Care Products and Drop-Off Cleaning service</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/wjs.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/wjs-300x188.png" alt="" width="300" height="188" class="alignnone size-medium wp-image-1184" srcset="https://www.tsujileaks.com/wp-content/uploads/wjs-300x188.png 300w, https://www.tsujileaks.com/wp-content/uploads/wjs.png 685w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
-<p>
-辻伸弘メモ：</p>
-<blockquote><p>覚えてない前提。一人称が「余」。身につけた力の使い道。アレタソも成長なさいましたなぁ。色々なお便りほんとお役立ちです。鈴木亜美さん思い出した。設定ミスとは。またかのワイパー。何かと似ているといったような比較って一朝一夕に言えることじゃないんですよね。どこまで見越しての攻撃だったのか。意外と手探りも？WebShellやんけ！メジャーどころだけではなくてね。外からスキャンしてる組織って意外と少ないのかな？便利なものを悪用したらの観点で見る大切さ。ダウングレードするという対策。脆弱性対応の硬直化。止めるルールと判断。何を拠り所にするのか。脆弱性対応の今昔。「ん」抜けてた。ちょっと口がなめらかではなかった。技術もスニーカーも磨こうぜ！</p></blockquote>
-<p>  </p>
-<p>収録日: 2022年04月02日</p>
-]]></content:encoded>
 		<enclosure url="https://tsujileaks.com/media/are_220404_greoka.mp3" length="32182160" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・KA-SAT Network cyber attack overview | Via[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・KA-SAT Network cyber attack overview | Via[...]</itunes:summary>
