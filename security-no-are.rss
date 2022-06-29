@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 20 Jun 2022 11:00:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Jun 2022 11:00:30 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -46,6 +46,43 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</itunes:category>
 	<itunes:category text="Business" />
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
+	<item>
+		<title>第139回 スピード梅雨明け！視点論点！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1243</link>
+		<pubDate>Tue, 28 Jun 2022 20:00:30 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1243</guid>
+		<comments>https://www.tsujileaks.com/?p=1243#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1243</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet  【関連記事】 ・【重要なお知らせ】外部流出アカウント情報による不正アクセスについて│電[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1243" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1243&amp;text=%E7%AC%AC139%E5%9B%9E%20%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E6%A2%85%E9%9B%A8%E6%98%8E%E3%81%91%EF%BC%81%E8%A6%96%E7%82%B9%E8%AB%96%E7%82%B9%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1243" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://bookwalker.jp/info/message20220610/">【重要なお知らせ】外部流出アカウント情報による不正アクセスについて│電子書籍ストア &#8211; BOOK☆WALKER</a><br />
+・<a href="https://honto.jp/info/detail_041000066770.html">honto &#8211; 【重要】不正ログインについてのお知らせ &#8211; hontoからのお知らせ一覧</a><br />
+・<a href="https://www.jreast.co.jp/card/caution/notice220624.html/">「VIEW&#8217;s NET」等のサービス再開のお知らせ</a><br />
+・<a href="https://medical.nikkeibp.co.jp/inc/all/info/about/release220624.html">日経メディカル Online への不正アクセスについて</a><br />
+・<a href="https://www.jrepoint.jp/information/important/2022062201">「JRE POINT」を名乗る不審なメール・サイトにご注意ください</a><br />
+・<a href="https://blog.talosintelligence.com/2022/06/avoslocker-new-arsenal.html">Cisco Talos Intelligence Group &#8211; Comprehensive Threat Intelligence: Avos ransomware group expands with new attack arsenal</a><br />
+・<a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-174a">Malicious Cyber Actors Continue to Exploit Log4Shell in VMware Horizon Systems | CISA</a><br />
+・<a href="https://securityblog.jp/securityanalyst/contents/000167.php">C2フレームワークSliverについて | セキュリティアナリストのつぶやき</a><br />
+・<a href="https://css.ethz.ch/content/dam/ethz/special-interest/gess/cis/center-for-securities-studies/pdfs/Cyber-Reports-2022-06-IT-Army-of-Ukraine.pdf">The IT Army of Ukraine: Structure, Tasking, and Ecosystem</a><br />
+・<a href="https://www.justice.gov/usao-dc/pr/weleakinfoto-and-related-domain-names-seized">WeLeakInfo.to and Related Domain Names Seized | USAO-DC | Department of Justice</a><br />
+・<a href="https://www.uta-net.com/song/12359/">藤井隆 ナンダカンダ 歌詞 &#8211; 歌ネット</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/chagashi.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/chagashi-300x231.png" alt="" width="300" height="231" class="alignnone size-medium wp-image-1244" srcset="https://www.tsujileaks.com/wp-content/uploads/chagashi-300x231.png 300w, https://www.tsujileaks.com/wp-content/uploads/chagashi-768x591.png 768w, https://www.tsujileaks.com/wp-content/uploads/chagashi.png 780w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>梅雨明けてました。多数決でいいんじゃないか。お茶菓子はアレ。合格した方おめでとうございます！不合格だった方も力はついてるはず！次いきましょう！帯のアレ。踏み出せよｗ。お便りからお便り。謎草の正体は。触れましたっけ？タレコミ。隔離慣れ。報道で取り上げられないだけでなくなってない。スクリーニングはあまり報告されてこないですね。初期アクセスからランサムまでのラグ。同一システムに複数アクター。知らないツール色々。脆弱性が公表されてもそれが組み込まれているものを使っている感覚がないとかありそう。IT Armyの研究レポ。IT Armyのチャンネルから他に波及。断片的な情報から。人材募集はなぜかウクライナ語。公式パートナーとして掲載されていたあるサービス。これらの行為に参加する人は兵士なのか？国際法を逸脱してきている。ダブスタになってるんじゃないの。よー覚えてる。元気になろう！お便りまってまーす！</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年06月26日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_220628_nndknd.mp3" length="31619781" type="audio/mpeg" />
+		<itunes:subtitle>Tweet  【関連記事】 ・【重要なお知らせ】外部流出アカウント情報による不正アクセスについて│電[...]</itunes:subtitle>
+		<itunes:summary>Tweet  【関連記事】 ・【重要なお知らせ】外部流出アカウント情報による不正アクセスについて│電[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:05:40</itunes:duration>
+		</item>
 	<item>
 		<title>第138回 あるある募集と謎草プロジェクト始動！スペシャル</title>
 		<link>https://www.tsujileaks.com/?p=1237</link>
@@ -354,32 +391,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1189</link>
 		<pubDate>Mon, 11 Apr 2022 20:00:58 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1189</guid>
-		<comments>https://www.tsujileaks.com/?p=1189#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1189</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・ドメイン名ハイジャックに備えよ! コインチェックの対応から得られた教訓 &amp;#8211[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1189" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1189&amp;text=%E7%AC%AC129%E5%9B%9E%20%E9%A9%9A%E7%95%B0%E3%81%AE%E8%84%85%E5%A8%81%EF%BC%81%E9%A2%A8%E3%81%A8%E3%83%AA%E3%83%BC%E3%82%AF%E3%81%A8%E3%83%86%E3%82%A4%E3%82%AF%E3%83%80%E3%82%A6%E3%83%B3%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1189" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://news.mynavi.jp/techplus/article/techp5359/">ドメイン名ハイジャックに備えよ! コインチェックの対応から得られた教訓 &#8211; 情報セキュリティ事故対応アワード2020受賞レポート | TECH+</a><br />
-・<a href="https://www.asahi.com/articles/ASQ482TDRQ47PLZB011.html">焼却するはずの書類1600枚、強風で飛ばされ紛失 京都府警が謝罪：朝日新聞デジタル</a><br />
-・<a href="https://mainichi.jp/articles/20220407/k00/00m/040/259000c">風に飛ばされ文書1600枚紛失 京都府交通安全協職員、自宅保管中 | 毎日新聞</a><br />
-・<a href="https://www.jnsa.org/result/incident/2018.html">2018年 情報セキュリティインシデントに関する調査報告書</a><br />
-・<a href="https://www.tsr-net.co.jp/news/analysis/20210117_01.html">上場企業の個人情報漏えい・紛失事故は、調査開始以来最多の137件 574万人分（2021年） ： 東京商工リサーチ</a><br />
-・<a href="https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/conti-leaks-examining-the-panama-papers-of-ransomware.html">Conti Leaks: Examining the Panama Papers of Ransomware | Trellix</a><br />
-・<a href="https://research.nccgroup.com/2022/03/31/conti-nuation-methods-and-techniques-observed-in-operations-post-the-leaks/">Conti-nuation: methods and techniques observed in operations post the leaks – NCC Group Research</a><br />
-・<a href="https://news.sophos.com/en-us/2021/02/16/conti-ransomware-attack-day-by-day/">A Conti ransomware attack day-by-day – Sophos News</a><br />
-・<a href="https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-disruption-botnet-controlled-russian-federation">Justice Department Announces Court-Authorized Disruption of Botnet Controlled by the Russian Federation’s Main Intelligence Directorate (GRU) | OPA | Department of Justice</a><br />
-・<a href="https://www.ncsc.gov.uk/news/joint-advisory-shows-new-sandworm-malware-cyclops-blink-replaces-vpnfilter">New Sandworm malware Cyclops Blink replaces VPNFilter &#8211; NCSC.GOV.UK</a><br />
-・<a href="https://www.watchguard.com/wgrd-news/blog/important-detection-and-remediation-actions-cyclops-blink-state-sponsored-botnet">Important Detection and Remediation Actions for Cyclops Blink State-Sponsored Botnet | WatchGuard Technologies</a><br />
-・<a href="https://www.shadowserver.org/news/shadowserver-special-reports-cyclops-blink/">Shadowserver Special Reports – Cyclops Blink | The Shadowserver Foundation</a><br />
-・<a href="https://www.okabe-group.com/products/kaibashira/">サクッとしっとり新食感！そのまんま貝柱 &#8211; &#8211; 株式会社オカベ</a></p>
-<p>&nbsp;</p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/plus6.png"><img loading="lazy" class="alignnone size-medium wp-image-1190" src="http://www.tsujileaks.com/wp-content/uploads/plus6-300x207.png" alt="" width="300" height="207" srcset="https://www.tsujileaks.com/wp-content/uploads/plus6-300x207.png 300w, https://www.tsujileaks.com/wp-content/uploads/plus6.png 337w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
-<p>&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>自然に新鮮な気持ちでの2回目。噛みしめる大切さ。一巻前がわからんループ。寝る前のポップコーンはやめたほうがいいです。勉強会のネタのもってこいのイベント。「無関心」でも「無関係」ではいられない。脅威タイプ：風。ミステリーインシデント。見つからなかったものに燃やしたは入ってるのかな。「妖怪BOX」だと思ってた。鬼太郎のポストみたいな。対策：風の強い日は処分しない。その後のCONTI。RDPだけじゃない。インターネットから取ってくるのはポイント。ソフォスを止めたってが観察されてましたが、ほかのアンチウイルス止めるってのもよくありますね。定番攻撃ツールは把握しておくといいです。アフィリエイトって言えるようになってきた。ド定番RClone。初期アクセスから横展開までのラグ。リーク後は過去最高件数。怖くなる一方ではなくて。CONTI Leaksはどれほど影響があったのか。必要な人には必要な情報。立場の違いで必要な情報は変わる。知らなくてもいいんです。ちょっと違うテイクダウン。公表していなかった脆弱性が悪用。誰もやらないならオレ（FBI）がやる。C2への指令を偽装に成功。やっちゃえとは思う。課題の洗い出しからの見直しは必要。「しない」であって「できない」ではない。ちなみに記憶をなくしたことはありません。</p></blockquote>
-<p>収録日: 2022年04月09日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_220411_pang4yau5.mp3" length="30760447" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・ドメイン名ハイジャックに備えよ! コインチェックの対応から得られた教訓 &amp;#8211[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・ドメイン名ハイジャックに備えよ! コインチェックの対応から得られた教訓 &amp;#8211[...]</itunes:summary>
