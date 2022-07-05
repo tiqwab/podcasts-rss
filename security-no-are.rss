@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 28 Jun 2022 11:00:30 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 04 Jul 2022 12:35:54 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -46,6 +46,38 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</itunes:category>
 	<itunes:category text="Business" />
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
+	<item>
+		<title>第140回 壊れるほど注意喚起しても1/3も伝わらないという気持ちで！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1248</link>
+		<pubDate>Mon, 04 Jul 2022 20:00:32 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1248</guid>
+		<comments>https://www.tsujileaks.com/?p=1248#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1248</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet  【関連記事】 ・LockBit 3.0 introduces the first ra[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1248" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1248&amp;text=%E7%AC%AC140%E5%9B%9E%20%E5%A3%8A%E3%82%8C%E3%82%8B%E3%81%BB%E3%81%A9%E6%B3%A8%E6%84%8F%E5%96%9A%E8%B5%B7%E3%81%97%E3%81%A6%E3%82%821%2F3%E3%82%82%E4%BC%9D%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E3%81%A8%E3%81%84%E3%81%86%E6%B0%97%E6%8C%81%E3%81%A1%E3%81%A7%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1248" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://www.bleepingcomputer.com/news/security/lockbit-30-introduces-the-first-ransomware-bug-bounty-program/">LockBit 3.0 introduces the first ransomware bug bounty program</a><br />
+・<a href="https://lrv.lt/en/news/intense-ddos-attacks-targeted-several-companies-and-institutions-in-lithuania">Intense DDoS attacks targeted several companies and institutions in Lithuania | My Government</a><br />
+・<a href="https://nsm.no/aktuelt/malrettede-tjenestenektangrep-mot-norske-nettsteder">Målrettede tjenestenektangrep mot norske nettsteder &#8211; Nasjonal sikkerhetsmyndighet</a><br />
+・<a href="https://www3.nhk.or.jp/news/html/20220627/k10013690121000.html">世界に飛び火 “サイバー市民戦争” パンドラの箱は開かれた | NHK | WEB特集 | ウクライナ情勢</a><br />
+・<a href="https://diskunion.net/">弊社オンラインショップ登録個人情報漏えいに関するお詫びとご報告 | ディスクユニオン</a><br />
+・<a href="https://www.shop-maruhiro.jp/item/293610/">住吉屋製菓 一里飴 162g &#8211; まるひろオンラインショッピング</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/goodguy.jpg"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/goodguy-300x180.jpg" alt="" width="300" height="180" class="alignnone size-medium wp-image-1249" srcset="https://www.tsujileaks.com/wp-content/uploads/goodguy-300x180.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/goodguy-768x461.jpg 768w, https://www.tsujileaks.com/wp-content/uploads/goodguy.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>生の声の重み。臨場感。10年に向けて。始めた当初からの変化。情報の共有先。いっちゃんヤバいやつの下。何回聞いても怖い話。2.0 -> 3.0の変更・追加点。暗号化したらあかんけど盗んでの脅迫は許可。勢い増してる感ある。交渉の中でそういったニーズがあったのかもしれない追加。ビットコインとモネロとジーキャッシュがくるくる。ソムリエだった。キルネットはアノニマスのサイトへの攻撃もしていましたね。リアルの世界の動向がサイバー空間にもたらす影響。直球質問ちょっと危険。こちらの考えと相手の理屈が噛み合わなくても攻撃は行われる。じっと待つにしても想定しておくことが大切ですね。クラウドにするかオンプレにするか。大阪店で買い物したこと何回かあって懐かしかった。リリースの文言から読み取れるもの。SNSから見える事件の片鱗。プレイリスト変更で得られる利益はどのくらいだろうか。セキュリティのアレはSpotifyで再生されてもチャリンチャリンされません。口コミ注意喚起。対応側に求められるスピード感。暗号化してなかったことは潔く明記するほうがいいのではないか。<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f408.png" alt="🐈" class="wp-smiley" style="height: 1em; max-height: 1em;" />。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年07月02日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_220704_HonBuchoDairi.mp3" length="31629618" type="audio/mpeg" />
+		<itunes:subtitle>Tweet  【関連記事】 ・LockBit 3.0 introduces the first ra[...]</itunes:subtitle>
+		<itunes:summary>Tweet  【関連記事】 ・LockBit 3.0 introduces the first ra[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:05:41</itunes:duration>
+		</item>
 	<item>
 		<title>第139回 スピード梅雨明け！視点論点！スペシャル</title>
 		<link>https://www.tsujileaks.com/?p=1243</link>
@@ -358,27 +390,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1196</link>
 		<pubDate>Mon, 18 Apr 2022 20:00:48 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1196</guid>
-		<comments>https://www.tsujileaks.com/?p=1196#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1196</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・京セラ複合機におけるセキュリティー上の脆弱性について | 京セラドキュメントソリュー[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1196" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1196&amp;text=%E7%AC%AC130%E5%9B%9E%20%E3%83%A2%E3%83%A4%E3%83%A2%E3%83%A4%E3%81%99%E3%82%8B%E3%81%8B%E3%82%89%E3%81%93%E3%81%9D%E7%B6%9A%E3%81%91%E3%81%9F%E3%81%84%E6%97%85%E3%81%8C%E3%81%82%E3%82%8B%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1196" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://www.kyoceradocumentsolutions.co.jp/support/information/info_20220405.html">京セラ複合機におけるセキュリティー上の脆弱性について | 京セラドキュメントソリューションズ</a><br />
-・<a href="https://www.rapid7.com/blog/post/2022/03/29/cve-2022-1026-kyocera-net-view-address-book-exposure/">CVE-2022-1026: Kyocera Net View Address Book Exposure | Rapid7 Blog</a><br />
-・<a href="https://blog.cloudflare.com/ja-jp/ddos-attack-trends-for-2022-q1-ja-jp/">2022年第1四半期におけるDDoS攻撃の傾向</a><br />
-・<a href="https://www.europol.europa.eu/media-press/newsroom/news/one-of-world%E2%80%99s-biggest-hacker-forums-taken-down">One of the world’s biggest hacker forums taken down | Europol</a><br />
-・<a href="https://www.justice.gov/opa/pr/united-states-leads-seizure-one-world-s-largest-hacker-forums-and-arrests-administrator">United States Leads Seizure of One of the World’s Largest Hacker Forums and Arrests Administrator | OPA | Department of Justice</a><br />
-・<a href="https://therecord.media/what-its-like-to-run-a-hacking-forum-a-conversation-with-raidforums-owner-omnipotent/">What It’s Like to Run a Hacking Forum: A Conversation With RaidForums Owner Omnipotent &#8211; The Record by Recorded Future</a><br />
-・<a href="https://www.vice.com/en/article/k7w9mv/tmobile-hacked-bought-data-mandiant">T-Mobile Secretly Bought Its Customer Data from Hackers to Stop Leak. It Failed.</a><br />
-・<a href="https://www.lamaisonduchocolat.com/ja_jp/white-chocolate-puffed-rice-bar">チョコレートブラン フリソナン &#8211; ラ・メゾン・デュ・ショコラ</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/t.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/t.png" alt="" width="216" height="227" class="alignnone size-full wp-image-1197" /></a></p>
-<p>&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>最近PPAPですよ。時間が経つことによるリセットってありますね。アレがいいバランスポイントになってます。そこだけ鳥あげたら。虎岩石。タイトルは一番最後に決めてます。見えちゃうタイプの脆弱性。ほんとは怖いアドレス帳。複合機なのか復号キーなのか。ローカルネットワークでっていうのは今時の対策としてはちょっと弱く感じました。アップデートのハードル高いなぁ。久しぶり！アンケートの取り組みはいいですね。名乗りを上げるアノニマス。よく分からないこと多いけど、その中で本質を見極めていくことが大事ですよね。ボリュームゾーンは500M以下。Booter, Stresserとの関係。もっともらしく信じられやすいことが事実とは限らない。モヤモヤするからこそ続けたい旅がある。21歳！コミュニティがなくなっても人が存在し続ける。では、どこに。なぜ今まで生き延びられたのか。時は来た！太らされてた説。司法取引説。Company 3のもらい事故。盗まれたデータ = コピーされたデータ。金銭を支払うということ。根岸さんがよくなる語彙力の喪失。</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2022年04月16日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_220418_sampojapan1yearAniv.mp3" length="35589132" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・京セラ複合機におけるセキュリティー上の脆弱性について | 京セラドキュメントソリュー[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・京セラ複合機におけるセキュリティー上の脆弱性について | 京セラドキュメントソリュー[...]</itunes:summary>
