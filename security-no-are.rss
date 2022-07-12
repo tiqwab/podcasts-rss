@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 04 Jul 2022 12:35:54 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Jul 2022 11:00:32 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -46,6 +46,36 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</itunes:category>
 	<itunes:category text="Business" />
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
+	<item>
+		<title>第141回 壊れるほどMac Mini使ってしもてた！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1254</link>
+		<pubDate>Mon, 11 Jul 2022 20:00:32 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1254</guid>
+		<comments>https://www.tsujileaks.com/?p=1254#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1254</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet  【関連記事】 ・Apple expands commitment to protect[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1254" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1254&amp;text=%E7%AC%AC141%E5%9B%9E%20%E5%A3%8A%E3%82%8C%E3%82%8B%E3%81%BB%E3%81%A9Mac%20Mini%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%97%E3%82%82%E3%81%A6%E3%81%9F%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1254" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/">Apple expands commitment to protect users from mercenary spyware &#8211; Apple</a><br />
+・<a href="https://isc.sans.edu/forums/diary/EternalBlue+5+years+after+WannaCry+and+NotPetya/28816/">EternalBlue 5 years after WannaCry and NotPetya &#8211; SANS Internet Storm Center</a><br />
+・<a href="https://twitter.com/ntsuji/status/1544210690583707648">2022年7月の #ランサム リーク確認数</a><br />
+・<a href="https://csirt.ninja/?p=2281">「CONTI」が停止してからの「Hive」と「BlackBasta」について気になったことメモ</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/MminiB.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/MminiB-300x300.png" alt="" width="300" height="300" class="alignnone size-medium wp-image-1255" srcset="https://www.tsujileaks.com/wp-content/uploads/MminiB-300x300.png 300w, https://www.tsujileaks.com/wp-content/uploads/MminiB-150x150.png 150w, https://www.tsujileaks.com/wp-content/uploads/MminiB-144x144.png 144w, https://www.tsujileaks.com/wp-content/uploads/MminiB.png 480w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>OpACSから10年。MSMVP10回目。心境の変化。相談したいこと。結論：買えばいい。収録の後、注文しました。ついでのポテトと同じ感覚じゃないのよ。お便りの半分がコレやねん。隠蔽してって言ったのに。なんでもかんでもサイバーで片付けちゃいけないけど、それほど浸透はしたんかな。利便性は下がるという前提の機能。それほどニーズがありリアルになってきているってことですね。攻殻機動隊でいう自閉モードみたい。使ってみたい。アノ頃のソレ。2位が台湾なのか。ハニポか否か。入れ替えが現実的。これって他にも言えることがありそうです。根岸さんのハニポ情報局。現存しているのは殆ど首無しWannaCry。まさにEternal。違う角度で集計しました。老舗が止まっても手放しでは喜べません。キャストしてSOCごっこできるよ！37zs1で37インチやった…</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年07月09日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_220711_2genius.mp3" length="30431578" type="audio/mpeg" />
+		<itunes:subtitle>Tweet  【関連記事】 ・Apple expands commitment to protect[...]</itunes:subtitle>
+		<itunes:summary>Tweet  【関連記事】 ・Apple expands commitment to protect[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:03:11</itunes:duration>
+		</item>
 	<item>
 		<title>第140回 壊れるほど注意喚起しても1/3も伝わらないという気持ちで！スペシャル</title>
 		<link>https://www.tsujileaks.com/?p=1248</link>
@@ -358,26 +388,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1201</link>
 		<pubDate>Mon, 25 Apr 2022 20:00:38 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1201</guid>
-		<comments>https://www.tsujileaks.com/?p=1201#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1201</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・Project Zero: The More You Know, The More [...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1201" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1201&amp;text=%E7%AC%AC131%E5%9B%9E%20%E7%B6%9A%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8%E3%82%88%E3%82%8A%E3%82%82%E6%AD%A2%E3%82%81%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%81%AE%E5%A4%A7%E5%88%87%E3%81%95%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1201" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://googleprojectzero.blogspot.com/2022/04/the-more-you-know-more-you-know-you.html">Project Zero: The More You Know, The More You Know You Don’t Know</a><br />
-・<a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/">Introducing DuckDuckGo for Mac: A Private, Fast, and Secure Browsing App</a><br />
-・<a href="https://atmarkit.itmedia.co.jp/ait/articles/1112/26/news117.html">攻撃はまるでレーザービーム：セキュリティ・ダークナイト（8）（1/3 ページ） &#8211; ＠IT</a><br />
-・<a href="https://atmarkit.itmedia.co.jp/ait/articles/1512/28/news023.html">「標的型メール攻撃訓練」にもの申す：セキュリティのアレ（7） &#8211; ＠IT</a><br />
-・<a href="https://ukky3.hatenablog.com/entry/20110416/1302961997">ソーシャルエンジニアリングをユーザー教育によって防ぐことはできない？ &#8211; セキュリティは楽しいかね？ Part 1</a><br />
-・<a href="https://xtech.nikkei.com/it/atcl/column/16/012900025/042100041/">訓練メールなのに注意喚起で大騒ぎ、失敗しない標的型攻撃訓練の進め方 | 日経クロステック（xTECH）</a><br />
-・<a href="https://www.meishoku.co.jp/shop/pages/det.aspx">天然フルーツの力でつるすべ肌実感！DETクリアシリーズで角質ポロポロピーリング♪|明色化粧品公式サイト</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/caroline-attwood-QLjeFvxpdxc-unsplash-scaled.jpg"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/caroline-attwood-QLjeFvxpdxc-unsplash-300x169.jpg" alt="" width="300" height="169" class="alignnone size-medium wp-image-1202" srcset="https://www.tsujileaks.com/wp-content/uploads/caroline-attwood-QLjeFvxpdxc-unsplash-300x169.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/caroline-attwood-QLjeFvxpdxc-unsplash-1024x576.jpg 1024w, https://www.tsujileaks.com/wp-content/uploads/caroline-attwood-QLjeFvxpdxc-unsplash-768x432.jpg 768w, https://www.tsujileaks.com/wp-content/uploads/caroline-attwood-QLjeFvxpdxc-unsplash-1536x864.jpg 1536w, https://www.tsujileaks.com/wp-content/uploads/caroline-attwood-QLjeFvxpdxc-unsplash-2048x1152.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>暖かくなってまいりました。いつでも気にしてしまう天気。代り映えはやっぱりいい刺激。禁煙は褒めてもらえない。試験に役立った。バトーバトラー。思ったことや感想などを教えていただけるのは助かってます。ゼロデイかどうかよりも予想されるインパクトのほうが印象に残ります。数が増えるというのはプレイヤーの数やモチベーションの高まりが影響する場合もある。これまでは出されてこなかったものもあるかもしれない。「見ただけで感染」という言葉は懐かしい言葉です。「BubbleBoy」。すげぇの定義。探したから見つかった。探してないから見つかってない。脆弱性情報と悪用情報。分かったと思ったときは大体分かってない説。MacMacGo。初のデスクトップアプリ。超絶にシンプル。普段使いを目指して。拡張使えるといいけどそれだと差別化できなくなってきそう。Firefoxのこれから。久々のメール訓練。行列のできるセキュリティサービス。ゼロにならないという前提。開封率のみ着目問題。たまたま開かなかったがあるならたまたま開いたもあるはず。訓練が別の対応の本番になってしまうケース。訓練は誰の訓練なのか。「小さい頃は誰でも自分の未来はキラキラ輝いてるって思うでしょ？でも大人になると、自分の思い通りになることなんて一つもなくて辛くて情けなくて逆ギレして」。ピールしようぜ！確執も洗い流せたらええな。</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2022年04月23日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_220425_curryRamen.mp3" length="31108243" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・Project Zero: The More You Know, The More [...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・Project Zero: The More You Know, The More [...]</itunes:summary>
