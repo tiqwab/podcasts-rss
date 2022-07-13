@@ -20,7 +20,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-		<generator>https://wordpress.org/?v=6.0</generator>
+		<generator>https://wordpress.org/?v=6.0.1</generator>
 <!-- podcast_generator="Blubrry PowerPress/9.1.1" mode="advanced" feedslug="podcast" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
 	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 	<itunes:new-feed-url>https://www.tsujileaks.com/?feed=podcast</itunes:new-feed-url>
