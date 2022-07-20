@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 11 Jul 2022 11:00:32 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 19 Jul 2022 17:01:30 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -46,6 +46,38 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</itunes:category>
 	<itunes:category text="Business" />
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
+	<item>
+		<title>第142回 釣りと着火点！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1261</link>
+		<pubDate>Tue, 19 Jul 2022 20:00:09 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1261</guid>
+		<comments>https://www.tsujileaks.com/?p=1261#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1261</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet  【関連記事】 ・フィッシングメールのターゲットを傾向分析してみた – NI[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1261" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1261&amp;text=%E7%AC%AC142%E5%9B%9E%20%E9%87%A3%E3%82%8A%E3%81%A8%E7%9D%80%E7%81%AB%E7%82%B9%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1261" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://blog.nicter.jp/2022/07/phishing-mail/">フィッシングメールのターゲットを傾向分析してみた &#8211; NICTER Blog</a><br />
+・<a href="https://www.microsoft.com/security/blog/2022/07/12/from-cookie-theft-to-bec-attackers-use-aitm-phishing-sites-as-entry-point-to-further-financial-fraud/">From cookie theft to BEC: Attackers use AiTM phishing sites as entry point to further financial fraud &#8211; Microsoft Security Blog</a><br />
+・<a href="https://flashpoint.io/blog/security-teams-patch-stay-ahead-of-exploitation/">Why Security Teams Need to Patch Faster to Stay Ahead of Exploitation | Flashpoint</a><br />
+・<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog | CISA</a><br />
+・<a href="https://uzuki-shop.jp/">【公式通販】卯月製麺（うづきせいめん）オンラインショップ</a><br />
+・<a href="https://www.ogawaseimen.com/items#item02">商品のご紹介 | 明治二十年創業 山形・小川製麺所 [ Ogawa Seimen ]</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/mm.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/mm-300x296.png" alt="" width="300" height="296" class="alignnone size-medium wp-image-1262" srcset="https://www.tsujileaks.com/wp-content/uploads/mm-300x296.png 300w, https://www.tsujileaks.com/wp-content/uploads/mm.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>草。真相 in the dark。届いたで。編集長に知っていただきたいApple製品のアレ。大事な動機付け。切り取ると半分くらいになるアレ。フィッシングメールの行き先。役職あり、なしの中での比較も欲しいところ。室長フラグ？いろいろなところから情報が集まると見えるもの。敵対者 in  the middle。攻撃者が作成する受信トレイのルール。やっぱPassKeyっすよ。小ネタとはネギ加減でした。脆弱性の公開から手法のリリースまでの期間。守る側のスピード感が上がることでExploitリリースの速度が上がったからではないか。ゼロデイでなければChromeの脆弱性はおいしくないんじゃないか説。宣伝はばっさり割愛。先か後のどちらかに手間をかけるならやっぱり先だと思う。ステッカープレゼントしたらおすすめのアレが返ってきた！蕎麦だけに！</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年07月17日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_220719_macmount.mp3" length="29319768" type="audio/mpeg" />
+		<itunes:subtitle>Tweet  【関連記事】 ・フィッシングメールのターゲットを傾向分析してみた – NI[...]</itunes:subtitle>
+		<itunes:summary>Tweet  【関連記事】 ・フィッシングメールのターゲットを傾向分析してみた – NI[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:00:52</itunes:duration>
+		</item>
 	<item>
 		<title>第141回 壊れるほどMac Mini使ってしもてた！スペシャル</title>
 		<link>https://www.tsujileaks.com/?p=1254</link>
@@ -351,31 +383,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1205</link>
 		<pubDate>Mon, 09 May 2022 20:00:37 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1205</guid>
-		<comments>https://www.tsujileaks.com/?p=1205#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1205</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・Zero Tolerance: More Zero-Days Exploited i[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1205" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1205&amp;text=%E7%AC%AC132%E5%9B%9E%20%E3%81%95%E3%81%A3%E3%81%8D%E3%81%BE%E3%81%A7%E4%BA%94%E6%9C%88%E7%97%85%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1205" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://www.mandiant.com/resources/zero-days-exploited-2021">Zero Tolerance: More Zero-Days Exploited in 2021 Than Ever Before | Mandiant</a><br />
-・<a href="https://www.rapid7.com/blog/post/2022/03/28/analyzing-the-attack-landscape-rapid7s-annual-vulnerability-intelligence-report/">Analyzing the Attack Landscape: Rapid7’s 2021 Vulnerability Intelligence Report | Rapid7 Blog</a><br />
-・<a href="https://fidoalliance.org/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard-to-accelerate-availability-of-passwordless-sign-ins/">Apple, Google and Microsoft Commit to Expanded Support for FIDO Standard to Accelerate Availability of Passwordless Sign-Ins &#8211; FIDO Alliance</a><br />
-・<a href="https://fidoalliance.org/charting-an-accelerated-path-forward-for-passwordless-authentication-adoption/">Charting an Accelerated Path Forward for Passwordless Authentication Adoption &#8211; FIDO Alliance</a><br />
-・<a href="https://news.sophos.com/en-us/2022/04/12/attackers-linger-on-government-agency-computers-before-deploying-lockbit-ransomware/">Attackers linger on government agency computers before deploying Lockbit ransomware – Sophos News</a><br />
-・<a href="https://news.sophos.com/ja-jp/2022/04/12/attackers-linger-on-government-agency-computers-before-deploying-lockbit-ransomware-jp/">政府機関のコンピュータに数か月潜伏した後、Lockbit ランサムウェアを展開した攻撃者 – Sophos News</a><br />
-・<a href="https://thedfirreport.com/2022/04/25/quantum-ransomware/">Quantum Ransomware</a><br />
-・<a href="https://www.city.yokohama.lg.jp/city-info/koho-kocho/press/kyoiku/2022/0428hokubusomu.files/20220428.pdf">市立学校の防犯カメラ等取替修繕工事における個人情報の漏洩について</a><br />
-・<a href="https://piyolog.hatenadiary.jp/entry/2019/12/07/091332">「世界最悪級の流出」と報じられた廃棄ハードディスク転売事案についてまとめてみた &#8211; piyolog</a><br />
-・<a href="https://www.hikkoshi-sakai.co.jp/wp-cms/wp-content/uploads/2022/05/bc5b538041d1d5c2736364120737cad5.pdf">お客様の個人情報の漏洩に関してのお詫び</a><br />
-・<a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%88%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%97/%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A">フォレスト・ガンプ/一期一会 &#8211; Wikipedia</a></p>
-<p>&nbsp;</p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/bluebird.jpg"><img loading="lazy" class="alignnone size-full wp-image-1206" src="http://www.tsujileaks.com/wp-content/uploads/bluebird.jpg" alt="" width="250" height="166" /></a></p>
-<p>&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>やる気が行方知れずに。と思ったら家に居た。GWはいつもより仕事が捗った。最高のプレゼント。憧れのハイブランドYubiKey。コレきっかけ。アレきっかけ。マンディアンなのかマンディアントなのか。まずは目的は何かだと思っています。工場見学の話。人を責めず方法を責める。何の流れで話した分からないけどそれに大きな流れが来たっぽい。普及しなかった理由。それを解消するもの。スマホを買い替えただけなのに。未来が見えてきたかもしれない。蛇足をした。侵入してからまずChrome。Chromeって初めて見た時チュロメって呼んだ人いますか？用意周到じゃない攻撃者。行き当たりばったりのログというのも追跡しにくい。内部侵入で内部to内部のRDPって結構あるんですよね。暗号化のすんでで止めると拡張子変更だけで済む場合もある。断片から全体をどこまで想像、想定できるかが運命の別れ道。異常は平常を知っているから分かること。ツールにも何かしらの重み付けあるといいかもしれない。今回は風に飛ばされてないほう。地理的デジャブ感。廃棄と処分とはどうすることなのか。家のシュレッダー。現実的ではない対策は。届け出るモチベーションを考えるとやはり氷山の一角なのではないか。暗号化しかないのかもしれない。話をしている全員が見ているとシーンいじりで盛り上がれますね。NOT ハートフルイメージ。</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2022年05月07日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_220509_NPOWER.mp3" length="34333403" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・Zero Tolerance: More Zero-Days Exploited i[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・Zero Tolerance: More Zero-Days Exploited i[...]</itunes:summary>
