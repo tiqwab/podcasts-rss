@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 19 Jul 2022 17:01:30 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Jul 2022 11:36:23 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -46,6 +46,41 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</itunes:category>
 	<itunes:category text="Business" />
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
+	<item>
+		<title>第143回 勝手に中継点！新たなバラマキと止まったランサム！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1265</link>
+		<pubDate>Mon, 25 Jul 2022 20:00:31 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1265</guid>
+		<comments>https://www.tsujileaks.com/?p=1265#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1265</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet  【関連記事】 ・高千穂峡つゆ かつお味うまくち | ヤマエ食品工業株式会社 ・Ille[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1265" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1265&amp;text=%E7%AC%AC143%E5%9B%9E%20%E5%8B%9D%E6%89%8B%E3%81%AB%E4%B8%AD%E7%B6%99%E7%82%B9%EF%BC%81%E6%96%B0%E3%81%9F%E3%81%AA%E3%83%90%E3%83%A9%E3%83%9E%E3%82%AD%E3%81%A8%E6%AD%A2%E3%81%BE%E3%81%A3%E3%81%9F%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1265" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://yamae-foods.net/item/%e9%ab%98%e5%8d%83%e7%a9%82%e5%b3%a1%e3%81%a4%e3%82%86%e3%80%80%e3%81%8b%e3%81%a4%e3%81%8a%e5%91%b3%e3%81%86%e3%81%be%e3%81%8f%e3%81%a1/">高千穂峡つゆ かつお味うまくち | ヤマエ食品工業株式会社</a><br />
+・<a href="https://gric.recherche.usherbrooke.ca/rpaas/">Illegitimate residential proxy services: the case of 911.re and its IOCs</a><br />
+・<a href="https://jsac.jpcert.or.jp/archive/2022/pdf/JSAC2022_3_ino_jp.pdf">国内悪性プロキシサービスとの闘争</a><br />
+・<a href="https://blog.google/threat-analysis-group/exposing-initial-access-broker-ties-conti/">Exposing initial access broker with ties to Conti</a><br />
+・<a href="https://www.proofpoint.com/jp/blog/threat-insight/bumblebee-is-still-transforming">マルウェアBumblebeeのトランスフォーム | Proofpoint JP</a><br />
+・<a href="https://elis531989.medium.com/the-chronicles-of-bumblebee-the-hook-the-bee-and-the-trickbot-connection-686379311056">The chronicles of Bumblebee: The Hook, the Bee, and the Trickbot connection | by Eli Salem | Medium</a><br />
+・<a href="https://attack.mitre.org/techniques/T1553/005/">Subvert Trust Controls: Mark-of-the-Web Bypass, Sub-technique T1553.005 &#8211; Enterprise | MITRE ATT&amp;CK®</a><br />
+・<a href="https://www.advintel.io/post/anatomy-of-attack-truth-behind-the-costa-rica-government-ransomware-5-day-intrusion">Anatomy of Attack: Truth Behind the Costa Rica Government Ransomware 5-Day Intrusion</a><br />
+・<a href="https://thedfirreport.com/2021/11/29/continuing-the-bazar-ransomware-story/">CONTInuing the Bazar Ransomware Story</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/tanktop.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/tanktop-300x247.png" alt="" width="300" height="247" class="alignnone size-medium wp-image-1266" srcset="https://www.tsujileaks.com/wp-content/uploads/tanktop-300x247.png 300w, https://www.tsujileaks.com/wp-content/uploads/tanktop.png 569w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>猫と仲良くなってます。オチもない話もする。不正アクセスとは。定義の共通認識。窓口運用の勘所。アレルギーこわい。蕎麦屋行きたい。知らないものだらけです。れじでんしゃるぷろくしさーびすとは。プライベートVPN使いっぱであるサービスにブロックされたことある。知らないうちに中継点。全くのダマ。注意喚起があまり届いていない感じ。これ広まると守る側が厄介。皆さんプライベートVPN使ってます？マルウェアのほうのバンブルビー。マルウェアの置き換わり。ISOを使う理由。届いた方こっそり教えてください！手口自体は別のマルウェアが使うことも考慮。収録中にどっかに行ったのかと思った。CONTIとコスタリカの話。今度は戦争だ！耳にタコの脆弱性。典型的感ある。外向けHTTPS通信の中身ってどれくらいの組織が見てるかな。攻撃マニュアルがあることを逆手にとれますね。週休2日攻撃。RedTeam演習ぽさ。こういうのは知っておき、来たらどうするかを考えてほしい。攻撃者をあたふたさせよう。物持ちいいんです。レスラーノウハウ。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年07月23日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_220725_tanktop.mp3" length="33136165" type="audio/mpeg" />
+		<itunes:subtitle>Tweet  【関連記事】 ・高千穂峡つゆ かつお味うまくち | ヤマエ食品工業株式会社 ・Ille[...]</itunes:subtitle>
+		<itunes:summary>Tweet  【関連記事】 ・高千穂峡つゆ かつお味うまくち | ヤマエ食品工業株式会社 ・Ille[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:08:49</itunes:duration>
+		</item>
 	<item>
 		<title>第142回 釣りと着火点！スペシャル</title>
 		<link>https://www.tsujileaks.com/?p=1261</link>
@@ -344,33 +379,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1211</link>
 		<pubDate>Mon, 16 May 2022 20:00:18 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1211</guid>
-		<comments>https://www.tsujileaks.com/?p=1211#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1211</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・ババ・ガンプ・シュリンプ 公式サイト – Bubba Gump Shri[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1211" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1211&amp;text=%E7%AC%AC133%E5%9B%9E%20%E5%85%85%E3%81%A1%E3%82%8B%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%EF%BC%81%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%81%95%E3%82%8C%E3%82%8B%E5%B0%8F%E3%83%8D%E3%82%BF%EF%BC%81%E4%BA%A4%E6%B8%89%E3%81%AE%E5%AE%9F%E6%85%8B%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1211" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://bubbagump.jp/">ババ・ガンプ・シュリンプ 公式サイト &#8211; Bubba Gump Shrimp Co.</a><br />
-・<a href="https://blog.talosintelligence.com/2022/05/conti-and-hive-ransomware-operations.html">Cisco Talos Intelligence Group &#8211; Comprehensive Threat Intelligence: Conti and Hive ransomware operations: What we learned from these groups&#8217; victim chats</a><br />
-・<a href="https://www.atlassian.com/ja/blog/post-incident-review-april-2022-outage">2022年4月に発生したアトラシアンのサービス停止に関するインシデント事後レビュー | Atlassian Japan 公式ブログ | アトラシアン株式会社</a><br />
-・<a href="https://developers.google.com/identity/fido">FIDO authentication with passkeys | Google Identity | Google Developers</a><br />
-・<a href="https://www.youtube.com/watch?v=6vnQDn3AUbo">A path to a world without passwords &#8211; YouTube</a><br />
-・<a href="https://www.state.gov/attribution-of-russias-malicious-cyber-activity-against-ukraine/">Attribution of Russia’s Malicious Cyber Activity Against Ukraine &#8211; United States Department of State</a><br />
-・<a href="https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610">Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies | by Alex Birsan | Medium</a><br />
-・<a href="https://snyk.io/blog/npm-dependency-confusion-attack-gxm-reference/">Targeted npm dependency confusion attack caught red-handed | Snyk</a><br />
-・<a href="https://jfrog.com/blog/npm-supply-chain-attack-targets-german-based-companies/">npm Supply Chain Attack Targeting Germany-Based Companies</a><br />
-・<a href="https://blog.reversinglabs.com/blog/npm-dependency-confusion-hacks-target-german-firms">Update: NPM dependency confusion hacks target German firms</a><br />
-・<a href="https://www.lawson.co.jp/recommend/original/detail/1452109_1996.html">生カスタードプリン｜ローソン公式サイト</a><br />
-・<a href="https://www.lawson.co.jp/recommend/original/detail/1452108_1996.html">充ちるカスタードクリームのパイ｜ローソン公式サイト</a><br />
-・<a href="https://www.lawson.co.jp/recommend/original/detail/1452107_1996.html">台湾カステラ ホイップ＆カスタード｜ローソン公式サイト</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/8318ac74d5e68a810cfed71bd58a4389.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/8318ac74d5e68a810cfed71bd58a4389-244x300.png" alt="" width="244" height="300" class="alignnone size-medium wp-image-1214" srcset="https://www.tsujileaks.com/wp-content/uploads/8318ac74d5e68a810cfed71bd58a4389-244x300.png 244w, https://www.tsujileaks.com/wp-content/uploads/8318ac74d5e68a810cfed71bd58a4389-833x1024.png 833w, https://www.tsujileaks.com/wp-content/uploads/8318ac74d5e68a810cfed71bd58a4389-768x944.png 768w, https://www.tsujileaks.com/wp-content/uploads/8318ac74d5e68a810cfed71bd58a4389.png 976w" sizes="(max-width: 244px) 100vw, 244px" /></a></p>
-<p>&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>どこも誰にも気付かれてない。天気の話をしているということは。やっぱりお便りは嬉しいなぁ。悪意がない場合は個人ではなく仕組みに目を向けるのがおすすめ。AirH&#8221;。まとめは少なくともボクたちの需要はありありです。誰から話すか迷うときとそうでないときがある。人それぞれ。コンサルじゃないだろ。言い方とトーンは別として。金額感みなさんはどうですか。ヒント：夜景。減額というよりも適正価格にという感覚かもしれませんね。これから被害に遭うかもしれない方々。もしくは、知りたいだけというニーズの予想かもしれない。中身ぎっしりだけどきれいでボリューミー。報告書に入れるべき感情と姿勢。サイバー攻撃が否かをまず示す、示せることは大事。アトラシアンより知ってたのは。今回のインシデントで知ったのでボクによってはアタラシアン。アップデート地味に好きなんですよね。特定はしたが理由は言えない。気持ちは分かるんだけどモヤっとする。読み込み順序問題。テストだった問題。テストでできているということは既にどこかで？踏み込み度合いはいろいろなところで議論になりますね。スイーツ詳しいわけではないんです。</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2022年05月14日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_20220516_CMYB.mp3" length="32301314" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・ババ・ガンプ・シュリンプ 公式サイト – Bubba Gump Shri[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・ババ・ガンプ・シュリンプ 公式サイト – Bubba Gump Shri[...]</itunes:summary>
