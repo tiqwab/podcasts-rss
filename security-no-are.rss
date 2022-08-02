@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 25 Jul 2022 11:36:23 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Aug 2022 12:31:25 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -46,6 +46,41 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</itunes:category>
 	<itunes:category text="Business" />
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
+	<item>
+		<title>第144回 条例改正とマクロ遮断と全部乗せ漏洩の影響！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1271</link>
+		<pubDate>Mon, 01 Aug 2022 20:00:45 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1271</guid>
+		<comments>https://www.tsujileaks.com/?p=1271#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1271</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet  【関連記事】 ・The State of Stalkerware in 2021 | [...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1271" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1271&amp;text=%E7%AC%AC144%E5%9B%9E%20%E6%9D%A1%E4%BE%8B%E6%94%B9%E6%AD%A3%E3%81%A8%E3%83%9E%E3%82%AF%E3%83%AD%E9%81%AE%E6%96%AD%E3%81%A8%E5%85%A8%E9%83%A8%E4%B9%97%E3%81%9B%E6%BC%8F%E6%B4%A9%E3%81%AE%E5%BD%B1%E9%9F%BF%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1271" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://securelist.com/the-state-of-stalkerware-in-2021/106193/">The State of Stalkerware in 2021 | Securelist</a><br />
+・<a href="https://stopstalkerware.org/">Coalition Against Stalkerware (EN)</a><br />
+・<a href="https://www.keishicho.metro.tokyo.lg.jp/about_mpd/keiyaku_horei_kohyo/horei_jorei/meiwaku_jorei.html">迷惑防止条例（平成30年7月1日施行） 警視庁</a><br />
+・<a href="https://www.proofpoint.com/us/blog/threat-insight/how-threat-actors-are-adapting-post-macro-world">How Threat Actors Are Adapting to a Post-Macro World | Proofpoint US</a><br />
+・<a href="https://www.bleepingcomputer.com/news/microsoft/7-zip-now-supports-windows-mark-of-the-web-security-feature/">7-zip now supports Windows ‘Mark-of-the-Web’ security feature</a><br />
+・<a href="https://krebsonsecurity.com/2022/07/911-proxy-service-implodes-after-disclosing-breach/">911 Proxy Service Implodes After Disclosing Breach – Krebs on Security</a><br />
+・<a href="https://techcrunch.com/2022/07/26/justalk-spilled-millions-of-user-messages-and-locations-for-months/">JusTalk spilled millions of user messages and locations for months – TechCrunch</a><br />
+・<a href="https://techcrunch.com/2022/07/22/justalk-unencrypted/">Messaging app JusTalk is spilling millions of unencrypted messages – TechCrunch</a><br />
+・<a href="https://www.family.co.jp/goods/chilleddaily/2111070.html">昆布の旨味だし醤油冷やっこセット ｜商品情報｜ファミリーマート</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/hamon.jpg"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/hamon-300x200.jpg" alt="" width="300" height="200" class="alignnone size-medium wp-image-1272" srcset="https://www.tsujileaks.com/wp-content/uploads/hamon-300x200.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/hamon-768x512.jpg 768w, https://www.tsujileaks.com/wp-content/uploads/hamon.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>ゆーてますけれども。たまには外出てる。日傘使ってた。閉じたほうがいいときもある。モチベにつながるポッドキャスト。みんなハッピー。新作ステッカーも準備してます。お便り頂戴！みなさんのアクティビティが見える共有ありがとうございます。ボクらだけではリーチできないところのほうが多い。現場依存の話ありがとうございます。ストーカーウェア。TinyCheck試したいけどラズパイかなり値上がりしてるんですよね。見てもらいたいという気持ちは個人の趣味嗜好なので頭ごなしにするなとは言いたくない。マルウェアばらまきの新潮流。1675%増とはいえ元の数字が少ない。7zip検討。911終了のお知らせ。終了のしょうもない理由。ジャストーーク!漏洩全部乗せに加えて真っ赤なライアー。評価はたいてい使う前提でされがち。周りが使っているので仕方なくという側面も。シグナ「リ」。出汁醤油が主役。親愛なる隣人豆腐。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年07月30日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_220801_higayakko.mp3" length="34533679" type="audio/mpeg" />
+		<itunes:subtitle>Tweet  【関連記事】 ・The State of Stalkerware in 2021 | [...]</itunes:subtitle>
+		<itunes:summary>Tweet  【関連記事】 ・The State of Stalkerware in 2021 | [...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:11:44</itunes:duration>
+		</item>
 	<item>
 		<title>第143回 勝手に中継点！新たなバラマキと止まったランサム！スペシャル</title>
 		<link>https://www.tsujileaks.com/?p=1265</link>
@@ -344,29 +379,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1216</link>
 		<pubDate>Mon, 23 May 2022 20:00:43 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1216</guid>
-		<comments>https://www.tsujileaks.com/?p=1216#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1216</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・第26回 – サイバー犯罪に関する白浜シンポジウム ・Insider T[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1216" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1216&amp;text=%E7%AC%AC134%E5%9B%9E%20%E8%84%85%E5%A8%81%20Inside%EF%BC%81%E9%A9%9A%E7%95%B0%20beside%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1216" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://sccs-jp.org/symposium26/">第26回 &#8211; サイバー犯罪に関する白浜シンポジウム</a><br />
-・<a href="https://flashpoint.io/blog/understanding-insider-threats-recruitment-ttps/">Insider Threats: Recruitment Tactics and TTPs | Flashpoint</a><br />
-・<a href="https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220516">Publication of North Korea Information Technology Workers Advisory | U.S. Department of the Treasury</a><br />
-・<a href="https://www.hitachi-id.com/resources/graphics/malware-employees-approached-by-pulse-0-0">The Rising Insider Threat</a><br />
-・<a href="https://www.yomiuri.co.jp/national/20220517-OYT1T50286/">【独自】北朝鮮技術者、日本のスマホアプリ開発…自治体防災アプリなど７件の業務請け負う : 読売新聞オンライン</a><br />
-・<a href="https://www.yomiuri.co.jp/national/20220519-OYT1T50286/">北朝鮮技術者のアプリ開発、２年前の事件でも仲介サイト使用 : 読売新聞オンライン</a><br />
-・<a href="https://web.pref.hyogo.lg.jp/press/20220519_10295.html">兵庫県／ひょうご防災ネットに係る報道の対応について</a><br />
-・<a href="https://news.sophos.com/en-us/2022/04/27/the-state-of-ransomware-2022/">The State of Ransomware 2022 – Sophos News</a><br />
-・<a href="https://news.sophos.com/ja-jp/2022/04/27/the-state-of-ransomware-2022-jp/">ランサムウェアの現状 2022 年版 – Sophos News</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/dryer.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/dryer-300x237.png" alt="" width="300" height="237" class="alignnone size-medium wp-image-1217" srcset="https://www.tsujileaks.com/wp-content/uploads/dryer-300x237.png 300w, https://www.tsujileaks.com/wp-content/uploads/dryer-1024x808.png 1024w, https://www.tsujileaks.com/wp-content/uploads/dryer-768x606.png 768w, https://www.tsujileaks.com/wp-content/uploads/dryer.png 1037w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
-<p>&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>久々に東京から出るんです。聞いたらアカンやつって何あんねん。ランサム以外喋られない病気。3人まだ会えてない。抜き打ちのアレクイズ。一風変わった内部不正の話。増えてる勧誘。そのパターン。人間エモテット。今のご時世も成功率に関係してそう。考えてきてこられなかった印象を受ける。故に手薄なんじゃなかろうか。アクターからアプローチ。規模が大きいとお金もあるけど守るポイントは多くなるんですよね。情報漏洩の〇%は内部犯行なんてフレーズ一時期よく聞きましたね。KangoPiyoのちょうどいい話。マッチングしたその先。チェックが甘かったと行ってしまう気持ちは分かる。でも、現実、チェックしきれないものもあると思う。悪意のある異常とみなせる行動をしていなかったら気付けない問題。いずれにしても成果物の品質は管理しないといけないけれど。今週もブレない。かなり増えてる。日本もいよいよ。参入障壁下がってる。プレイヤーが増えると品質の低いものも出てきますよね。身代金平均支払額が一番多かった国はまさかの。発音への違和感かいな。</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2022年05月21日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_220523_insidebeside.mp3" length="37464332" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・第26回 – サイバー犯罪に関する白浜シンポジウム ・Insider T[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・第26回 – サイバー犯罪に関する白浜シンポジウム ・Insider T[...]</itunes:summary>
