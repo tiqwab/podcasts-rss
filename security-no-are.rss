@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 01 Aug 2022 12:31:25 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Aug 2022 11:00:59 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -46,6 +46,38 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</itunes:category>
 	<itunes:category text="Business" />
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
+	<item>
+		<title>第145回 今日からこのポッドキャストは、TLP:CLEARだ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1276</link>
+		<pubDate>Mon, 08 Aug 2022 20:00:59 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1276</guid>
+		<comments>https://www.tsujileaks.com/?p=1276#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1276</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[未分類]]></category>
+		<description>Tweet  【関連記事】 ・More Privacy and Transparency for D[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1276" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1276&amp;text=%E7%AC%AC145%E5%9B%9E%20%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%81%93%E3%81%AE%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E3%81%AF%E3%80%81TLP%3ACLEAR%E3%81%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1276" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://spreadprivacy.com/more-privacy-and-transparency/">More Privacy and Transparency for DuckDuckGo Web Tracking Protections</a><br />
+・<a href="https://www.first.org/newsroom/releases/20220805">FIRST Releases Traffic Light Protocol Version 2.0 with important updates</a><br />
+・<a href="https://tutanota.com/blog/posts/microsoft-blocks-tutanota-users-from-own-service/">Microsoft blocks Tutanota users from own service: Tutanota users can&#8217;t register a Microsoft Teams account and Microsoft won&#8217;t change this.</a><br />
+・<a href="https://www.coveware.com/blog/2022/7/27/fewer-ransomware-victims-pay-as-medium-ransom-falls-in-q2-2022">Fewer Ransomware Victims Pay, as Median Ransom Falls in Q2 2022</a><br />
+・<a href="https://www.orionbeer.co.jp/story/orion-cider/">沖縄本土復帰前に誕生した「オリオンサイダー」をご存知ですか？ – オリオンストーリー</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/TLPC.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/TLPC.png" alt="" width="217" height="65" class="alignnone size-full wp-image-1278" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>寒暖差激しいのでお気を付けを。もうちょっと話そうや。気になったツイート。まっだまだ届いてない。手を替え品を替え。アイオーティティ。自動アップデートがやはり現実的？ゆーてへんことも書いている辻伸弘メモ。危なさを理由とセットで伝える大切さ。Mark of the Web 対 MARKS&#038;WEB。正真正銘の小ネタ。ボクらのDDGに関するアップデート。最近2.0になったアレ。厳しいほうのアンバー。漫才コンビっぽいな。不満ブログ。便利も安全も万人に提供される。ぶれずにランサム。ランサムアクターに対する向かい風。メリットがデメリットに。攻撃者であっても組織運営は大変そう。身代金を支払うもっともらしい理由を一刀両断。この話はリスナーの方々の組織内でも共有、議論していただきたい。サイバーセキュリティをギャンブルにしてはいけないと思う。「的」ではないアワード。目立たぬようにはしゃがぬように。小粒or二分。ピンとこん表現。いつもと違うバイバイ。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年08月06日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_220808_1stTime.mp3" length="32615947" type="audio/mpeg" />
+		<itunes:subtitle>Tweet  【関連記事】 ・More Privacy and Transparency for D[...]</itunes:subtitle>
+		<itunes:summary>Tweet  【関連記事】 ・More Privacy and Transparency for D[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:07:44</itunes:duration>
+		</item>
 	<item>
 		<title>第144回 条例改正とマクロ遮断と全部乗せ漏洩の影響！スペシャル</title>
 		<link>https://www.tsujileaks.com/?p=1271</link>
@@ -348,25 +380,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1221</link>
 		<pubDate>Tue, 31 May 2022 08:00:49 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1221</guid>
-		<comments>https://www.tsujileaks.com/?p=1221#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1221</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・Risky Business News | Patrick Gray | Subst[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1221" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1221&amp;text=%E7%AC%AC135%E5%9B%9E%20%E3%81%9F%E3%81%A0%E3%81%84%E3%81%BE%EF%BC%8116%2B3%E6%99%82%E9%96%93%E5%AF%9D%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%9C%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1221" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://riskybiznews.substack.com/">Risky Business News | Patrick Gray | Substack</a><br />
-・<a href="https://risky.biz/">Risky Business &#8211; Risky Business</a><br />
-・<a href="https://www.chunichi.co.jp/article/476527">富山県、今月２件目情報漏えい　メールに書類を誤添付</a><br />
-・<a href="https://sccs-jp.org/symposium26/">第26回 &#8211; サイバー犯罪に関する白浜シンポジウム</a><br />
-・<a href="https://ja.wikipedia.org/wiki/%E9%87%91%E5%B1%B1%E5%AF%BA%E5%91%B3%E5%99%8C">金山寺味噌 &#8211; Wikipedia</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/log.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/log-300x270.png" alt="" width="300" height="270" class="alignnone size-medium wp-image-1222" srcset="https://www.tsujileaks.com/wp-content/uploads/log-300x270.png 300w, https://www.tsujileaks.com/wp-content/uploads/log.png 747w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
-<p>&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>ただいま！亜種アランス。アレ勢の使いの者です。ドライヤー関連。おもいましました。悪戦苦闘。出張には自前のドライヤー持っていく派。吐息のほうが乾くやろ。コンビニのステッカーちゃんと進めてます。小ネタ結構楽しみなんですよね。大パイセンポッドキャスト。やみくもに探すよりRSSよりとっつきやすいかも。ネタのチョイスもいい。まずはやってみる大切さ。頻発する誤送信誤送付。二重チェックの二重目が原因を生むことも。誤送信が多いところはもちろん外部とのやり取りが多い。対策：めっちゃ気を付ける。テーマになるとはなぁ。比較的見つけやすい辻。持って行った名刺がすべて他人のものに置き換わる。クロノロジー。この二年の総まとめをしゃべった感じでした。写真撮影OKのセッションにしました。取り組みの中で逮捕だけではなくどういった形で貢献できるのかと広い視野を持ったほうがいいと思っております。驚き味噌でした。</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2022年05月29日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_220531_result20.mp3" length="30807932" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・Risky Business News | Patrick Gray | Subst[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・Risky Business News | Patrick Gray | Subst[...]</itunes:summary>
