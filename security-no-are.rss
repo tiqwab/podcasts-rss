@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 22 Aug 2022 11:12:19 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 28 Aug 2022 16:23:59 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -88,7 +88,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1276</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[podcast]]></category>
-		<category><![CDATA[未分類]]></category>
 		<description>Tweet  【関連記事】 ・More Privacy and Transparency for D[...]</description>
 		<content:encoded><![CDATA[<div id="tweetbutton1276" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1276&amp;text=%E7%AC%AC145%E5%9B%9E%20%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%81%93%E3%81%AE%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E3%81%AF%E3%80%81TLP%3ACLEAR%E3%81%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1276" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
 <p>【関連記事】</p>
