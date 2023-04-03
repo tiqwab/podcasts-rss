@@ -20,7 +20,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-		<generator>https://wordpress.org/?v=6.1.1</generator>
+		<generator>https://wordpress.org/?v=6.2</generator>
 	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 	<itunes:new-feed-url>https://www.tsujileaks.com/?feed=podcast</itunes:new-feed-url>
 	<itunes:summary>サイバーでセキュリティな話題を取り上げるポッドキャストです！!</itunes:summary>
