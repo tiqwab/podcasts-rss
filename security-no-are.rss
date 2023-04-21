@@ -33,7 +33,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<itunes:subtitle>ゆるーいセキュリティのポッドキャストですよ。</itunes:subtitle>
 	<image>
 		<title>セキュリティのアレ</title>
-		<url>https://tsujileaks.com/are_logo.png</url>
+		<url>http://www.tsujileaks.com/wp-content/uploads/circle_Are-1.png</url>
 		<link>http://www.tsujileaks.com</link>
 	</image>
 	<itunes:category text="Technology" />
