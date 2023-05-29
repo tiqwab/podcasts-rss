@@ -30,6 +30,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<itunes:owner>
 		<itunes:name>セキュリティのアレ</itunes:name>
 	</itunes:owner>
+	<podcast:medium>podcast</podcast:medium>
 	<itunes:subtitle>ゆるーいセキュリティのポッドキャストですよ。</itunes:subtitle>
 	<image>
 		<title>セキュリティのアレ</title>
