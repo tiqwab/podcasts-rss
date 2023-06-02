@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 29 May 2023 11:00:18 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Jun 2023 18:31:06 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -34,7 +34,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<itunes:subtitle>ゆるーいセキュリティのポッドキャストですよ。</itunes:subtitle>
 	<image>
 		<title>セキュリティのアレ</title>
-		<url>http://www.tsujileaks.com/wp-content/uploads/circle_Are-1.png</url>
+		<url>http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png</url>
 		<link>http://www.tsujileaks.com</link>
 	</image>
 	<itunes:category text="Technology" />
