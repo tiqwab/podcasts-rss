@@ -51,6 +51,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:category text="Tech News" />
 	</itunes:category>
 	<itunes:category text="Business" />
+	<podcast:podping usesPodping="true" />
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
