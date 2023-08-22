@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 14 Aug 2023 11:29:42 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Aug 2023 11:00:39 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -55,6 +55,51 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第191回 偽らない偽りもあるんだぜ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1587</link>
+		<pubDate>Mon, 21 Aug 2023 11:00:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=1587</guid>
+		<comments>https://www.tsujileaks.com/?p=1587#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1587</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet【関連記事】 ・ソシャゲ公式さん、サービス継続に必要な金額を１円単位で公開してしまうwwww &amp;#8[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1587" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1587&amp;text=%E7%AC%AC191%E5%9B%9E%20%E5%81%BD%E3%82%89%E3%81%AA%E3%81%84%E5%81%BD%E3%82%8A%E3%82%82%E3%81%82%E3%82%8B%E3%82%93%E3%81%A0%E3%81%9C%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1587" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
+<p>・<a href="https://www.youtube.com/watch?v=lBE8XYuEqYo">ソシャゲ公式さん、サービス継続に必要な金額を１円単位で公開してしまうwwww &#8211; YouTube</a><br />
+・<a href="https://news.mynavi.jp/techplus/article/techp4877/">放置系スマホRPG「偽りのアリス」、ユーザー最重視の障害対応 [事故対応アワード受賞レポート] | TECH+（テックプラス）</a><br />
+・<a href="https://research.nccgroup.com/2023/08/15/approximately-2000-citrix-netscalers-backdoored-in-mass-exploitation-campaign/">Approximately 2000 Citrix NetScalers backdoored in mass-exploitation campaign | NCC Group Research Blog | Making the world safer and more secure</a><br />
+・<a href="https://www.europol.europa.eu/media-press/newsroom/news/5-arrested-in-poland-for-running-bulletproof-hosting-service-for-cybercrime-gangs">5 arrested in Poland for running bulletproof hosting service for cybercrime gangs | Europol</a><br />
+・<a href="https://www.justice.gov/opa/pr/administrator-bulletproof-webhosting-domain-charged-connection-facilitation-netwalker">Office of Public Affairs | Administrator of ‘Bulletproof’ Webhosting Domain Charged in Connection with Facilitation of NetWalker Ransomware | United States Department of Justice</a><br />
+・<a href="https://www.asahi.com/articles/ASR884RWLR87UTIL040.html">初の国際サイバー捜査、インドネシア人逮捕 世界的詐欺ツールを使用：朝日新聞デジタル</a><br />
+・<a href="https://io.cyberdefense.jp/entry/16Shop/">16Shop関係者逮捕の舞台裏</a><br />
+・<a href="https://www.bleepingcomputer.com/news/security/file-sharing-site-anonfiles-shuts-down-due-to-overwhelming-abuse/">File sharing site Anonfiles shuts down due to overwhelming abuse</a><br />
+・<a href="https://www.recordedfuture.com/threat-actors-leverage-internet-services-to-enhance-data-theft-and-weaken-security-defenses">Threat Actors Leverage Internet Services to Enhance Data Theft and Weaken Security Defenses | Recorded Future</a><br />
+・<a href="https://www.youtube.com/watch?v=eUdmON7OPXM">Travis Scott &#8211; HYAENA &#8211; YouTube</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/bughuntjpg.jpg"><img decoding="async" fetchpriority="high" src="http://www.tsujileaks.com/wp-content/uploads/bughuntjpg-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1588" srcset="https://www.tsujileaks.com/wp-content/uploads/bughuntjpg-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/bughuntjpg-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/bughuntjpg-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/bughuntjpg.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>死にかけたことあるくらい好きなアレ。覚えてますか？チー牛速報さんありがとうございます！愛されているサービス。お風呂のお供に！おかきやあられが好きなんですよ。立場や見る角度によって答えが変わる。取り上げるタイミングがなかった脆弱性。雲行きが変わったので紹介。KEVにもすぐに掲載。微妙に違う404なので分かる。脆弱性の対処はしていたけど、侵害の可能性を考慮できていなかった。3日から4日以内に対処していても間に合わない問題。まだ現在進行形。注意喚起の仕方も場合によってはスコープを広めないといけないですね。防弾ホスティングの管理者が逮捕。ポーランドには「Bolek and Lolek」っていうアニメがあったんですよね。別の犯罪との繋がり。長らく点だったものが繋がった。「はい」。同じ目的のために同じ方向を向いてできる限りの協力ができるといいな。AnonFilesはお馴染みかお馴染みで無いか。お気持ち（？）表明の後の閉鎖。理由と影響。このドメイン欲しい。今後のリークの経路。どの正規のサービスがマルウェアによく使われているか。久々のニューアルバム。わたくしのイメージは全く伝わらんことがあるんですよ。</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| 1 | いつもの雑談から                             | 00:00 |<br />
+| 2 | お便りのコーナー                             | 08:13 |<br />
+| 3 | (N) Citrix ADC の脆弱性 CVE-2023-3519 の話 | 18:31 |<br />
+| 4 | (T) 点と点をつないで線にする話                    | 36:05 |<br />
+| 5 | (P) Anonfiles がサービス終了した話             | 49:06 |<br />
+| 6 | オススメのアレ                              | 60:12 |
+</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2023年08月20日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_230821_itsuari.mp3" length="30365299" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・ソシャゲ公式さん、サービス継続に必要な金額を１円単位で公開してしまうwwww &amp;#8[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・ソシャゲ公式さん、サービス継続に必要な金額を１円単位で公開してしまうwwww &amp;#8[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:03:03</itunes:duration>
+	</item>
+	<item>
 		<title>第190回 どこがどう狙われとんねん！？スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1582</link>
 		<pubDate>Mon, 14 Aug 2023 11:00:39 +0000</pubDate>
@@ -70,7 +115,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://www.blackhat.com/us-23/briefings/schedule/index.html#i-watched-you-roll-the-die-unparalleled-rdp-monitoring-reveal-attackers-tradecraft-33110">I Watched You Roll the Die: Unparalleled RDP Monitoring Reveal Attackers&#39; Tradecraft &#8211; Black Hat USA 2023 | Briefings Schedule</a><br />
 ・<a href="https://www.wired.com/story/hacker-honeypot-go-secure/">A Clever Honeypot Tricked Hackers Into Revealing Their Secrets | WIRED</a><br />
 ・<a href="https://www.ja-town.com/shop/g/g840104004/">つぶらなカボス 190g×30本: JA全農おおいた|【ＪＡタウン】産地直送 通販 お取り寄せ</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/piyogouri.jpg"><img decoding="async" fetchpriority="high" src="http://www.tsujileaks.com/wp-content/uploads/piyogouri-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1583" srcset="https://www.tsujileaks.com/wp-content/uploads/piyogouri-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/piyogouri-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/piyogouri-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/piyogouri.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/piyogouri.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/piyogouri-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1583" srcset="https://www.tsujileaks.com/wp-content/uploads/piyogouri-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/piyogouri-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/piyogouri-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/piyogouri.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：こんなことある？排水口の怪。今もそこにいる。書き換えられない。書き換えさせない。何も足さない。何も引かない。みんな同じタイミングで気になっていた人が多かった脆弱性。関東の人も「やわくする」って言うんですね。ステッカーの御利益。プチプチぃ。なんでそんなん続けてるんですかって聞かれる話。懐かしいNAYANAが大きなきっかけ。何て呼べば良いのか分からなかったあの頃。1月から7月までの集計結果。建設・土木と入れ替わった業種とは。3年間通して北半球・南半球の割合の変化はどうか。変に怖がらせないための調査もある。AiTMの話。間に入るタイプのフィッシング。認証だけじゃなくて認可も取られちゃうってゆー。PhaaSで月400ドルくらいってすぐペイできそうですね。多段階のリダイレクト。びずどびばがた。狙っている人たちの属性に偏り。永続性の確保のために追加する情報。今の状態で守れるのかどうかを手口から考えてみる。RDPハニポの3年。約300セッションの分析結果。GoSecureは社名かも。ゲームのジョブになぞらえて攻撃者を分類。吟遊詩人がしょぼかった。と思ったら自分にない発想だった。仕掛けられたツール興味深い。つぶつぶ。</p>
 <blockquote>
@@ -153,7 +198,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://forums.ivanti.com/s/article/CVE-2023-35081-Arbitrary-File-Write">CVE-2023-35081 &#8211; Remote Arbitrary File Write</a><br />
 ・<a href="https://doublepulsar.com/mobileirony-backdoor-allows-complete-takeover-of-mobile-security-product-and-endpoints-559733d612e1">MobileIrony backdoor allows complete takeover of mobile security product and endpoints. | by Kevin Beaumont | Jul, 2023 | DoublePulsar</a><br />
 ・<a href="http://yasuda-yogurt.co.jp/seihin/drink.html">ドリンクヨーグルト｜有限会社ヤスダヨーグルト</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/sumomomomomomomomomomomo.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/sumomomomomomomomomomomo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1570" srcset="https://www.tsujileaks.com/wp-content/uploads/sumomomomomomomomomomomo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/sumomomomomomomomomomomo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/sumomomomomomomomomomomo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/sumomomomomomomomomomomo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/sumomomomomomomomomomomo.jpg"><img decoding="async" loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/sumomomomomomomomomomomo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1570" srcset="https://www.tsujileaks.com/wp-content/uploads/sumomomomomomomomomomomo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/sumomomomomomomomomomomo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/sumomomomomomomomomomomo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/sumomomomomomomomomomomo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：夜中にネットでお買い物の是非。還暦祝いのときも。購買ヤー。タイトルの件。オレが○○。どこからでも気軽に聴いてくださいね！いつものGoogleのゼロデイのやつ。実質ゼロデイ。Nデイ、ゼロデイの判断。ゼロクリックのための傾向。コンポーネントすべてを把握する困難さ。モグラ叩きのような対応。やっぱ情報の共有は大事。地味だけど可能性まだまだあると思うんですよ。Androidの脆弱性の悪用って身近で聞きます？勝負はNになってからかもしれない。運用面での強み。辻さん大好COVEWARE。支払い率などのもろもろの推移。平均と中央の比較。他の組織のレポートと近い感じ。謎の分析入れてくる傾向ある。ちょっと格好付けたけど英語でもよく分からなかったんです。すいません。気になった5つのうちの1つ。情報窃取のみの脅迫の成功率。薄利多売以外の可能性。アタックベクターの傾向のマズさ。Unknownの内訳。ある脆弱性の話をしよう。認証バイパスからのディレクトリトラバーサル。ある政府機関向けに悪用が確認されていたっぽい。はじめは一般公開ではなかった。本当に初なのか。どうやって気付いたんだろう。そして何をされたのか。○○界の王様。え？見たことも聞いたこともない？！ゲル！</p>
 <blockquote>
@@ -437,37 +482,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1514</link>
 		<pubDate>Mon, 05 Jun 2023 11:00:19 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1514</guid>
-		<comments>https://www.tsujileaks.com/?p=1514#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1514</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・2023-05-31 // SITUATIONAL AWARENESS // Spy[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1514" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1514&amp;text=%E7%AC%AC181%E5%9B%9E%20%E9%9C%B2%E5%87%BA%EF%BC%81%E9%9C%B2%E5%87%BA%EF%BC%81%E3%81%A7%E3%81%A7%E3%82%93%E3%81%A7%E3%82%93%E3%81%A7%E3%81%A7%E3%82%93%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1514" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://www.reddit.com/r/crowdstrike/comments/13wjrgn/20230531_situational_awareness_spyboy_defense/">2023-05-31 // SITUATIONAL AWARENESS // Spyboy Defense Evasion Tool Advertised Online : r/crowdstrike</a><br />
-・<a href="https://www.bleepingcomputer.com/news/security/terminator-antivirus-killer-is-a-vulnerable-windows-driver-in-disguise/">Terminator antivirus killer is a vulnerable Windows driver in disguise</a><br />
-・<a href="https://news.sophos.com/en-us/2023/04/19/aukill-edr-killer-malware-abuses-process-explorer-driver/">‘AuKill’ EDR killer malware abuses Process Explorer driver – Sophos News</a><br />
-・<a href="https://news.sophos.com/en-us/2022/10/04/blackbyte-ransomware-returns/">Remove All The Callbacks – BlackByte Ransomware Disables EDR Via RTCore64.sys Abuse – Sophos News</a><br />
-・<a href="https://www.meti.go.jp/press/2023/05/20230529001/20230529001.html">「ASM（Attack Surface Management）導入ガイダンス～外部から把握出来る情報を用いて自組織のIT資産を発見し管理する～」を取りまとめました （METI/経済産業省）</a><br />
-・<a href="https://www.cisa.gov/news-events/directives/binding-operational-directive-23-01">Binding Operational Directive 23-01 | CISA</a><br />
-・<a href="https://cyberint.com/blog/research/the-new-darkweb-forum-exposedvc-forums/">The New DarkWeb Forum: ExposedVC Forums</a><br />
-・<a href="https://www.bleepingcomputer.com/news/security/new-hacking-forum-leaks-data-of-478-000-raidforums-members/">New hacking forum leaks data of 478,000 RaidForums members</a><br />
-・<a href="https://www.qsr.mlit.go.jp/site_files/newstopics_files/20230528/23052801.pdf">個人情報の流出に関するお知らせとお詫び</a><br />
-・<a href="https://nonoji.jp/products/cbp-04g">大量千切りキャベツにおすすめ2枚刃ピーラー『キャベピィMAX』｜ののじ公式サイト｜ののじ公式サイト</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/sweets.jpg"><img decoding="async" loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/sweets-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1515" srcset="https://www.tsujileaks.com/wp-content/uploads/sweets-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/sweets-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/sweets-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/sweets.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>収録始まるまでが大変でした。ちょっとボクの音声があまりよくないです。デバイストラブルはいつも辻。高校生のときの初PC。外付けCDROMドライブが10個。ITmediaで「つもり」をテーマにお話してきました。おすすめされてへんセッション。そんな毒出てる？ででんでんででん。EDRなどを止める攻撃。とはいえいくつかの条件がある。検知を期待していたら。昔からあるけれど見落としがちな観点かもしれない。想定する攻撃のシナリオとして○○されたらと少し不利な条件で考えてみるのもいいと思います。経産省のASM導入ガイド。定義の理解大事。用いる手法についても自分の理解と照らし合わせてみるといいかも。ヒューマンスキルのところポイントだと思いました。調査する際のIPアドレスはどういうものを使うのか。やっちまったぜセミナー風。これまであまりやってこれていなかったところはどこかを意識。名前が付いたことで広まるということもある。新しく何かを買わないといけないと思い込まないでくださいね。新しいフォーラムの話。公開されてしまった情報についての触り方は難しいですね。新しいフォーラムはポイント稼ぎで若干カオスな感じもある。見る必要があるのかないのか。ないなら見ないにこしたことはないですね。ふぅわーしたらできるんですよ。アレ勢の中には、持ってる勢がすでにいるかも。<br />
-&nbsp;<br />
-【チャプター】<br />
-| 1 | いつもの雑談から                   | 00:00 |<br />
-| 2 | お便りのコーナー                   | 04:30 |<br />
-| 3 | (N) EDR を回避する攻撃ツールと BYOVD  | 08:44 |<br />
-| 4 | (T) ASM 導入ガイダンス            | 21:17 |<br />
-| 5 | (P) 新たなハッキングフォーラムと最近のリーク事情 | 38:09 |<br />
-| 6 | オススメのアレ                    | 52:15 |<br />
-&nbsp;</p>
-<p>収録日: 2023年06月03日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_230605_kpMAX.mp3" length="28036617" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・2023-05-31 // SITUATIONAL AWARENESS // Spy[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・2023-05-31 // SITUATIONAL AWARENESS // Spy[...]</itunes:summary>
