@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 23 Oct 2023 11:00:52 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 Nov 2023 23:00:26 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -55,6 +55,49 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第199回 あと1回！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1626</link>
+		<pubDate>Mon, 06 Nov 2023 23:00:26 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1626</guid>
+		<comments>https://www.tsujileaks.com/?p=1626#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1626</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet・Unauthorized Access to Okta’s Support Case [...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1626" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1626&amp;text=%E7%AC%AC199%E5%9B%9E%20%E3%81%82%E3%81%A81%E5%9B%9E%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1626" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://sec.okta.com/harfiles/">Unauthorized Access to Okta&#8217;s Support Case Management System: Root Cause and Remediation | Okta Security</a><br />
+・<a href="https://notes.valdikss.org.ru/jabber.ru-mitm/">Encrypted traffic interception on Hetzner and Linode targeting the largest Russian XMPP (Jabber) messaging service —</a><br />
+・<a href="https://www.cisa.gov/news-events/news/ransomware-vulnerability-warning-pilot-updates-now-one-stop-resource-known-exploited-vulnerabilities">Ransomware Vulnerability Warning Pilot updates: Now a One-stop Resource for Known Exploited Vulnerabilities and Misconfigurations Linked to Ransomware | CISA</a><br />
+・<a href="https://www.coveware.com/blog/2023/10/27/scattered-ransomware-attribution-blurs-focus-on-ir-fundamentals">Scattered Ransomware Attribution Blurs Focus on IR Fundamentals</a><br />
+・<a href="https://www.tines.com/reports/voice-of-the-soc-2023/">Report: Voice of the SOC 2023 | Tines</a><br />
+・<a href="http://everyday-movie.jp/">映画『Every Day』公式サイト 全国巡回上映中</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/mushroom.jpg"><img decoding="async" fetchpriority="high" src="http://www.tsujileaks.com/wp-content/uploads/mushroom-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1627" srcset="https://www.tsujileaks.com/wp-content/uploads/mushroom-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mushroom-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mushroom-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mushroom.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>謝罪です。どっちが元祖やねんのアレ。新語・流行語大賞。新しい学校のリーダーズもね！どこで流行してるのか疑惑。気付いててもスルーしていくスタイル。勝手に全国区と思っているものってありますよね。合格者続出のポッドキャスト。今まで一番良かった回、印象に残った回教えてください！きちんと過去ネタもアップデートしていくぅ！また個人のやつ！これは根深いと思っています。伝えていかないとと思っています。JavaやないでJabberやで。切れてなーい！法執行機関の網？更新漏れはワザと？ものっそいちっちゃい文字での提出のアレが思い出される。KEVの新しい列について。2割近くって思ったより多かった。悪用された年とCVE番号のギャップ。2017年の境目。異なるタイプ攻撃者の隔たりが小さくなっているっぽい。KEVの新しい使い方思いついたんですけど。実績の軸ほしい。どこが使っているかを把握しててもすべてではないからなのか。生々しい実態調査。驚異の満足度。とはいえ燃え尽きもある。非常に燃え尽きてるってもうススやん。何年目移行燃え尽きやすいみたいな数字は知りたかった。立場が変わっても離れられないのかも。コミュニケーションがしんどいだってー！？色々大杉問題。どれくらい移る気持ちが高いのかも気になる。変わるべきは両方って多いと思うんです。なんとなく過ごしている毎日について。</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| 1 | いつもの雑談から                         | 00:00 |<br />
+| 2 | お便りのコーナー                         | 06:52 |<br />
+| 3 | (N) Okta への不正アクセスの続報             | 15:35 |<br />
+| 4 | (N) ドイツであるサービスの暗号化通信が盗聴 ?        | 20:16 |<br />
+| 5 | (T) KEV カタログにランサムウェア関連の項目が追加された話 | 31:43 |<br />
+| 6 | (P) SOC に勤務する人達の本音レポート           | 46:58 |<br />
+| 7 | オススメのアレ                          | 65:42 |
+</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2023年11月05日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_231107_4238.mp3" length="33462462" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・Unauthorized Access to Okta’s Support Case [...]</itunes:subtitle>
+		<itunes:summary>Tweet・Unauthorized Access to Okta’s Support Case [...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:09:30</itunes:duration>
+	</item>
+	<item>
 		<title>第198回 なんだかんだ泥臭く行くのだ！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1622</link>
 		<pubDate>Mon, 23 Oct 2023 11:00:52 +0000</pubDate>
@@ -77,7 +120,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://www.trendmicro.com/en_us/research/23/j/darkgate-opens-organizations-for-attack-via-skype-teams.html">DarkGate Opens Organizations for Attack via Skype, Teams</a><br />
 ・<a href="https://www.oliversauce.com/doro/">濃熟旨辛どろソース｜オリバーソース</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/pf.jpg"><img decoding="async" fetchpriority="high" src="http://www.tsujileaks.com/wp-content/uploads/pf-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1623" srcset="https://www.tsujileaks.com/wp-content/uploads/pf-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/pf-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/pf-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/pf.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/pf.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/pf-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1623" srcset="https://www.tsujileaks.com/wp-content/uploads/pf-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/pf-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/pf-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/pf.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：</p>
 <blockquote><p>結構三人で喋ってる。長らく使っているもの。ゆくゆくは丸見え。イリーガルジャージ。CPEにもなるアレ。おかえりなさい！毎回新鮮だけど大枠変わってない。自分の仕事の説明。皆さんも買って感想くれるの嬉しいんですよね。未知のメカニズム。アカウント作成の脆弱性は厄介。結構なオーダー。被害の詳細は公開されていない。まだまだに外に空いてるんですね。意識できてるのはどのくらい？できてたら制御してそうだからやっぱできてないんじゃなかろうか。再起動したら消えるのって昔ペストって呼ばれた時期ありましたね。アップデートしてないと何でやられたか追いにくいというのもある。窃取理由は書いてないけど認証情報が予め盗まれてたものが悪用！から始まる話ちょくちょく見かけるようになった。oktaの向こう側。ダメージコントロールすごっ。鍵束狙うみたいな。あたたたたたたた多機能！10人限定販売でも使う人数が10人とは限らないかな。メールやWebではない経路で来た。チャット版スレッドハイジャック。Autoit。関係あるやんけ。初のゼロ。分業・専業って手強いな。濃熟旨辛。オイソース。</p>
@@ -160,7 +203,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://www.coalitioninc.com/announcements/2023-claims-report-mid-year-update">Coalition&#8217;s Cyber Claims Report Finds Frequency and Severity Increased in 1H 23</a><br />
 ・<a href="https://guard.lion.co.jp/style/">しわとり・消臭・除菌・防臭ができるトータルケアスプレー「お洋服のスタイルガード」｜ライオン株式会社</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/yakioimo.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/yakioimo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1611" srcset="https://www.tsujileaks.com/wp-content/uploads/yakioimo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/yakioimo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/yakioimo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/yakioimo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/yakioimo.jpg"><img decoding="async" loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/yakioimo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1611" srcset="https://www.tsujileaks.com/wp-content/uploads/yakioimo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/yakioimo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/yakioimo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/yakioimo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：</p>
 <blockquote><p>BODづくしのパネル。今回のパネルの辻的ハイライト。笑ってくれてましたか？寝てる人を起こすには。蚊が元気なタイミング。1000超えたから考える運用方法。ちょぴりBYODの場合の侵害の影響範囲。気付きのあるポッドキャスト。それぞれの情報収集。悪用された脆弱性の分析。悪用されるまでの日数ってどんどん短くなり続けてますよね。公表から1年経ってから悪用された脆弱性が何だったのか気になりますね。分析組織による観測範囲の偏りはあるかもしれませんね。攻撃側にもある優先度。内訳知りたい！知りたい！今出た意味。日本語のと英語のとで結構内容が異なる。ファームウェアの書き換えってめちゃくちゃ厄介やなぁ。JCDC = Joint Cyber Defense Collaborative。CISCOのアンサー。警視庁の注意喚起が参考として掲載。ほんで何したらええんかいな。出すことそのものが目的の可能性。今日も今日とて。保険会社のランサム分析。ユーロじゃなくてドルでした！単価を上げる、BigGame Hunt的なのは他のレポートでも見られますね。底打ちの上昇傾向になのかも。LockBitがアフィリエイトに向けてルールの提案。業種も規模もよりけりであり、どこに来てもおかしくないということには変わりない。皺伸ばシュッシュー！</p>
@@ -449,33 +492,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1576</link>
 		<pubDate>Mon, 07 Aug 2023 11:17:14 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1576</guid>
-		<comments>https://www.tsujileaks.com/?p=1576#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1576</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・中国との関連が疑われる攻撃的、かつ高度なスキルを持つ攻撃者が Barracuda E[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1576" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1576&amp;text=%E7%AC%AC189%E5%9B%9E%20%E3%81%84%E3%81%8D%E3%81%AA%E3%82%8A%E6%80%A5%E3%81%AB%E3%81%B5%E3%81%A8%E4%BD%95%E6%B0%97%E3%81%AA%E3%81%8F%E7%AA%81%E7%84%B6%E3%81%AB%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1576" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://www.mandiant.jp/resources/blog/barracuda-esg-exploited-globally">中国との関連が疑われる攻撃的、かつ高度なスキルを持つ攻撃者が Barracuda ESGのゼロデイ脆弱性（CVE-2023-2868）を悪用 | Mandiant</a><br />
-・<a href="https://www.barracuda.com/company/legal/esg-vulnerability">Barracuda Email Security Gateway Appliance (ESG) Vulnerability</a><br />
-・<a href="https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors">CISA Releases Malware Analysis Reports on Barracuda Backdoors | CISA</a><br />
-・<a href="https://www.cisa.gov/resources-tools/resources/risk-and-vulnerability-assessments">Risk and Vulnerability Assessments | CISA</a><br />
-・<a href="https://flare.io/learn/resources/stealer-logs-and-corporate-access">Stealer Logs &amp; Corporate Access &#8211; Flare | Cyber Threat Intel | Digital Risk Protection</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/tsujisukui.jpg"><img decoding="async" loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/tsujisukui-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1577" srcset="https://www.tsujileaks.com/wp-content/uploads/tsujisukui-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tsujisukui-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tsujisukui-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tsujisukui.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：最後の砦番組。今週は亜種の話はやめよ。今日も絶好調。とうとう出ましたよ。神田明神との棲み分け。お客様先でのアレ。良いタイミングにふと取り上げたくなった話。UNC4841。受信したメールへのスクリーニングの際に不具合。添付ファイルの中身見たときに系。6月から情報が更新され続けている脆弱性。悪用が認められたら機器交換。攻撃自体は昨年から行われていたようです。セキュリティの為に入れた製品が原因でインシデント発生という皮肉な結果。公開せざるを得ないもの・リーチできれなければならないものを守るには。「うっかり」をふるい落としても残るもの。多分購入してると思う。恒久的な緩和策。刻一刻と更新される情報への追随。どんどんですよ。2019年からでてるアレ。重要インフラへのアセスメント結果の傾向レポート。これのイニシャルアクセスの結果を見ていくと。1位と2位が入れ替わったけれども。よくあるものがよくあり続けている。こういうのは時々でも広く見ないと見落としが出ると反省。8割が人と運用の穴。簡単に取り組めるけど、後回しになりがちなもの。InfoStealerの話。経路不明の原因のいくつかはこれが暗躍していると思っています。扱われているものの価値。Telegramからの誘導。AI系の窃取情報。ニーズがあるかは別ですが。仕入れて価値を高めてから売るパターンもあるだろう。価値は自分たちだけではなく、攻撃者が決める側面もある。もっと認知してもらわないといけないものかもしれない。おばあちゃんの知恵袋系。オススメノアレを募集。</p>
-<blockquote>
-<p>&nbsp;<br />
-【チャプター】<br />
-| 1 | いつもの雑談から                                     | 00:00 |<br />
-| 2 | お便りのコーナー                                     | 04:41 |<br />
-| 3 | (P) Barracuda ESG のゼロデイ脆弱性                   | 10:13 |<br />
-| 4 | (N) Risk and Vulnerability Assessments のレポート | 26:41 |<br />
-| 5 | (T) Stealer Logs に関するレポート                    | 43:12 |<br />
-| 6 | オススメのアレ                                      | 61:59 |
-</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2023年08月05日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_230807_dadada.mp3" length="32509675" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・中国との関連が疑われる攻撃的、かつ高度なスキルを持つ攻撃者が Barracuda E[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・中国との関連が疑われる攻撃的、かつ高度なスキルを持つ攻撃者が Barracuda E[...]</itunes:summary>
