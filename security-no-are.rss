@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 27 Nov 2023 11:00:25 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 04 Dec 2023 11:00:03 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -55,6 +55,48 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第203回 呼ばれてへんねん！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1649</link>
+		<pubDate>Mon, 04 Dec 2023 11:00:03 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1649</guid>
+		<comments>https://www.tsujileaks.com/?p=1649#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1649</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet・「現代用語の基礎知識」選 ユーキャン 新語・流行語大賞 ・AlphV files an SEC c[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1649" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1649&amp;text=%E7%AC%AC203%E5%9B%9E%20%E5%91%BC%E3%81%B0%E3%82%8C%E3%81%A6%E3%81%B8%E3%82%93%E3%81%AD%E3%82%93%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1649" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.jiyu.co.jp/singo/">「現代用語の基礎知識」選 ユーキャン 新語・流行語大賞</a><br />
+・<a href="https://www.databreaches.net/alphv-files-an-sec-complaint-against-meridianlink-for-not-disclosing-a-breach-to-the-sec/">AlphV files an SEC complaint against MeridianLink for not disclosing a breach to the SEC (2)</a><br />
+・<a href="https://www.welivesecurity.com/en/cybersecurity/your-voice-is-my-password/">Your voice is my password – the risks of AI-driven voice cloning</a><br />
+・<a href="https://www.theregister.com/2023/11/20/former_infosec_coo_pleads_guilty/">Ex-infosec COO pleads guilty to nightmarish sales strategy • The Register</a><br />
+・<a href="https://www.youtube.com/channel/UCt_ARKKz_7gG8KrdzOseB8A">そいつどいつチャンネル【公式】 &#8211; YouTube</a><br />
+・<a href="https://www.youtube.com/channel/UCohmcZHF7ArQeII80FBvfNQ">きつね日和ch &#8211; YouTube</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/kurokin.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kurokin-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1650" srcset="https://www.tsujileaks.com/wp-content/uploads/kurokin-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kurokin-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kurokin-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kurokin.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>呼ばれてへんねん。38年ぶりでした。アレがソレに貢献。脅迫の仕方が珍しいもの。何のために連絡したんだろう。時間稼ぎ？何処まで何をされたかは明らかにされていない事件。脅迫というか焦らせ方のパターン。安易に罰則というのもまずいかも。悪用のリスクを考えないといけない。盗んだ情報にお金を支払う是非。声のクローンを使った実験。もう現実ですね。これ気付けます？止められます？ITだけで実現するものではなさそうですよね。SIMスワップされてたらコールバックは対策にならないか。どこまでいけるん？自社の宣伝のために攻撃とはえげつない。ランサムでもそういうの昔あったような。早めに見ないといけない動画。</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| 1 | いつもの雑談から                           | 00:00 |<br />
+| 2 | お便りのコーナー                           | 07:50 |<br />
+| 3 | (T) BlackCat の新たな脅迫手法              | 12:16 |<br />
+| 4 | (N) AI で生成した音声クローンによるソーシャルエンジニアリング | 26:00 |<br />
+| 5 | (P) セキュリティ会社の元 COO による犯罪           | 40:04 |<br />
+| 6 | オススメのアレ                            | 53:32 |
+</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2023年12月02日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_231204_SECBECCOO.mp3" length="28181048" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・「現代用語の基礎知識」選 ユーキャン 新語・流行語大賞 ・AlphV files an SEC c[...]</itunes:subtitle>
+		<itunes:summary>Tweet・「現代用語の基礎知識」選 ユーキャン 新語・流行語大賞 ・AlphV files an SEC c[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>58:30</itunes:duration>
+	</item>
+	<item>
 		<title>第202回 アイキャッチの案を大募集だ！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1643</link>
 		<pubDate>Mon, 27 Nov 2023 11:00:25 +0000</pubDate>
@@ -71,7 +113,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://www.microsoft.com/en-us/security/blog/2023/11/22/diamond-sleet-supply-chain-compromise-distributes-a-modified-cyberlink-installer/">Diamond Sleet supply chain compromise distributes a modified CyberLink installer | Microsoft Security Blog</a><br />
 ・<a href="https://jasonmarkk.co.jp/products/quick-wipes-3p">Quick Wipes &#8211; 3 Pack – Jason Markk</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/boukango.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/boukango-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1645" srcset="https://www.tsujileaks.com/wp-content/uploads/boukango-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/boukango-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/boukango-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/boukango.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/boukango.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/boukango-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1645" srcset="https://www.tsujileaks.com/wp-content/uploads/boukango-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/boukango-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/boukango-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/boukango.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：</p>
 <blockquote><p>出張にかける期待がありステッカー多めに持って行ってた。どれがどういう方に刺さるか分からない。なんもおもんない回もあるんやろなぁ。目から鱗のお便り。スルーされてたらアレ勢の方、拾ってください。アイキャッチネタ募集します！変わった注意喚起。これ回避されるの？昔からあったけれども。リンクをクリックしないという注意喚起だけでは足りない気がしてます。画面の向こう側にいる人物が本当に思っている通りなのか。気付くことに全振りってのは良くないとは思う程度。対応をした内容。NoEscapeのある手口。2021年の脆弱性。手練れっぽくない。どういう理由で傾向が異なるのか。これくらいはなんとかしたい。をボトムラインに。名前がややこしいんよ。ソフトウェアサプライチェーンですね。日本も入ってた。特定のソフトウェアがあると正規の動作しかしない。目的と最終ターゲットが何かが気になるところですね。キャンバスをキャンパスって言うてまう。それは何故でしょーか。響いてへん感じか。これは。</p>
@@ -152,7 +194,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://www.cisa.gov/news-events/alerts/2023/11/08/cisa-adds-one-known-exploited-vulnerability-catalog">CISA Adds One Known Exploited Vulnerability to Catalog | CISA</a><br />
 ・<a href="https://www.bitsight.com/blog/new-high-severity-vulnerability-cve-2023-29552-discovered-service-location-protocol-slp">New high-severity vulnerability (CVE-2023-29552) discovered in the Service Location Protocol (SLP) | Bitsight</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/200.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/200-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1636" srcset="https://www.tsujileaks.com/wp-content/uploads/200-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/200-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/200-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/200.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/200.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/200-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1636" srcset="https://www.tsujileaks.com/wp-content/uploads/200-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/200-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/200-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/200.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：</p>
 <blockquote><p>200回です。でも通過点。身近なところにアレ勢。よかった回。ついついツイートって言う。CL0Pの新たなゼロデイ利用。脆弱性対応 != パッチ適用。侵害の可能性を意識した注意喚起。アクセス制御の余地を考える。中身いじれる製品とそれ以外。変更管理ってあまり目が向けられない印象がある。QRコードの怪。使っていた短縮URLのリダイレクトページに。紛らわしいボタン。QRにしたなら短縮やめたほうがよかったですね。自分たちでコントロールできないものを使うことのリスクを考えよう。組織で短縮URLを使う理由って。時代は繰り返される。本物より偽物のほうがでかい。久々の。KEVに追加。SLP。増幅系のやつ。一旦ため込ませるのがミソ。ローカル前提大体ソレ説。誰かが使い始めるというよりサービスで採用されたらって感じですね。「またか」ではなく「異常だ」と感じるべき。出鼻挫いていくスタイル。今後ともよろしくお願いいたします。</p>
@@ -441,33 +483,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1595</link>
 		<pubDate>Mon, 11 Sep 2023 11:00:40 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1595</guid>
-		<comments>https://www.tsujileaks.com/?p=1595#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1595</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・Active North Korean campaign targeting sec[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1595" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1595&amp;text=%E7%AC%AC193%E5%9B%9E%20%E3%81%9D%E3%82%8D%E3%81%9D%E3%82%8D%E7%A7%8B%E3%82%92%E6%84%8F%E8%AD%98%E3%81%97%E3%81%A6%E3%81%84%E3%81%8D%E3%81%9F%E3%81%84%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1595" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/">Active North Korean campaign targeting security researchers</a><br />
-・<a href="https://news.sophos.com/en-us/2023/08/23/active-adversary-for-tech-leaders/">Time keeps on slippin’ slippin’ slippin’: The 2023 Active Adversary Report for Tech Leaders – Sophos News</a><br />
-・<a href="https://www.trendmicro.com/ja_jp/about/press-release/2023/pr-20230831-01.html">パスワードの利用実態調査2023| トレンドマイクロ</a><br />
-・<a href="https://www.ipa.go.jp/security/reports/economics/ishiki2022.html">「2022年度情報セキュリティに対する意識調査【倫理編】【脅威編】」報告書 | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</a><br />
-・<a href="https://www.youtube.com/watch?v=u-8R5n54toE">宇多田ヒカル「Gold　～また逢う日まで～」Music Video</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/tsukimishitemitai.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/tsukimishitemitai-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1596" srcset="https://www.tsujileaks.com/wp-content/uploads/tsukimishitemitai-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tsukimishitemitai-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tsukimishitemitai-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tsukimishitemitai.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：肉体改造に驚愕の事実。誤検知バニー。いい意味でギリギリってなんやろか。環境に優しくないDDoS？合わせ技一本を認知して対処することの難しさ。Xで接近の後。何のゼロデイをどこで使われていたのかは不明。過去に見つかった攻撃で用いられていたシェルコード。なんじゃら。ツールを公開し、それを更新もしていたが。そして、まぁまぁすり抜けていた頃がある。見抜くには。気付くには。注意喚起の方法は。自分は大丈夫と思わないように必要な情報。先日も身元確認したなぁ。上半期のテクノロジーリーダー向けレポート。バリバリバリッドアカウント。かなり悪用されているか根本原因が見えないことが問題。せいぜい推測に留まる。リモートディザスタープロトコル。RDPの悪用箇所はかなりの偏り。久々の攻撃者の滞在時間。攻撃者の過ごし方。攻撃実施タイミングの偏り。リークの曜日と比較しました。攻撃とリークの主体が異なるという前提ではある仮説。パスワードの使い回しの現状の話。使い回す真の勇者？勇気と無謀はちゃいまっせ。不安と感じているが対応が進んでいない。どこかから漏れるということを前提とできていない。伝わっていないのかもしれない。注意喚起する側とされる側の意識のギャップ。対応しない理由と実被害を天秤にかけるとどうなるか。頭打ちかもしれん。なんてないところを歌おうとするとスッカスカになる。単調でも真似ができない本当のうまさ。</p>
-<blockquote>
-<p>&nbsp;<br />
-【チャプター】<br />
-| 1 | いつもの雑談から                           | 00:00 |<br />
-| 2 | お便りのコーナー                           | 03:42 |<br />
-| 3 | (P) セキュリティ研究者を狙う北朝鮮による攻撃キャンペーン     | 08:44 |<br />
-| 4 | (T) Sophos の Active Adversary レポート | 24:25 |<br />
-| 5 | (N) パスワードの利用実態調査 2023              | 41:05 |<br />
-| 6 | オススメのアレ                            | 59:28 |
-</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2023年09月09日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_230911_change.mp3" length="30205446" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・Active North Korean campaign targeting sec[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・Active North Korean campaign targeting sec[...]</itunes:summary>
