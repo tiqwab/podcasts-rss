@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 04 Dec 2023 11:00:03 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Dec 2023 11:00:18 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -55,6 +55,48 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第204回 ギリギリの紹介ラインがあるんだぜ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1655</link>
+		<pubDate>Tue, 12 Dec 2023 11:00:18 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1655</guid>
+		<comments>https://www.tsujileaks.com/?p=1655#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1655</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet・How Insiders Use Vulnerabilities Against Organiza[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1655" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1655&amp;text=%E7%AC%AC204%E5%9B%9E%20%E3%82%AE%E3%83%AA%E3%82%AE%E3%83%AA%E3%81%AE%E7%B4%B9%E4%BB%8B%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%8C%E3%81%82%E3%82%8B%E3%82%93%E3%81%A0%E3%81%9C%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1655" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.crowdstrike.com/blog/how-malicious-insiders-use-known-vulnerabilities-against-organizations/">How Insiders Use Vulnerabilities Against Organizations | CrowdStrike</a><br />
+・<a href="https://nvd.nist.gov/vuln/detail/CVE-2022-28958">NVD &#8211; CVE-2022-28958</a><br />
+・<a href="https://unit42.paloaltonetworks.com/moobot-d-link-devices/">Mirai Variant MooBot Targeting D-Link Devices</a><br />
+・<a href="https://vulncheck.com/blog/moobot-uses-fake-vulnerability">Moobot Uses a Fake Vulnerability &#8211; Blog &#8211; VulnCheck</a><br />
+・<a href="https://www.cisa.gov/news-events/alerts/2023/12/01/cisa-removes-one-known-exploited-vulnerability-catalog">CISA Removes One Known Exploited Vulnerability From Catalog | CISA</a><br />
+・<a href="https://www.uptycs.com/blog/ghostlocker-ransomware-ghostsec">GhostSec offers Ransomware-as-a-Service Possibly Used to Target Israel</a><br />
+・<a href="https://www.sonypictures.jp/he/11330696">オットーという男 | ソニー・ピクチャーズ公式</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/tsu.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/tsu-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1656" srcset="https://www.tsujileaks.com/wp-content/uploads/tsu-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tsu-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tsu-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tsu.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>アレ何で聴いてる？寝てた？キーホルダーいいなぁ。ボイスクローン使用感。訓練と分かるときの挙動。通知ウザウザ詐欺と言っていただいてありがとうございます。相手にコストをかけさせる。ハードルを増やすことに意味はあると思う。年内！年内だけ！組織内での悪意のない権限昇格。使われた脆弱性は幅広。全部KEVに掲載。ユーザの振る舞いをある程度検知することは必要。「できる」と「する」は違いますね。セキュリティきちんとすることは結果的に組織だけではなく個人を守ることでもあると思ってます。かつて脆弱性と呼ばれたもの。調べてみたら機能しないものだった。削除までえらく時間がかかってる。動作しないって結構あるそうです。コストのかかるアクションを引き起こすこともできちゃう。あります。なのか。ありまぁす。なのか。2015年から活動していた。お金の匂いが強めとなったハクティビストがRaaSを始めた。The Five Familiesってマフィアの名前から取ったのかな。主義主張と関係ないターゲットも許容するのは違和感を覚える。筋金入りのガチギャングではなくてもできつつある？曲がったことが大嫌い♪</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| 1 | いつもの雑談から               | 00:00 |<br />
+| 2 | お便りのコーナー               | 08:18 |<br />
+| 3 | (N) 内部からの脅威によるインシデント事例 | 20:29 |<br />
+| 4 | (P) かつて脆弱性だったもの        | 36:31 |<br />
+| 5 | (T) GhostSec の最近の活動状況  | 52:39 |<br />
+| 6 | オススメのアレ                | 65:56 |</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2023年12月11日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_231212_thx.mp3" length="34333156" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・How Insiders Use Vulnerabilities Against Organiza[...]</itunes:subtitle>
+		<itunes:summary>Tweet・How Insiders Use Vulnerabilities Against Organiza[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:11:19</itunes:duration>
+	</item>
+	<item>
 		<title>第203回 呼ばれてへんねん！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1649</link>
 		<pubDate>Mon, 04 Dec 2023 11:00:03 +0000</pubDate>
@@ -71,7 +113,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://www.youtube.com/channel/UCt_ARKKz_7gG8KrdzOseB8A">そいつどいつチャンネル【公式】 &#8211; YouTube</a><br />
 ・<a href="https://www.youtube.com/channel/UCohmcZHF7ArQeII80FBvfNQ">きつね日和ch &#8211; YouTube</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/kurokin.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kurokin-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1650" srcset="https://www.tsujileaks.com/wp-content/uploads/kurokin-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kurokin-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kurokin-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kurokin.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/kurokin.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kurokin-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1650" srcset="https://www.tsujileaks.com/wp-content/uploads/kurokin-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kurokin-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kurokin-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kurokin.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：</p>
 <blockquote><p>呼ばれてへんねん。38年ぶりでした。アレがソレに貢献。脅迫の仕方が珍しいもの。何のために連絡したんだろう。時間稼ぎ？何処まで何をされたかは明らかにされていない事件。脅迫というか焦らせ方のパターン。安易に罰則というのもまずいかも。悪用のリスクを考えないといけない。盗んだ情報にお金を支払う是非。声のクローンを使った実験。もう現実ですね。これ気付けます？止められます？ITだけで実現するものではなさそうですよね。SIMスワップされてたらコールバックは対策にならないか。どこまでいけるん？自社の宣伝のために攻撃とはえげつない。ランサムでもそういうの昔あったような。早めに見ないといけない動画。</p>
@@ -154,7 +196,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://www.bitdefender.com/blog/businessinsights/hive-ransomwares-offspring-hunters-international-takes-the-stage/">Hive Ransomware&#8217;s Offspring: Hunters International Takes the Stage</a><br />
 ・<a href="https://www.inaba-p.co.jp/">岐阜県 inaba 稲葉ピーナツホームページ</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1640" srcset="https://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1640" srcset="https://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：</p>
 <blockquote><p>寝起きのチキチクで感じる冬。意外と繊細。2人目。QRなのに短縮URL使う理由。ヤン坊マー坊は1959年から。なかったことなってた。初心でね。新たなMoTW回避。口頭説明の限界に挑戦。タイミング。合わせ技一本系。単体で見ると低い危険度なるので注意が必要。これがあれば被害受けなかったのにとならないように。○分で読めますアテにならない説。20周年おめでとうございます！2003年10月。発表当時はうまくいくのか懐疑的でした。提供する側の工夫、試行錯誤大事。2008年に定例外が始まった。細かいことを考えさせないというのは鍵だと思う。Hiveどこいった？逮捕や起訴は報じられていない。韻踏んでるのは興味なさそう。公式が後継であることを否定。お前Hiveだろ？他のリークサイトとの違い。暗号化しないほうが攻撃の手間が減るのを狙ってる？RaaSの引き際パターン。食料品は見て回るのが好き。</p>
@@ -440,35 +482,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1600</link>
 		<pubDate>Mon, 18 Sep 2023 11:00:04 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1600</guid>
-		<comments>https://www.tsujileaks.com/?p=1600#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1600</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・Security Online Day 2023 秋の陣（2023.09.26‐27[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1600" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1600&amp;text=%E7%AC%AC194%E5%9B%9E%20%E3%82%A2%E3%83%AC%E3%81%A7%E3%81%99%E3%82%88%EF%BC%81%E3%82%A2%E3%83%AC%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1600" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://event.shoeisha.jp/soday/20230926/session/4624">Security Online Day 2023 秋の陣（2023.09.26‐27）</a><br />
-・<a href="https://www.itmedia.co.jp/news/articles/2309/14/news152.html">「Amazonを不正利用された」──SNS上で報告相次ぐ 「二段階認証を突破された」などの声も &#8211; ITmedia NEWS</a><br />
-・<a href="https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=201997820">Amazon.co.jpのクレジットカードセキュリティ &#8211; Amazonカスタマーサービス</a><br />
-・<a href="https://www.microsoft.com/en-us/security/blog/2023/09/14/peach-sandstorm-password-spray-campaigns-enable-intelligence-collection-at-high-value-targets/">Peach Sandstorm password spray campaigns enable intelligence collection at high-value targets | Microsoft Security Blog</a><br />
-・<a href="https://www.microsoft.com/en-us/security/blog/2023/09/12/malware-distributor-storm-0324-facilitates-ransomware-access/">Malware distributor Storm-0324 facilitates ransomware access | Microsoft Security Blog</a><br />
-・<a href="https://www.bleepingcomputer.com/news/security/new-tool-exploits-microsoft-teams-bug-to-send-malware-to-users/">New tool exploits Microsoft Teams bug to send malware to users</a><br />
-・<a href="https://hallmark.jp/collections/card_birthday/products/815042">演歌ネコII【誕生お祝い／オルゴール／熱唱系アニマルズ】 – 日本ホールマーク公式オンラインストア</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/arechamp.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/arechamp-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1602" srcset="https://www.tsujileaks.com/wp-content/uploads/arechamp-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/arechamp-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/arechamp-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/arechamp.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：アレがバズってた。Automaticの意味。告知あります。失恋のアレ。声から入るパターン。編集のマジックがあるので是非、三人のパネルをご視聴ください！まずは目に触れるようにすること。Amazonの不正利用に関して整理してみよう。「二段階認証が突破された」と言ってしまっていい段階なのでしょうか。何に起因してるのかサービス側とユーザ側に分けて考えてみよう。クレジットカード情報の再入力を求められるケースがある。この機能は2016年くらいかあったようですね。原因が単一とは限らないですね。SMSが飛んできていないのであれば突破ではないのかもしれない。イラン国家背景と言われているアクター。数千の組織に対しての初期侵入の方法2つとは。国家背景にしてはえらくアナクロなことしてきますね。分業してる？過去と違うアクセス方法。曜日にも分業感あるかも。足下固めないと。こうしましょうから入らずに攻撃の手口、どのような脅威なのかから入ったほうがええと思ってます。MSレポート繋がり。Stormなんちゃら多すぎてStormストームですやん。IAB活動を主にしている。ランサムギャングにも引き継ぐ。.pubへのMOTW不備の脆弱性も使ってたことも。新しいツールをすぐに取り入れてたっぽい。経路は変わっても守り方はそんなに変わらない。自分たちがまずすぐにできるものは何かを考えよう。対策だけじゃなくて、それを防ぐ脅威や事例があるといい！バックリンクあるといい！得にはアナログもいいのでは？</p>
-<blockquote>
-<p>&nbsp;<br />
-【チャプター】<br />
-| 1 | いつもの雑談から                        | 00:00 |<br />
-| 2 | お便りのコーナー                        | 04:20 |<br />
-| 3 | (P) Amazon の不正利用の謎              | 11:16 |<br />
-| 4 | (N) Peach Sandstorm による攻撃キャンペーン | 26:10 |<br />
-| 5 | (T) Storm-0324 による攻撃キャンペーン      | 41:29 |<br />
-| 6 | オススメのアレ                         | 55:22 |
-</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2023年09月15日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com//media/are_230918_areandare.mp3" length="28697638" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・Security Online Day 2023 秋の陣（2023.09.26‐27[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・Security Online Day 2023 秋の陣（2023.09.26‐27[...]</itunes:summary>
