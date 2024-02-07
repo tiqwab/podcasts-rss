@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 05 Feb 2024 11:00:52 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 06 Feb 2024 10:48:08 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -85,7 +85,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 | 4 | (T) EPSS とは ?              | 28:57 |<br />
 | 5 | (P) Cloudflare への不正アクセス事案  | 51:32 |<br />
 | 6 | オススメのアレ                    | 69:21 |</p>
-<p>収録日: 2024年02月23日</p></blockquote>
+<p>収録日: 2024年02月03日</p></blockquote>
 ]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_240205_mame.mp3" length="35621737" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・不正ログインによる個人情報漏洩のお知らせとお詫び/保育・物流業界の人材派遣・人材紹介 / SESな[...]</itunes:subtitle>
