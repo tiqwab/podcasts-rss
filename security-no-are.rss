@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 06 Feb 2024 10:48:08 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 12 Feb 2024 11:08:47 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -55,6 +55,46 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第211回 なんでか気になることってあるんですわ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1700</link>
+		<pubDate>Mon, 12 Feb 2024 11:00:02 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1700</guid>
+		<comments>https://www.tsujileaks.com/?p=1700#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1700</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet・CVE-2023-35636 – セキュリティ更新プログラム ガイド – [...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1700" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1700&amp;text=%E7%AC%AC211%E5%9B%9E%20%E3%81%AA%E3%82%93%E3%81%A7%E3%81%8B%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A3%E3%81%A6%E3%81%82%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%82%8F%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1700" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-35636">CVE-2023-35636 &#8211; セキュリティ更新プログラム ガイド &#8211; Microsoft &#8211; Microsoft Outlook の情報漏えいの脆弱性</a><br />
+・<a href="https://www.varonis.com/blog/outlook-vulnerability-new-ways-to-leak-ntlm-hashes">Outlook Vulnerability Discovery and New Ways to Leak NTLM Hashes</a><br />
+・<a href="https://techcommunity.microsoft.com/t5/windows-it-pro-blog/the-evolution-of-windows-authentication/ba-p/3926848">The evolution of Windows authentication | Windows IT Pro Blog</a><br />
+・<a href="https://blog.mozilla.org/en/mozilla/introducing-mozilla-monitor-plus-a-new-tool-to-automatically-remove-your-personal-information-from-data-broker-sites/">Introducing Mozilla Monitor Plus, a new tool to automatically remove your personal information from data broker sites</a><br />
+・<a href="https://onerep.com/">Data Removal Service &#8211; Onerep</a><br />
+・<a href="https://citizenlab.ca/2024/02/paperwall-chinese-websites-posing-as-local-news-outlets-with-pro-beijing-content/">PAPERWALL: Chinese Websites Posing as Local News Outlets Target Global Audiences with Pro-Beijing Content &#8211; The Citizen Lab</a><br />
+・<a href="https://ginza-platinum-ya.com/">白金や（プラチナや）</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/arearecooking.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/arearecooking-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1701" srcset="https://www.tsujileaks.com/wp-content/uploads/arearecooking-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/arearecooking-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/arearecooking-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/arearecooking.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：箱根駅伝の怪。だからなんだが雑談です。宇宙船地球号？アンビリカルケーブルとしか表現できない。やってみて考えるのはいいことだと思う。あんなのに？コンビニリサーチャー＆リピーター。何故これなのか最後まで分からない話。若干低めみたいなCVSS値。でもNTLMハッシュが盗まれるやつ。ケースによっては悪用されそうにも思うんです。ワークなんとかってあるやん。ドメインじゃないやつ！自組織のどこでNTLMが使われているのかの把握。日本のユーザは使えない。1000万ユーザもいる？！データブローカー。どこかに登録されている個人情報を削除してくれるんですかっ？！日本でもどうなっているかを調べられればいいんやけどなぁ。ブローカーって言葉の響き。インフルエンスオペレーション。2位で1割以上が日本語。ボクシングコーナーでサッカーを扱う。数で勝負すればいずれ効果でるように思うのでバカにできない。やれることやってみる精神って長い目で見ると強いですよ。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| 1 | いつもの雑談から                        | 00:00 |<br />
+| 2 | お便りのコーナー                        | 09:12 |<br />
+| 3 | (T) Microsoft Outlook の情報漏洩の脆弱性 | 15:24 |<br />
+| 4 | (N) Mozilla Monitor Plus サービスとは | 28:01 |<br />
+| 5 | (P) 中国からの影響工作キャンペーン PAPERWALL   | 41:28 |<br />
+| 6 | オススメのアレ                         | 59:23 |</p>
+<p>収録日: 2024年02月10日</p></blockquote>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_240212_IDKW.mp3" length="30933751" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・CVE-2023-35636 – セキュリティ更新プログラム ガイド – [...]</itunes:subtitle>
+		<itunes:summary>Tweet・CVE-2023-35636 – セキュリティ更新プログラム ガイド – [...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:04:14</itunes:duration>
+	</item>
+	<item>
 		<title>第210回 まめまめま〜め♪スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1691</link>
 		<pubDate>Mon, 05 Feb 2024 11:00:52 +0000</pubDate>
@@ -73,7 +113,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://blog.cloudflare.com/how-cloudflare-mitigated-yet-another-okta-compromise">How Cloudflare mitigated yet another Okta compromise</a><br />
 ・<a href="https://piyolog.hatenadiary.jp/entry/2024/02/05/013932">Cloudflareの社内サーバーへの不正アクセスについてまとめてみた &#8211; piyolog </a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/dim_sum.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/dim_sum-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1692" srcset="https://www.tsujileaks.com/wp-content/uploads/dim_sum-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/dim_sum-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/dim_sum-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/dim_sum.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/dim_sum.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/dim_sum-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1692" srcset="https://www.tsujileaks.com/wp-content/uploads/dim_sum-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/dim_sum-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/dim_sum-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/dim_sum.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：実は没でした。シュラバラバンバ。日本一感じのいいセキュリティエンジニア目指してた。ジレンマ。線抜くは最強だけども。ちょっと不思議な事件。「サイバー攻撃を受けている旨の」。なんでそれを送ったのか。怨恨？色々進行中ではあるけれど真闇。なかなかに機微。動機はまぁさておいてシステム的にどうかという話もある。ちょいちょい軽く紹介程度で出してたアレ。21年からでもうv3。ちょいとブラックボックス感あるんよなぁ。悪用 != 成功。ちょっとランサム関係してたな。調べた理由があるんですよ。これがなくてもなんとなく分かるものもある。目指す方向はめっちゃいいけど到達できないかもしれない。こじゃれたタイトル。実は見逃しがあったってぞっとする。ハードウェア交換までは相当ですよね。根絶。ない事の証明の難しさ。やっぱり他にもありましたを言う勇気。豆まきの大変さ。白髪ネギ売ってる。<br />
 &nbsp;</p>
@@ -153,7 +193,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://arcticwolf.com/resources/blog/follow-on-extortion-campaign-targeting-victims-of-akira-and-royal-ransomware/">Follow-On Extortion Campaign Targeting Victims of Akira and Royal Ransomware &#8211; Arctic Wolf</a><br />
 ・<a href="https://calpis-butter.jp/">カルピス(株)特撰バターファンサイト カルピス株式会社特撰バターPlus</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/drink.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/drink-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1681" srcset="https://www.tsujileaks.com/wp-content/uploads/drink-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/drink-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/drink-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/drink.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/drink.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/drink-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1681" srcset="https://www.tsujileaks.com/wp-content/uploads/drink-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/drink-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/drink-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/drink.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：やらなアカンことあるけどブログ書いた。セキュリティのアレまとめ。ルンバを買おう。狙われやすくなる理由の推測。目新しいと真新しいたまに間違えそうになる。1年ぶりの不正ログインネタ。元々少ないっちゃ少なかったですが、試行回数って最近書かれなくなりました？新しいアカウントを使わない理由。使えない理由？定期的な変更はやはり気になった。対応しなければならない側に実被害がないのは踏み台IoT機器なくならない問題と同じか。結構日本で使われているアレの脆弱性。お馴染みとなった組み合わせのパターン。脆弱性のみの対処じゃ不足。各所が言っていることが異なる場合に迷いが生じる。回避策を回避されている。正しいことだったとしてもできないことであれば、多少劣ってもできることを薦めるという選択肢。止めるフロー。買収後の名称変更について。ランサム被害者に救いの手。2つの連絡の共通点。toxの時点で雲行きが怪しくなってきた。名前間違いはまずい。今回と過去のミスの奇妙な一致。追撃系は過去にもある。やっぱりデータ削除にお金払うのはやめたほうがいい！セキュリティの売り方と紙一重なところもある？攻撃者がするパターンも考えられる。タレコミ待ってます。最近のフランスパン気合い入ってへん。</p>
 <blockquote>
@@ -425,33 +465,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1639</link>
 		<pubDate>Mon, 20 Nov 2023 11:00:26 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1639</guid>
-		<comments>https://www.tsujileaks.com/?p=1639#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1639</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet・In-Depth Analysis of July 2023 Exploit Chain Feat[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1639" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1639&amp;text=%E7%AC%AC201%E5%9B%9E%20%E3%81%93%E3%81%AE%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E3%81%AF58%E5%88%8637%E7%A7%92%E3%81%A7%E8%81%B4%E3%81%91%E3%81%BE%E3%81%99%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1639" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://unit42.paloaltonetworks.com/new-cve-2023-36584-discovered-in-attack-chain-used-by-russian-apt/">In-Depth Analysis of July 2023 Exploit Chain Featuring CVE-2023-36884 and CVE-2023-36584</a><br />
-・<a href="https://blogs.windows.com/windowsexperience/2023/11/09/reflecting-on-20-years-of-windows-patch-tuesday/">Reflecting on 20 years of Windows Patch Tuesday | Windows Experience Blog</a><br />
-・<a href="https://msrc.microsoft.com/blog/2023/11/reflecting-on-20-years-of-patch-tuesday/">Reflecting on 20 years of Patch Tuesday | MSRC Blog | Microsoft Security Response Center</a><br />
-・<a href="https://www.bitdefender.com/blog/businessinsights/hive-ransomwares-offspring-hunters-international-takes-the-stage/">Hive Ransomware&#8217;s Offspring: Hunters International Takes the Stage</a><br />
-・<a href="https://www.inaba-p.co.jp/">岐阜県 inaba 稲葉ピーナツホームページ</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1640" srcset="https://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>寝起きのチキチクで感じる冬。意外と繊細。2人目。QRなのに短縮URL使う理由。ヤン坊マー坊は1959年から。なかったことなってた。初心でね。新たなMoTW回避。口頭説明の限界に挑戦。タイミング。合わせ技一本系。単体で見ると低い危険度なるので注意が必要。これがあれば被害受けなかったのにとならないように。○分で読めますアテにならない説。20周年おめでとうございます！2003年10月。発表当時はうまくいくのか懐疑的でした。提供する側の工夫、試行錯誤大事。2008年に定例外が始まった。細かいことを考えさせないというのは鍵だと思う。Hiveどこいった？逮捕や起訴は報じられていない。韻踏んでるのは興味なさそう。公式が後継であることを否定。お前Hiveだろ？他のリークサイトとの違い。暗号化しないほうが攻撃の手間が減るのを狙ってる？RaaSの引き際パターン。食料品は見て回るのが好き。</p>
-<p>&nbsp;<br />
-【チャプター】<br />
-| 1 | いつもの雑談から                                | 00:00 |<br />
-| 2 | お便りのコーナー                                | 05:07 |<br />
-| 3 | (P) MotW をバイパスする脆弱性を悪用する攻撃              | 12:33 |<br />
-| 4 | (N) Patch Tuesday 20周年                  | 28:14 |<br />
-| 5 | (T) Hunters International は Hive の後継なのか | 39:43 |<br />
-| 6 | オススメのアレ                                 | 50:48 |
-</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2023年11月18日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_231120_gonna.mp3" length="28237907" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・In-Depth Analysis of July 2023 Exploit Chain Feat[...]</itunes:subtitle>
 		<itunes:summary>Tweet・In-Depth Analysis of July 2023 Exploit Chain Feat[...]</itunes:summary>
