@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 12 Feb 2024 11:08:47 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Feb 2024 11:00:06 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -55,6 +55,50 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第212回 ちゃんと寝て、ちゃんと記録を取ろう！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1707</link>
+		<pubDate>Mon, 19 Feb 2024 11:00:06 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1707</guid>
+		<comments>https://www.tsujileaks.com/?p=1707#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1707</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet・2024年サイバーセキュリティ月間 – NISC ・Open Source Explo[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1707" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1707&amp;text=%E7%AC%AC212%E5%9B%9E%20%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E5%AF%9D%E3%81%A6%E3%80%81%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E8%A8%98%E9%8C%B2%E3%82%92%E5%8F%96%E3%82%8D%E3%81%86%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1707" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://security-portal.nisc.go.jp/cybersecuritymonth/2024/">2024年サイバーセキュリティ月間 &#8211; NISC</a><br />
+・<a href="https://inthewild.io/">Open Source Exploited Vulnerability Feed you can Use for Free</a><br />
+・<a href="https://therecord.media/new-jersey-law-enforcement-sues-data-brokers">New Jersey law enforcement officers sue 118 data brokers for not removing personal info</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2024/01/17/023516">Ivanti Connect Secure、Ivanti Policy Secureの脆弱性 CVE-2023-46805およびCVE-2024-21887についてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://www.cisa.gov/news-events/directives/ed-24-01-mitigate-ivanti-connect-secure-and-ivanti-policy-secure-vulnerabilities">ED 24-01: Mitigate Ivanti Connect Secure and Ivanti Policy Secure Vulnerabilities | CISA</a><br />
+・<a href="https://www.jpcert.or.jp/newsflash/2024021601.html">2024年1月以降のIvanti Connect Secureなどの脆弱性の状況について</a><br />
+・<a href="https://www.justice.gov/opa/pr/justice-department-conducts-court-authorized-disruption-botnet-controlled-russian">Office of Public Affairs | Justice Department Conducts Court-Authorized Disruption of Botnet Controlled by the Russian Federation’s Main Intelligence Directorate of the General Staff (GRU) | United States Department of Justice</a><br />
+・<a href="https://unit42.paloaltonetworks.com/russian-apt-fighting-ursa-exploits-cve-2023-233397/">Fighting Ursa Aka APT28: Illuminating a Covert Campaign</a><br />
+・<a href="https://prtimes.jp/main/html/rd/p/000000081.000087353.html">【AironWorks 独自調査】約8割がセキュリティ被害に遭った企業のサービス利用を躊躇と回答 | AironWorks株式会社のプレスリリース</a><br />
+・<a href="https://listen.style/p/sec_are">セキュリティのアレ &#8211; LISTEN</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/hamburger.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/hamburger-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1706" srcset="https://www.tsujileaks.com/wp-content/uploads/hamburger-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/hamburger-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/hamburger-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/hamburger.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：月間なんでした。アレの活用。でもちょっとアレに触れてくれると嬉しいんです。EPSSのうまい立ち位置。ちゃんと寝て！ケース別の訓練。続報？おかわり？調べたらあった。しかも悪用されてた。更新される情報に付いていけるのか問題。記録大事。必要な情報を必要なときに必要なだけ取り出せるのがITと思ってる。Fancy Bearと呼びたくて。ぉ。どっかで聞いたのと似てる脆弱性。APTグループが乗っ取ってた。のっとってたぼっとねっと。それを更に法執行機関が！これは何サプライチェーンなんや？一石二鳥ですごい！そっちのほうがかっこええ名前。攻撃側の脆弱性を狙うのはアリだけど。こちらは法的な問題をクリアしないといけない。事故対応アワードに親和性ありそうなアンケート。事後対応が影響した例が身近にあった！見えないけどイメージを持たせることが大事かもしれない。普段見えないものが見えるタイミング。時短紹介。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| 1 | いつもの雑談から                                | 00:00 |<br />
+| 2 | お便りのコーナー                                | 03:54 |<br />
+| 3 | (P) Ivanti Connect Secure の脆弱性、その後の状況変化 | 12:42 |<br />
+| 4 | (N) Moobot と APT28 との関係、FBI による壊滅作戦     | 26:25 |<br />
+| 5 | (T) サイバーセキュリティインシデントに関する消費者意識の実態調査      | 45:11 |<br />
+| 6 | オススメのアレ                                 | 62:53 |
+</p></blockquote>
+<p>収録日: 2024年02月17日</p></blockquote>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_240219_naniyaki.mp3" length="33405178" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・2024年サイバーセキュリティ月間 – NISC ・Open Source Explo[...]</itunes:subtitle>
+		<itunes:summary>Tweet・2024年サイバーセキュリティ月間 – NISC ・Open Source Explo[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:09:23</itunes:duration>
+	</item>
+	<item>
 		<title>第211回 なんでか気になることってあるんですわ！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1700</link>
 		<pubDate>Mon, 12 Feb 2024 11:00:02 +0000</pubDate>
@@ -72,7 +116,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://citizenlab.ca/2024/02/paperwall-chinese-websites-posing-as-local-news-outlets-with-pro-beijing-content/">PAPERWALL: Chinese Websites Posing as Local News Outlets Target Global Audiences with Pro-Beijing Content &#8211; The Citizen Lab</a><br />
 ・<a href="https://ginza-platinum-ya.com/">白金や（プラチナや）</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/arearecooking.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/arearecooking-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1701" srcset="https://www.tsujileaks.com/wp-content/uploads/arearecooking-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/arearecooking-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/arearecooking-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/arearecooking.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/arearecooking.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/arearecooking-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1701" srcset="https://www.tsujileaks.com/wp-content/uploads/arearecooking-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/arearecooking-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/arearecooking-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/arearecooking.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：箱根駅伝の怪。だからなんだが雑談です。宇宙船地球号？アンビリカルケーブルとしか表現できない。やってみて考えるのはいいことだと思う。あんなのに？コンビニリサーチャー＆リピーター。何故これなのか最後まで分からない話。若干低めみたいなCVSS値。でもNTLMハッシュが盗まれるやつ。ケースによっては悪用されそうにも思うんです。ワークなんとかってあるやん。ドメインじゃないやつ！自組織のどこでNTLMが使われているのかの把握。日本のユーザは使えない。1000万ユーザもいる？！データブローカー。どこかに登録されている個人情報を削除してくれるんですかっ？！日本でもどうなっているかを調べられればいいんやけどなぁ。ブローカーって言葉の響き。インフルエンスオペレーション。2位で1割以上が日本語。ボクシングコーナーでサッカーを扱う。数で勝負すればいずれ効果でるように思うのでバカにできない。やれることやってみる精神って長い目で見ると強いですよ。<br />
 &nbsp;</p>
@@ -153,7 +197,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://www.ipa.go.jp/security/bec/about.html">ビジネスメール詐欺（BEC）対策特設ページ | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</a><br />
 ・<a href="https://www.youtube.com/@hand.theater">ハンドシアター &#8211; YouTube</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/1666243231813.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/1666243231813-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1687" srcset="https://www.tsujileaks.com/wp-content/uploads/1666243231813-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/1666243231813-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/1666243231813-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/1666243231813.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/1666243231813.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/1666243231813-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1687" srcset="https://www.tsujileaks.com/wp-content/uploads/1666243231813-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/1666243231813-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/1666243231813-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/1666243231813.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：ひっさびさの3人でのリアルイベント登壇。いかつい方の根岸さん。副次的効果が生まれないケース。脆弱性見つけた後のコンタクト。金銭の支払いをオファーするケース。こっそりDMでタレコミが。それはちょっとギルティ。出た！ノーウェア！初の被害公表？たしかにタイムラインは細かいが。まさかの把握していないキーがあった。受け入れの際にきちんと確認しないといけなかったんでしょうね。どっちが先なんやろか。扱ってるものの割に管理が。事件で気付けた。ランサムの話ちゃいますねん。まじで先行マルウェアって聞かへんなぁ。代替いくらでもあるんですよね。かわいい見せかけ。ロシア、ウクライナ環境だとスンっってなる。併用しています！営業しています！閉場しています！パスワード付きzip利用実態。規模でかいと乗り換えられない場合もあると。ピーパップ。curlって何て呼んでます？久々のBECネタ。再度確認をすることがない信頼関係の悪用。担当者など個人の問題じゃないですね。被害が発生してなくても来るところには日常的なことらしいです。リリースめっちゃいい。生々しさあって学びがある！</p>
 <blockquote>
@@ -424,34 +468,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1643</link>
 		<pubDate>Mon, 27 Nov 2023 11:00:25 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1643</guid>
-		<comments>https://www.tsujileaks.com/?p=1643#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1643</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet・フィッシング対策協議会 Council of Anti-Phishing Japan | ニュース[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1643" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1643&amp;text=%E7%AC%AC202%E5%9B%9E%20%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%81%AE%E6%A1%88%E3%82%92%E5%A4%A7%E5%8B%9F%E9%9B%86%E3%81%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1643" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.antiphishing.jp/news/alert/ipurl_20231114.html">フィッシング対策協議会 Council of Anti-Phishing Japan | ニュース | 緊急情報 | URL に特殊な IP アドレス表記を用いたフィッシング (2023/11/14)</a><br />
-・<a href="https://research.nccgroup.com/2023/11/20/is-this-the-real-life-is-this-just-fantasy-caught-in-a-landslide-noescape-from-ncc-group/">Is this the real life? Is this just fantasy? Caught in a landslide, NoEscape from NCC Group | NCC Group Research Blog | Making the world safer and more secure</a><br />
-・<a href="https://www.loldrivers.io/">LOLDrivers</a><br />
-・<a href="https://www.hhs.gov/sites/default/files/noescape-ransomware-analyst-note-tlpclear.pdf">NoEscape Ransomware | HC3: Analyst Note</a><br />
-・<a href="https://www.microsoft.com/en-us/security/blog/2023/11/22/diamond-sleet-supply-chain-compromise-distributes-a-modified-cyberlink-installer/">Diamond Sleet supply chain compromise distributes a modified CyberLink installer | Microsoft Security Blog</a><br />
-・<a href="https://jasonmarkk.co.jp/products/quick-wipes-3p">Quick Wipes &#8211; 3 Pack – Jason Markk</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/boukango.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/boukango-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1645" srcset="https://www.tsujileaks.com/wp-content/uploads/boukango-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/boukango-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/boukango-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/boukango.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>出張にかける期待がありステッカー多めに持って行ってた。どれがどういう方に刺さるか分からない。なんもおもんない回もあるんやろなぁ。目から鱗のお便り。スルーされてたらアレ勢の方、拾ってください。アイキャッチネタ募集します！変わった注意喚起。これ回避されるの？昔からあったけれども。リンクをクリックしないという注意喚起だけでは足りない気がしてます。画面の向こう側にいる人物が本当に思っている通りなのか。気付くことに全振りってのは良くないとは思う程度。対応をした内容。NoEscapeのある手口。2021年の脆弱性。手練れっぽくない。どういう理由で傾向が異なるのか。これくらいはなんとかしたい。をボトムラインに。名前がややこしいんよ。ソフトウェアサプライチェーンですね。日本も入ってた。特定のソフトウェアがあると正規の動作しかしない。目的と最終ターゲットが何かが気になるところですね。キャンバスをキャンパスって言うてまう。それは何故でしょーか。響いてへん感じか。これは。</p>
-<p>&nbsp;<br />
-【チャプター】<br />
-| 1 | いつもの雑談から                              | 00:00 |<br />
-| 2 | お便りのコーナー                              | 04:05 |<br />
-| 3 | (N) URL に特殊な IP アドレス表記を用いたフィッシング      | 15:28 |<br />
-| 4 | (T) NoEscape ランサムウェアによる攻撃活動           | 31:12 |<br />
-| 5 | (P) Diamond Sleet によるソフトウェアサプライチェーン攻撃 | 50:19 |<br />
-| 6 | オススメのアレ                               | 66:11 |
-</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2023年11月25日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_231127_17B1B.mp3" length="34981696" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・フィッシング対策協議会 Council of Anti-Phishing Japan | ニュース[...]</itunes:subtitle>
 		<itunes:summary>Tweet・フィッシング対策協議会 Council of Anti-Phishing Japan | ニュース[...]</itunes:summary>
