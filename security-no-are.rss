@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 19 Feb 2024 11:00:06 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 04 Mar 2024 11:00:30 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -55,6 +55,46 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第213回 安全第一！品質第二！生産第三！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1714</link>
+		<pubDate>Mon, 04 Mar 2024 11:00:30 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1714</guid>
+		<comments>https://www.tsujileaks.com/?p=1714#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1714</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet・【NTT西日本】お客さま情報の不正持ち出しを踏まえたNTT西日本グループの情報セキュリティ強化に向[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1714" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1714&amp;text=%E7%AC%AC213%E5%9B%9E%20%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80%EF%BC%81%E5%93%81%E8%B3%AA%E7%AC%AC%E4%BA%8C%EF%BC%81%E7%94%9F%E7%94%A3%E7%AC%AC%E4%B8%89%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1714" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.ntt-west.co.jp/news/2402/240229a.html">【NTT西日本】お客さま情報の不正持ち出しを踏まえたNTT西日本グループの情報セキュリティ強化に向けた取組みについて｜ニュースリリース &#8211; 通信・ICTサービス・ソリューション</a><br />
+・<a href="https://www.connectwise.com/company/trust/security-bulletins/connectwise-screenconnect-23.9.8">ConnectWise ScreenConnect 23.9.8 security fix</a><br />
+・<a href="https://www.horizon3.ai/attack-research/attack-blogs/connectwise-screenconnect-auth-bypass-deep-dive/">ConnectWise ScreenConnect: Authentication Bypass Deep Dive – Horizon3.ai</a><br />
+・<a href="https://censys.com/connectwise-screenconnect-cve-2024-1709-cve-2024-1708/">ConnectWise ScreenConnect &#8211; CVE-2024-1709 &#038; CVE-2024-1708 | Censys</a><br />
+・<a href="https://github.com/TURROKS/CVE_Prioritizer">GitHub &#8211; TURROKS/CVE_Prioritizer: Streamline vulnerability patching with CVSS, EPSS, and CISA&#8217;s Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed about the latest trends.</a><br />
+・<a href="https://www.youtube.com/watch?v=9nvMUTsVVQM">【和訳】盲目のピアニスト、コディがついに自作曲を発表！ | AGT Fantasy League チーム：サイモン &#8211; YouTube</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/nin2.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/nin2-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1715" srcset="https://www.tsujileaks.com/wp-content/uploads/nin2-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/nin2-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/nin2-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/nin2.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：刺身は鰤。6月までにタコパやらな。収録が待ち遠しくなった。こたつのある暮らし。立ったついではどこまで許容されるのか。言葉のイメージの更新。10年間は本当に長い。アンケートも掲載されている報告書。神様アカウントを使える立場にあった。USB以外の可能性。辛辣。つまみ読みからやろう。仕事が問題なく回っているところにも脅威は潜んでいますね。満点のやつ。１日後に様相がガラっと変わる。からの嫌なトントン拍子。加えて悪用がめちゃくちゃ簡単。初期設定ウィザードに行けてしまうやつ。ミスタイプで攻撃しちゃいそう。オンプレにするかクラウドにするか。脆弱性の対処をすることを考慮して扱えるものを。名前から想像がつくツールの紹介。たんぼのた！シンプルで運用してみるにはいいかもと思ってます。リスト活用するといいですね。今回のおすすめはマジで聴いてほしい！<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| 1 | いつもの雑談から                           | 00:00 |<br />
+| 2 | お便りのコーナー                           | 08:13 |<br />
+| 3 | (P) NTT西日本の調査報告書を読もう               | 12:18 |<br />
+| 4 | (N) ConnectWise ScreenConnect の脆弱性 | 34:15 |<br />
+| 5 | (T) CVE_Prioritizer 使ってみた          | 47:46 |<br />
+| 6 | オススメのアレ
+</p></blockquote>
+<p>収録日: 2024年03月02日</p></blockquote>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_240304_123.mp3" length="31534335" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・【NTT西日本】お客さま情報の不正持ち出しを踏まえたNTT西日本グループの情報セキュリティ強化に向[...]</itunes:subtitle>
+		<itunes:summary>Tweet・【NTT西日本】お客さま情報の不正持ち出しを踏まえたNTT西日本グループの情報セキュリティ強化に向[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:05:29</itunes:duration>
+	</item>
+	<item>
 		<title>第212回 ちゃんと寝て、ちゃんと記録を取ろう！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1707</link>
 		<pubDate>Mon, 19 Feb 2024 11:00:06 +0000</pubDate>
@@ -75,7 +115,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://prtimes.jp/main/html/rd/p/000000081.000087353.html">【AironWorks 独自調査】約8割がセキュリティ被害に遭った企業のサービス利用を躊躇と回答 | AironWorks株式会社のプレスリリース</a><br />
 ・<a href="https://listen.style/p/sec_are">セキュリティのアレ &#8211; LISTEN</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/hamburger.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/hamburger-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1706" srcset="https://www.tsujileaks.com/wp-content/uploads/hamburger-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/hamburger-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/hamburger-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/hamburger.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/hamburger.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/hamburger-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1706" srcset="https://www.tsujileaks.com/wp-content/uploads/hamburger-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/hamburger-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/hamburger-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/hamburger.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：月間なんでした。アレの活用。でもちょっとアレに触れてくれると嬉しいんです。EPSSのうまい立ち位置。ちゃんと寝て！ケース別の訓練。続報？おかわり？調べたらあった。しかも悪用されてた。更新される情報に付いていけるのか問題。記録大事。必要な情報を必要なときに必要なだけ取り出せるのがITと思ってる。Fancy Bearと呼びたくて。ぉ。どっかで聞いたのと似てる脆弱性。APTグループが乗っ取ってた。のっとってたぼっとねっと。それを更に法執行機関が！これは何サプライチェーンなんや？一石二鳥ですごい！そっちのほうがかっこええ名前。攻撃側の脆弱性を狙うのはアリだけど。こちらは法的な問題をクリアしないといけない。事故対応アワードに親和性ありそうなアンケート。事後対応が影響した例が身近にあった！見えないけどイメージを持たせることが大事かもしれない。普段見えないものが見えるタイミング。時短紹介。<br />
 &nbsp;</p>
@@ -157,7 +197,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://blog.cloudflare.com/how-cloudflare-mitigated-yet-another-okta-compromise">How Cloudflare mitigated yet another Okta compromise</a><br />
 ・<a href="https://piyolog.hatenadiary.jp/entry/2024/02/05/013932">Cloudflareの社内サーバーへの不正アクセスについてまとめてみた &#8211; piyolog </a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/dim_sum.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/dim_sum-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1692" srcset="https://www.tsujileaks.com/wp-content/uploads/dim_sum-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/dim_sum-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/dim_sum-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/dim_sum.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/dim_sum.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/dim_sum-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1692" srcset="https://www.tsujileaks.com/wp-content/uploads/dim_sum-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/dim_sum-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/dim_sum-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/dim_sum.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：実は没でした。シュラバラバンバ。日本一感じのいいセキュリティエンジニア目指してた。ジレンマ。線抜くは最強だけども。ちょっと不思議な事件。「サイバー攻撃を受けている旨の」。なんでそれを送ったのか。怨恨？色々進行中ではあるけれど真闇。なかなかに機微。動機はまぁさておいてシステム的にどうかという話もある。ちょいちょい軽く紹介程度で出してたアレ。21年からでもうv3。ちょいとブラックボックス感あるんよなぁ。悪用 != 成功。ちょっとランサム関係してたな。調べた理由があるんですよ。これがなくてもなんとなく分かるものもある。目指す方向はめっちゃいいけど到達できないかもしれない。こじゃれたタイトル。実は見逃しがあったってぞっとする。ハードウェア交換までは相当ですよね。根絶。ない事の証明の難しさ。やっぱり他にもありましたを言う勇気。豆まきの大変さ。白髪ネギ売ってる。<br />
 &nbsp;</p>
@@ -427,34 +467,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1649</link>
 		<pubDate>Mon, 04 Dec 2023 11:00:03 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1649</guid>
-		<comments>https://www.tsujileaks.com/?p=1649#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1649</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet・「現代用語の基礎知識」選 ユーキャン 新語・流行語大賞 ・AlphV files an SEC c[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1649" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1649&amp;text=%E7%AC%AC203%E5%9B%9E%20%E5%91%BC%E3%81%B0%E3%82%8C%E3%81%A6%E3%81%B8%E3%82%93%E3%81%AD%E3%82%93%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1649" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.jiyu.co.jp/singo/">「現代用語の基礎知識」選 ユーキャン 新語・流行語大賞</a><br />
-・<a href="https://www.databreaches.net/alphv-files-an-sec-complaint-against-meridianlink-for-not-disclosing-a-breach-to-the-sec/">AlphV files an SEC complaint against MeridianLink for not disclosing a breach to the SEC (2)</a><br />
-・<a href="https://www.welivesecurity.com/en/cybersecurity/your-voice-is-my-password/">Your voice is my password – the risks of AI-driven voice cloning</a><br />
-・<a href="https://www.theregister.com/2023/11/20/former_infosec_coo_pleads_guilty/">Ex-infosec COO pleads guilty to nightmarish sales strategy • The Register</a><br />
-・<a href="https://www.youtube.com/channel/UCt_ARKKz_7gG8KrdzOseB8A">そいつどいつチャンネル【公式】 &#8211; YouTube</a><br />
-・<a href="https://www.youtube.com/channel/UCohmcZHF7ArQeII80FBvfNQ">きつね日和ch &#8211; YouTube</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/kurokin.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kurokin-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1650" srcset="https://www.tsujileaks.com/wp-content/uploads/kurokin-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kurokin-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kurokin-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kurokin.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>呼ばれてへんねん。38年ぶりでした。アレがソレに貢献。脅迫の仕方が珍しいもの。何のために連絡したんだろう。時間稼ぎ？何処まで何をされたかは明らかにされていない事件。脅迫というか焦らせ方のパターン。安易に罰則というのもまずいかも。悪用のリスクを考えないといけない。盗んだ情報にお金を支払う是非。声のクローンを使った実験。もう現実ですね。これ気付けます？止められます？ITだけで実現するものではなさそうですよね。SIMスワップされてたらコールバックは対策にならないか。どこまでいけるん？自社の宣伝のために攻撃とはえげつない。ランサムでもそういうの昔あったような。早めに見ないといけない動画。</p>
-<p>&nbsp;<br />
-【チャプター】<br />
-| 1 | いつもの雑談から                           | 00:00 |<br />
-| 2 | お便りのコーナー                           | 07:50 |<br />
-| 3 | (T) BlackCat の新たな脅迫手法              | 12:16 |<br />
-| 4 | (N) AI で生成した音声クローンによるソーシャルエンジニアリング | 26:00 |<br />
-| 5 | (P) セキュリティ会社の元 COO による犯罪           | 40:04 |<br />
-| 6 | オススメのアレ                            | 53:32 |
-</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2023年12月02日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_231204_SECBECCOO.mp3" length="28181048" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・「現代用語の基礎知識」選 ユーキャン 新語・流行語大賞 ・AlphV files an SEC c[...]</itunes:subtitle>
 		<itunes:summary>Tweet・「現代用語の基礎知識」選 ユーキャン 新語・流行語大賞 ・AlphV files an SEC c[...]</itunes:summary>
