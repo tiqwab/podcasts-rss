@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 11 Mar 2024 13:14:38 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Mar 2024 12:59:20 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -87,7 +87,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 </p></blockquote>
 <p>収録日: 2024年03月09日</p></blockquote>
 ]]></content:encoded>
-		<enclosure url="http://www.tsujileaks.com/media/are_240311_takopaha5gatsu.mp3" length="35493013" type="audio/mpeg" />
+		<enclosure url="https://www.tsujileaks.com/media/are_240311_takopaha5gatsu.mp3" length="35493013" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・Audio and Video Calls ・X’s new calling feat[...]</itunes:subtitle>
 		<itunes:summary>Tweet・Audio and Video Calls ・X’s new calling feat[...]</itunes:summary>
 		<itunes:author>セキュリティのアレ</itunes:author>
