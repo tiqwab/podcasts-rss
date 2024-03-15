@@ -37,6 +37,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 	<itunes:owner>
 		<itunes:name>セキュリティのアレ</itunes:name>
+		<itunes:email>negitsujikango@gmail.com</itunes:email>
 	</itunes:owner>
 	<podcast:medium>podcast</podcast:medium>
 	<itunes:subtitle>ゆるーいセキュリティのポッドキャストですよ。</itunes:subtitle>
