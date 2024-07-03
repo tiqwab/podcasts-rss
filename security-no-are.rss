@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 24 Jun 2024 12:48:05 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 02 Jul 2024 11:00:22 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -56,6 +56,50 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第225回 システムだけでなく自分の健康にも気を付けよう！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1786</link>
+		<pubDate>Tue, 02 Jul 2024 11:00:22 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1786</guid>
+		<comments>https://www.tsujileaks.com/?p=1786#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1786</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・Chinese State-Sponsored RedJuliett Intensifies Ta[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1786&quot;&gt;第225回 システムだけでなく自分の健康にも気を付けよう！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1786" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1786&amp;text=%E7%AC%AC225%E5%9B%9E%20%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AA%E3%81%8F%E8%87%AA%E5%88%86%E3%81%AE%E5%81%A5%E5%BA%B7%E3%81%AB%E3%82%82%E6%B0%97%E3%82%92%E4%BB%98%E3%81%91%E3%82%88%E3%81%86%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1786" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.recordedfuture.com/redjuliett-intensifies-taiwanese-cyber-espionage-via-network-perimeter">Chinese State-Sponsored RedJuliett Intensifies Taiwanese Cyber Espionage via Network Perimeter Exploitation | Recorded Future</a><br />
+・<a href="https://www.microsoft.com/en-us/security/blog/2023/08/24/flax-typhoon-using-legitimate-software-to-quietly-access-taiwanese-organizations/">Flax Typhoon using legitimate software to quietly access Taiwanese organizations | Microsoft Security Blog</a><br />
+・<a href="https://ja.softether.org/">SoftEther VPN プロジェクト &#8211; SoftEther VPN プロジェクト</a><br />
+・<a href="https://sansec.io/research/polyfill-supply-chain-attack">Polyfill supply chain attack hits 100K+ sites</a><br />
+・<a href="https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet">Automatically replacing polyfill.io links with Cloudflare’s mirror for a safer Internet</a><br />
+・<a href="https://www.crimecommission.nsw.gov.au/hakea-final-report-25-june-2024.pdf/@@download/file">Hakea Report (June 2024)</a><br />
+・<a href="https://www.theregister.com/2024/06/26/criminals_use_gps_bluetooth_trackers/">Organized crime and domestic violence perps buy trackers • The Register</a><br />
+・<a href="https://support.apple.com/ja-jp/119874">AirTag、「探す」ネットワーク対応アクセサリ、または AirPods を所持しているという通知が表示された場合の対処法 &#8211; Apple サポート (日本)</a><br />
+・<a href="https://support.google.com/android/answer/13658562?hl=ja">不明なトラッカーを検出する &#8211; Android ヘルプ</a><br />
+・<a href="https://www.apple.com/jp/newsroom/2023/05/apple-google-partner-on-an-industry-specification-to-address-unwanted-tracking/">AppleとGoogle、不要な追跡に対処するための業界規格で提携 &#8211; Apple (日本)</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/poisonkango.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/poisonkango-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1787" srcset="https://www.tsujileaks.com/wp-content/uploads/poisonkango-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/poisonkango-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/poisonkango-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/poisonkango.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：5人での初リアル開催でした。アレ勢結構来てくださいました。間違いもありみたいになってくる感じ。スケトウダラ。ソウイウタラ。関西弁対応してほしい。主に台湾を狙っている国家背景の攻撃者。どういう関連で他の国にも攻撃あるのか気になりますよね。懐かしいスキャナの名前。物理的にも近いという。これ見つけにくそう。WebShellくらいは見つけられてほしい。攻撃の手順知るのやっぱ大事だ。買収されてからってパターンまぁまぁあるし、影響範囲大体広い。ぐーぎぃー。分かりやすいところにリダイレクトはまだ救い？CDNがここまでできちゃうことについて考える必要がある。トラッキングデバイスの悪用について。犯罪組織の利用だけではないことが分かった話。検出する術を知ってほしい！何事も自分事に考えてみる。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から                      | 00:00 |<br />
+| お便りのコーナー                      | 06:46 |<br />
+| (N) RedJuliett による台湾を狙う攻撃活動   | 12:09 |<br />
+| (P) Polyfill に関する最近の騒動について    | 30:25 |<br />
+| (T) トラッキングデバイスを利用した犯罪に関するレポート | 49:00 |<br />
+| オススメのアレ                       | 62:55 |</p>
+</blockquote>
+<p>収録日: 2024年06月30日</p><p>The post <a href="https://www.tsujileaks.com/?p=1786">第225回 システムだけでなく自分の健康にも気を付けよう！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_240702_konkaihagachi.mp3" length="33349329" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・Chinese State-Sponsored RedJuliett Intensifies Ta[...]</itunes:subtitle>
+		<itunes:summary>Tweet・Chinese State-Sponsored RedJuliett Intensifies Ta[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:09:16</itunes:duration>
+	</item>
+	<item>
 		<title>第224回 来月公開収録があるんですよ！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1779</link>
 		<pubDate>Mon, 24 Jun 2024 11:00:39 +0000</pubDate>
@@ -83,7 +127,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://www.family.co.jp/goods/chilleddaily/2111285.html">昆布の旨味だし醤油冷やっこセット ｜商品情報｜ファミリーマート</a><br />
 ・<a href="https://www.youtube.com/channel/UCtImQhAO8zmW5NhdXRBZ8kg">森口博子 オフィシャル YouTube チャンネル &#8211; YouTube</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/sauna.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/sauna-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1780" srcset="https://www.tsujileaks.com/wp-content/uploads/sauna-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/sauna-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/sauna-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/sauna.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/sauna.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/sauna-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1780" srcset="https://www.tsujileaks.com/wp-content/uploads/sauna-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/sauna-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/sauna-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/sauna.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：お久しぶりです。元気じゃなかったんです。ずっとおもろいのは辻ではない。来年で10年か。初コラボ。無駄話かもしれないものも聴けます。身近な方が投資詐欺に。スマホで写真を撮ることへの不安。議事録見てね！ClearFakeの新しい攻撃手法。一周回って新しい。引っかかる人いるんやろうと思う。原始的なだけに色々なものが回避される。パターン毎に伝えていこう。もうすぐ7月！オリンピック + サイバー攻撃。攻撃回数問題。いくつかもうレポートが出てきている。ぶーーーーん。オリンピック期間は逆に何もなければいいのにね。TikTokの乗っ取りの怪。実被害不明。DMのみで？自分たちでは何も出来ないことがある。にしても色々不透明だ。<br />
 &nbsp;</p>
@@ -165,7 +209,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://www.cisa.gov/resources-tools/resources/risk-and-vulnerability-assessments">Risk and Vulnerability Assessments | CISA</a><br />
 ・<a href="https://www.youtube.com/@morganwallen">Morgan Wallen &#8211; YouTube</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/ohuroice.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/ohuroice-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1769" srcset="https://www.tsujileaks.com/wp-content/uploads/ohuroice-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/ohuroice-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/ohuroice-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/ohuroice.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/ohuroice.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/ohuroice-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1769" srcset="https://www.tsujileaks.com/wp-content/uploads/ohuroice-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/ohuroice-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/ohuroice-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/ohuroice.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：愚民ちゅ？デバイス買い換え問題。何かをすることに遅いということはない。バイトル続報。再び。同一人物と思われる？この手のリリース珍しいですね。その手口気になります。どこにでも起きることなのかどうなのか。信用失墜という意味では自社のサイトが侵害されることに近いものがあるように思う。ホテル予約サービスに通ずるものある。やっぱアカウントの管理。珍しい話題。暗号。収集からの後に解析するという手法がある。はーべすとなうのやつ分かりやすい名前。なぜハイブリッドにしてるのか。転ばぬ先の杖なんですな。長い鍵がアダとなり。世界中で顕在化してた。実装がいい加減 笑。アナウンス大変。毎年のランサムのアレ。減ったとはいうものの。攻撃者がうまみを感じている業界があるんじゃないか説。自分たちの規模に当てはめてどれくらいのインパクトがあるかを考えてみよう！やっぱ認証周り大事やな。データの取り戻し方の深刻な状況。盛り沢山なのでまじで読んでほしい！ジャンルはなんかこう聴いた感じなんですよね。<br />
 &nbsp;</p>
@@ -444,34 +488,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1727</link>
 		<pubDate>Mon, 18 Mar 2024 11:00:57 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1727</guid>
-		<comments>https://www.tsujileaks.com/?p=1727#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1727</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・Top 10 scams targeting seniors – and how to stay [...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1727&quot;&gt;第215回 いわば！まさに！もはや！むしろ！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1727" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1727&amp;text=%E7%AC%AC215%E5%9B%9E%20%E3%81%84%E3%82%8F%E3%81%B0%EF%BC%81%E3%81%BE%E3%81%95%E3%81%AB%EF%BC%81%E3%82%82%E3%81%AF%E3%82%84%EF%BC%81%E3%82%80%E3%81%97%E3%82%8D%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1727" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.welivesecurity.com/en/scams/top-10-scams-seniors-how-keep-money-safe/">Top 10 scams targeting seniors – and how to stay safe</a><br />
-・<a href="https://www.ic3.gov/">Internet Crime Complaint Center(IC3) | Home Page</a><br />
-・<a href="https://socialcatfish.com/scamfish/state-of-internet-scams-2023/">State of Internet Scams 2023 &#8211; Scamfish &#8211; A Consumer Protection Publication &#8211; SocialCatfish.com</a><br />
-・<a href="https://www.npa.go.jp/news/release/2024/20240311001.html">令和５年中のSNS型投資・ロマンス詐欺の被害発生状況等について｜警察庁Webサイト</a><br />
-・<a href="https://www.publickey1.jp/blog/24/publickeydos.html">Publickeyが受けたDoS攻撃、これまでの経緯と対策まとめ － Publickey</a><br />
-・<a href="https://blog.sekoia.io/unveiling-the-depths-of-residential-proxies-providers/">Unveiling the depths of Residential Proxies providers &#8211; Sekoia.io Blog</a><br />
-・<a href="https://www.microsoft.com/en-us/security/blog/2024/01/25/midnight-blizzard-guidance-for-responders-on-nation-state-attack/">Midnight Blizzard: Guidance for responders on nation-state attack | Microsoft Security Blog</a><br />
-・<a href="https://www.akafusa-foods.co.jp/">【公式】株式会社あかふさ食品</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/vbs.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/vbs-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1728" srcset="https://www.tsujileaks.com/wp-content/uploads/vbs-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/vbs-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/vbs-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/vbs.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：しゃべるのを我慢したモデレータ。凸。それ○○やっておもろいなぁ。良い感じの編集。お便りは我々も視野が広がります。記事は高齢者が狙われるというものだったが。他の年代はどうなんだと思いまして。金額が大きいのは60歳以上が最も多いわけだが、件数の増え方に関しては。若い人たちも被害に遭っていることは見過ごせない。入口が多い。デジタルネイティブの人たちに入れ替われば良くなっていくと淡い期待。辻さんも昔。DDoSされましてん。被害者の視点で書かれたものは希有。目的が見えない攻撃。DOS慣れしてないとあたふたしちゃう。攻撃側と防御側のコストの非対称性が顕著。レジデンシャルプロクシの話はなんだか印象的だったんですよ。チョコレートかと思う社名。中継サーバが一般の家庭にあるもの。アンダーグラウンドフォーラムで結構宣伝されているとのこと。入口が別だけど運営は同じってアレ。種別として3つくらいある。APTグループにも使われているっぽい。Torと違ってIPアドレスが把握できない。それなりに儲かるそうな。<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| 1 | いつもの雑談から             | 00:00 |<br />
-| 2 | お便りのコーナー             | 05:29 |<br />
-| 3 | (T) 高齢者を狙う詐欺について考えよう | 11:11 |<br />
-| 4 | (P) ブログサイトへの DDoS 攻撃 | 25:15 |<br />
-| 5 | (N) RESIP サービスの実態    | 42:01 |<br />
-| 6 | オススメのアレ              | 63:44 |</p></blockquote>
-<p>収録日: 2024年03月16日</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=1727">第215回 いわば！まさに！もはや！むしろ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_240318_iwabamasanimohayamushiro.mp3" length="33173527" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・Top 10 scams targeting seniors – and how to stay [...]</itunes:subtitle>
 		<itunes:summary>Tweet・Top 10 scams targeting seniors – and how to stay [...]</itunes:summary>
