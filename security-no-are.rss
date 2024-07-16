@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 08 Jul 2024 12:09:42 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Jul 2024 11:47:29 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -56,6 +56,45 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第227回 地上波デビューは、また今度！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1798</link>
+		<pubDate>Mon, 15 Jul 2024 11:00:36 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1798</guid>
+		<comments>https://www.tsujileaks.com/?p=1798#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1798</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・ランサムウェア被害発生についてのお知らせ（第２報）｜高野総合会計事務所 ・Google rolls[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1798&quot;&gt;第227回 地上波デビューは、また今度！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1798" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1798&amp;text=%E7%AC%AC227%E5%9B%9E%20%E5%9C%B0%E4%B8%8A%E6%B3%A2%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AF%E3%80%81%E3%81%BE%E3%81%9F%E4%BB%8A%E5%BA%A6%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1798" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.takanosogo.com/info/2024/07/post-106.php">ランサムウェア被害発生についてのお知らせ（第２報）｜高野総合会計事務所</a><br />
+・<a href="https://blog.google/technology/safety-security/google-passkeys-advanced-protection-program/">Google rolls out Passkeys to high risk users in Advanced Protection Program</a><br />
+・<a href="https://support.apple.com/ja-jp/105120">ロックダウンモードについて &#8211; Apple サポート (日本)</a><br />
+・<a href="https://www.fortinet.com/jp/resources/analyst-reports/threat-report-2h-2023">フォーティネット グローバル脅威レポート 2023年下半期版</a><br />
+・<a href="https://products.suntory.co.jp/d/4901777418103/">クラフトボス パインのフルーツオレ 500mlペット 商品情報（カロリー・原材料） サントリー</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/trump.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/trump-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1805" srcset="https://www.tsujileaks.com/wp-content/uploads/trump-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/trump-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/trump-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/trump.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：謝らんとイカン！返納するかどうか悩んでる。いいよ。やんなくて。読んでぇ～。認証取得と事故。資格本レビュー。言い続けていこう！委託先パターンは影響範囲広いから目立ってきてる感ある。インターネット接続点の更新作業での誤りとは。どこからのどのプロトコルへのアクセスをどうしてしまったんだろうか。それが外れたとしても大丈夫な多層の対策大事。設定変更後の確認もね！ホントとそうでない小ネタがある。かなり前に取り上げたネタの最新情報。予備キー。ビルトインセキュリティキーはもう使えなくなってPassKeyのみでいけるようになった。リカバリーオプションは必須。もっと広く使われてもいいもの。何したらどうなるのか。何が必要か分かる図が欲しい。エクスプロイトリリースから攻撃までの期間。EPSSの成功例。これだけ見てもというのはある。常にこうなるといいんだけども。レッドゾーン。古い脆弱性の悪用に注意。検証し続けて変化を見つつ効果が分かるもの。ESPP？オススメのアレで紹介したものはローソンでも見かけました！<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から                                                 | 00:00 |<br />
+| お便りのコーナー                                                 | 05:00 |<br />
+| (P) 国内のランサムウェア感染事案について考えてみた                              | 14:34 |<br />
+| (N) Google の Advanced Protection Program で Passkeys 使えるよ | 29:48 |<br />
+| (T) フォーティネットのグローバル脅威レポート読んでみた                            | 41:21 |<br />
+| オススメのアレ                                                  | 56:51 |</p>
+</blockquote>
+<p>収録日: 2024年07月13日</p><p>The post <a href="https://www.tsujileaks.com/?p=1798">第227回 地上波デビューは、また今度！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_240716_gotosummer.mp3" length="29220579" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・ランサムウェア被害発生についてのお知らせ（第２報）｜高野総合会計事務所 ・Google rolls[...]</itunes:subtitle>
+		<itunes:summary>Tweet・ランサムウェア被害発生についてのお知らせ（第２報）｜高野総合会計事務所 ・Google rolls[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:00:40</itunes:duration>
+	</item>
+	<item>
 		<title>第226回 合格と心も支え始めたポッドキャストだ！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1789</link>
 		<pubDate>Mon, 08 Jul 2024 11:00:13 +0000</pubDate>
@@ -72,7 +111,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://www.kao-kirei.com/ja/item/khg/megrhythm/4901301376954/">めぐりズム 炭酸で やわらか足パック ラベンダーミントの香り ６枚入 | 花王公式通販 【My Kao Mall】</a><br />
 ★ Special thanks to 山城さん (Hardening Project)</p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/mousyo.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mousyo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1790" srcset="https://www.tsujileaks.com/wp-content/uploads/mousyo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mousyo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mousyo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mousyo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/mousyo.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mousyo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1790" srcset="https://www.tsujileaks.com/wp-content/uploads/mousyo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mousyo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mousyo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mousyo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：パンパンパーン★さぁ！一番いつも通りじゃない人はどなたでしょうか？初コラボですね。言いたいだけが溢れてます。起きてることが分かっているだけと生の声が聞けるのって違うなぁ。はじめのハードルをクリアするにはどうすればいいのか。人知れず案件。16文字を偶然突破？なので20文字にする。これをどう見るか。単に何言ってんだ？で済ませていいのかな。根岸さんの感じた敗北感。胸は痛くならなかった。原因を正しく認識できていないとという問題。経路と伝え方の変化と工夫の必要性。監督官庁の取りまとめと指導や情報の展開があってもいいのでは？１つの事故が多くの組織に影響が出ている件。委託先名記載型リリース。発表と異なる結果。リーク後当事者が入手してみて分かること。どうやったら待たずに把握できるのかというとめちゃくちゃ難しいですよ。声だけで笑ってるの分かるなぁ。事件事故の情報に関する発信をメディア含む第三者はどこで線を引くのか。何をどう伝えて何を伝えないのか。嘘が混じっていることがあることを知っているから更に難しくなっているかも。当事者が言っているかどうかの線引き。どんな情報かだけではなくタイミングもあると思う。皆さん足だるぅーってときないですか？全体的にいつもより早口なのはたぶんテンション上がってたせいです。<br />
 &nbsp;</p>
@@ -166,7 +205,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://www.family.co.jp/goods/chilleddaily/2111285.html">昆布の旨味だし醤油冷やっこセット ｜商品情報｜ファミリーマート</a><br />
 ・<a href="https://www.youtube.com/channel/UCtImQhAO8zmW5NhdXRBZ8kg">森口博子 オフィシャル YouTube チャンネル &#8211; YouTube</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/sauna.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/sauna-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1780" srcset="https://www.tsujileaks.com/wp-content/uploads/sauna-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/sauna-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/sauna-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/sauna.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/sauna.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/sauna-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1780" srcset="https://www.tsujileaks.com/wp-content/uploads/sauna-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/sauna-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/sauna-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/sauna.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：お久しぶりです。元気じゃなかったんです。ずっとおもろいのは辻ではない。来年で10年か。初コラボ。無駄話かもしれないものも聴けます。身近な方が投資詐欺に。スマホで写真を撮ることへの不安。議事録見てね！ClearFakeの新しい攻撃手法。一周回って新しい。引っかかる人いるんやろうと思う。原始的なだけに色々なものが回避される。パターン毎に伝えていこう。もうすぐ7月！オリンピック + サイバー攻撃。攻撃回数問題。いくつかもうレポートが出てきている。ぶーーーーん。オリンピック期間は逆に何もなければいいのにね。TikTokの乗っ取りの怪。実被害不明。DMのみで？自分たちでは何も出来ないことがある。にしても色々不透明だ。<br />
 &nbsp;</p>
@@ -445,35 +484,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1739</link>
 		<pubDate>Mon, 08 Apr 2024 11:00:33 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1739</guid>
-		<comments>https://www.tsujileaks.com/?p=1739#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1739</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・The Darkside of TheMoon – Lumen ・Ways to de[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1739&quot;&gt;第217回 毎日がスペシャル！おすすめはプレミアム！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1739" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1739&amp;text=%E7%AC%AC217%E5%9B%9E%20%E6%AF%8E%E6%97%A5%E3%81%8C%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AF%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1739" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://blog.lumen.com/the-darkside-of-themoon/">The Darkside of TheMoon &#8211; Lumen</a><br />
-・<a href="https://www.kaspersky.com/blog/lotl-attacks-detection-hardening-guidance/50826/">Ways to detect and curb Living off the Land (LotL) attacks | Kaspersky official blog</a><br />
-・<a href="https://www.kaspersky.com/blog/most-used-lolbins/42180/">Most used LOLBins | Kaspersky official blog</a><br />
-・<a href="https://lolbas-project.github.io/">LOLBAS</a><br />
-・<a href="https://gtfobins.github.io/">GTFOBins</a><br />
-・<a href="https://www.loobins.io/">LOOBins &#8211; Living Off the Orchard: macOS Binaries</a><br />
-・<a href="https://www.cisa.gov/resources-tools/resources/identifying-and-mitigating-living-land-techniques">Identifying and Mitigating Living Off the Land Techniques | CISA</a><br />
-・<a href="https://nvd.nist.gov/general/news/nvd-program-transition-announcement">NVD Program Announcement &#8211; Updated</a><br />
-・<a href="https://panasonic.jp/treatment/products/ew-ra550.html">高周波治療器 コリコランワイド EW-RA550 | 商品一覧 | 治療器（家庭用電気治療器） | Panasonic</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/ee2024.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/ee2024-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1740" srcset="https://www.tsujileaks.com/wp-content/uploads/ee2024-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/ee2024-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/ee2024-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/ee2024.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：バイバイの歴史。全員全然覚えてない！どうやって調べたんでしょうか？連絡先の更新の大切さ。アメリカの予算に影響するポッドキャスト。インシデント判明から発表までのラグ。いたずらに混乱を招くってどんな混乱？テンプレにするメリデメ。そろそろ次のステップでは？皆さん色々合格していて凄いし、そもそもチャレンジしていることが凄い！マルウェアMoon。レジデンシャルプロクシ「Faceless」との繋がり。感染に偏りがある。アップデートの前に仕込まれてたら。根岸さんがよく口にしているLiving off the landの話。使われやすいLOLBINの一位とは。正常を定義することで異常を検出するしかないのか。そもそもせなあかんことをするになるのか。どこまでいけるかを探るの大事。一段ハードルを上げるという考え方。完璧ではなくても最善を。何を選択するかだけではなく、その選択は現実的に回るのかもセットで考える必要がある。シナリオに組み込んでみては？NVDに異変？NVDが回ってない！？終わるの？予算が削減されている。良い意味で空気でしたものね。CVE Prioritizerも使えなくなっているし。独自路線でやっていることが功を奏しているように見えることについて。普通ではないんですね。<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から                                   | 00:00 |<br />
-| お便りのコーナー                                   | 01:03 |<br />
-| (N) TheMoon マルウエアと RESIP サービス Faceless の関係 | 12:03 |<br />
-| (T) Living Off the Land 攻撃とその対策            | 28:21 |<br />
-| (P) NVD の危機的状況                             | 43:20 |<br />
-| オススメのアレ プレミアム                              | 58:51 |</p>
-<p>収録日: 2024年04月06日</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=1739">第217回 毎日がスペシャル！おすすめはプレミアム！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_240408_NeedBadget.mp3" length="32277285" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・The Darkside of TheMoon – Lumen ・Ways to de[...]</itunes:subtitle>
 		<itunes:summary>Tweet・The Darkside of TheMoon – Lumen ・Ways to de[...]</itunes:summary>
