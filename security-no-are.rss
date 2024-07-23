@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 15 Jul 2024 11:47:29 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Jul 2024 11:00:34 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -56,6 +56,48 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第228回 ゴロゴロゴロゴロ！衝撃バリバリ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1808</link>
+		<pubDate>Mon, 22 Jul 2024 11:00:34 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1808</guid>
+		<comments>https://www.tsujileaks.com/?p=1808#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1808</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・NVD – CVE-1999-0070 ・フォーティネット、年次スキルギャップレポート[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1808&quot;&gt;第228回 ゴロゴロゴロゴロ！衝撃バリバリ！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1808" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1808&amp;text=%E7%AC%AC228%E5%9B%9E%20%E3%82%B4%E3%83%AD%E3%82%B4%E3%83%AD%E3%82%B4%E3%83%AD%E3%82%B4%E3%83%AD%EF%BC%81%E8%A1%9D%E6%92%83%E3%83%90%E3%83%AA%E3%83%90%E3%83%AA%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1808" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://nvd.nist.gov/vuln/detail/CVE-1999-0070">NVD &#8211; CVE-1999-0070</a><br />
+・<a href="https://www.fortinet.com/jp/corporate/about-us/newsroom/press-releases/2024/fortinet-annual-skills-gap-report-reveals-growing-connection-between-cybersecurity-breaches-and-skills-shortages">フォーティネット、年次スキルギャップレポート最新版を発表、サイバーセキュリティ侵害とスキル不足の関係性が深化していることが判明</a><br />
+・<a href="https://www.crowdstrike.com/blog/to-our-customers-and-partners/">To Our Customers and Partners | CrowdStrike</a><br />
+・<a href="https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/">Falcon Content Update Remediation and Guidance Hub | CrowdStrike</a><br />
+・<a href="https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/">Technical Details: Falcon Update for Windows Hosts | CrowdStrike</a><br />
+・<a href="https://securityalliance.notion.site/A-Squarespace-Retrospective-or-How-to-Coordinate-an-Industry-Wide-Incident-Response-fead693b66c14543a48283d85aec19ad">A Squarespace Retrospective, or How to Coordinate an Industry-Wide Incident Response</a><br />
+・<a href="https://domains.squarespace.com/google-domains/faq">Google Domains FAQ — Squarespace Domains</a><br />
+・<a href="https://www.coca-cola.com/jp/ja/brands/aquarius/ors">アクエリアス 経口補水液 製品情報 ｜ アクエリアス ｜ 日本コカ･コーラ株式会社</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/kisei.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kisei-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1810" srcset="https://www.tsujileaks.com/wp-content/uploads/kisei-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kisei-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kisei-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kisei.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：明けてました。二回したことが怖い。すべらないLT懐かしい。え？あんま怖ない？フッ軽！仕組み大事。知らない間に保存されるものも把握しないとか。ヒーリング効果もあるかもしれない。古いCVE敢えて検出させよう大会。かんごさんちのベランダ事情。雑草は強いんやな。何もないよ。たまたま。サイバー攻撃を受けたときの経営陣への処分。教育の効果測定の難しさ。なんでもやりゃいいってもんではない。人材の定着についてはこれもまたギャップあるんちゃうかなと思った。社会という視点で見るか。経営者という視点で見るか。資格的な意味ではボクは切られるほうの人間です。世界的なBSODの話。FlightRadar圧巻だった。ランサムウェアに近い状況なのではないか。SNSで調べた対処方法の真偽。怒りのエスカレーションのプレッシャー。便乗もいた。ドメイン移管の隙。新規でアカウント作るときの確認方法。先回り思いつくことに驚き。tsujileaks.comはゼロ円です。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から                                    | 00:00 |<br />
+| お便りのコーナー                                    | 08:08 |<br />
+| (T) フォーティネットのスキルギャップレポート読んでみた               | 18:22 |<br />
+| (P) CrowdStrike Falcon に起因する Windows システム障害 | 36:22 |<br />
+| (N) Squarespace でのドメイン乗っ取り事件                | 51:16 |<br />
+| オススメのアレ                                     | 67:26 |
+</p></blockquote>
+<p>収録日: 2024年07月20日</p><p>The post <a href="https://www.tsujileaks.com/?p=1808">第228回 ゴロゴロゴロゴロ！衝撃バリバリ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_240722_doudougekiteki.mp3" length="34189463" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・NVD – CVE-1999-0070 ・フォーティネット、年次スキルギャップレポート[...]</itunes:subtitle>
+		<itunes:summary>Tweet・NVD – CVE-1999-0070 ・フォーティネット、年次スキルギャップレポート[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:11:01</itunes:duration>
+	</item>
+	<item>
 		<title>第227回 地上波デビューは、また今度！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1798</link>
 		<pubDate>Mon, 15 Jul 2024 11:00:36 +0000</pubDate>
@@ -72,7 +114,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://www.fortinet.com/jp/resources/analyst-reports/threat-report-2h-2023">フォーティネット グローバル脅威レポート 2023年下半期版</a><br />
 ・<a href="https://products.suntory.co.jp/d/4901777418103/">クラフトボス パインのフルーツオレ 500mlペット 商品情報（カロリー・原材料） サントリー</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/trump.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/trump-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1805" srcset="https://www.tsujileaks.com/wp-content/uploads/trump-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/trump-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/trump-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/trump.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/trump.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/trump-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1805" srcset="https://www.tsujileaks.com/wp-content/uploads/trump-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/trump-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/trump-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/trump.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：謝らんとイカン！返納するかどうか悩んでる。いいよ。やんなくて。読んでぇ～。認証取得と事故。資格本レビュー。言い続けていこう！委託先パターンは影響範囲広いから目立ってきてる感ある。インターネット接続点の更新作業での誤りとは。どこからのどのプロトコルへのアクセスをどうしてしまったんだろうか。それが外れたとしても大丈夫な多層の対策大事。設定変更後の確認もね！ホントとそうでない小ネタがある。かなり前に取り上げたネタの最新情報。予備キー。ビルトインセキュリティキーはもう使えなくなってPassKeyのみでいけるようになった。リカバリーオプションは必須。もっと広く使われてもいいもの。何したらどうなるのか。何が必要か分かる図が欲しい。エクスプロイトリリースから攻撃までの期間。EPSSの成功例。これだけ見てもというのはある。常にこうなるといいんだけども。レッドゾーン。古い脆弱性の悪用に注意。検証し続けて変化を見つつ効果が分かるもの。ESPP？オススメのアレで紹介したものはローソンでも見かけました！<br />
 &nbsp;</p>
@@ -155,7 +197,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://support.google.com/android/answer/13658562?hl=ja">不明なトラッカーを検出する &#8211; Android ヘルプ</a><br />
 ・<a href="https://www.apple.com/jp/newsroom/2023/05/apple-google-partner-on-an-industry-specification-to-address-unwanted-tracking/">AppleとGoogle、不要な追跡に対処するための業界規格で提携 &#8211; Apple (日本)</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/poisonkango.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/poisonkango-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1787" srcset="https://www.tsujileaks.com/wp-content/uploads/poisonkango-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/poisonkango-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/poisonkango-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/poisonkango.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/poisonkango.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/poisonkango-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1787" srcset="https://www.tsujileaks.com/wp-content/uploads/poisonkango-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/poisonkango-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/poisonkango-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/poisonkango.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：5人での初リアル開催でした。アレ勢結構来てくださいました。間違いもありみたいになってくる感じ。スケトウダラ。ソウイウタラ。関西弁対応してほしい。主に台湾を狙っている国家背景の攻撃者。どういう関連で他の国にも攻撃あるのか気になりますよね。懐かしいスキャナの名前。物理的にも近いという。これ見つけにくそう。WebShellくらいは見つけられてほしい。攻撃の手順知るのやっぱ大事だ。買収されてからってパターンまぁまぁあるし、影響範囲大体広い。ぐーぎぃー。分かりやすいところにリダイレクトはまだ救い？CDNがここまでできちゃうことについて考える必要がある。トラッキングデバイスの悪用について。犯罪組織の利用だけではないことが分かった話。検出する術を知ってほしい！何事も自分事に考えてみる。<br />
 &nbsp;</p>
@@ -439,38 +481,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1745</link>
 		<pubDate>Sun, 14 Apr 2024 23:00:45 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1745</guid>
-		<comments>https://www.tsujileaks.com/?p=1745#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1745</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・セキュリティのアレ – YouTube Music ・Importance of re[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1745&quot;&gt;第218回 ペン！パン！アッポー！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1745" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1745&amp;text=%E7%AC%AC218%E5%9B%9E%20%E3%83%9A%E3%83%B3%EF%BC%81%E3%83%91%E3%83%B3%EF%BC%81%E3%82%A2%E3%83%83%E3%83%9D%E3%83%BC%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1745" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://music.youtube.com/playlist?list=PLd1GE1sHAoR9fxkxvLuPaMuaSXUlmozu8">セキュリティのアレ &#8211; YouTube Music</a><br />
-・<a href="https://www.offsec.com/offsec/importance-of-report-writing-for-pen-testers/">Importance of report writing for pen testers</a><br />
-・<a href="https://security.paloaltonetworks.com/CVE-2024-3400">CVE-2024-3400 PAN-OS: OS Command Injection Vulnerability in GlobalProtect Gateway</a><br />
-・<a href="https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/">Zero-Day Exploitation of Unauthenticated Remote Code Execution Vulnerability in GlobalProtect (CVE-2024-3400) | Volexity</a><br />
-・<a href="https://unit42.paloaltonetworks.com/cve-2024-3400/">Threat Brief: Operation MidnightEclipse, Post-Exploitation Activity Related to CVE-2024-3400</a><br />
-・<a href="https://www.jpcert.or.jp/at/2024/at240009.html">Palo Alto Networks社製PAN-OS GlobalProtectのOSコマンドインジェクションの脆弱性（CVE-2024-3400）に関する注意喚起</a><br />
-・<a href="https://support.apple.com/en-us/102174">About Apple threat notifications and protecting against mercenary spyware &#8211; Apple Support</a><br />
-・<a href="https://www.reuters.com/technology/cybersecurity/apple-warns-users-mercenary-spyware-attack-91-countries-including-india-et-2024-04-11/">Apple drops term &#8216;state-sponsored&#8217; attacks from its threat notification policy | Reuters</a><br />
-・<a href="https://blog.google/technology/safety-security/a-review-of-zero-day-in-the-wild-exploits-in-2023/">A review of zero-day in-the-wild exploits in 2023</a><br />
-・<a href="https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/18/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/">Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware | The White House</a><br />
-・<a href="https://www.imuraya.co.jp/goods/icewagashi/c-icewagashi/kinakoo/">4コ入 きなこおはぎ(つぶあん) | 商品情報 | 井村屋株式会社</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/suttaba.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/suttaba-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1746" srcset="https://www.tsujileaks.com/wp-content/uploads/suttaba-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/suttaba-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/suttaba-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/suttaba.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：何故か飛び込みでトークセッションに参加してきた。YouTube Musicに対応しました。複数回聴いて！バイバイの調べ方。バイデンさんよろしく！たまたまってどうやってやろ。辻さんがいかにも好きそうな話。レポート作成の価値。報告する相手を意識。なんでも杓子定規じゃダメ。出して終わりじゃないことも意識しないと。相手から見た成果は？自分たちのゴールが相手のスタートってことってよくありますよね。PAN！なぜ週末なのか。テレメトリの設定は念の為確認したほうがいい！バックドアの興味深い作り。詳細な攻撃手順は幸いまだ公開されていない。パッチがでたらどうかは。ターゲットになったときにAppleから来る通知。ステートスポンサードという言葉ではなくマーシナリースパイウェアとなった。傭兵スパイウェアはしっくりくる。けしからんと言わない国が当たり前に使ってそうですからね。ゼロデイ売ります！DDoSやります！みたいなサービスがこっそり提供されていたけど。こういうのがスマホ向けになるとは思ってなかった。どうする？終わる？<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から                          | 00:00 |<br />
-| お便りのコーナー                          | 06:01 |<br />
-| (T) ペンテスターにおけるレポート作成の重要性          | 14:10 |<br />
-| (P) PAN-OS のゼロデイ脆弱性 CVE-2024-3400 | 28:31 |<br />
-| (N) 傭兵スパイウェアの標的になってるで通知           | 43:07 |<br />
-| オススメのアレ                           | 58:24 |</p>
-</blockquote>
-<p>収録日: 2024年04月13日</p><p>The post <a href="https://www.tsujileaks.com/?p=1745">第218回 ペン！パン！アッポー！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_240415_PENPANApple.mp3" length="30452658" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・セキュリティのアレ – YouTube Music ・Importance of re[...]</itunes:subtitle>
 		<itunes:summary>Tweet・セキュリティのアレ – YouTube Music ・Importance of re[...]</itunes:summary>
