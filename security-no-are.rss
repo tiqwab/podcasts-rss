@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 22 Jul 2024 11:00:34 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Jul 2024 11:00:51 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -56,6 +56,49 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第229回 ねぎつじの戸締まり！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1816</link>
+		<pubDate>Mon, 29 Jul 2024 11:00:51 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1816</guid>
+		<comments>https://www.tsujileaks.com/?p=1816#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1816</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・Helping our customers through the CrowdStrike out[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1816&quot;&gt;第229回 ねぎつじの戸締まり！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1816" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1816&amp;text=%E7%AC%AC229%E5%9B%9E%20%E3%81%AD%E3%81%8E%E3%81%A4%E3%81%98%E3%81%AE%E6%88%B8%E7%B7%A0%E3%81%BE%E3%82%8A%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1816" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://blogs.microsoft.com/blog/2024/07/20/helping-our-customers-through-the-crowdstrike-outage/">Helping our customers through the CrowdStrike outage &#8211; The Official Microsoft Blog</a><br />
+・<a href="https://status.squarespace.com/incidents/cw2wf55bps15">Squarespace Status &#8211; Domain Hijacking</a><br />
+・<a href="https://dydx.exchange/blog/dns-nameserver-hijacking-postmortem">DNS Nameserver Hijacking Postmortem</a><br />
+・<a href="https://security.googleblog.com/2024/07/building-security-into-redesigned.html">Google Online Security Blog: Building security into the redesigned Chrome downloads experience</a><br />
+・<a href="https://www.bleepingcomputer.com/news/security/meet-brain-cipher-the-new-ransomware-behind-indonesia-data-center-attack/">Meet Brain Cipher — The new ransomware behind Indonesia&#8217;s data center attack</a><br />
+・<a href="https://www.reuters.com/technology/cybersecurity/bulk-indonesia-data-hit-by-cyberattack-not-backed-up-officials-say-2024-06-28/">Indonesia president orders audit of data centres after cyberattack | Reuters</a><br />
+・<a href="https://www.theregister.com/2024/07/04/hackers_of_indonesian_government_apologize/">Hackers of Indonesian government apologize and give key • The Register</a><br />
+・<a href="https://www.trellix.com/blogs/research/ransomhouse-am-see/">RansomHouse am See</a><br />
+・<a href="https://www.nivea.co.jp/products/uv-deep-protect-and-care-gel-49013013904240052.html">ニベアＵＶ ディープ プロテクト＆ケア ジェル &#8211; NIVEA</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/abu.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/abu-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1818" srcset="https://www.tsujileaks.com/wp-content/uploads/abu-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/abu-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/abu-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/abu.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：2年ぶりのいつもと違う感じ。出会い編ニーズあるんかな。最古の思い出。続くの？タレコミありがとうございます。願掛けにも使ってください。インターオペラビリティ = 相互運用性。事前検討しないと手戻りするな。あとはどこを信用するかのキメ。立場に加えて、過失か違反か。ときにはルールを疑うことも大事。公式から原因の発表があった。しかし、また別件が。備えにくいな。早期と連絡先くらい。新しいChromeの機能。パスワード付き圧縮ファイルへの対応って商用レベルやん。設定内容によって挙動が違っていてオンラインとオフラインてのもいい配慮ですね。回避や裏をかくのが出てきそう。慣れは怖い。政府が運用しているデータセンターを攻撃したランサムギャング。どえらい影響。バックアップされてないってこわっ！事態は急変します。ちゃうやろ！犯罪やろ。復号キーを使ってほしいギャング。なんかもうトランキーロ！流用系ギャング。ESXi対応の背景について思うこと。変化を知って、そこから脅威の見積もりをする必要があると思う。プロばかりではない。日焼け止めは転ばぬ先の杖なのです。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から                            | 00:00 |<br />
+| お便りのコーナー                            | 11:45 |<br />
+| (N) Squarespace でのドメイン乗っ取り事件その後     | 26:22 |<br />
+| (N) Chrome のダウンロードファイルをチェックする新しい仕組み | 35:10 |<br />
+| (T) ランサムギャング Brain Cipher の活動       | 46:19 |<br />
+| オススメのアレ                             | 62:19 |
+</p></blockquote>
+<p>収録日: 2024年07月27日</p><p>The post <a href="https://www.tsujileaks.com/?p=1816">第229回 ねぎつじの戸締まり！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_240729_deux.mp3" length="32093596" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・Helping our customers through the CrowdStrike out[...]</itunes:subtitle>
+		<itunes:summary>Tweet・Helping our customers through the CrowdStrike out[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:06:39</itunes:duration>
+	</item>
+	<item>
 		<title>第228回 ゴロゴロゴロゴロ！衝撃バリバリ！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1808</link>
 		<pubDate>Mon, 22 Jul 2024 11:00:34 +0000</pubDate>
@@ -75,7 +118,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://domains.squarespace.com/google-domains/faq">Google Domains FAQ — Squarespace Domains</a><br />
 ・<a href="https://www.coca-cola.com/jp/ja/brands/aquarius/ors">アクエリアス 経口補水液 製品情報 ｜ アクエリアス ｜ 日本コカ･コーラ株式会社</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/kisei.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kisei-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1810" srcset="https://www.tsujileaks.com/wp-content/uploads/kisei-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kisei-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kisei-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kisei.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/kisei.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kisei-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1810" srcset="https://www.tsujileaks.com/wp-content/uploads/kisei-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kisei-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kisei-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kisei.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：明けてました。二回したことが怖い。すべらないLT懐かしい。え？あんま怖ない？フッ軽！仕組み大事。知らない間に保存されるものも把握しないとか。ヒーリング効果もあるかもしれない。古いCVE敢えて検出させよう大会。かんごさんちのベランダ事情。雑草は強いんやな。何もないよ。たまたま。サイバー攻撃を受けたときの経営陣への処分。教育の効果測定の難しさ。なんでもやりゃいいってもんではない。人材の定着についてはこれもまたギャップあるんちゃうかなと思った。社会という視点で見るか。経営者という視点で見るか。資格的な意味ではボクは切られるほうの人間です。世界的なBSODの話。FlightRadar圧巻だった。ランサムウェアに近い状況なのではないか。SNSで調べた対処方法の真偽。怒りのエスカレーションのプレッシャー。便乗もいた。ドメイン移管の隙。新規でアカウント作るときの確認方法。先回り思いつくことに驚き。tsujileaks.comはゼロ円です。<br />
 &nbsp;</p>
@@ -153,7 +196,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://www.kao-kirei.com/ja/item/khg/megrhythm/4901301376954/">めぐりズム 炭酸で やわらか足パック ラベンダーミントの香り ６枚入 | 花王公式通販 【My Kao Mall】</a><br />
 ★ Special thanks to 山城さん (Hardening Project)</p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/mousyo.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mousyo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1790" srcset="https://www.tsujileaks.com/wp-content/uploads/mousyo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mousyo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mousyo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mousyo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/mousyo.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mousyo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1790" srcset="https://www.tsujileaks.com/wp-content/uploads/mousyo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mousyo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mousyo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mousyo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：パンパンパーン★さぁ！一番いつも通りじゃない人はどなたでしょうか？初コラボですね。言いたいだけが溢れてます。起きてることが分かっているだけと生の声が聞けるのって違うなぁ。はじめのハードルをクリアするにはどうすればいいのか。人知れず案件。16文字を偶然突破？なので20文字にする。これをどう見るか。単に何言ってんだ？で済ませていいのかな。根岸さんの感じた敗北感。胸は痛くならなかった。原因を正しく認識できていないとという問題。経路と伝え方の変化と工夫の必要性。監督官庁の取りまとめと指導や情報の展開があってもいいのでは？１つの事故が多くの組織に影響が出ている件。委託先名記載型リリース。発表と異なる結果。リーク後当事者が入手してみて分かること。どうやったら待たずに把握できるのかというとめちゃくちゃ難しいですよ。声だけで笑ってるの分かるなぁ。事件事故の情報に関する発信をメディア含む第三者はどこで線を引くのか。何をどう伝えて何を伝えないのか。嘘が混じっていることがあることを知っているから更に難しくなっているかも。当事者が言っているかどうかの線引き。どんな情報かだけではなくタイミングもあると思う。皆さん足だるぅーってときないですか？全体的にいつもより早口なのはたぶんテンション上がってたせいです。<br />
 &nbsp;</p>
@@ -438,36 +481,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1750</link>
 		<pubDate>Mon, 22 Apr 2024 11:00:54 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1750</guid>
-		<comments>https://www.tsujileaks.com/?p=1750#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1750</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・Cyber Safety Review Board Releases Report on Micr[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1750&quot;&gt;第219回 歯がゆいのよ！その事例は！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1750" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1750&amp;text=%E7%AC%AC219%E5%9B%9E%20%E6%AD%AF%E3%81%8C%E3%82%86%E3%81%84%E3%81%AE%E3%82%88%EF%BC%81%E3%81%9D%E3%81%AE%E4%BA%8B%E4%BE%8B%E3%81%AF%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1750" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.dhs.gov/news/2024/04/02/cyber-safety-review-board-releases-report-microsoft-online-exchange-incident-summer">Cyber Safety Review Board Releases Report on Microsoft Online Exchange Incident from Summer 2023 | Homeland Security</a><br />
-・<a href="https://piyolog.hatenadiary.jp/entry/2023/07/17/021720">Storm-0558による複数の問題を悪用したMicrosoft クラウドサービスへの不正アクセスについてまとめてみた &#8211; piyolog</a><br />
-・<a href="https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/">Results of Major Technical Investigations for Storm-0558 Key Acquisition | MSRC Blog | Microsoft Security Response Center</a><br />
-・<a href="https://app.securitymsp.cisco.com/e/es?s=4673582&amp;e=2785&amp;elqTrackId=EF815608FCE191E1D3FAAE7B0376C832&amp;elq=bd1c1886a59e40c09915b029a74be94e&amp;elqaid=112&amp;elqat=1">[Important Notice] Security Incident Involving Duo Supplier</a><br />
-・<a href="https://www.bleepingcomputer.com/news/security/cisco-duo-warns-third-party-data-breach-exposed-sms-mfa-logs/">Cisco Duo warns third-party data breach exposed SMS MFA logs</a><br />
-・<a href="https://msrc.microsoft.com/blog/2024/04/202404-security-update/">2024 年 4 月のセキュリティ更新プログラム (月例) | MSRC Blog | Microsoft Security Response Center</a><br />
-・<a href="https://www.malwarebytes.com/blog/news/2024/04/microsofts-april-2024-patch-tuesday-includes-two-actively-exploited-zero-day-vulnerabilities">Microsoft’s April 2024 Patch Tuesday includes two actively exploited zero-day vulnerabilities | Malwarebytes</a><br />
-・<a href="https://www.zerodayinitiative.com/blog/2024/4/9/the-april-2024-security-updates-review">Zero Day Initiative — The April 2024 Security Updates Review</a><br />
-・<a href="https://www.kokuyo-st.co.jp/stationery/hakoake/">2Wayハサミ＜ハコアケ＞ 2Way携帯ハサミ＜ハコアケ＞｜コクヨステーショナリー</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/nui.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/nui-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1751" srcset="https://www.tsujileaks.com/wp-content/uploads/nui-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/nui-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/nui-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/nui.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：ポッドキャストの音声ファイル名について。夢の国みたいなもんやん。割れ窓効果とはちょっと違うかもしれへん。めちゃめちゃ楽しみな日なんですよ！前提知識の一致がないと共通の認識が得られない。実証と実被害。試験に受かるアレ。サイバーセキュリティレビューボード初めて聞いたかもしれない。Storm-0558によるExchange Onlineへの侵害事件。辛辣！そもそもの原因について重要なことが書いてある。大事な大事な秘密鍵含まれたクラッシュダンプを持ち出した際に、、、ということだったが。どこまで追うかってほんま難しいと思う。大きければ大きいほどそうなると思うわけです。関連のある組織、買収する組織とどう足並みを揃えるのか。想定できないから厳しいけど疑問を持ち続けよう。Duoって聞くとPCエンジンが真っ先に浮かぶんですよね。まぁまぁ使われている。本文以外のメタ情報などが盗まれたっぽい。狙いはどこだったんだろうか。被害に遭ったら直接的な何にどう備えたらええんやろか。Ciscoが協力したところでうまくいくのか分からない。取引先に厳しくしすぎると独禁とかも関係してきそう。めずらしいかな？4月のパッチチューズデイが気になった。全部見たんです。回避系は大体やられる説。傾向捉えるというアプローチもいいと思うんです。たこちゃうわ！ハンペン！？力業しかない。<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から                                | 00:00 |<br />
-| お便りのコーナー                                | 05:38 |<br />
-| (N) CSRB による MS インシデントの調査報告書            | 11:26 |<br />
-| (P) Cisco Duo に関連するインシデントとその影響          | 29:48 |<br />
-| (T) Microsoft の今月のセキュリティ更新プログラムで気になったこと | 43:47 |<br />
-| オススメのアレ                                 | 57:02 |</p>
-</blockquote>
-<p>収録日: 2024年04月20日</p><p>The post <a href="https://www.tsujileaks.com/?p=1750">第219回 歯がゆいのよ！その事例は！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_20240422_moya2.mp3" length="30492608" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・Cyber Safety Review Board Releases Report on Micr[...]</itunes:subtitle>
 		<itunes:summary>Tweet・Cyber Safety Review Board Releases Report on Micr[...]</itunes:summary>
