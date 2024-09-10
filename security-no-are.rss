@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Sun, 25 Aug 2024 17:13:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Sep 2024 11:00:43 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -56,6 +56,47 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第233回 いつも元気を毎日に！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1842</link>
+		<pubDate>Mon, 09 Sep 2024 11:00:43 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1842</guid>
+		<comments>https://www.tsujileaks.com/?p=1842#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1842</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・ATT&amp;CK® Evaluations ・EUCLEAK – NinjaLab[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1842&quot;&gt;第233回 いつも元気を毎日に！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1842" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1842&amp;text=%E7%AC%AC233%E5%9B%9E%20%E3%81%84%E3%81%A4%E3%82%82%E5%85%83%E6%B0%97%E3%82%92%E6%AF%8E%E6%97%A5%E3%81%AB%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1842" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://attackevals.mitre-engenuity.org/">ATT&amp;CK® Evaluations</a><br />
+・<a href="https://ninjalab.io/eucleak/">EUCLEAK &#8211; NinjaLab</a><br />
+・<a href="https://www.yubico.com/support/security-advisories/ysa-2024-03/">Security Advisory YSA-2024-03 | Yubico</a><br />
+・<a href="https://news.sophos.com/en-us/2024/08/22/qilin-ransomware-caught-stealing-credentials-stored-in-google-chrome/">Qilin ransomware caught stealing credentials stored in Google Chrome – Sophos News</a><br />
+・<a href="https://nordpass.com/blog/how-many-passwords-does-average-person-have/">How many passwords does the average person have? | NordPass</a><br />
+・<a href="https://blog.google/threat-analysis-group/state-backed-attackers-and-commercial-surveillance-vendors-repeatedly-use-the-same-exploits/">State-backed attackers and commercial surveillance vendors repeatedly use the same exploits</a><br />
+・<a href="https://www.wired.com/story/russia-cozy-bear-watering-hole-attacks/">Powerful Spyware Exploits Enable a New String of ‘Watering Hole’ Attacks | WIRED</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/farm.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/farm-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1843" srcset="https://www.tsujileaks.com/wp-content/uploads/farm-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/farm-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/farm-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/farm.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：一番体調崩しがちの人。蚊に刺されるくらい外に出られるほうが幸せやなぁ。nmapでがんばらなくていい。言葉の定義。自分たちに合ったほどよいところ探し。色々な立場の方に聴いていただけて嬉しい。導入した効果を示せることが大事だと思っています。止められにくさは製品特性上ポイントですね。ボクの目にも止ったので割と話題。影響範囲はYubiKey以外も。ふとしたときに見聞きするサイドチャネル攻撃。高額で特殊な機材とそれを扱える技術というハードルがある。に加えてなのでそもそも。。。今買い換えるには注意が必要。一見意味があるのかと思うものでも。病院を禁止してないギャング。VPNの多要素認証って導入あまり進んでないのだろうか。空白の18日間。インフォスティーラっぽい動きしてるの珍しいかも。盗まれる情報の特性として追いにくいさが目立つ。組織として強制できない部分が多分にあるのも厄介。保存しますかボタンは自分にとっては避けるべき地雷だ。見えない負の連鎖はおっかない。びずどびばがだ攻撃。商用スパイウェアを仕込むのに使っていたゼロデイが使われた。全部スマホ狙いなのか。そのまま利用ではなく改良されていた。完了できませんでしたループ。Hacking Team懐かしい。あんねで。学習してなかった。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から                    | 00:00 |<br />
+| お便りのコーナー                    | 01:46 |<br />
+| (N) YubiKey の脆弱性? 違う、そうじゃない | 13:53 |<br />
+| (T) Qilin ランサムウェアの新たな動きに注目  | 30:41 |<br />
+| (P) 水飲み場攻撃の脅威再び             | 44:20 |<br />
+| オススメのアレ                     | 57:31 |
+</p></blockquote>
+<p>収録日: 2024年09月07日</p><p>The post <a href="https://www.tsujileaks.com/?p=1842">第233回 いつも元気を毎日に！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_240909_kokokara.mp3" length="29765301" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・ATT&amp;CK® Evaluations ・EUCLEAK – NinjaLab[...]</itunes:subtitle>
+		<itunes:summary>Tweet・ATT&amp;CK® Evaluations ・EUCLEAK – NinjaLab[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:01:48</itunes:duration>
+	</item>
+	<item>
 		<title>第232回 認証認可自画自賛！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1836</link>
 		<pubDate>Sun, 25 Aug 2024 17:13:46 +0000</pubDate>
@@ -82,7 +123,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://www.youtube.com/watch?v=Sb5aq5HcS1A">Red Hot Chili Peppers &#8211; Dani California [Official Music Video] &#8211; YouTube</a><br />
 ・<a href="https://www.youtube.com/watch?v=yuFI5KSPAt4">Red Hot Chili Peppers &#8211; Snow (Hey Oh) (Official Music Video) &#8211; YouTube</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1837" srcset="https://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1837" srcset="https://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：台風ぽこぽこ。今年蚊に刺されました？たまには告知。互いの個人活動あんま知らん。聴き方色々。皆さんからのお便りに愛を感じています。幅広なので実施してないが少なく見えるんかな。目標とは。身代金に対する考え。この調査引き続きやってほしいな。可能であれば複数のソースを見たい。規模によっては払っているところは多いと思っている。そういう見方をもって注意喚起していかないとって。増えている似た注意喚起。著作権侵害について連絡してくる。添付ファイルの情報お持ちの方はVTに！誰にでも当てはまるものではないのが気持ち悪い。トランプマスク。DDoS何て無かったよ！あったよ！観測されてたよ！当事者にしか分からない問題。根拠なく発信すると後々しんどい。今回のは割とどっちでもいいかもしれん。伏線回収したぞ！<br />
 &nbsp;</p>
@@ -160,7 +201,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://www.spamhaus.org/resource-hub/service-providers/too-big-to-care-our-disappointment-with-cloudflares-anti-abuse-posture/#what-spamhaus-is-seeing">Blog | Too big to care? &#8211; Our disappointment with Cloudflare’s anti-abuse posture | Resources</a><br />
 ・<a href="https://www.cloudflare.com/trust-hub/abuse-approach/">Abuse approach &#8211; Cloudflare | Cloudflare</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/machuri.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/machuri-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1824" srcset="https://www.tsujileaks.com/wp-content/uploads/machuri-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/machuri-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/machuri-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/machuri.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/machuri.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/machuri-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1824" srcset="https://www.tsujileaks.com/wp-content/uploads/machuri-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/machuri-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/machuri-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/machuri.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：「めっちゃいい人」の真相。使ってください。パクってください。一人じゃないってー。凌ぎ切り方ノウハウ気になる。線抜くところは本当にあります。サポート詐欺レポートかなり網羅感あって分かりやすかったですね。じーまい！以前からEsc長押し最強。体験コーナーはオススメ！詳しくない人向けのキルスイッチがあればいいのかもしれない。手口の変化は追って共有ですよね。誰かに相談しにくい環境でというのが狙い目感ある。名前センスええなぁ。アウトバウンド通信の制御・監視って結構抜けがちだと思うんですよ。いい質問もらえたぜ！気になって調べておいてよかったー。バックアップファイルあるある。ほいで使ってない権限の高いアカウント。TTP,<br />
 IoCに縛られないようにというのは印象的。入れてるだけ問題。読むとチクチクするけどいい刺激だぜ！クラウドフレアへの苦言。コンテンツに関してはどうにもできないって言い分はまぁ分かるけれども。調査してるときはめんどいと思った。大いなる力には的な。おすすめってまぁまぁ自分の好みやった。たまごサンドってどういうの思い浮かべますか？</p>
@@ -445,34 +486,8 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<link>https://www.tsujileaks.com/?p=1774</link>
 		<pubDate>Mon, 03 Jun 2024 11:00:44 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1774</guid>
-		<comments>https://www.tsujileaks.com/?p=1774#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1774</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・SNSをきっかけとして、著名人を名乗る、つながりがあるなどと勧誘される金融商品・サービスの消費者ト[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1774&quot;&gt;第223回 投資詐欺にサプライチェーンにインフルエンスだ！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1774" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1774&amp;text=%E7%AC%AC223%E5%9B%9E%20%E6%8A%95%E8%B3%87%E8%A9%90%E6%AC%BA%E3%81%AB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%81%AB%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B9%E3%81%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1774" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.kokusen.go.jp/news/data/n-20240529_1.html">SNSをきっかけとして、著名人を名乗る、つながりがあるなどと勧誘される金融商品・サービスの消費者トラブルが急増－いったん振込してしまうと、被害回復が困難です！－(発表情報)_国民生活センター</a><br />
-・<a href="https://www.npa.go.jp/news/release/2024/20240516001.html">令和６年１月～３月におけるＳＮＳ型投資・ロマンス詐欺の認知・検挙状況等について｜警察庁Webサイト</a><br />
-・<a href="https://about.fb.com/ja/news/2024/04/our_efforts_to_combat_scams/">著名人になりすました詐欺広告に対する取り組みについて | Metaについて</a><br />
-・<a href="https://nvd.nist.gov/vuln/detail/CVE-2024-4978">NVD &#8211; CVE-2024-4978</a><br />
-・<a href="https://www.rapid7.com/blog/post/2024/05/23/cve-2024-4978-backdoored-justice-av-solutions-viewer-software-used-in-apparent-supply-chain-attack/">CVE-2024-4978: Backdoored Justice AV Solutions Viewer Software Used in Apparent Supply Chain Attack | Rapid7 Blog</a><br />
-・<a href="https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/">Disrupting deceptive uses of AI by covert influence operations | OpenAI</a><br />
-・<a href="https://www.brookings.edu/articles/the-breakout-scale-measuring-the-impact-of-influence-operations/">The Breakout Scale: Measuring the impact of influence operations | Brookings</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/pizza_hiza.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/pizza_hiza-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1775" srcset="https://www.tsujileaks.com/wp-content/uploads/pizza_hiza-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/pizza_hiza-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/pizza_hiza-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/pizza_hiza.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：初の。ライブ感。言いたかっただけの話。注意喚起がしたい。思い当たりまくり。アレんちゅ。どしどしお願いします！あのときのアレ嬉しい！質問も嬉しい！ご自身の環境教えてもらえるのもありがたいなぁ。事例共有もできるといいな！いつもよりテンション高め。2つのうちの1つのほうを紹介だ！１件あたり1300万。中高年向け詐欺。大体LINEに持ち込む。広告なのか！信じ込んでしまうことへの対処。届いてないをどうするか。KEVにも掲載された脆弱性のサプライチェーン。てかこういうのも発行されるのかと前にも思った。守るポイントでどこに重点置くかを考えた方がいいように思う。攻撃の流れを知って「どこで」気付くか、止めるか。DMでもええんやで！OpenAIで見つかったインフルエンスオペレーション。まだ限定的な感じ。日本にも向いているものがあった。個人でっ！？タイミングによって影響が大きく変わりそう。受け手側も変わっていかないと。まぁまぁ見られてるんだなっていうね。清涼的なおすすめのアレ。<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| 1 | いつもの雑談から              | 00:00 |<br />
-| 2 | お便りのコーナー              | 08:01 |<br />
-| 3 | (N) 急増する投資詐欺の話        | 19:22 |<br />
-| 4 | (T) JAVS へのサプライチェーン攻撃 | 37:46 |<br />
-| 5 | (P) OpenAI の脅威レポート    | 51:20 |<br />
-| 6 | オススメのアレ               | 67:38 |</p>
-</blockquote>
-<p>収録日: 2024年06月01日</p><p>The post <a href="https://www.tsujileaks.com/?p=1774">第223回 投資詐欺にサプライチェーンにインフルエンスだ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_240603_black.mp3" length="34688830" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・SNSをきっかけとして、著名人を名乗る、つながりがあるなどと勧誘される金融商品・サービスの消費者ト[...]</itunes:subtitle>
 		<itunes:summary>Tweet・SNSをきっかけとして、著名人を名乗る、つながりがあるなどと勧誘される金融商品・サービスの消費者ト[...]</itunes:summary>
