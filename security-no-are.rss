@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 16 Sep 2024 14:29:19 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Sep 2024 11:00:36 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -56,6 +56,45 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第235回 めっちゃ早口でええやん！胸熱なろうぜ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1850</link>
+		<pubDate>Mon, 23 Sep 2024 11:00:36 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1850</guid>
+		<comments>https://www.tsujileaks.com/?p=1850#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1850</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・Insecure software makers are the real cyber villa[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1850&quot;&gt;第235回 めっちゃ早口でええやん！胸熱なろうぜ！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1850" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1850&amp;text=%E7%AC%AC235%E5%9B%9E%20%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E6%97%A9%E5%8F%A3%E3%81%A7%E3%81%88%E3%81%88%E3%82%84%E3%82%93%EF%BC%81%E8%83%B8%E7%86%B1%E3%81%AA%E3%82%8D%E3%81%86%E3%81%9C%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1850" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.theregister.com/2024/09/20/cisa_sloppy_vendors_cybercrime_villains/">Insecure software makers are the real cyber villains – CISA • The Register</a><br />
+・<a href="https://developer.chrome.com/blog/passkeys-gpm-desktop">Chrome to sync passkeys on Google Password Manager between desktop and Android | Blog | Chrome for Developers</a><br />
+・<a href="https://strobes.co/blog/top-5-vulnerability-management-mistakes-companies-make-plus-a-bonus-mistake-to-avoid/">Top 5 Vulnerability Management Mistakes Companies Make</a><br />
+・<a href="https://inthewild.io/">Open Source Exploited Vulnerability Feed you can Use for Free</a><br />
+・<a href="https://www.netflix.com/jp/title/81351263">極悪女王 | Netflix ( ネ ッ ト フ リ ッ ク ス ) 公 式サ イ ト</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/pudding.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/pudding-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1851" srcset="https://www.tsujileaks.com/wp-content/uploads/pudding-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/pudding-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/pudding-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/pudding.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：公開処理のミス気付いた方いたのかな。ポッドキャストから読み取れるもの。早口問題の解決へ向けて。実感してもらうためには。美容室って結構色々な話題が出る。それは何に効果があってないのかの整理。想定しておいてパターン用意しておくのはいいですよ。ちょっと気になることが残った。色々な環境を想定しないとなと思った。真のサイバーの悪党は誰だ！？アップデートできないことを責める前に製品の欠陥ととらえるべきという意見。攻撃者の呼称について。識別できないとなぁ。品質はよくなっているものも沢山あると思うけどもカバーできないくらいに。まぁまぁ色々言いましたが仰るとおりではあるので意図は正しく伝わってほしい。GoogleのパスワードマネージャーでPassKeyの同期が！入るけど持ち出せないのきつい。同期にはPINが必要。たらい回しの後に。強い意志が必要だ。選択肢が多くても悩ましい。脆弱性管理の間違いTOP5。優先順位の誤りで失う2つのこと。キャッチアップできるソースがあるといいかも。情報セキュリティは情報管理の上にしか成り立たないはず。どこかに目を向けすぎると。ベースライン決めるの大事。お金のニオイもするぞ。頼める人がいない場合は。ボクが言い続けるつもりのこと。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から                                        | 00:00 |<br />
+| お便りのコーナー                                        | 02:34 |<br />
+| (P) 安全でないソフトウェアのメーカーこそが真の悪党なのか                  | 22:28 |<br />
+| (N) Google Password Manager で Passkeys の同期ができるぞ | 36:17 |<br />
+| (T) 脆弱性管理のよくある 5つの間違いとは                         | 50:13 |<br />
+| オススメのアレ                                         | 66:23 |
+</p></blockquote>
+<p>収録日: 2024年09月21日</p><p>The post <a href="https://www.tsujileaks.com/?p=1850">第235回 めっちゃ早口でええやん！胸熱なろうぜ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_240923_memorydump.mp3" length="35493495" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・Insecure software makers are the real cyber villa[...]</itunes:subtitle>
+		<itunes:summary>Tweet・Insecure software makers are the real cyber villa[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:13:44</itunes:duration>
+	</item>
+	<item>
 		<title>第234回 噛み対応！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1845</link>
 		<pubDate>Mon, 16 Sep 2024 11:00:57 +0000</pubDate>
@@ -75,7 +114,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://www.kenpo.gr.jp/kubota/contents/topics/2024/0904.html">【お詫び】業務委託先への不正アクセスによる個人情報漏えいの恐れについて｜NEWS＆TOPICS｜クボタ健康保険組合</a><br />
 ・<a href="https://www.myrepi.com/home/cleaning/brands_febreze_fabric-refresher_gold-premium/">「金のファブリーズ」が大型改良！消臭・除菌も最高レベルで、靴のニオイもしっかり消臭 | P&amp;G マイレピ</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/3kango.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/3kango-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1846" srcset="https://www.tsujileaks.com/wp-content/uploads/3kango-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/3kango-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/3kango-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/3kango.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/3kango.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/3kango-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1846" srcset="https://www.tsujileaks.com/wp-content/uploads/3kango-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/3kango-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/3kango-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/3kango.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：噛んでん。早口問題。3分の1も伝わらへん。胎教に良ければいいな。みんなのパスワード保存について。クリップボードが抜け穴にならないように。1年ぶり2回目のRVA。昨年からの変化は。グラフでは変化あるけどボリュームゾーンについては、そこまで大きな変化はなく見える。足下固めないとというものであるかな。どういう指導をして対応がされているのか気になるところ。セクストーションの手口。あるスパイウェアを匂わせる。住んでいると思われるあたりの写真が！払えそうな額。アメリカでは社会問題となっている。日常の会話の話題として広めていきたい。引っかかる方ほど無視できない。そういう方には届いてない。また似たような形式の事件が。えらい古い情報ですね。消されているはずのデータが消されていない問題。ないからあるはキツイ。委託先の被害は影響する顧客から情報がでるのが遅れる。続いているのか。可視化されただけなのか。どうやって見定めるのか。<br />
 &nbsp;</p>
@@ -165,7 +204,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://www.youtube.com/watch?v=Sb5aq5HcS1A">Red Hot Chili Peppers &#8211; Dani California [Official Music Video] &#8211; YouTube</a><br />
 ・<a href="https://www.youtube.com/watch?v=yuFI5KSPAt4">Red Hot Chili Peppers &#8211; Snow (Hey Oh) (Official Music Video) &#8211; YouTube</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1837" srcset="https://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1837" srcset="https://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/aaaaaaaaaaa.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：台風ぽこぽこ。今年蚊に刺されました？たまには告知。互いの個人活動あんま知らん。聴き方色々。皆さんからのお便りに愛を感じています。幅広なので実施してないが少なく見えるんかな。目標とは。身代金に対する考え。この調査引き続きやってほしいな。可能であれば複数のソースを見たい。規模によっては払っているところは多いと思っている。そういう見方をもって注意喚起していかないとって。増えている似た注意喚起。著作権侵害について連絡してくる。添付ファイルの情報お持ちの方はVTに！誰にでも当てはまるものではないのが気持ち悪い。トランプマスク。DDoS何て無かったよ！あったよ！観測されてたよ！当事者にしか分からない問題。根拠なく発信すると後々しんどい。今回のは割とどっちでもいいかもしれん。伏線回収したぞ！<br />
 &nbsp;</p>
@@ -434,37 +473,8 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<link>https://www.tsujileaks.com/?p=1786</link>
 		<pubDate>Tue, 02 Jul 2024 11:00:22 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1786</guid>
-		<comments>https://www.tsujileaks.com/?p=1786#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1786</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・Chinese State-Sponsored RedJuliett Intensifies Ta[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1786&quot;&gt;第225回 システムだけでなく自分の健康にも気を付けよう！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1786" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1786&amp;text=%E7%AC%AC225%E5%9B%9E%20%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AA%E3%81%8F%E8%87%AA%E5%88%86%E3%81%AE%E5%81%A5%E5%BA%B7%E3%81%AB%E3%82%82%E6%B0%97%E3%82%92%E4%BB%98%E3%81%91%E3%82%88%E3%81%86%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1786" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.recordedfuture.com/redjuliett-intensifies-taiwanese-cyber-espionage-via-network-perimeter">Chinese State-Sponsored RedJuliett Intensifies Taiwanese Cyber Espionage via Network Perimeter Exploitation | Recorded Future</a><br />
-・<a href="https://www.microsoft.com/en-us/security/blog/2023/08/24/flax-typhoon-using-legitimate-software-to-quietly-access-taiwanese-organizations/">Flax Typhoon using legitimate software to quietly access Taiwanese organizations | Microsoft Security Blog</a><br />
-・<a href="https://ja.softether.org/">SoftEther VPN プロジェクト &#8211; SoftEther VPN プロジェクト</a><br />
-・<a href="https://sansec.io/research/polyfill-supply-chain-attack">Polyfill supply chain attack hits 100K+ sites</a><br />
-・<a href="https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet">Automatically replacing polyfill.io links with Cloudflare’s mirror for a safer Internet</a><br />
-・<a href="https://www.crimecommission.nsw.gov.au/hakea-final-report-25-june-2024.pdf/@@download/file">Hakea Report (June 2024)</a><br />
-・<a href="https://www.theregister.com/2024/06/26/criminals_use_gps_bluetooth_trackers/">Organized crime and domestic violence perps buy trackers • The Register</a><br />
-・<a href="https://support.apple.com/ja-jp/119874">AirTag、「探す」ネットワーク対応アクセサリ、または AirPods を所持しているという通知が表示された場合の対処法 &#8211; Apple サポート (日本)</a><br />
-・<a href="https://support.google.com/android/answer/13658562?hl=ja">不明なトラッカーを検出する &#8211; Android ヘルプ</a><br />
-・<a href="https://www.apple.com/jp/newsroom/2023/05/apple-google-partner-on-an-industry-specification-to-address-unwanted-tracking/">AppleとGoogle、不要な追跡に対処するための業界規格で提携 &#8211; Apple (日本)</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/poisonkango.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/poisonkango-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1787" srcset="https://www.tsujileaks.com/wp-content/uploads/poisonkango-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/poisonkango-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/poisonkango-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/poisonkango.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：5人での初リアル開催でした。アレ勢結構来てくださいました。間違いもありみたいになってくる感じ。スケトウダラ。ソウイウタラ。関西弁対応してほしい。主に台湾を狙っている国家背景の攻撃者。どういう関連で他の国にも攻撃あるのか気になりますよね。懐かしいスキャナの名前。物理的にも近いという。これ見つけにくそう。WebShellくらいは見つけられてほしい。攻撃の手順知るのやっぱ大事だ。買収されてからってパターンまぁまぁあるし、影響範囲大体広い。ぐーぎぃー。分かりやすいところにリダイレクトはまだ救い？CDNがここまでできちゃうことについて考える必要がある。トラッキングデバイスの悪用について。犯罪組織の利用だけではないことが分かった話。検出する術を知ってほしい！何事も自分事に考えてみる。<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から                      | 00:00 |<br />
-| お便りのコーナー                      | 06:46 |<br />
-| (N) RedJuliett による台湾を狙う攻撃活動   | 12:09 |<br />
-| (P) Polyfill に関する最近の騒動について    | 30:25 |<br />
-| (T) トラッキングデバイスを利用した犯罪に関するレポート | 49:00 |<br />
-| オススメのアレ                       | 62:55 |</p>
-</blockquote>
-<p>収録日: 2024年06月30日</p><p>The post <a href="https://www.tsujileaks.com/?p=1786">第225回 システムだけでなく自分の健康にも気を付けよう！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_240702_konkaihagachi.mp3" length="33349329" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・Chinese State-Sponsored RedJuliett Intensifies Ta[...]</itunes:subtitle>
 		<itunes:summary>Tweet・Chinese State-Sponsored RedJuliett Intensifies Ta[...]</itunes:summary>
