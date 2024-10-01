@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 23 Sep 2024 11:00:36 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Sep 2024 11:00:20 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -56,6 +56,47 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第236回 そんなんあるんやがいっぱい！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1857</link>
+		<pubDate>Mon, 30 Sep 2024 11:00:20 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1857</guid>
+		<comments>https://www.tsujileaks.com/?p=1857#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1857</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・A10 Connect 2024 ・Criminal phishing network resul[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1857&quot;&gt;第236回 そんなんあるんやがいっぱい！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1857" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1857&amp;text=%E7%AC%AC236%E5%9B%9E%20%E3%81%9D%E3%82%93%E3%81%AA%E3%82%93%E3%81%82%E3%82%8B%E3%82%93%E3%82%84%E3%81%8C%E3%81%84%E3%81%A3%E3%81%B1%E3%81%84%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1857" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://a10connect.a10networks.co.jp/2024">A10 Connect 2024</a><br />
+・<a href="https://www.europol.europa.eu/media-press/newsroom/news/criminal-phishing-network-resulting-in-over-480-000-victims-worldwide-busted-in-spain-and-latin-america">Criminal phishing network resulting in over 480 000 victims worldwide busted in Spain and Latin America | Europol</a><br />
+・<a href="https://www.group-ib.com/media-center/press-releases/operation-kaerb/">Group-IB contributes to international “Operation Kaerb” | Group-IB</a><br />
+・<a href="https://techcrunch.com/2024/09/23/some-kaspersky-customers-receive-surprise-forced-update-to-new-antivirus-software/">Some Kaspersky customers receive surprise forced-update to new antivirus software | TechCrunch</a><br />
+・<a href="https://globalsecurelayer.com/blog/unprecedented-3-15-billion-packet-rate-ddos-attack">Unprecedented 3.15 Billion Packet Rate DDoS Attack Mitigated by Global Secure Layer</a><br />
+・<a href="https://www.akamai.com/blog/security/akamai-prevents-record-breaking-ddos-attack-major-us-customer">Akamai Prevents DDoS Attack on Major U.S. Customer | Akamai</a><br />
+・<a href="https://niton.co.jp/services/">商品一覧 &#8211; 合同会社にとん屋</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/mush.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mush-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1859" srcset="https://www.tsujileaks.com/wp-content/uploads/mush-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mush-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mush-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mush.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：タクシー呼んだときの話。毎年買ってるアレ。台本はないです。やっぱりツッコミきた。自分らのポッドキャスト大好き。抜けてた観点いただきましてありがとうございます！犯罪者の手に渡ってしまったデバイスのロックに対して。アメリポールってなんか名前かわいい。特化したフィッシングサービス。2000人もおったんかい！ギャングらしい押収品。電話番号を知る方法は？うまいこと繋がってしまってるな。新しい防御策の登場によって生まれた犯罪手法。こんなんあるんか繋がり。強制リプレース。パンゴ。こういうことできちゃうのかと改めて思った。返金って選択肢はなかったということは規約に何かあるのかな。こういった方法でも保護される人もいるかもしれない。記録更新。カーペットボミング。2種類あり地理的に異なる。この製品の脆弱性については日本語でも出てますね。日本も入ってたけど10位以内に入ってるのって結構当たり前なのか。経験ある！代行使ったとしたらたまたまでかかっただけかもしれない。セルくらいで止ってる。サイズのみではなく、自分事で考えたときにどうかが大事。ちゃっちゃちゃーっす！<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から                           | 00:00 |<br />
+| お便りのコーナー                           | 05:21 |<br />
+| (T) スマホのロックを解除するフィッシングサービスとは       | 11:50 |<br />
+| (P) Kaspersky が UltraAV に入れ替わってる ? | 23:08 |<br />
+| (N) 過去最大規模の DDoS 攻撃を観測             | 36:56 |<br />
+| オススメのアレ                            | 55:10 |</p>
+</blockquote>
+<p>収録日: 2024年09月28日</p><p>The post <a href="https://www.tsujileaks.com/?p=1857">第236回 そんなんあるんやがいっぱい！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_240930_8451.mp3" length="28524621" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・A10 Connect 2024 ・Criminal phishing network resul[...]</itunes:subtitle>
+		<itunes:summary>Tweet・A10 Connect 2024 ・Criminal phishing network resul[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>59:13</itunes:duration>
+	</item>
+	<item>
 		<title>第235回 めっちゃ早口でええやん！胸熱なろうぜ！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1850</link>
 		<pubDate>Mon, 23 Sep 2024 11:00:36 +0000</pubDate>
@@ -72,7 +113,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://inthewild.io/">Open Source Exploited Vulnerability Feed you can Use for Free</a><br />
 ・<a href="https://www.netflix.com/jp/title/81351263">極悪女王 | Netflix ( ネ ッ ト フ リ ッ ク ス ) 公 式サ イ ト</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/pudding.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/pudding-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1851" srcset="https://www.tsujileaks.com/wp-content/uploads/pudding-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/pudding-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/pudding-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/pudding.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/pudding.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/pudding-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1851" srcset="https://www.tsujileaks.com/wp-content/uploads/pudding-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/pudding-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/pudding-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/pudding.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：公開処理のミス気付いた方いたのかな。ポッドキャストから読み取れるもの。早口問題の解決へ向けて。実感してもらうためには。美容室って結構色々な話題が出る。それは何に効果があってないのかの整理。想定しておいてパターン用意しておくのはいいですよ。ちょっと気になることが残った。色々な環境を想定しないとなと思った。真のサイバーの悪党は誰だ！？アップデートできないことを責める前に製品の欠陥ととらえるべきという意見。攻撃者の呼称について。識別できないとなぁ。品質はよくなっているものも沢山あると思うけどもカバーできないくらいに。まぁまぁ色々言いましたが仰るとおりではあるので意図は正しく伝わってほしい。GoogleのパスワードマネージャーでPassKeyの同期が！入るけど持ち出せないのきつい。同期にはPINが必要。たらい回しの後に。強い意志が必要だ。選択肢が多くても悩ましい。脆弱性管理の間違いTOP5。優先順位の誤りで失う2つのこと。キャッチアップできるソースがあるといいかも。情報セキュリティは情報管理の上にしか成り立たないはず。どこかに目を向けすぎると。ベースライン決めるの大事。お金のニオイもするぞ。頼める人がいない場合は。ボクが言い続けるつもりのこと。<br />
 &nbsp;</p>
@@ -155,7 +196,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://blog.google/threat-analysis-group/state-backed-attackers-and-commercial-surveillance-vendors-repeatedly-use-the-same-exploits/">State-backed attackers and commercial surveillance vendors repeatedly use the same exploits</a><br />
 ・<a href="https://www.wired.com/story/russia-cozy-bear-watering-hole-attacks/">Powerful Spyware Exploits Enable a New String of ‘Watering Hole’ Attacks | WIRED</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/farm.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/farm-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1843" srcset="https://www.tsujileaks.com/wp-content/uploads/farm-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/farm-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/farm-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/farm.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/farm.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/farm-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1843" srcset="https://www.tsujileaks.com/wp-content/uploads/farm-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/farm-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/farm-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/farm.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：一番体調崩しがちの人。蚊に刺されるくらい外に出られるほうが幸せやなぁ。nmapでがんばらなくていい。言葉の定義。自分たちに合ったほどよいところ探し。色々な立場の方に聴いていただけて嬉しい。導入した効果を示せることが大事だと思っています。止められにくさは製品特性上ポイントですね。ボクの目にも止ったので割と話題。影響範囲はYubiKey以外も。ふとしたときに見聞きするサイドチャネル攻撃。高額で特殊な機材とそれを扱える技術というハードルがある。に加えてなのでそもそも。。。今買い換えるには注意が必要。一見意味があるのかと思うものでも。病院を禁止してないギャング。VPNの多要素認証って導入あまり進んでないのだろうか。空白の18日間。インフォスティーラっぽい動きしてるの珍しいかも。盗まれる情報の特性として追いにくいさが目立つ。組織として強制できない部分が多分にあるのも厄介。保存しますかボタンは自分にとっては避けるべき地雷だ。見えない負の連鎖はおっかない。びずどびばがだ攻撃。商用スパイウェアを仕込むのに使っていたゼロデイが使われた。全部スマホ狙いなのか。そのまま利用ではなく改良されていた。完了できませんでしたループ。Hacking Team懐かしい。あんねで。学習してなかった。<br />
 &nbsp;</p>
@@ -434,32 +475,8 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<link>https://www.tsujileaks.com/?p=1789</link>
 		<pubDate>Mon, 08 Jul 2024 11:00:13 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1789</guid>
-		<comments>https://www.tsujileaks.com/?p=1789#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1789</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・Hardening Designers Conference 2024 – 堅牢化にお[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1789&quot;&gt;第226回 合格と心も支え始めたポッドキャストだ！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1789" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1789&amp;text=%E7%AC%AC226%E5%9B%9E%20%E5%90%88%E6%A0%BC%E3%81%A8%E5%BF%83%E3%82%82%E6%94%AF%E3%81%88%E5%A7%8B%E3%82%81%E3%81%9F%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E3%81%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1789" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://wasforum.jp/2024/06/hardening-designers-conference-2024-convolutions/">Hardening Designers Conference 2024 &#8211; 堅牢化における未解決課題を切り拓く3日間 | Hardening Project</a><br />
-・<a href="https://www.pref.hiroshima.lg.jp/uploaded/attachment/582195.pdf">県主催セミナー「人的資本経営推進セミナー」の事務局メールアカウントへの不正アクセスについて</a><br />
-・<a href="https://piyolog.hatenadiary.jp/entry/2024/06/15/011339">イセトーのランサムウエア感染についてまとめてみた &#8211; piyolog</a><br />
-・<a href="https://www.kao-kirei.com/ja/item/khg/megrhythm/4901301376954/">めぐりズム 炭酸で やわらか足パック ラベンダーミントの香り ６枚入 | 花王公式通販 【My Kao Mall】</a><br />
-★ Special thanks to 山城さん (Hardening Project)</p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/mousyo.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mousyo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1790" srcset="https://www.tsujileaks.com/wp-content/uploads/mousyo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mousyo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mousyo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mousyo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：パンパンパーン★さぁ！一番いつも通りじゃない人はどなたでしょうか？初コラボですね。言いたいだけが溢れてます。起きてることが分かっているだけと生の声が聞けるのって違うなぁ。はじめのハードルをクリアするにはどうすればいいのか。人知れず案件。16文字を偶然突破？なので20文字にする。これをどう見るか。単に何言ってんだ？で済ませていいのかな。根岸さんの感じた敗北感。胸は痛くならなかった。原因を正しく認識できていないとという問題。経路と伝え方の変化と工夫の必要性。監督官庁の取りまとめと指導や情報の展開があってもいいのでは？１つの事故が多くの組織に影響が出ている件。委託先名記載型リリース。発表と異なる結果。リーク後当事者が入手してみて分かること。どうやったら待たずに把握できるのかというとめちゃくちゃ難しいですよ。声だけで笑ってるの分かるなぁ。事件事故の情報に関する発信をメディア含む第三者はどこで線を引くのか。何をどう伝えて何を伝えないのか。嘘が混じっていることがあることを知っているから更に難しくなっているかも。当事者が言っているかどうかの線引き。どんな情報かだけではなくタイミングもあると思う。皆さん足だるぅーってときないですか？全体的にいつもより早口なのはたぶんテンション上がってたせいです。<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から                       | 00:00 |<br />
-| お便りのコーナー                       | 02:32 |<br />
-| (N) 16文字のランダムなパスワードを偶発的に破られた ? | 11:41 |<br />
-| (P) イセトーのランサムウェア感染事案           | 27:31 |<br />
-| (T) 情報発信における内容の線引きってどこにある ?    | 42:04 |<br />
-| オススメのアレ                        | 60:17 |</p>
-</blockquote>
-<p>収録日: 2024年07月05日</p><p>The post <a href="https://www.tsujileaks.com/?p=1789">第226回 合格と心も支え始めたポッドキャストだ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_240708_Terrestrial.mp3" length="30995372" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・Hardening Designers Conference 2024 – 堅牢化にお[...]</itunes:subtitle>
 		<itunes:summary>Tweet・Hardening Designers Conference 2024 – 堅牢化にお[...]</itunes:summary>
