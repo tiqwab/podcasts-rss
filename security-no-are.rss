@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 04 Nov 2024 11:00:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Nov 2024 03:00:25 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -56,6 +56,49 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第240回 新コーナーをよろしくお願いします！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1881</link>
+		<pubDate>Tue, 12 Nov 2024 03:00:25 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1881</guid>
+		<comments>https://www.tsujileaks.com/?p=1881#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1881</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet･Рекомендуем отказаться от CDN-сервиса CloudFlare [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1881&quot;&gt;第240回 新コーナーをよろしくお願いします！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1881" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1881&amp;text=%E7%AC%AC240%E5%9B%9E%20%E6%96%B0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%92%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1881" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>･<a href="https://cmu.gov.ru/ru/news/2024/11/07/%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D1%83%D0%B5%D0%BC-%D0%BE%D1%82%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C%D1%81%D1%8F-%D0%BE%D1%82-cdn-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0-cloudflare/">Рекомендуем отказаться от CDN-сервиса CloudFlare | Новости</a><br />
+･<a href="https://datatracker.ietf.org/doc/draft-ietf-tls-esni/">draft-ietf-tls-esni-22 &#8211; TLS Encrypted Client Hello</a><br />
+･<a href="https://blog.cloudflare.com/ja-jp/announcing-encrypted-client-hello/">Encrypted Client Hello &#8211; プライバシーのパズルの最後のピース</a><br />
+･<a href="https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q2-2024-q3-2024/">ESET APT Activity Report Q2 2024–Q3 2024</a><br />
+･<a href="https://blogs.jpcert.or.jp/ja/2024/07/mirrorface.html">攻撃グループMirrorFaceの攻撃活動 &#8211; JPCERT/CC Eyes | JPCERTコーディネーションセンター公式ブログ</a><br />
+･<a href="https://www.trendmicro.com/ja_jp/research/24/j/new-spearphishing-by-earth-kasha.html">帰ってきたANEL:「Earth Kasha」による日本での新たなスピアフィッシングキャンペーン | トレンドマイクロ | トレンドマイクロ (JP)</a><br />
+･<a href="https://jp.security.ntt/tech_blog/controlplug">Operation ControlPlug: MSCファイルを使った標的型攻撃キャンペーン | NTTセキュリティテクニカルブログ</a><br />
+･<a href="https://asec.ahnlab.com/en/83877/">AhnLab and NCSC Release Joint Report on Microsoft Zero-Day Browser Vulnerability (CVE-2024-38178) &#8211; ASEC</a><br />
+･<a href="https://www.toyosu.co.jp/kakitanekitchen/">柿の種専門店 かきたねキッチン</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/ramen.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/ramen-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1882" srcset="https://www.tsujileaks.com/wp-content/uploads/ramen-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/ramen-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/ramen-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/ramen.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：新コーナーの公開相談。いきなりですが問題です。エンドツーエンドでないとね！どんどん見えない通信が増えますね。諸刃の剣感もある。クラウドフレアいつも先進的。中国に続きアグレッシブなブロックだこと。てかクラウドフレアごとやん。ロシア国内の攻撃者も不都合ありそう。あったほうがいいけど。APT10かっ！帰ってきたんかっ！デコイはなんやっ？万博かっ！このマルウェアの名前聞くとゴロゴロの実思い出すんですよね。記事見たときの勘違いというか思い込み。CVE-2024-38178。既にサポートが終了しているIEのゼロデイ。幅広でもはや全部。うざいほうのトースト。パッチ当てるときにミスリードされないように。広告 = ブラウザではない。基本ピーなし。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から                         | 00:00 |<br />
+| お便りのコーナー                         | 05:45 |<br />
+| (N) ロシアが ECH をブロック               | 11:42 |<br />
+| (P) ESET の APT レポートから日本関連の気になる動き | 25:53 |<br />
+| (T) IE のゼロデイを狙う北朝鮮の攻撃            | 37:35 |<br />
+| オススメのアレ                          | 48:50 |  </p>
+</blockquote>
+<p>収録日: 2024年11月10日</p><p>The post <a href="https://www.tsujileaks.com/?p=1881">第240回 新コーナーをよろしくお願いします！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_241112_vs.mp3" length="25525111" type="audio/mpeg" />
+		<itunes:subtitle>Tweet･Рекомендуем отказаться от CDN-сервиса CloudFlare [...]</itunes:subtitle>
+		<itunes:summary>Tweet･Рекомендуем отказаться от CDN-сервиса CloudFlare [...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>52:58</itunes:duration>
+	</item>
+	<item>
 		<title>第239回 各々のそれぞれのアレコレ！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1876</link>
 		<pubDate>Mon, 04 Nov 2024 11:00:06 +0000</pubDate>
@@ -75,7 +118,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ･<a href="https://blog.lastpass.com/posts/fake-web-store-reviews-attempting-to-steal-customer-data">Fake Web Store Reviews Attempting to Steal Customer Data</a><br />
 ･<a href="https://www.bleepingcomputer.com/news/security/lastpass-warns-of-fake-support-centers-trying-to-steal-customer-data/">LastPass warns of fake support centers trying to steal customer data</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/okonomi.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/okonomi-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1877" srcset="https://www.tsujileaks.com/wp-content/uploads/okonomi-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/okonomi-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/okonomi-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/okonomi.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/okonomi.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/okonomi-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1877" srcset="https://www.tsujileaks.com/wp-content/uploads/okonomi-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/okonomi-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/okonomi-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/okonomi.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：傘持って出るの嫌い。それで降らないのも結構嫌い。誰もがどうでもいい話。攻撃者側の名前を出すか出さないか。当事者を見てという基準。確定させずに疑問を持ち続ける大切さ。「信じ切っていいか」と聞かれたら。選択肢それぞれのメリットデメリットを意識。英語名どうしましょ。.rdpがやってくる。攻撃者の用意したところに繋がされる系。また、Cozyか。日本も入ってた。仕組みを知った上での回避。ないないなのかうちうちなのか。簡単に真似されそう。外向け通信のポリシーが緩いってありがち。ドイツ語ではフォルク。出来の悪いランサムウェア。日本の組織が出していたリリースが興味深い。「無意味です」。ボクはいいと思ったし、自分も同じ選択をする。コストかけさせられるの厄介。こういうの見るときの注意点。一定の需要はあるものの。同じ組織のリークでもタイトルが異なるものがあり、それを1件とカウントしない場合がある。実家の近所付き合いで話題になることがある。対話をしましょう！Webストアのレビューに紛れていたサポートを装うソーシャルエンジニアリング。電話番号共通ってどう回してるんだろう。コスト低そうだけど儲かるのかな。まずは試すのかな。手を変え品を変えることに意味があるかもしれない。定期的に波が来る。ウミガメだけに。<br />
 &nbsp;</p>
@@ -159,7 +202,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://cloud.google.com/blog/topics/threat-intelligence/time-to-exploit-trends-2021-2022/">Analysis of Time-to-Exploit Trends: 2021-2022 | Mandiant | Google Cloud Blog</a><br />
 ・<a href="https://chisatoeast-tamaran.stores.jp/items/61fa1e1f113ce05e7b00b1e9">うずたま卵 10袋セット | TAMARAN-SHOP</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/peopo.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/peopo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1864" srcset="https://www.tsujileaks.com/wp-content/uploads/peopo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/peopo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/peopo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/peopo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/peopo.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/peopo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1864" srcset="https://www.tsujileaks.com/wp-content/uploads/peopo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/peopo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/peopo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/peopo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：再委嘱されたのでスーツ着た。そのために前日100回腕立て伏せした。警視庁1号、2号。イナバ物置ってやっぱすごいのかも。最近いつも10回分間違えてる。強制BCC以来の衝撃。先に分からない問題。攻撃側が進んでいるのでいってこいな感じ。CISAのVDP。外部から報告しやすくする仕組み。そう言えばsecurity.txtってあんま定着しないですね。顕著な成功収めたい！XSSいつも多い。割かし実を結んでいる感じある。減った理由も顕著に言って欲しい。取りまとめるのは物事を進める上で大事だと思うんです。脆弱性の話のフリをした話。CUPS。活用の仕方次第。無限増幅編。予め特徴が分かっていれば落としやすいものではある。その前になんで開いてるん？踏まれてる側はそれほど困ってない問題。個人情報入力なしで読めるのありがたい。オシャレ表紙。脆弱性の割合が3倍になった理由。ちょいちょいいらない情報。レポートって回重ねる中で集計方法変わることもあるのでそのあたり注意必要。KEVはパッチリリース後に掲載もある。それがめっちゃ間開く場合もある。悪用までの期間のほうがやっぱり分かりやすいかな。<br />
 &nbsp;</p>
@@ -436,34 +479,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1822</link>
 		<pubDate>Mon, 05 Aug 2024 11:00:23 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1822</guid>
-		<comments>https://www.tsujileaks.com/?p=1822#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1822</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・サポート詐欺レポート | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構 ・偽セキュ[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1822&quot;&gt;第230回 日本一感じの良いセキュリティエンジニア目指してるんです！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1822" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1822&amp;text=%E7%AC%AC230%E5%9B%9E...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1822" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.ipa.go.jp/security/anshin/measures/supportscam_report.html">サポート詐欺レポート | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</a><br />
-・<a href="https://www.ipa.go.jp/security/anshin/measures/fakealert.html">偽セキュリティ警告（サポート詐欺）対策特集ページ | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</a><br />
-・<a href="https://r.goope.jp/fuefukishokokai/info/5634762">笛吹市商工会におけるサポート詐欺被害事案について &#8211; 笛吹市商工会</a><br />
-・<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-193a">CISA Red Team’s Operations Against a Federal Civilian Executive Branch Organization Highlights the Necessity of Defense-in-Depth | CISA</a><br />
-・<a href="https://www.spamhaus.org/resource-hub/service-providers/too-big-to-care-our-disappointment-with-cloudflares-anti-abuse-posture/#what-spamhaus-is-seeing">Blog | Too big to care? &#8211; Our disappointment with Cloudflare’s anti-abuse posture | Resources</a><br />
-・<a href="https://www.cloudflare.com/trust-hub/abuse-approach/">Abuse approach &#8211; Cloudflare | Cloudflare</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/machuri.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/machuri-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1824" srcset="https://www.tsujileaks.com/wp-content/uploads/machuri-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/machuri-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/machuri-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/machuri.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：「めっちゃいい人」の真相。使ってください。パクってください。一人じゃないってー。凌ぎ切り方ノウハウ気になる。線抜くところは本当にあります。サポート詐欺レポートかなり網羅感あって分かりやすかったですね。じーまい！以前からEsc長押し最強。体験コーナーはオススメ！詳しくない人向けのキルスイッチがあればいいのかもしれない。手口の変化は追って共有ですよね。誰かに相談しにくい環境でというのが狙い目感ある。名前センスええなぁ。アウトバウンド通信の制御・監視って結構抜けがちだと思うんですよ。いい質問もらえたぜ！気になって調べておいてよかったー。バックアップファイルあるある。ほいで使ってない権限の高いアカウント。TTP,<br />
-IoCに縛られないようにというのは印象的。入れてるだけ問題。読むとチクチクするけどいい刺激だぜ！クラウドフレアへの苦言。コンテンツに関してはどうにもできないって言い分はまぁ分かるけれども。調査してるときはめんどいと思った。大いなる力には的な。おすすめってまぁまぁ自分の好みやった。たまごサンドってどういうの思い浮かべますか？</p>
-<p>&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から                            | 00:00 |<br />
-| お便りのコーナー                            | 03:52 |<br />
-| (P) IPA のサポート詐欺レポートを読んでみた           | 15:50 |<br />
-| (T) CISA によるレッドチーム演習の報告             | 31:44 |<br />
-| (N) Spamhaus から Cloudflare へのお気持ち表明 | 47:06 |<br />
-| オススメのアレ                             | 60:21 |
-</p></blockquote>
-<p>収録日: 2024年08月03日</p><p>The post <a href="https://www.tsujileaks.com/?p=1822">第230回 日本一感じの良いセキュリティエンジニア目指してるんです！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_240805_scramble.mp3" length="31676867" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・サポート詐欺レポート | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構 ・偽セキュ[...]</itunes:subtitle>
 		<itunes:summary>Tweet・サポート詐欺レポート | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構 ・偽セキュ[...]</itunes:summary>
