@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 12 Nov 2024 03:00:25 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Nov 2024 22:30:39 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -56,6 +56,49 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第241回 我々は、予測しません！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1887</link>
+		<pubDate>Mon, 18 Nov 2024 22:30:39 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1887</guid>
+		<comments>https://www.tsujileaks.com/?p=1887#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1887</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet･Top 200 Most Common Passwords | NordPass ･当社におけるサ[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1887&quot;&gt;第241回 我々は、予測しません！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1887" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1887&amp;text=%E7%AC%AC241%E5%9B%9E%20%E6%88%91%E3%80%85%E3%81%AF%E3%80%81%E4%BA%88%E6%B8%AC%E3%81%97%E3%81%BE%E3%81%9B%E3%82%93%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1887" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>･<a href="https://nordpass.com/most-common-passwords-list/">Top 200 Most Common Passwords | NordPass</a><br />
+･<a href="https://www.welcia-yakkyoku.co.jp/wp-content/uploads/2024/11/info_241108.pdf">当社におけるサポート詐欺の不正アクセスに伴う 情報漏えいのおそれがある事案の発生について</a><br />
+･<a href="https://www.ipa.go.jp/security/anshin/measures/fakealert.html">偽セキュリティ警告（サポート詐欺）対策特集ページ | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</a><br />
+･<a href="https://contents.xj-storage.jp/xcontents/AS90749/c1283b79/e663/48c3/9970/671ac391c2bc/140120241031508178.pdf">（開示事項の経過）ランサムウェア被害への対応状況に関するお知らせ</a><br />
+･<a href="https://messengernews.fb.com/2024/03/28/end-to-end-encryption-what-you-need-to-know/">End-to-End Encryption: What you need to know – Messenger News</a><br />
+･<a href="https://messengernews.fb.com/2023/12/06/launching-default-end-to-end-encryption-on-messenger/">Launching Default End-to-End Encryption on Messenger – Messenger News</a><br />
+･<a href="https://cloud.google.com/blog/topics/threat-intelligence/cybersecurity-forecast-2025">Emerging Threats: Cybersecurity Forecast 2025 | Google Cloud Blog</a><br />
+･<a href="https://www.meti.go.jp/press/2023/03/20240326002/20240326002.html">「北朝鮮IT労働者に関する企業等に対する注意喚起」の公表 （METI/経済産業省）</a><br />
+･<a href="https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%AD%E3%83%83%E3%83%91!">ゲロッパ! &#8211; Wikipedia</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/TeaKango.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/TeaKango-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1888" srcset="https://www.tsujileaks.com/wp-content/uploads/TeaKango-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/TeaKango-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/TeaKango-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/TeaKango.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：セルフの範囲が拡大してるコンビニ。年齢確認が必要なホットサブ。VSお便りありがとうございます！知らない運用結構あるもんだ。SSL解くのも大変な世の中。能動VPNに聞こえた。漏洩してる時点で辞書登録されるので一瞬だ！気になったリリース2つ。民間のサポート詐欺事案。送金もあった。まず知ってほしい。どんな働き方でも正しいアクションを取れるように。ランサム被害から通知ができない問題。SIMが刺さってるPCのRDPから。昔から似たようなのはあるにはある。被害範囲を狭めるためには。Facebook Messenger使ってます？道具に善悪ないんやけどなぁ。使ったことあっても名前でピンとこんのもある。そいでもって裏側まで把握してないこともある。反省した。年の瀬の定番。冬がはじまるよ。くるくる言い続けると…。根絶は厳しい。小粒化ってよくあることなんかな。通る道なんかな。予測は答え合わせしてほしい。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から                        | 00:00 |<br />
+| お便りのコーナー                        | 06:52 |<br />
+| (T) 最近のインシデント事例から気になった点         | 12:43 |<br />
+| (N) メッセージアプリの E2EE の話           | 29:59 |<br />
+| (P) Cybersecurity Forecast 2025 | 43:30 |<br />
+| オススメのアレ                         | 57:57 |
+</p></blockquote>
+<p>収録日: 2024年11月17日</p><p>The post <a href="https://www.tsujileaks.com/?p=1887">第241回 我々は、予測しません！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_241119_getup.mp3" length="29666049" type="audio/mpeg" />
+		<itunes:subtitle>Tweet･Top 200 Most Common Passwords | NordPass ･当社におけるサ[...]</itunes:subtitle>
+		<itunes:summary>Tweet･Top 200 Most Common Passwords | NordPass ･当社におけるサ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:01:36</itunes:duration>
+	</item>
+	<item>
 		<title>第240回 新コーナーをよろしくお願いします！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1881</link>
 		<pubDate>Tue, 12 Nov 2024 03:00:25 +0000</pubDate>
@@ -76,7 +119,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ･<a href="https://asec.ahnlab.com/en/83877/">AhnLab and NCSC Release Joint Report on Microsoft Zero-Day Browser Vulnerability (CVE-2024-38178) &#8211; ASEC</a><br />
 ･<a href="https://www.toyosu.co.jp/kakitanekitchen/">柿の種専門店 かきたねキッチン</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/ramen.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/ramen-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1882" srcset="https://www.tsujileaks.com/wp-content/uploads/ramen-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/ramen-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/ramen-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/ramen.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/ramen.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/ramen-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1882" srcset="https://www.tsujileaks.com/wp-content/uploads/ramen-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/ramen-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/ramen-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/ramen.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：新コーナーの公開相談。いきなりですが問題です。エンドツーエンドでないとね！どんどん見えない通信が増えますね。諸刃の剣感もある。クラウドフレアいつも先進的。中国に続きアグレッシブなブロックだこと。てかクラウドフレアごとやん。ロシア国内の攻撃者も不都合ありそう。あったほうがいいけど。APT10かっ！帰ってきたんかっ！デコイはなんやっ？万博かっ！このマルウェアの名前聞くとゴロゴロの実思い出すんですよね。記事見たときの勘違いというか思い込み。CVE-2024-38178。既にサポートが終了しているIEのゼロデイ。幅広でもはや全部。うざいほうのトースト。パッチ当てるときにミスリードされないように。広告 = ブラウザではない。基本ピーなし。<br />
 &nbsp;</p>
@@ -158,7 +201,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ・<a href="https://cloud.google.com/blog/topics/threat-intelligence/time-to-exploit-trends-2023/">How Low Can You Go? An Analysis of 2023 Time-to-Exploit Trends | Google Cloud Blog</a><br />
 ・<a href="https://shiroru.jp/">【公式】SHIRORU(シロル)｜高濃度炭酸泡洗顔</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/aredake.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/aredake-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1871" srcset="https://www.tsujileaks.com/wp-content/uploads/aredake-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/aredake-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/aredake-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/aredake.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/aredake.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/aredake-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1871" srcset="https://www.tsujileaks.com/wp-content/uploads/aredake-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/aredake-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/aredake-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/aredake.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：声だけで分かるかんごさん。間埋めのSpace何も覚えてない。Apple製品買わないと詰められるポッドキャスト。根岸さんはもう実質ジーニアス。減速してる車の本当の目的は。ステッカー差し上げてないんかーい。呼び水失敗。続き知りたい。出ては消えてる印象の格付け。IPアドレス制限はハマるなら結構有用だと思う。認証より強固に働く場合もあると思うんですよ。おめでとうを言いたくて。アドバイザーって何をするのか。きっかけは白浜。色を出せているというか出させてもらえていることはありがたいと思っています。チェックだけではなく提案もしてます。パスワード生成の裏側にある工夫。めちゃくちゃユーザのためになってる！生成してすぐに使える割合高そうですね。脆弱性の悪用までのマンディアンのやつ2024。ゼロデイかなり増えてる。急に短くなった原因はゼロデイかな。にしても。。。この数字だけみたら間に合わない。とはいえ行動内容はそれほど変わらない気もしています。脆弱性がどういうものかも知りたいところ。根岸さん使ってくれてた！<br />
 &nbsp;</p>
@@ -441,31 +484,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1829</link>
 		<pubDate>Mon, 12 Aug 2024 11:00:49 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1829</guid>
-		<comments>https://www.tsujileaks.com/?p=1829#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1829</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・State of Exploitation – A Peek into 1H-2024[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1829&quot;&gt;第231回 もう1つのKEVと情報窃取たち ～無限電池編～！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1829" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1829&amp;text=%E7%AC%AC231%E5%9B%9E%20%E3%82%82%E3%81%861%E3%81%A4%E3%81%AEKEV%E3%81%A8%E6%83%85%E5%A0%B1%E7%AA%83%E5%8F%96%E3%81%9F%E3%81%A1%20%EF%BD%9E%E7%84%A1%E9%99%90%E9%9B%BB%E6%B1%A0%E7%B7%A8%EF%BD%9E%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1829" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://vulncheck.com/blog/state-of-exploitation-1h-2024">State of Exploitation &#8211; A Peek into 1H-2024 Vulnerability Exploitation</a><br />
-・<a href="https://vulncheck.com/blog/state-of-exploitation-a-decade">State of Exploitation &#8211; A Peek into the Last Decade of Vulnerability Exploitation</a><br />
-・<a href="https://www.reliaquest.com/blog/exfiltration-tools/">Exfiltration Tools &#8211; ReliaQuest</a><br />
-・<a href="https://www.trendmicro.com/ja_jp/research/24/g/your-stolen-data-for-sale.html">攻撃者によって窃取されたデータのアンダーグラウンドマーケットでの行き着く先｜トレンドマイクロ | トレンドマイクロ (JP)</a><br />
-・<a href="https://7premium.jp/product/pickup/detail?id=321">果肉をそのまま食べているようなアイス まるでシリーズ | セブンプレミアム公式</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/arearium.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/arearium-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1830" srcset="https://www.tsujileaks.com/wp-content/uploads/arearium-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/arearium-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/arearium-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/arearium.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：無限なんちゃうかと思う。電池のように私はなりたい。どっちかというと太くて短いタイプ？！国際電話結構きてるのかも。邪魔になることもある。オリジンを知る方法。構成情報管理に脆弱性スキャナを使う是非。VulnCheckの上半期まとめ。CISAのほうは厳密だから少なくなる傾向はあるでしょうね。タイトル見やすくしてほしい。掲載されている脆弱性が自分のところにくるのか問題。超絶限定的なものもありますからね。複雑にならない対応のほうがいいように思ってます。攻撃コード→悪用の流れ。やはり大きな指標なんだ。情報窃取に利用されるソフトたち。コマンドラインは攻撃者の特徴、癖が引数から分かることありますね。Firefox.exe。カナリアの有効性。攻撃者が使ってるのしか見たことない。情報窃取マルウェアの調査。盗まれた情報はすぐに使われるとは限らない。盗む情報と言及回数でスコアリングしてた。VPNの情報ってどれくらいのマルウェアが対応していると思いますか？ヴィーザルだった。いつも読み方迷う。入れ替わり結構ある。上位国の並びに違和感の理由。</p>
-<p>&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から                                | 00:00 |<br />
-| お便りのコーナー                                | 05:10 |<br />
-| (N) VulnCheck レポートから見る 2024年上半期の脆弱性悪用状況 | 15:13 |<br />
-| (P) データの持ち出しによく使われるツール                  | 29:32 |<br />
-| (T) 攻撃者に窃取されたデータの行き着く先                  | 45:41 |<br />
-| オススメのアレ                                 | 60:35 |</p></blockquote>
-<p>収録日: 2024年08月10日</p><p>The post <a href="https://www.tsujileaks.com/?p=1829">第231回 もう1つのKEVと情報窃取たち ～無限電池編～！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_240812_obonkobon.mp3" length="31300704" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・State of Exploitation – A Peek into 1H-2024[...]</itunes:subtitle>
 		<itunes:summary>Tweet・State of Exploitation – A Peek into 1H-2024[...]</itunes:summary>
