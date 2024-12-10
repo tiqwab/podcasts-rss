@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 03 Dec 2024 04:58:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Dec 2024 00:16:25 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -56,6 +56,53 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第244回 同音異義と昨年比較！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1903</link>
+		<pubDate>Mon, 09 Dec 2024 11:00:25 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1903</guid>
+		<comments>https://www.tsujileaks.com/?p=1903#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1903</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet･サイバーセキュリティ対策かるた一覧 | サイバーセキュリティお助け隊サービス | IPA ･iCl[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1903&quot;&gt;第244回 同音異義と昨年比較！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1903" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1903&amp;text=%E7%AC%AC244%E5%9B%9E%20%E5%90%8C%E9%9F%B3%E7%95%B0%E7%BE%A9%E3%81%A8%E6%98%A8%E5%B9%B4%E6%AF%94%E8%BC%83%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1903" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>･<a href="https://www.ipa.go.jp/security/otasuketai-pr/list/">サイバーセキュリティ対策かるた一覧 | サイバーセキュリティお助け隊サービス | IPA</a><br />
+･<a href="https://support.apple.com/ja-jp/guide/icloud/mmca4d729d79/icloud">iCloud.comの「メール」で「メールを非公開」を使用する &#8211; Apple サポート (日本)</a><br />
+･<a href="https://relay.firefox.com/">Firefox Relay</a><br />
+･<a href="https://duckduckgo.com/duckduckgo-help-pages/email-protection/">DuckDuckGo Email Protection | DuckDuckGo Help Pages</a><br />
+･<a href="https://proton.me/pass">Proton Pass: Free password manager with identity protection | Proton</a><br />
+･<a href="https://intel.intruder.io/">Top CVE Trends &amp; Expert Vulnerability Insights | Intel</a><br />
+･<a href="https://inthewild.io/feed">Vulnerability feed</a><br />
+･<a href="https://www.cvedetails.com/">CVE security vulnerability database. Security vulnerabilities, exploits, references and more</a><br />
+･<a href="https://github.com/TURROKS/CVE_Prioritizer">GitHub &#8211; TURROKS/CVE_Prioritizer: Streamline vulnerability patching with CVSS, EPSS, and CISA&#8217;s Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed about the latest trends.</a><br />
+･<a href="https://vulncheck.com/">VulnCheck &#8211; Outpace Adversaries</a><br />
+･<a href="https://www.europol.europa.eu/media-press/newsroom/news/international-operation-takes-down-another-encrypted-messaging-service-used-criminals">International operation takes down another encrypted messaging service used by criminals | Europol</a><br />
+･<a href="https://www.politie.nl/nieuws/2024/december/3/11-opnieuw-versleutelde-communicatiedienst-criminelen-ontmanteld.html">Opnieuw versleutelde communicatiedienst criminelen ontmanteld | politie.nl</a><br />
+･<a href="https://atmarkit.itmedia.co.jp/ait/articles/2403/01/news031.html">辻氏、piyokango氏、根岸氏はセキュリティレポートをどの“断面”で切り取るのか：ITmedia Security Week 2023 冬 &#8211; ＠IT</a><br />
+･<a href="https://www.ryukakusan.co.jp/product/detail/tablet">龍角散の のどすっきり タブレット｜株式会社龍角散</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/xmas2024.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/xmas2024-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1907" srcset="https://www.tsujileaks.com/wp-content/uploads/xmas2024-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/xmas2024-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/xmas2024-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/xmas2024.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：セルフレジの怪。VS Kangoが来た！メタで解くのよくない。死の淵。Hide My ●●。人依存はゼロにならないがそれをどうカバーするのか。業者選定の基準大事。新しめのダッシュボード紹介。名前ややこしい。一目で分かる。いくつか組み合わせて補完。情報を収集しつつ、フィルタして、継続ウォッチ。組み合わせを考える中で自分たちの型を作る。1人CSIRT。MATRIX違い。ハードウェアごと売っていたかも8000アカウント。約40台のサーバ。きっかけは3年前のオランダで別件で逮捕した犯人が所持していた端末。230万通どうやって？E2Eなのに？仕様がしょぼかったかバックドアかな？幇助なのか。断面、光を当てて。対応する側にとって必要な情報がどれくらい提供されているのか続報。対処の部分で侵害を受けていないかの調べ方はもっと増えてほしい。今年減ってるやん！もっと問い合わせたほうがいい？ProselfがKEVに。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から                       | 00:00 |<br />
+| お便りのコーナー                       | 02:58 |<br />
+| (T) CVE Trends の紹介             | 14:08 |<br />
+| (N) 暗号化メッセージサービス MATRIX の摘発    | 23:03 |<br />
+| (P) 2024年の KEV の情報公開の状況を分析してみた | 37:20 |<br />
+| オススメのアレ                        | 55:22 |</p>
+<p>収録日: 2024年12月06日</p><p>The post <a href="https://www.tsujileaks.com/?p=1903">第244回 同音異義と昨年比較！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_241209_homophone.mp3" length="29077981" type="audio/mpeg" />
+		<itunes:subtitle>Tweet･サイバーセキュリティ対策かるた一覧 | サイバーセキュリティお助け隊サービス | IPA ･iCl[...]</itunes:subtitle>
+		<itunes:summary>Tweet･サイバーセキュリティ対策かるた一覧 | サイバーセキュリティお助け隊サービス | IPA ･iCl[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:00:22</itunes:duration>
+	</item>
+	<item>
 		<title>第243回 新旧、時を超えて！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1898</link>
 		<pubDate>Tue, 03 Dec 2024 02:59:39 +0000</pubDate>
@@ -78,7 +125,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ･<a href="https://www.justice.gov/opa/pr/us-charges-russian-gru-officers-international-hacking-and-related-influence-and">Office of Public Affairs | U.S. Charges Russian GRU Officers with International Hacking and Related Influence and Disinformation Operations | United States Department of Justice</a><br />
 ･<a href="https://www.dyson.co.jp/vacuum-cleaners">掃除機 | ダイソン公式</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/mikan.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mikan-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1899" srcset="https://www.tsujileaks.com/wp-content/uploads/mikan-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mikan-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mikan-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mikan.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/mikan.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mikan-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1899" srcset="https://www.tsujileaks.com/wp-content/uploads/mikan-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mikan-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mikan-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mikan.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：冬がはじまるよ。美容室のはしご。かきたね差し入れ。ライブ見てくださってありがとうございます！お気軽に話しかけてください！247回のアレ。人の脆弱性へのケア。Web診断におけるリスト型ってどうやってるの？VS問題マジください！ちょっと目立つリスト型。成功率に違和感。WAFと一言で言われても分らない問題。攻撃者の目的が見えにくいときある。IDがメアド問題。定期変更のお願いなくならない。傾向に変化がないんよなぁ。ほな、小噺で。脆弱性診断とペネトレーションの整理。去年にもあったのに今年に。ポロポロでてきてしまって。これだと安心できないです。どんな小さい規模でも2人以上でするかの確認を自分はする。積み上げはあるなしある。また28か。物理的近所のWi-Fiにまず侵入。ホップしてるやん。攻撃経路：ビルの外。IoCで別の攻撃と繋がってのアトリビューション。家から来た可能性は、、、ないか。オランダで同じ攻撃者グループでありましたよね。Wi-Fiもがっつり対策しておかないとですよ。ほんと。標的でなくても狙われる可能性。<br />
 &nbsp;</p>
@@ -162,7 +209,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 ･<a href="https://www.meti.go.jp/press/2023/03/20240326002/20240326002.html">「北朝鮮IT労働者に関する企業等に対する注意喚起」の公表 （METI/経済産業省）</a><br />
 ･<a href="https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%AD%E3%83%83%E3%83%91!">ゲロッパ! &#8211; Wikipedia</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/TeaKango.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/TeaKango-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1888" srcset="https://www.tsujileaks.com/wp-content/uploads/TeaKango-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/TeaKango-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/TeaKango-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/TeaKango.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/TeaKango.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/TeaKango-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1888" srcset="https://www.tsujileaks.com/wp-content/uploads/TeaKango-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/TeaKango-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/TeaKango-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/TeaKango.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：セルフの範囲が拡大してるコンビニ。年齢確認が必要なホットサブ。VSお便りありがとうございます！知らない運用結構あるもんだ。SSL解くのも大変な世の中。能動VPNに聞こえた。漏洩してる時点で辞書登録されるので一瞬だ！気になったリリース2つ。民間のサポート詐欺事案。送金もあった。まず知ってほしい。どんな働き方でも正しいアクションを取れるように。ランサム被害から通知ができない問題。SIMが刺さってるPCのRDPから。昔から似たようなのはあるにはある。被害範囲を狭めるためには。Facebook Messenger使ってます？道具に善悪ないんやけどなぁ。使ったことあっても名前でピンとこんのもある。そいでもって裏側まで把握してないこともある。反省した。年の瀬の定番。冬がはじまるよ。くるくる言い続けると…。根絶は厳しい。小粒化ってよくあることなんかな。通る道なんかな。予測は答え合わせしてほしい。<br />
 &nbsp;</p>
@@ -438,35 +485,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1845</link>
 		<pubDate>Mon, 16 Sep 2024 11:00:57 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1845</guid>
-		<comments>https://www.tsujileaks.com/?p=1845#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1845</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・ZDNET Japan Security Trend 2024 Autumn いま求められるクラウ[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1845&quot;&gt;第234回 噛み対応！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1845" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1845&amp;text=%E7%AC%AC234%E5%9B%9E%20%E5%99%9B%E3%81%BF%E5%AF%BE%E5%BF%9C%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1845" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://japan.zdnet.com/info/event/security/202409/">ZDNET Japan Security Trend 2024 Autumn いま求められるクラウド時代のセキュリティ対策の最適解 &#8211; ZDNET Japan</a><br />
-・<a href="https://www.cisa.gov/resources-tools/resources/risk-and-vulnerability-assessments">Risk and Vulnerability Assessments | CISA</a><br />
-・<a href="https://www.malwarebytes.com/blog/news/2024/09/hello-pervert-sextortion-scam-includes-new-threat-of-pegasus-and-a-picture-of-your-home">“Hello pervert” sextortion scam includes new threat of Pegasus—and a picture of your home | Malwarebytes</a><br />
-・<a href="https://www.fbi.gov/contact-us/field-offices/sacramento/news/sextortion-a-growing-threat-preying-upon-our-nations-teens">Sextortion: A Growing Threat Preying Upon Our Nation’s Teens — FBI</a><br />
-・<a href="https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/sextortion/sextortion">Sextortion — FBI</a><br />
-・<a href="https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/sextortion/financially-motivated-sextortion">Financially Motivated Sextortion — FBI</a><br />
-・<a href="https://www.kenpo.gr.jp/kubota/contents/topics/2024/0904.html">【お詫び】業務委託先への不正アクセスによる個人情報漏えいの恐れについて｜NEWS＆TOPICS｜クボタ健康保険組合</a><br />
-・<a href="https://www.myrepi.com/home/cleaning/brands_febreze_fabric-refresher_gold-premium/">「金のファブリーズ」が大型改良！消臭・除菌も最高レベルで、靴のニオイもしっかり消臭 | P&amp;G マイレピ</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/3kango.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/3kango-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1846" srcset="https://www.tsujileaks.com/wp-content/uploads/3kango-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/3kango-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/3kango-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/3kango.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：噛んでん。早口問題。3分の1も伝わらへん。胎教に良ければいいな。みんなのパスワード保存について。クリップボードが抜け穴にならないように。1年ぶり2回目のRVA。昨年からの変化は。グラフでは変化あるけどボリュームゾーンについては、そこまで大きな変化はなく見える。足下固めないとというものであるかな。どういう指導をして対応がされているのか気になるところ。セクストーションの手口。あるスパイウェアを匂わせる。住んでいると思われるあたりの写真が！払えそうな額。アメリカでは社会問題となっている。日常の会話の話題として広めていきたい。引っかかる方ほど無視できない。そういう方には届いてない。また似たような形式の事件が。えらい古い情報ですね。消されているはずのデータが消されていない問題。ないからあるはキツイ。委託先の被害は影響する顧客から情報がでるのが遅れる。続いているのか。可視化されただけなのか。どうやって見定めるのか。<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から                          | 00:00 |<br />
-| お便りのコーナー                          | 07:45 |<br />
-| (N) 2023年版 CISA RVAs 分析レポートを見てみよう | 15:08 |<br />
-| (T) Sextortion の新たな手口に注意          | 29:22 |<br />
-| (P) 業務委託先への不正アクセス被害の影響            | 45:40 |<br />
-| オススメのアレ                           | 62:34 |
-</p></blockquote>
-<p>収録日: 2024年09月14日</p><p>The post <a href="https://www.tsujileaks.com/?p=1845">第234回 噛み対応！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_240916_kamikami.mp3" length="32458652" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・ZDNET Japan Security Trend 2024 Autumn いま求められるクラウ[...]</itunes:subtitle>
 		<itunes:summary>Tweet・ZDNET Japan Security Trend 2024 Autumn いま求められるクラウ[...]</itunes:summary>
