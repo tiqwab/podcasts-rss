@@ -9,7 +9,6 @@
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 xmlns:podcast="https://podcastindex.org/namespace/1.0"
 xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
-xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
 <channel>
 	<title>セキュリティのアレ</title>
@@ -47,7 +46,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>http://www.tsujileaks.com</link>
 	</image>
 	<itunes:category text="Technology" />
-	<googleplay:category text="Technology"/>
 	<itunes:category text="News">
 		<itunes:category text="Tech News" />
 	</itunes:category>
