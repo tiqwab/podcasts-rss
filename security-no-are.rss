@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Sat, 21 Dec 2024 14:38:15 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Dec 2024 15:00:05 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -54,6 +54,44 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第246回 オレたちは共に歩んできたんだぜ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1920</link>
+		<pubDate>Tue, 24 Dec 2024 15:00:05 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1920</guid>
+		<comments>https://www.tsujileaks.com/?p=1920#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1920</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet･最近の観測状況 | NOTICE ･新しい NOTICE における調査業務 ･NICT サイバーセ[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1920&quot;&gt;第246回 オレたちは共に歩んできたんだぜ！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1920" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1920&amp;text=%E7%AC%AC246%E5%9B%9E%20%E3%82%AA%E3%83%AC%E3%81%9F%E3%81%A1%E3%81%AF%E5%85%B1%E3%81%AB%E6%AD%A9%E3%82%93%E3%81%A7%E3%81%8D%E3%81%9F%E3%82%93%E3%81%A0%E3%81%9C%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1920" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>･<a href="https://notice.go.jp/status">最近の観測状況 | NOTICE</a><br />
+･<a href="https://www.soumu.go.jp/main_content/000945732.pdf">新しい NOTICE における調査業務</a><br />
+･<a href="https://www.soumu.go.jp/main_content/000952545.pdf">NICT サイバーセキュリティ研究所の取り組み</a><br />
+･<a href="https://nihontouitsu.jp/">日本統一 公式サイト</a><br />
+･<a href="https://www.nict.go.jp/publication/20th-anniversary/">20周年記念誌 | NICT-情報通信研究機構</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/xmas2024_sp.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/xmas2024_sp-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1921" srcset="https://www.tsujileaks.com/wp-content/uploads/xmas2024_sp-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/xmas2024_sp-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/xmas2024_sp-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/xmas2024_sp.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：セキュリティアレてなんぞ？年末の風物詩。室長クビ。ネク長&#038;所長！はじめはチャラいと言われた。サイバー井上。色々と乗り越えてきはったんやなぁ。死んだおじさん。死んだじゃなくて移った。新しいNOTICE。脆弱性を調べるのは機器特定からの照合なんですね。長らく追いかけてたものが特定できたとき嬉しかったろうな。壁埋め込み型。成果を見える形でのアピールもしてほしい！引き込み方が重要なStardust。やり甲斐ありそう。ハッカー：「お前はハッカーか！？」。めっちゃ充実してる。これ大解放されるといいな。受けたい。報告大好き辻さん。ワクワク感が今回もあった！全国と書いててっぺん。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から !?           | 00:00 |<br />
+| サイバーセキュリティ研究室の 13年 | 02:40 |<br />
+| NOTICE の最新活動状況     | 10:02 |<br />
+| CYNEX の最新活動状況      | 28:57 |<br />
+| オススメのアレ            | 54:36 |</p>
+</blockquote>
+<p>収録日: 2024年12月21日</p><p>The post <a href="https://www.tsujileaks.com/?p=1920">第246回 オレたちは共に歩んできたんだぜ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_241225_notlast.mp3" length="29754562" type="audio/mpeg" />
+		<itunes:subtitle>Tweet･最近の観測状況 | NOTICE ･新しい NOTICE における調査業務 ･NICT サイバーセ[...]</itunes:subtitle>
+		<itunes:summary>Tweet･最近の観測状況 | NOTICE ･新しい NOTICE における調査業務 ･NICT サイバーセ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:01:47</itunes:duration>
+	</item>
+	<item>
 		<title>第245回 サグラダ・ファミリアは完成したら築何年になんねん！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1912</link>
 		<pubDate>Thu, 19 Dec 2024 13:33:46 +0000</pubDate>
@@ -71,7 +109,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ･<a href="https://www.rapid7.com/blog/post/2024/12/04/black-basta-ransomware-campaign-drops-zbot-darkgate-and-custom-malware/">Black Basta Ransomware Campaign Drops Zbot, DarkGate, &amp; Custom Malware | Rapid7 Blog</a><br />
 ･<a href="https://www.fujiya-peko.co.jp/cake/item/41291.html">生ミルキー（各種） | カジュアルギフト | ギフト | ケーキ・洋菓子 | 株式会社不二家</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/kissa.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kissa-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1913" srcset="https://www.tsujileaks.com/wp-content/uploads/kissa-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kissa-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kissa-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kissa.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/kissa.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kissa-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1913" srcset="https://www.tsujileaks.com/wp-content/uploads/kissa-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kissa-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kissa-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kissa.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：喉の調子ががが。乾燥にお気を付けください！ステッカーコンプへの道。現在5名？サグラダ・ファミリアの謎。ぶっぱっ！piyolog掘り起こし。スタンプつかってーん。多要素認証のバイパス？！というよりは正面突破やで。修正済み。アプリでの認証みたいに通知がこないという穴。かつレートリミットが緩い。修正はレートリミットかな。以前に悪用されてたら怖い。盲目的に信じる怖さもある。PPCはめちゃ知ってる。誰向けの注意喚起？子会社が親会社を監督ってちょっとムズない？辛口コメントもある。対策は分かっているけどなかなかっていうものが目立つ。事象の根本原因が分からないのが多い。レポートには確かに数字は欲しい。とはいえミスリードには気を付けないといけない。掘り下げ文書も欲しい。ランサムギャングの夏休み。過去にもあったが洗練されてきているキャンペーン。ML登録してって昔から嫌がらせでもあったなぁ。謎QR。多分フィッシング。SharePointでブロックされない工夫。目的はクレデンシャル。バトンタッチしてる感じあるので分業してるかも。<br />
 &nbsp;</p>
@@ -163,7 +201,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ･<a href="https://www.justice.gov/opa/pr/us-charges-russian-gru-officers-international-hacking-and-related-influence-and">Office of Public Affairs | U.S. Charges Russian GRU Officers with International Hacking and Related Influence and Disinformation Operations | United States Department of Justice</a><br />
 ･<a href="https://www.dyson.co.jp/vacuum-cleaners">掃除機 | ダイソン公式</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/mikan.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mikan-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1899" srcset="https://www.tsujileaks.com/wp-content/uploads/mikan-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mikan-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mikan-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mikan.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/mikan.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mikan-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1899" srcset="https://www.tsujileaks.com/wp-content/uploads/mikan-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mikan-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mikan-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mikan.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：冬がはじまるよ。美容室のはしご。かきたね差し入れ。ライブ見てくださってありがとうございます！お気軽に話しかけてください！247回のアレ。人の脆弱性へのケア。Web診断におけるリスト型ってどうやってるの？VS問題マジください！ちょっと目立つリスト型。成功率に違和感。WAFと一言で言われても分らない問題。攻撃者の目的が見えにくいときある。IDがメアド問題。定期変更のお願いなくならない。傾向に変化がないんよなぁ。ほな、小噺で。脆弱性診断とペネトレーションの整理。去年にもあったのに今年に。ポロポロでてきてしまって。これだと安心できないです。どんな小さい規模でも2人以上でするかの確認を自分はする。積み上げはあるなしある。また28か。物理的近所のWi-Fiにまず侵入。ホップしてるやん。攻撃経路：ビルの外。IoCで別の攻撃と繋がってのアトリビューション。家から来た可能性は、、、ないか。オランダで同じ攻撃者グループでありましたよね。Wi-Fiもがっつり対策しておかないとですよ。ほんと。標的でなくても狙われる可能性。<br />
 &nbsp;</p>
@@ -443,34 +481,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=1857</link>
 		<pubDate>Mon, 30 Sep 2024 11:00:20 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1857</guid>
-		<comments>https://www.tsujileaks.com/?p=1857#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1857</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・A10 Connect 2024 ・Criminal phishing network resul[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1857&quot;&gt;第236回 そんなんあるんやがいっぱい！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1857" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1857&amp;text=%E7%AC%AC236%E5%9B%9E%20%E3%81%9D%E3%82%93%E3%81%AA%E3%82%93%E3%81%82%E3%82%8B%E3%82%93%E3%82%84%E3%81%8C%E3%81%84%E3%81%A3%E3%81%B1%E3%81%84%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1857" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://a10connect.a10networks.co.jp/2024">A10 Connect 2024</a><br />
-・<a href="https://www.europol.europa.eu/media-press/newsroom/news/criminal-phishing-network-resulting-in-over-480-000-victims-worldwide-busted-in-spain-and-latin-america">Criminal phishing network resulting in over 480 000 victims worldwide busted in Spain and Latin America | Europol</a><br />
-・<a href="https://www.group-ib.com/media-center/press-releases/operation-kaerb/">Group-IB contributes to international “Operation Kaerb” | Group-IB</a><br />
-・<a href="https://techcrunch.com/2024/09/23/some-kaspersky-customers-receive-surprise-forced-update-to-new-antivirus-software/">Some Kaspersky customers receive surprise forced-update to new antivirus software | TechCrunch</a><br />
-・<a href="https://globalsecurelayer.com/blog/unprecedented-3-15-billion-packet-rate-ddos-attack">Unprecedented 3.15 Billion Packet Rate DDoS Attack Mitigated by Global Secure Layer</a><br />
-・<a href="https://www.akamai.com/blog/security/akamai-prevents-record-breaking-ddos-attack-major-us-customer">Akamai Prevents DDoS Attack on Major U.S. Customer | Akamai</a><br />
-・<a href="https://niton.co.jp/services/">商品一覧 &#8211; 合同会社にとん屋</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/mush.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mush-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1859" srcset="https://www.tsujileaks.com/wp-content/uploads/mush-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mush-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mush-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mush.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：タクシー呼んだときの話。毎年買ってるアレ。台本はないです。やっぱりツッコミきた。自分らのポッドキャスト大好き。抜けてた観点いただきましてありがとうございます！犯罪者の手に渡ってしまったデバイスのロックに対して。アメリポールってなんか名前かわいい。特化したフィッシングサービス。2000人もおったんかい！ギャングらしい押収品。電話番号を知る方法は？うまいこと繋がってしまってるな。新しい防御策の登場によって生まれた犯罪手法。こんなんあるんか繋がり。強制リプレース。パンゴ。こういうことできちゃうのかと改めて思った。返金って選択肢はなかったということは規約に何かあるのかな。こういった方法でも保護される人もいるかもしれない。記録更新。カーペットボミング。2種類あり地理的に異なる。この製品の脆弱性については日本語でも出てますね。日本も入ってたけど10位以内に入ってるのって結構当たり前なのか。経験ある！代行使ったとしたらたまたまでかかっただけかもしれない。セルくらいで止ってる。サイズのみではなく、自分事で考えたときにどうかが大事。ちゃっちゃちゃーっす！<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から                           | 00:00 |<br />
-| お便りのコーナー                           | 05:21 |<br />
-| (T) スマホのロックを解除するフィッシングサービスとは       | 11:50 |<br />
-| (P) Kaspersky が UltraAV に入れ替わってる ? | 23:08 |<br />
-| (N) 過去最大規模の DDoS 攻撃を観測             | 36:56 |<br />
-| オススメのアレ                            | 55:10 |</p>
-</blockquote>
-<p>収録日: 2024年09月28日</p><p>The post <a href="https://www.tsujileaks.com/?p=1857">第236回 そんなんあるんやがいっぱい！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_240930_8451.mp3" length="28524621" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・A10 Connect 2024 ・Criminal phishing network resul[...]</itunes:subtitle>
 		<itunes:summary>Tweet・A10 Connect 2024 ・Criminal phishing network resul[...]</itunes:summary>
