@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 14 Jan 2025 11:00:55 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 20 Jan 2025 17:01:28 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -54,6 +54,48 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第248回 ドンドンドン！ドンピ～♪スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1930</link>
+		<pubDate>Mon, 20 Jan 2025 11:00:45 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1930</guid>
+		<comments>https://www.tsujileaks.com/?p=1930#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1930</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・【重要】PC版の不具合対応のお知らせ ｜ ポイ活ならUvoice（ユーボイス）｜簡単アンケートでポ[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1930&quot;&gt;第248回 ドンドンドン！ドンピ～♪スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1930" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1930&amp;text=%E7%AC%AC248%E5%9B%9E%20%E3%83%89%E3%83%B3%E3%83%89%E3%83%B3%E3%83%89%E3%83%B3%EF%BC%81%E3%83%89%E3%83%B3%E3%83%94%EF%BD%9E%E2%99%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1930" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://u-voice.net/news/20250101/">【重要】PC版の不具合対応のお知らせ ｜ ポイ活ならUvoice（ユーボイス）｜簡単アンケートでポイントが貯まる</a><br />
+・<a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/16/executive-order-on-strengthening-and-promoting-innovation-in-the-nations-cybersecurity/">Executive Order on Strengthening and Promoting Innovation in the Nation’s Cybersecurity | The White House</a><br />
+・<a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/">Executive Order on Improving the Nation&#8217;s Cybersecurity | The White House</a><br />
+・<a href="https://www.cisa.gov/topics/cybersecurity-best-practices/executive-order-improving-nations-cybersecurity">Executive Order on Improving the Nation&#8217;s Cybersecurity | CISA</a><br />
+・<a href="https://blogs.infoblox.com/threat-intelligence/one-mikro-typo-how-a-simple-dns-misconfiguration-enables-malware-delivery-by-a-russian-botnet/">How A Large-Scale Russian Botnet Operation Stays Under the Radar</a><br />
+・<a href="https://csirt.ninja/?p=2442">ランサムリークサイト観察記 2024年振り返り | (n)inja csirt</a><br />
+・<a href="https://www.halcyon.ai/blog/abusing-aws-native-services-ransomware-encrypting-s3-buckets-with-sse-c">Abusing AWS Native Services: Ransomware Encrypting S3 Buckets with SSE-C</a><br />
+・<a href="http://www.officek.jp/tama/">たま公式サイト</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/mi.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mi-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1931" srcset="https://www.tsujileaks.com/wp-content/uploads/mi-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mi-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mi-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mi.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：ほんまにどうでもいい話。メロゴールドと出会ってたかもしれない。piyologが先。リリース内容が危険性を訴求できていないと思いました。年始なのに年末感。三周目に入っている方いました。アメリカでの大きなイベント。えらい長いの最後に出してきた。国際エネルギースター = 環境ラベリング制度。EDR入れるといっても抜け漏れには気を付けないとなんですよね。大統領なのでひっくり返る可能性はあるものとして。世界的に見た日本の立ち位置としては決して無関係じゃないですね。ちょっと変わったマルウェアの配信キャンペーン。興味深いのはインフラのほう。ミクロティックと読みたい。SPFがズブズブに。元々だったのか。書き換えか。どれくらい効果的なのかな。チェック項目ほんま大事ですって。一文字で真逆になる仕組みがまずいと考えた方がええんちゃいますかね。思えば遠くへ来たもんだ的な。根岸さんの指摘はめっちゃありがたかった。第1世代からの今第5世代。他がやってない視点。レポートによってバラついてる問題。ブログ読んでね！偽情報でもコストかかる。意地と愛やねん。「たまたま」なのか。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から                         | 00:00 |<br />
+| お便りのコーナー                         | 04:45 |<br />
+| (P) バイデン大統領の最後の置き土産              | 10:23 |<br />
+| (N) マルスパムキャンペーンに利用された SPF レコードの罠 | 26:08 |<br />
+| (T) 2024年のランサム観測まとめ              | 38:44 |<br />
+| オススメのアレ                          | 55:31 |</p>
+</blockquote>
+<p>収録日: 2025年01月18日</p><p>The post <a href="https://www.tsujileaks.com/?p=1930">第248回 ドンドンドン！ドンピ～♪スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_250119_jBeatles.mp3" length="28700972" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・【重要】PC版の不具合対応のお知らせ ｜ ポイ活ならUvoice（ユーボイス）｜簡単アンケートでポ[...]</itunes:subtitle>
+		<itunes:summary>Tweet・【重要】PC版の不具合対応のお知らせ ｜ ポイ活ならUvoice（ユーボイス）｜簡単アンケートでポ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>59:35</itunes:duration>
+	</item>
+	<item>
 		<title>第247回 アレのアレが始まったんだぜ！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1925</link>
 		<pubDate>Tue, 14 Jan 2025 11:00:55 +0000</pubDate>
@@ -71,7 +113,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://blog.apnic.net/2025/01/08/observing-the-ddos-landscape-requires-collaboration/">Observing the DDoS landscape requires collaboration | APNIC Blog</a><br />
 ・<a href="https://jerrygamblin.com/2025/01/05/2024-cve-data-review/">2024 CVE Data Review – JerryGamblin.com</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/k.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/k-300x225.jpg" alt="" width="300" height="225" class="alignnone size-medium wp-image-1926" srcset="https://www.tsujileaks.com/wp-content/uploads/k-300x225.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/k.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/k.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/k-300x225.jpg" alt="" width="300" height="225" class="alignnone size-medium wp-image-1926" srcset="https://www.tsujileaks.com/wp-content/uploads/k-300x225.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/k.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：新年アレましておめでとうございます！本年もよろしくお願いいたします！<br />
 &nbsp;</p>
@@ -149,7 +191,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ･<a href="https://www.rapid7.com/blog/post/2024/12/04/black-basta-ransomware-campaign-drops-zbot-darkgate-and-custom-malware/">Black Basta Ransomware Campaign Drops Zbot, DarkGate, &amp; Custom Malware | Rapid7 Blog</a><br />
 ･<a href="https://www.fujiya-peko.co.jp/cake/item/41291.html">生ミルキー（各種） | カジュアルギフト | ギフト | ケーキ・洋菓子 | 株式会社不二家</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/kissa.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kissa-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1913" srcset="https://www.tsujileaks.com/wp-content/uploads/kissa-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kissa-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kissa-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kissa.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/kissa.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kissa-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1913" srcset="https://www.tsujileaks.com/wp-content/uploads/kissa-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kissa-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kissa-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kissa.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：喉の調子ががが。乾燥にお気を付けください！ステッカーコンプへの道。現在5名？サグラダ・ファミリアの謎。ぶっぱっ！piyolog掘り起こし。スタンプつかってーん。多要素認証のバイパス？！というよりは正面突破やで。修正済み。アプリでの認証みたいに通知がこないという穴。かつレートリミットが緩い。修正はレートリミットかな。以前に悪用されてたら怖い。盲目的に信じる怖さもある。PPCはめちゃ知ってる。誰向けの注意喚起？子会社が親会社を監督ってちょっとムズない？辛口コメントもある。対策は分かっているけどなかなかっていうものが目立つ。事象の根本原因が分からないのが多い。レポートには確かに数字は欲しい。とはいえミスリードには気を付けないといけない。掘り下げ文書も欲しい。ランサムギャングの夏休み。過去にもあったが洗練されてきているキャンペーン。ML登録してって昔から嫌がらせでもあったなぁ。謎QR。多分フィッシング。SharePointでブロックされない工夫。目的はクレデンシャル。バトンタッチしてる感じあるので分業してるかも。<br />
 &nbsp;</p>
@@ -437,33 +479,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=1870</link>
 		<pubDate>Mon, 28 Oct 2024 11:00:50 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1870</guid>
-		<comments>https://www.tsujileaks.com/?p=1870#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1870</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・iPad mini – Apple（日本） ・営業秘密漏えい防止 警視庁 ・映画『スマ[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1870&quot;&gt;第238回 足を運んでください！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1870" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1870&amp;text=%E7%AC%AC238%E5%9B%9E%20%E8%B6%B3%E3%82%92%E9%81%8B%E3%82%93%E3%81%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1870" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.apple.com/jp/ipad-mini/">iPad mini &#8211; Apple（日本）</a><br />
-・<a href="https://www.keishicho.metro.tokyo.lg.jp/kurashi/cyber/joho/trade_secrets.html">営業秘密漏えい防止 警視庁</a><br />
-・<a href="https://sumaho-movie.jp/">映画『スマホを落としただけなのに ～最終章～ ファイナル ハッキング ゲーム』</a><br />
-・<a href="https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/">Ricky Mondello » Apple Passwords’ Generated Strong Password Format</a><br />
-・<a href="https://cloud.google.com/blog/topics/threat-intelligence/time-to-exploit-trends-2023/">How Low Can You Go? An Analysis of 2023 Time-to-Exploit Trends | Google Cloud Blog</a><br />
-・<a href="https://shiroru.jp/">【公式】SHIRORU(シロル)｜高濃度炭酸泡洗顔</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/aredake.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/aredake-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1871" srcset="https://www.tsujileaks.com/wp-content/uploads/aredake-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/aredake-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/aredake-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/aredake.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：声だけで分かるかんごさん。間埋めのSpace何も覚えてない。Apple製品買わないと詰められるポッドキャスト。根岸さんはもう実質ジーニアス。減速してる車の本当の目的は。ステッカー差し上げてないんかーい。呼び水失敗。続き知りたい。出ては消えてる印象の格付け。IPアドレス制限はハマるなら結構有用だと思う。認証より強固に働く場合もあると思うんですよ。おめでとうを言いたくて。アドバイザーって何をするのか。きっかけは白浜。色を出せているというか出させてもらえていることはありがたいと思っています。チェックだけではなく提案もしてます。パスワード生成の裏側にある工夫。めちゃくちゃユーザのためになってる！生成してすぐに使える割合高そうですね。脆弱性の悪用までのマンディアンのやつ2024。ゼロデイかなり増えてる。急に短くなった原因はゼロデイかな。にしても。。。この数字だけみたら間に合わない。とはいえ行動内容はそれほど変わらない気もしています。脆弱性がどういうものかも知りたいところ。根岸さん使ってくれてた！<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から                           | 00:00 |<br />
-| お便りのコーナー                           | 06:52 |<br />
-| (T) 警視庁アドバイザーと映画監修のおしごと紹介          | 20:19 |<br />
-| (N) iOS のパスワード生成方法                 | 39:14 |<br />
-| (P) Mandiant による 2023年に悪用された脆弱性の分析 | 50:11 |<br />
-| オススメのアレ                            | 66:01 |</p>
-</blockquote>
-<p>収録日: 2024年10月26日</p><p>The post <a href="https://www.tsujileaks.com/?p=1870">第238回 足を運んでください！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_241028_a-r-3.mp3" length="33620783" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・iPad mini – Apple（日本） ・営業秘密漏えい防止 警視庁 ・映画『スマ[...]</itunes:subtitle>
 		<itunes:summary>Tweet・iPad mini – Apple（日本） ・営業秘密漏えい防止 警視庁 ・映画『スマ[...]</itunes:summary>
