@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Wed, 22 Jan 2025 05:52:39 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Jan 2025 11:00:22 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -54,6 +54,45 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第249回 準備8割おじさんだ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1937</link>
+		<pubDate>Tue, 28 Jan 2025 11:00:22 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1937</guid>
+		<comments>https://www.tsujileaks.com/?p=1937#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1937</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・サービス終了後に残っているDNS設定を利用したサブドメインの乗っ取りについて ・MasterCar[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1937&quot;&gt;第249回 準備8割おじさんだ！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1937" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1937&amp;text=%E7%AC%AC249%E5%9B%9E%20%E6%BA%96%E5%82%998%E5%89%B2%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%81%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1937" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://jprs.jp/tech/security/2025-01-21-danglingrecords.html">サービス終了後に残っているDNS設定を利用したサブドメインの乗っ取りについて</a><br />
+・<a href="https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/">MasterCard DNS Error Went Unnoticed for Years – Krebs on Security</a><br />
+・<a href="https://blog.cloudflare.com/ja-jp/ddos-threat-report-for-2024-q4/">2024年第4四半期、記録的な5.6TbpsのDDoS攻撃およびグローバルなDDoSの傾向</a><br />
+・<a href="https://www.halcyon.ai/blog/abusing-aws-native-services-ransomware-encrypting-s3-buckets-with-sse-c">Abusing AWS Native Services: Ransomware Encrypting S3 Buckets with SSE-C</a><br />
+・<a href="https://aws.amazon.com/blogs/security/preventing-unintended-encryption-of-amazon-s3-objects/">Preventing unintended encryption of Amazon S3 objects | AWS Security Blog</a><br />
+・<a href="https://www.theguardian.com/culture/2025/jan/24/british-museum-forced-to-partly-close-after-alleged-it-attack-by-former-employee">British Museum forced to partly close after alleged IT attack by former employee | British Museum | The Guardian</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/movie.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/movie-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1938" srcset="https://www.tsujileaks.com/wp-content/uploads/movie-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/movie-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/movie-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/movie.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：笑点形式のパネル。進行台本作った。オンサイトのセミナーの良さ。ズバピタ！みんなSPF好きなようで。アレ勢の年齢層。組織数気になる。どんなけ増やねん。80秒。ランサムDDoSまだあるし減ってない。儲かってるの？継続時間はタイプによる。ハルシオンは、のどか、おだやか、カワセミ。ある意味でLoL。やっぱバックアップ大事。情報窃取の有無は不明。攻撃コスト低そう。認証情報がどこから漏れたか分からない問題。アカウントと権限の把握の棚卸し。範囲の特定のための準備。基本はやっぱ大事。大英博物館の元従業員の犯行。物理侵入だった。どのようにシステムを使えなくしたのかは不明だが器物破損が適用されている。動機は解雇された腹いせ？解雇されているのになんで入れるの？アカンほうのナイトミュージアム。アレ勢の言うことは聞いてくれるみたいです。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から                        | 00:00 |<br />
+| お便りのコーナー                        | 05:11 |<br />
+| (N) Cloudflare の DDoS 脅威レポート    | 13:22 |<br />
+| (T) AWS の S3 バケットを暗号化するランサムアクター | 32:31 |<br />
+| (P) 大英博物館で起きたちょっと変わった事件         | 42:01 |<br />
+| オススメのアレ                         | 51:08 |</p>
+</blockquote><p>The post <a href="https://www.tsujileaks.com/?p=1937">第249回 準備8割おじさんだ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_250128_goldfinger.mp3" length="27158726" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・サービス終了後に残っているDNS設定を利用したサブドメインの乗っ取りについて ・MasterCar[...]</itunes:subtitle>
+		<itunes:summary>Tweet・サービス終了後に残っているDNS設定を利用したサブドメインの乗っ取りについて ・MasterCar[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>56:22</itunes:duration>
+	</item>
+	<item>
 		<title>第248回 ドンドンドン！ドンピ～♪スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1930</link>
 		<pubDate>Mon, 20 Jan 2025 11:00:45 +0000</pubDate>
@@ -73,7 +112,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.halcyon.ai/blog/abusing-aws-native-services-ransomware-encrypting-s3-buckets-with-sse-c">Abusing AWS Native Services: Ransomware Encrypting S3 Buckets with SSE-C</a><br />
 ・<a href="http://www.officek.jp/tama/">たま公式サイト</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/mi.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mi-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1931" srcset="https://www.tsujileaks.com/wp-content/uploads/mi-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mi-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mi-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mi.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/mi.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mi-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1931" srcset="https://www.tsujileaks.com/wp-content/uploads/mi-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mi-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mi-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mi.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：ほんまにどうでもいい話。メロゴールドと出会ってたかもしれない。piyologが先。リリース内容が危険性を訴求できていないと思いました。年始なのに年末感。三周目に入っている方いました。アメリカでの大きなイベント。えらい長いの最後に出してきた。国際エネルギースター = 環境ラベリング制度。EDR入れるといっても抜け漏れには気を付けないとなんですよね。大統領なのでひっくり返る可能性はあるものとして。世界的に見た日本の立ち位置としては決して無関係じゃないですね。ちょっと変わったマルウェアの配信キャンペーン。興味深いのはインフラのほう。ミクロティックと読みたい。SPFがズブズブに。元々だったのか。書き換えか。どれくらい効果的なのかな。チェック項目ほんま大事ですって。一文字で真逆になる仕組みがまずいと考えた方がええんちゃいますかね。思えば遠くへ来たもんだ的な。根岸さんの指摘はめっちゃありがたかった。第1世代からの今第5世代。他がやってない視点。レポートによってバラついてる問題。ブログ読んでね！偽情報でもコストかかる。意地と愛やねん。「たまたま」なのか。<br />
 &nbsp;</p>
@@ -152,7 +191,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ･<a href="https://nihontouitsu.jp/">日本統一 公式サイト</a><br />
 ･<a href="https://www.nict.go.jp/publication/20th-anniversary/">20周年記念誌 | NICT-情報通信研究機構</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/xmas2024_sp.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/xmas2024_sp-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1921" srcset="https://www.tsujileaks.com/wp-content/uploads/xmas2024_sp-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/xmas2024_sp-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/xmas2024_sp-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/xmas2024_sp.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/xmas2024_sp.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/xmas2024_sp-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1921" srcset="https://www.tsujileaks.com/wp-content/uploads/xmas2024_sp-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/xmas2024_sp-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/xmas2024_sp-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/xmas2024_sp.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：セキュリティアレてなんぞ？年末の風物詩。室長クビ。ネク長&#038;所長！はじめはチャラいと言われた。サイバー井上。色々と乗り越えてきはったんやなぁ。死んだおじさん。死んだじゃなくて移った。新しいNOTICE。脆弱性を調べるのは機器特定からの照合なんですね。長らく追いかけてたものが特定できたとき嬉しかったろうな。壁埋め込み型。成果を見える形でのアピールもしてほしい！引き込み方が重要なStardust。やり甲斐ありそう。ハッカー：「お前はハッカーか！？」。めっちゃ充実してる。これ大解放されるといいな。受けたい。報告大好き辻さん。ワクワク感が今回もあった！全国と書いててっぺん。<br />
 &nbsp;</p>
@@ -437,35 +476,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=1876</link>
 		<pubDate>Mon, 04 Nov 2024 11:00:06 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1876</guid>
-		<comments>https://www.tsujileaks.com/?p=1876#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1876</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet･Foreign Threat Actor Conducting Large-Scale Spear[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1876&quot;&gt;第239回 各々のそれぞれのアレコレ！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1876" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1876&amp;text=%E7%AC%AC239%E5%9B%9E%20%E5%90%84%E3%80%85%E3%81%AE%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E3%81%AE%E3%82%A2%E3%83%AC%E3%82%B3%E3%83%AC%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1876" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>･<a href="https://www.cisa.gov/news-events/alerts/2024/10/31/foreign-threat-actor-conducting-large-scale-spear-phishing-campaign-rdp-attachments">Foreign Threat Actor Conducting Large-Scale Spear-Phishing Campaign with RDP Attachments | CISA</a><br />
-･<a href="https://cert.gov.ua/article/6281076">CERT-UA</a><br />
-･<a href="https://aws.amazon.com/blogs/security/amazon-identified-internet-domains-abused-by-apt29/">Amazon identified internet domains abused by APT29 | AWS Security Blog</a><br />
-･<a href="https://www.microsoft.com/en-us/security/blog/2024/10/29/midnight-blizzard-conducts-large-scale-spear-phishing-campaign-using-rdp-files/">Midnight Blizzard conducts large-scale spear-phishing campaign using RDP files | Microsoft Security Blog</a><br />
-･<a href="https://www.interior.gob.es/opencms/en/detail-pages/article/Tres-detenidos-por-delitos-de-danos-informaticos-con-fines-terroristas/">Ministerio del Interior | Tres detenidos por delitos de daños informáticos con fines terroristas</a><br />
-･<a href="https://www.ddbj.nig.ac.jp/news/ja/2024-10-22">国際塩基配列データベース「DDBJ」に対するサイバー脅迫に関するご報告</a><br />
-･<a href="https://blog.lastpass.com/posts/fake-web-store-reviews-attempting-to-steal-customer-data">Fake Web Store Reviews Attempting to Steal Customer Data</a><br />
-･<a href="https://www.bleepingcomputer.com/news/security/lastpass-warns-of-fake-support-centers-trying-to-steal-customer-data/">LastPass warns of fake support centers trying to steal customer data</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/okonomi.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/okonomi-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1877" srcset="https://www.tsujileaks.com/wp-content/uploads/okonomi-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/okonomi-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/okonomi-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/okonomi.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：傘持って出るの嫌い。それで降らないのも結構嫌い。誰もがどうでもいい話。攻撃者側の名前を出すか出さないか。当事者を見てという基準。確定させずに疑問を持ち続ける大切さ。「信じ切っていいか」と聞かれたら。選択肢それぞれのメリットデメリットを意識。英語名どうしましょ。.rdpがやってくる。攻撃者の用意したところに繋がされる系。また、Cozyか。日本も入ってた。仕組みを知った上での回避。ないないなのかうちうちなのか。簡単に真似されそう。外向け通信のポリシーが緩いってありがち。ドイツ語ではフォルク。出来の悪いランサムウェア。日本の組織が出していたリリースが興味深い。「無意味です」。ボクはいいと思ったし、自分も同じ選択をする。コストかけさせられるの厄介。こういうの見るときの注意点。一定の需要はあるものの。同じ組織のリークでもタイトルが異なるものがあり、それを1件とカウントしない場合がある。実家の近所付き合いで話題になることがある。対話をしましょう！Webストアのレビューに紛れていたサポートを装うソーシャルエンジニアリング。電話番号共通ってどう回してるんだろう。コスト低そうだけど儲かるのかな。まずは試すのかな。手を変え品を変えることに意味があるかもしれない。定期的に波が来る。ウミガメだけに。<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から                              | 00:00 |<br />
-| お便りのコーナー                              | 02:42 |<br />
-| (P) Midnight Blizzard によるスピアフィッシングの手口 | 12:38 |<br />
-| (T) CyberVolk による脅迫とその対応              | 27:14 |<br />
-| (N) 偽のレビュー投稿から誘導するサポート詐欺              | 45:16 |<br />
-| オススメのアレ  </p>
-</blockquote>
-<p>収録日: 2024年11月02日</p><p>The post <a href="https://www.tsujileaks.com/?p=1876">第239回 各々のそれぞれのアレコレ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_241104_each.mp3" length="30149021" type="audio/mpeg" />
 		<itunes:subtitle>Tweet･Foreign Threat Actor Conducting Large-Scale Spear[...]</itunes:subtitle>
 		<itunes:summary>Tweet･Foreign Threat Actor Conducting Large-Scale Spear[...]</itunes:summary>
