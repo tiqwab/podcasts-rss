@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 28 Jan 2025 11:00:22 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Feb 2025 13:27:39 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -83,7 +83,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 | (T) AWS の S3 バケットを暗号化するランサムアクター | 32:31 |<br />
 | (P) 大英博物館で起きたちょっと変わった事件         | 42:01 |<br />
 | オススメのアレ                         | 51:08 |</p>
-</blockquote><p>The post <a href="https://www.tsujileaks.com/?p=1937">第249回 準備8割おじさんだ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+</blockquote>
+<p>収録日: 2025年01月26日</p><p>The post <a href="https://www.tsujileaks.com/?p=1937">第249回 準備8割おじさんだ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_250128_goldfinger.mp3" length="27158726" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・サービス終了後に残っているDNS設定を利用したサブドメインの乗っ取りについて ・MasterCar[...]</itunes:subtitle>
 		<itunes:summary>Tweet・サービス終了後に残っているDNS設定を利用したサブドメインの乗っ取りについて ・MasterCar[...]</itunes:summary>
