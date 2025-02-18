@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 10 Feb 2025 11:00:15 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Feb 2025 06:25:59 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -54,6 +54,51 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第252回 良い意味での「うちは大丈夫か？」もある！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1958</link>
+		<pubDate>Mon, 17 Feb 2025 13:32:30 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1958</guid>
+		<comments>https://www.tsujileaks.com/?p=1958#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1958</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・Booking.comの認証情報窃取にVidarを使用した大規模詐欺活動 | Securework[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1958&quot;&gt;第252回 良い意味での「うちは大丈夫か？」もある！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1958" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1958&amp;text=%E7%AC%AC252%E5%9B%9E%20%E8%89%AF%E3%81%84%E6%84%8F%E5%91%B3%E3%81%A7%E3%81%AE%E3%80%8C%E3%81%86%E3%81%A1%E3%81%AF%E5%A4%A7%E4%B8%88%E5%A4%AB%E3%81%8B%EF%BC%9F%E3%80%8D%E3%82%82%E3%81%82%E3%82%8B%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1958" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.secureworks.jp/blog/vidar-infostealer-steals-booking-com-credentials-in-fraud-scam">Booking.comの認証情報窃取にVidarを使用した大規模詐欺活動 | Secureworks</a><br />
+・<a href="https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/">U.K. orders Apple to let it spy on users’ encrypted accounts &#8211; The Washington Post</a><br />
+・<a href="https://support.apple.com/ja-jp/102651">iCloudのデータセキュリティの概要 &#8211; Apple サポート (日本)</a><br />
+・<a href="https://www.eff.org/deeplinks/2025/02/uks-demands-apple-break-encryption-emergency-us-all">The UK&#8217;s Demands for Apple to Break Encryption Is an Emergency for Us All | Electronic Frontier Foundation</a><br />
+・<a href="https://blog.cryptographyengineering.com/2025/02/12/u-k-asks-to-backdoor-icloud-backup-encryption/">U.K. asks to backdoor iCloud Backup encryption – A Few Thoughts on Cryptographic Engineering</a><br />
+・<a href="https://www.cisa.gov/resources-tools/resources/enhanced-visibility-and-hardening-guidance-communications-infrastructure">Enhanced Visibility and Hardening Guidance for Communications Infrastructure | CISA</a><br />
+・<a href="https://www.city.hikone.lg.jp/kakuka/shicho_chokkatsu/3/2/27117.html">彦根市メール配信システムより送付されるメールが、なりすましメール警告表示される事象について／彦根市</a><br />
+・<a href="https://www.docomo.ne.jp/info/spam_mail/spoofing_warning/">なりすましメール警告表示 | お知らせ | NTTドコモ</a><br />
+・<a href="https://www.antiphishing.jp/report/wg/cert_explaindoc_20250130.html">フィッシング対策協議会 Council of Anti-Phishing Japan | 報告書類 | 協議会WG報告書 | 送信ドメイン認証技術「DMARC」の導入状況と必要性について</a><br />
+・<a href="https://www.teu.ac.jp/press/2024.html?id=100">新⼊⽣の「コミュニケーションツール」利⽤実態調査を発表 | 2024年のプレスリリース | プレスリリース | 東京工科大学</a><br />
+・<a href="https://www.yojiyacosme.com/f/aburatorigami">あぶらとり紙</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/inuinu.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/inuinu-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1959" srcset="https://www.tsujileaks.com/wp-content/uploads/inuinu-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/inuinu-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/inuinu-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/inuinu.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：10大脅威を掘り下げるの「は」好き。胎教にも良いポッドキャストでありたい。久々のVS。攻撃者のインフラを見てというのは珍しい。Cookieは対象外っぽい。アクセス制御は諦めたくない。これそもそも気付けるのか。因果関係見えてないのは多そう。駆除して終わりじゃないときもあるから！マジで！政府がバックドアを要求？！嬉しくなって紹介した。要請があったことも対応内容も言えないってそんなぁ。将棋倒しのようになりかねない。できることないかも。不審メール疑いが付く自治体のメール。怪しいって言ってるけど怪しくないはどう扱うの。「折角」を活かしたいからみんなで対応していかないと。DMARCはじめ読めんかった。これ使ぃゆーて（ハモり）。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から                     | 00:00 |<br />
+| お便りのコーナー                     | 02:18 |<br />
+| (T) 日本企業の認証情報漏洩実態調査          | 13:30 |<br />
+| (N) イギリス政府から Apple へのバックドア要求 | 30:14 |<br />
+| (P) 自治体からのメール配信でなりすましメール警告表示 | 50:01 |<br />
+| オススメのアレ                      | 63:19 |
+</p></blockquote>
+<p>収録日: 2025年02月16日</p><p>The post <a href="https://www.tsujileaks.com/?p=1958">第252回 良い意味での「うちは大丈夫か？」もある！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_250218_rankingnakushitai.m4a" length="32656129" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet・Booking.comの認証情報窃取にVidarを使用した大規模詐欺活動 | Securework[...]</itunes:subtitle>
+		<itunes:summary>Tweet・Booking.comの認証情報窃取にVidarを使用した大規模詐欺活動 | Securework[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:07:49</itunes:duration>
+	</item>
+	<item>
 		<title>第251回 祝！地上波デビューだ！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1949</link>
 		<pubDate>Mon, 10 Feb 2025 11:00:15 +0000</pubDate>
@@ -77,7 +122,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.cisa.gov/news-events/directives/binding-operational-directive-23-02">BOD 23-02: Mitigating the Risk from Internet-Exposed Management Interfaces | CISA</a><br />
 ・<a href="https://nisshoku-natsuko.com/">日食なつこ OFFICIAL WEB SITE日食なつこ | 環礁宇宙</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/cho.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/cho-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1954" srcset="https://www.tsujileaks.com/wp-content/uploads/cho-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/cho-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/cho-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/cho.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/cho.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/cho-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1954" srcset="https://www.tsujileaks.com/wp-content/uploads/cho-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/cho-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/cho-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/cho.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：このアレが地上波デビュー！引き離されないように。ほならアメリカはいいのかともなると思う。医療機器のアレの更新情報。DeepSeekへの調査。注目集めると攻撃もくるのかな。それほどのものか疑問。DDoSってサイト公開時に必ず想定し対策すべき脅威なのか問題。自分の集計と比較しました。新興ギャングが爆増。1割くらいが支払い。LockBit4.0の今後が気になる。守り方は変わらないと思ってる。情報窃取だけは儲からなさそう？Unknown消さんといてー！日本の存在感が出てきていていい！絶対読んでほしいそうです。エッヂを知る。パッチの適用は攻撃の対処ではないのだ！<br />
 &nbsp;</p>
@@ -162,7 +207,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://aws.amazon.com/blogs/security/preventing-unintended-encryption-of-amazon-s3-objects/">Preventing unintended encryption of Amazon S3 objects | AWS Security Blog</a><br />
 ・<a href="https://www.theguardian.com/culture/2025/jan/24/british-museum-forced-to-partly-close-after-alleged-it-attack-by-former-employee">British Museum forced to partly close after alleged IT attack by former employee | British Museum | The Guardian</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/movie.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/movie-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1938" srcset="https://www.tsujileaks.com/wp-content/uploads/movie-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/movie-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/movie-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/movie.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/movie.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/movie-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1938" srcset="https://www.tsujileaks.com/wp-content/uploads/movie-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/movie-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/movie-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/movie.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：笑点形式のパネル。進行台本作った。オンサイトのセミナーの良さ。ズバピタ！みんなSPF好きなようで。アレ勢の年齢層。組織数気になる。どんなけ増やねん。80秒。ランサムDDoSまだあるし減ってない。儲かってるの？継続時間はタイプによる。ハルシオンは、のどか、おだやか、カワセミ。ある意味でLoL。やっぱバックアップ大事。情報窃取の有無は不明。攻撃コスト低そう。認証情報がどこから漏れたか分からない問題。アカウントと権限の把握の棚卸し。範囲の特定のための準備。基本はやっぱ大事。大英博物館の元従業員の犯行。物理侵入だった。どのようにシステムを使えなくしたのかは不明だが器物破損が適用されている。動機は解雇された腹いせ？解雇されているのになんで入れるの？アカンほうのナイトミュージアム。アレ勢の言うことは聞いてくれるみたいです。<br />
 &nbsp;</p>
@@ -440,35 +485,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=1893</link>
 		<pubDate>Tue, 26 Nov 2024 03:00:30 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1893</guid>
-		<comments>https://www.tsujileaks.com/?p=1893#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1893</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet･ITmedia Security Week 2024 秋 脅威は待ってくれない！セキュリティ人材不[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1893&quot;&gt;第242回 諸事情によりメモは割愛だ！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1893" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1893&amp;text=%E7%AC%AC242%E5%9B%9E%20%E8%AB%B8%E4%BA%8B%E6%83%85%E3%81%AB%E3%82%88%E3%82%8A%E3%83%A1%E3%83%A2%E3%81%AF%E5%89%B2%E6%84%9B%E3%81%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1893" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>･<a href="https://members08.live.itmedia.co.jp/library/NzcwODI%253D?group=SEC2024A">ITmedia Security Week 2024 秋 脅威は待ってくれない！セキュリティ人材不足を今度こそ解決できる「多彩なアプローチ」</a><br />
-･<a href="https://cwe.mitre.org/top25/index.html">CWE &#8211; CWE Top 25 Most Dangerous Software Weaknesses</a><br />
-･<a href="https://www.ipa.go.jp/security/vuln/scap/cwe.html">共通脆弱性タイプ一覧CWE概説 | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</a><br />
-･<a href="https://www.bleepingcomputer.com/news/security/iphones-now-auto-restart-to-block-access-to-encrypted-data-after-long-idle-times/">iPhones now auto-restart to block access to encrypted data after long idle times</a><br />
-･<a href="https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html">Reverse Engineering iOS 18 Inactivity Reboot</a><br />
-･<a href="https://support.apple.com/ja-jp/guide/security/secb010e978a/1/web/1">データ保護クラス &#8211; Apple サポート (日本)</a><br />
-･<a href="https://blog.checkpoint.com/research/ransomwares-evolving-threat-the-rise-of-ransomhub-decline-of-lockbit-and-the-new-era-of-data-extortion/">Ransomware&#8217;s Evolving Threat: The Rise of RansomHub, Decline of Lockbit, and the New Era of Data Extortion &#8211; Check Point Blog</a><br />
-･<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-242a">#StopRansomware: RansomHub Ransomware | CISA</a><br />
-･<a href="https://www.youtube.com/watch?v=jyDQqLQgjag">小林賢太郎演劇作品『 TAKEOFF ~ライト三兄弟~ 』 &#8211; YouTube</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/arebread.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/arebread-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1894" srcset="https://www.tsujileaks.com/wp-content/uploads/arebread-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/arebread-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/arebread-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/arebread.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：公開優先につき割愛。<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から                            | 00:00 |<br />
-| お便りのコーナー                            | 05:28 |<br />
-| (P) CWE Top 25 を見てみよう               | 13:17 |<br />
-| (N) iPhone の新しい機能 Inactivity reboot | 28:39 |<br />
-| (T) ランサムウェアの最新動向、特に RansomHub について  | 39:21 |<br />
-| オススメのアレ        </p></blockquote>
-<p>収録日: 2024年11月24日</p><p>The post <a href="https://www.tsujileaks.com/?p=1893">第242回 諸事情によりメモは割愛だ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_241126_Omitted.mp3" length="27860916" type="audio/mpeg" />
 		<itunes:subtitle>Tweet･ITmedia Security Week 2024 秋 脅威は待ってくれない！セキュリティ人材不[...]</itunes:subtitle>
 		<itunes:summary>Tweet･ITmedia Security Week 2024 秋 脅威は待ってくれない！セキュリティ人材不[...]</itunes:summary>
