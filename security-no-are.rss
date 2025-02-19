@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 18 Feb 2025 06:25:59 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Feb 2025 12:49:47 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -90,7 +90,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 | オススメのアレ                      | 63:19 |
 </p></blockquote>
 <p>収録日: 2025年02月16日</p><p>The post <a href="https://www.tsujileaks.com/?p=1958">第252回 良い意味での「うちは大丈夫か？」もある！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
-		<enclosure url="https://www.tsujileaks.com/media/are_250218_rankingnakushitai.m4a" length="32656129" type="audio/x-m4a" />
+		<enclosure url="https://www.tsujileaks.com/media/are_250218_rankingnakushitai.mp3" length="32656129" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・Booking.comの認証情報窃取にVidarを使用した大規模詐欺活動 | Securework[...]</itunes:subtitle>
 		<itunes:summary>Tweet・Booking.comの認証情報窃取にVidarを使用した大規模詐欺活動 | Securework[...]</itunes:summary>
 		<itunes:author>セキュリティのアレ</itunes:author>
