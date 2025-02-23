@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 18 Feb 2025 12:49:47 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 22 Feb 2025 15:01:21 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -62,9 +62,14 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1958</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[podcast]]></category>
-		<description>&lt;p&gt;Tweet・Booking.comの認証情報窃取にVidarを使用した大規模詐欺活動 | Securework[...]&lt;/p&gt;
+		<description>&lt;p&gt;Tweet・TECH+ フォーラム – セキュリティ 2025 Feb. 今セキュリティ担当者は何[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1958&quot;&gt;第252回 良い意味での「うちは大丈夫か？」もある！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1958" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1958&amp;text=%E7%AC%AC252%E5%9B%9E%20%E8%89%AF%E3%81%84%E6%84%8F%E5%91%B3%E3%81%A7%E3%81%AE%E3%80%8C%E3%81%86%E3%81%A1%E3%81%AF%E5%A4%A7%E4%B8%88%E5%A4%AB%E3%81%8B%EF%BC%9F%E3%80%8D%E3%82%82%E3%81%82%E3%82%8B%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1958" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.secureworks.jp/blog/vidar-infostealer-steals-booking-com-credentials-in-fraud-scam">Booking.comの認証情報窃取にVidarを使用した大規模詐欺活動 | Secureworks</a><br />
+		<content:encoded><![CDATA[<div id="tweetbutton1958" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1958&amp;text=%E7%AC%AC252%E5%9B%9E%20%E8%89%AF%E3%81%84%E6%84%8F%E5%91%B3%E3%81%A7%E3%81%AE%E3%80%8C%E3%81%86%E3%81%A1%E3%81%AF%E5%A4%A7%E4%B8%88%E5%A4%AB%E3%81%8B%EF%BC%9F%E3%80%8D%E3%82%82%E3%81%82%E3%82%8B%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1958" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://news.mynavi.jp/techplus/lp/2025/enterprise/security_forum_202502/">TECH+ フォーラム &#8211; セキュリティ 2025 Feb. 今セキュリティ担当者は何をすべきか | マイナビニュース</a><br />
+・<a href="https://www.ipa.go.jp/security/10threats/10threats2025.html">情報セキュリティ10大脅威 2025 | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</a><br />
+・<a href="https://support.apple.com/ja-jp/guide/iphone/iph32b15b22f/18.0/ios/18.0">iPhoneの「マップ」で位置情報の履歴を消去する &#8211; Apple サポート (日本)</a><br />
+・<a href="https://prtimes.jp/main/html/rd/p/000000060.000059368.html">SOMPO CYBER SECURITY、独自の調査手法により国内企業500社の認証情報漏洩実態調査を実施 | ＳＯＭＰＯリスクマネジメント株式会社のプレスリリース</a><br />
+・<a href="https://www.sompocybersecurity.com/column/white-paper/download66">【WP】2024年我が国における認証情報の漏洩実態調査</a><br />
+・<a href="https://www.secureworks.jp/blog/vidar-infostealer-steals-booking-com-credentials-in-fraud-scam">Booking.comの認証情報窃取にVidarを使用した大規模詐欺活動 | Secureworks</a><br />
 ・<a href="https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/">U.K. orders Apple to let it spy on users’ encrypted accounts &#8211; The Washington Post</a><br />
 ・<a href="https://support.apple.com/ja-jp/102651">iCloudのデータセキュリティの概要 &#8211; Apple サポート (日本)</a><br />
 ・<a href="https://www.eff.org/deeplinks/2025/02/uks-demands-apple-break-encryption-emergency-us-all">The UK&#8217;s Demands for Apple to Break Encryption Is an Emergency for Us All | Electronic Frontier Foundation</a><br />
@@ -91,8 +96,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 </p></blockquote>
 <p>収録日: 2025年02月16日</p><p>The post <a href="https://www.tsujileaks.com/?p=1958">第252回 良い意味での「うちは大丈夫か？」もある！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_250218_rankingnakushitai.mp3" length="32656129" type="audio/mpeg" />
-		<itunes:subtitle>Tweet・Booking.comの認証情報窃取にVidarを使用した大規模詐欺活動 | Securework[...]</itunes:subtitle>
-		<itunes:summary>Tweet・Booking.comの認証情報窃取にVidarを使用した大規模詐欺活動 | Securework[...]</itunes:summary>
+		<itunes:subtitle>Tweet・TECH+ フォーラム – セキュリティ 2025 Feb. 今セキュリティ担当者は何[...]</itunes:subtitle>
+		<itunes:summary>Tweet・TECH+ フォーラム – セキュリティ 2025 Feb. 今セキュリティ担当者は何[...]</itunes:summary>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
