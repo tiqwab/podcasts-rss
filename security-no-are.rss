@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Sat, 22 Feb 2025 15:01:21 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Feb 2025 01:54:23 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -54,6 +54,55 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第253回 &#x1f63b;！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1963</link>
+		<pubDate>Mon, 24 Feb 2025 22:30:48 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1963</guid>
+		<comments>https://www.tsujileaks.com/?p=1963#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1963</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・ITmedia Security Week 2025 冬 ・運用コスト増にAWS寡占、ガバメントク[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1963&quot;&gt;第253回 😻！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1963" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1963&amp;text=%E7%AC%AC253%E5%9B%9E%20%26%23x1f63b%3B%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1963" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://members10.live.itmedia.co.jp/library/ODExNjI%3D">ITmedia Security Week 2025 冬</a><br />
+・<a href="https://xtech.nikkei.com/atcl/nxt/column/18/00257/00063/">運用コスト増にAWS寡占、ガバメントクラウド推進法案の陰で「こんなはずでは…」 | 日経クロステック（xTECH）</a><br />
+・<a href="https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor">Apple pulls encryption feature from UK over government spying demands | The Verge</a><br />
+・<a href="https://xtech.nikkei.com/atcl/nxt/column/18/00676/122400185/">地球の裏側からWi-Fiで社内ネットワークに侵入、世界初「最近接攻撃」の脅威 | 日経クロステック（xTECH）</a><br />
+・<a href="https://0115765.com/archives/115351">短縮URL大手「bit.ly」無料プランには「広告ページ」を導入へ 利用規約変更を通知 | オタク総研</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2023/11/12/014635">短縮URLサービス利用時に表示された悪質な広告についてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://developers.googleblog.com/ja/google-url-shortener-links-will-no-longer-be-available/">Google URL Shortener リンクが利用できなくなります &#8211; Google Developers Blog</a><br />
+・<a href="https://www.infosecurity-magazine.com/news/330-million-credentials/">Over 330 Million Credentials Compromised by Infostealers &#8211; Infosecurity Magazine</a><br />
+・<a href="https://www.kelacyber.com/resources/research/state-of-cybercrime-2024/">The State of Cybercrime 2024 Report • KELA Cyber Threat Intelligence</a><br />
+・<a href="https://cloud.google.com/blog/topics/threat-intelligence/unc5537-snowflake-data-theft-extortion">UNC5537 Targets Snowflake Customer Instances for Data Theft and Extortion | Google Cloud Blog</a><br />
+・<a href="https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger">Signals of Trouble: Multiple Russia-Aligned Threat Actors Actively Targeting Signal Messenger | Google Cloud Blog</a><br />
+・<a href="https://www.microsoft.com/en-us/security/blog/2025/01/16/new-star-blizzard-spear-phishing-campaign-targets-whatsapp-accounts/">New Star Blizzard spear-phishing campaign targets WhatsApp accounts | Microsoft Security Blog</a><br />
+・<a href="https://www.popmc.jp/home/consultation/er9dkox7/lromw3x9/">地方独立行政法人 岡山県精神科医療センター ランサムウェア事案調査報告書について – 地方独立行政法人 岡山県精神科医療センター</a><br />
+・<a href="https://nantebi-da.jp/">[小峠英二のなんて美だ！] 番組公式サイト</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/nighit.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/nighit-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1965" srcset="https://www.tsujileaks.com/wp-content/uploads/nighit-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/nighit-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/nighit-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/nighit.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：したりしなかったりの告知。いつも熱入ってた。どこならいいのかの基準。話題になっているかどうかとは。ADPに関する良くない動きがあった。短縮URLでまた何か起きるのかな。CISOのパスってほんま様々ですよ。お便りコーナー充実してる回。InfoStealerはマジで注目の脅威。ソースとなる数字の集計手段は知りたいですよね。Webサービスも危ないですがそれ以外も場合によっては相当にクリティカル。状況が分からないという意味では幸いではないかも。InfoStealerのみを防ぐための対策はないけど、対応内容はユニークなものはありそう。ULP。これ！といった事例があんまないんですよね。でもね。ないことはない！まだまだ足すくわれている説。Signalユーザを狙う攻撃。デバイス紐付けはこれに限らず怖い。デバイスの名前問題。前提はっきり言ってくれるのいい。ランサムとすぐに気付けないときもある。公表の段階の踏み方も診療を止めなかったことは素晴らしい。見られていないことの根拠は納得した。製品によってはデフォルトのログ保存は心許ないので外にということ考えてほしい！物理面がシステム反映されていない印象強い。なかたにさんではなく、なかやさんでした。<br />
+&nbsp;<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から                             | 00:00 |<br />
+| お便りのコーナー                             | 02:50 |<br />
+| (P) Infostealer の脅威動向                | 22:45 |<br />
+| (N) ロシアの攻撃者グループによる Signal アカウントを狙う攻撃 | 38:15 |<br />
+| (T) 岡山県精神科医療センターのランサムウェア事案調査報告書      | 51:09 |<br />
+| オススメのアレ                              | 69:34 |
+</p></blockquote>
+<p>収録日: 2025年02月22日</p><p>The post <a href="https://www.tsujileaks.com/?p=1963">第253回 😻！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_250225_osusumesaretai.mp3" length="37068968" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・ITmedia Security Week 2025 冬 ・運用コスト増にAWS寡占、ガバメントク[...]</itunes:subtitle>
+		<itunes:summary>Tweet・ITmedia Security Week 2025 冬 ・運用コスト増にAWS寡占、ガバメントク[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:17:01</itunes:duration>
+	</item>
+	<item>
 		<title>第252回 良い意味での「うちは大丈夫か？」もある！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1958</link>
 		<pubDate>Mon, 17 Feb 2025 13:32:30 +0000</pubDate>
@@ -81,7 +130,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.teu.ac.jp/press/2024.html?id=100">新⼊⽣の「コミュニケーションツール」利⽤実態調査を発表 | 2024年のプレスリリース | プレスリリース | 東京工科大学</a><br />
 ・<a href="https://www.yojiyacosme.com/f/aburatorigami">あぶらとり紙</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/inuinu.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/inuinu-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1959" srcset="https://www.tsujileaks.com/wp-content/uploads/inuinu-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/inuinu-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/inuinu-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/inuinu.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/inuinu.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/inuinu-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1959" srcset="https://www.tsujileaks.com/wp-content/uploads/inuinu-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/inuinu-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/inuinu-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/inuinu.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：10大脅威を掘り下げるの「は」好き。胎教にも良いポッドキャストでありたい。久々のVS。攻撃者のインフラを見てというのは珍しい。Cookieは対象外っぽい。アクセス制御は諦めたくない。これそもそも気付けるのか。因果関係見えてないのは多そう。駆除して終わりじゃないときもあるから！マジで！政府がバックドアを要求？！嬉しくなって紹介した。要請があったことも対応内容も言えないってそんなぁ。将棋倒しのようになりかねない。できることないかも。不審メール疑いが付く自治体のメール。怪しいって言ってるけど怪しくないはどう扱うの。「折角」を活かしたいからみんなで対応していかないと。DMARCはじめ読めんかった。これ使ぃゆーて（ハモり）。<br />
 &nbsp;</p>
@@ -172,7 +221,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://jvn.jp/vu/JVNVU98006941/index.html">JVNVU#98006941: Contec Medical Systems製Contec Health CMS8000 CONTEC ICU CCU Vital Signs Patient Monitorにおける複数の脆弱性</a><br />
 ・<a href="https://taneya.jp/okashi/meika/fukumi">ふくみ天平 | たねや</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/kamakurango.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kamakurango-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1944" srcset="https://www.tsujileaks.com/wp-content/uploads/kamakurango-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kamakurango-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kamakurango-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kamakurango.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/kamakurango.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kamakurango-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1944" srcset="https://www.tsujileaks.com/wp-content/uploads/kamakurango-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kamakurango-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kamakurango-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kamakurango.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：1000回まではやる。給湯器が壊れて一人で行くようなところではないところに。久々の情報収集に関する質問。攻撃者のLLM利用状況。まだまだやっぱ至っていないとのこと。一位イラン。攻撃者も使い分けしてるかもしれない。結果、何に使われたかを知りたいんよな。事例を積み上げていくしかないかな。7-Zipのバイパスの脆弱性。使ってるけど設定してない問題。HKEY_CURRENT_USER\SOFTWARE\7-Zip\Options\WriteZoneIdExtract 。二重にするだけ。導入するにしても扱えるのか。自動更新が原因ってのもあるんよな。めっちゃ怖いけども。雑。OEM見落としがち。果たしてバックドアなのか。<br />
 &nbsp;</p>
@@ -446,37 +495,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=1898</link>
 		<pubDate>Tue, 03 Dec 2024 02:59:39 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1898</guid>
-		<comments>https://www.tsujileaks.com/?p=1898#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1898</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet･【お知らせ】当サイトへの不正ログインの発生とパスワード変更のお願いについて | 【ニュース一覧】ヨ[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1898&quot;&gt;第243回 新旧、時を超えて！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1898" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1898&amp;text=%E7%AC%AC243%E5%9B%9E%20%E6%96%B0%E6%97%A7%E3%80%81%E6%99%82%E3%82%92%E8%B6%85%E3%81%88%E3%81%A6%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1898" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>･<a href="https://yonexshop.jp/news/207">【お知らせ】当サイトへの不正ログインの発生とパスワード変更のお願いについて | 【ニュース一覧】ヨネックス【公式】オンラインショップ</a><br />
-･<a href="https://www.shopch.jp/pc/cmn/a/info/notice241119">当社Web サイトへの不正ログイン発生のお詫びとお知らせ | 通販・テレビショッピングのショップチャンネル</a><br />
-･<a href="https://www.oisixradaichi.co.jp/news/posts/20241126/">【重要】当社WEBサイトへの「なりすましログイン」への対応に関して | 有機や特別栽培野菜など安全性に配慮した食品宅配のオイシックス・ラ・大地</a><br />
-･<a href="https://isetandoor.mistore.jp/shop.g6--shopping--oshirase_241126_access__html.htm">【重要なお知らせ】ISETAN DOOR不正アクセス発生に伴うなりすましログイン被害について | お知らせ｜ISETAN DOOR</a><br />
-･<a href="https://pages.nist.gov/800-63-4/sp800-63b.html">NIST Special Publication 800-63B</a><br />
-･<a href="https://www.trendmicro.com/ja_jp/about/press-release/2023/pr-20230831-01.html">パスワードの利用実態調査2023| トレンドマイクロ | トレンドマイクロ (JP)</a><br />
-･<a href="https://github.com/ueno1000/about_PenetrationTest">GitHub &#8211; ueno1000/about_PenetrationTest: ペネトレーションテストについて</a><br />
-･<a href="https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/">The Nearest Neighbor Attack: How A Russian APT Weaponized Nearby Wi-Fi Networks for Covert Access | Volexity</a><br />
-･<a href="https://www.microsoft.com/en-us/security/blog/2024/04/22/analyzing-forest-blizzards-custom-post-compromise-tool-for-exploiting-cve-2022-38028-to-obtain-credentials/">Analyzing Forest Blizzard’s custom post-compromise tool for exploiting CVE-2022-38028 to obtain credentials | Microsoft Security Blog</a><br />
-･<a href="https://www.justice.gov/opa/pr/us-charges-russian-gru-officers-international-hacking-and-related-influence-and">Office of Public Affairs | U.S. Charges Russian GRU Officers with International Hacking and Related Influence and Disinformation Operations | United States Department of Justice</a><br />
-･<a href="https://www.dyson.co.jp/vacuum-cleaners">掃除機 | ダイソン公式</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/mikan.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mikan-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1899" srcset="https://www.tsujileaks.com/wp-content/uploads/mikan-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mikan-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mikan-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mikan.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：冬がはじまるよ。美容室のはしご。かきたね差し入れ。ライブ見てくださってありがとうございます！お気軽に話しかけてください！247回のアレ。人の脆弱性へのケア。Web診断におけるリスト型ってどうやってるの？VS問題マジください！ちょっと目立つリスト型。成功率に違和感。WAFと一言で言われても分らない問題。攻撃者の目的が見えにくいときある。IDがメアド問題。定期変更のお願いなくならない。傾向に変化がないんよなぁ。ほな、小噺で。脆弱性診断とペネトレーションの整理。去年にもあったのに今年に。ポロポロでてきてしまって。これだと安心できないです。どんな小さい規模でも2人以上でするかの確認を自分はする。積み上げはあるなしある。また28か。物理的近所のWi-Fiにまず侵入。ホップしてるやん。攻撃経路：ビルの外。IoCで別の攻撃と繋がってのアトリビューション。家から来た可能性は、、、ないか。オランダで同じ攻撃者グループでありましたよね。Wi-Fiもがっつり対策しておかないとですよ。ほんと。標的でなくても狙われる可能性。<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から                    | 00:00 |<br />
-| お便りのコーナー                    | 05:36 |<br />
-| (P) 最近多い不正ログイン事件について        | 16:39 |<br />
-| (T) 脆弱性診断とペネトレーションテスト       | 32:02 |<br />
-| (N) Nearest Neighbor Attack | 46:56 |<br />
-| オススメのアレ                     | 63:50 |</p>
-<p>収録日: 2024年11月30日</p><p>The post <a href="https://www.tsujileaks.com/?p=1898">第243回 新旧、時を超えて！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_241203_mada12.mp3" length="32829150" type="audio/mpeg" />
 		<itunes:subtitle>Tweet･【お知らせ】当サイトへの不正ログインの発生とパスワード変更のお願いについて | 【ニュース一覧】ヨ[...]</itunes:subtitle>
 		<itunes:summary>Tweet･【お知らせ】当サイトへの不正ログインの発生とパスワード変更のお願いについて | 【ニュース一覧】ヨ[...]</itunes:summary>
