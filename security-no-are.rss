@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 11 Mar 2025 02:00:49 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Mar 2025 11:00:05 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -54,6 +54,49 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第255回 名が体を表していこう！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1979</link>
+		<pubDate>Tue, 18 Mar 2025 11:00:05 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1979</guid>
+		<comments>https://www.tsujileaks.com/?p=1979#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1979</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・Firefox Translation | Firefox Help ・我が国から有望なサイバーセ[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1979&quot;&gt;第255回 名が体を表していこう！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1979" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1979&amp;text=%E7%AC%AC255%E5%9B%9E%20%E5%90%8D%E3%81%8C%E4%BD%93%E3%82%92%E8%A1%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%93%E3%81%86%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1979" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://support.mozilla.org/en-US/kb/website-translation">Firefox Translation | Firefox Help</a><br />
+・<a href="https://www.meti.go.jp/press/2024/03/20250305001/20250305001.html">我が国から有望なサイバーセキュリティ製品・サービスが次々に創出されるための包括的な政策パッケージ「サイバーセキュリティ産業振興戦略」を取りまとめました （METI/経済産業省）</a><br />
+・<a href="https://krebsonsecurity.com/2025/03/clickfix-how-to-infect-your-pc-in-three-easy-steps/">ClickFix: How to Infect Your PC in Three Easy Steps – Krebs on Security</a><br />
+・<a href="https://www.microsoft.com/en-us/security/blog/2025/03/13/phishing-campaign-impersonates-booking-com-delivers-a-suite-of-credential-stealing-malware/">Phishing campaign impersonates Booking .com, delivers a suite of credential-stealing malware | Microsoft Security Blog</a><br />
+・<a href="https://www.proofpoint.com/us/blog/threat-insight/clipboard-compromise-powershell-self-pwn">ClickFix</a><br />
+・<a href="https://security-portal.nisc.go.jp/guidance/handbook.html">インターネットの安全・安心ハンドブック &#8211; NISC</a><br />
+・<a href="https://pages.nist.gov/800-63-3/sp800-63b.html">NIST Special Publication 800-63B</a><br />
+・<a href="https://www.s-rminform.com/latest-thinking/camera-off-akira-deploys-ransomware-via-webcam">Camera off: Akira deploys ransomware via webcam</a><br />
+・<a href="https://cycle.me/shop/pages/seven_eleven_limited/">7-Eleven Limited | Cycle.me</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/HayFever.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/HayFever-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1980" srcset="https://www.tsujileaks.com/wp-content/uploads/HayFever-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/HayFever-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/HayFever-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/HayFever.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：Comming Soon!?<br />
+&nbsp;<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から                  | 00:00 |<br />
+| お便りのコーナー                  | 03:56 |<br />
+| (P) ClickFix にご注意！        | 12:28 |<br />
+| (N) インターネットの安全・安心ハンドブック   | 24:47 |<br />
+| (T) Akira ランサムウェアの新たな攻撃手口 | 39:28 |<br />
+| オススメのアレ                   | 51:59 |</p></blockquote>
+<p>収録日: 2025年03月16日</p><p>The post <a href="https://www.tsujileaks.com/?p=1979">第255回 名が体を表していこう！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_250318_cyberday.mp3" length="26857563" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・Firefox Translation | Firefox Help ・我が国から有望なサイバーセ[...]</itunes:subtitle>
+		<itunes:summary>Tweet・Firefox Translation | Firefox Help ・我が国から有望なサイバーセ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>55:45</itunes:duration>
+	</item>
+	<item>
 		<title>第254回 FLASHBACK 温泉！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1972</link>
 		<pubDate>Tue, 11 Mar 2025 02:00:49 +0000</pubDate>
@@ -74,7 +117,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.ishikura.co.jp/news/386">不正アクセスによる情報漏えいのおそれがある事案の発生に関するご報告とお詫び &#8211; 株式会社イシクラ</a><br />
 ・<a href="https://www.softbanktech.co.jp/special/blog/sbt_sbt/2025/0002/">情報セキュリティワークショップ in 越後湯沢 2024 車座「警視庁とアレ」参加レポート① | SBテクノロジー (SBT)</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/stove.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/stove-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1973" srcset="https://www.tsujileaks.com/wp-content/uploads/stove-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/stove-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/stove-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/stove.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/stove.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/stove-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1973" srcset="https://www.tsujileaks.com/wp-content/uploads/stove-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/stove-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/stove-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/stove.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：そういえば318の日やん。ドラマ見てね！Ivantiのゼロデイ。上々颱風はスレットアクターではありません。全部入りスポーン！仮想的に修正して穴塞ぐ。外からチェックできなくなる。能動的にいこうぜぇ。3500000000。ポロリ。マスターパスワードやられてるてことか。バック人。卒業アルバムの！？内容は結構良いのに。分割されてるやん。機器交換後どういうチェックしてたんやろ。通るようになった経路の先の原因も言ってほしい。壮大な台無し。<br />
 &nbsp;<br />
@@ -174,7 +217,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.teu.ac.jp/press/2024.html?id=100">新⼊⽣の「コミュニケーションツール」利⽤実態調査を発表 | 2024年のプレスリリース | プレスリリース | 東京工科大学</a><br />
 ・<a href="https://www.yojiyacosme.com/f/aburatorigami">あぶらとり紙</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/inuinu.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/inuinu-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1959" srcset="https://www.tsujileaks.com/wp-content/uploads/inuinu-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/inuinu-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/inuinu-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/inuinu.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/inuinu.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/inuinu-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1959" srcset="https://www.tsujileaks.com/wp-content/uploads/inuinu-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/inuinu-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/inuinu-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/inuinu.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：10大脅威を掘り下げるの「は」好き。胎教にも良いポッドキャストでありたい。久々のVS。攻撃者のインフラを見てというのは珍しい。Cookieは対象外っぽい。アクセス制御は諦めたくない。これそもそも気付けるのか。因果関係見えてないのは多そう。駆除して終わりじゃないときもあるから！マジで！政府がバックドアを要求？！嬉しくなって紹介した。要請があったことも対応内容も言えないってそんなぁ。将棋倒しのようになりかねない。できることないかも。不審メール疑いが付く自治体のメール。怪しいって言ってるけど怪しくないはどう扱うの。「折角」を活かしたいからみんなで対応していかないと。DMARCはじめ読めんかった。これ使ぃゆーて（ハモり）。<br />
 &nbsp;</p>
@@ -452,33 +495,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=1912</link>
 		<pubDate>Thu, 19 Dec 2024 13:33:46 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1912</guid>
-		<comments>https://www.tsujileaks.com/?p=1912#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1912</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet･Oasis Security Research Team Discovers Microsoft [...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1912&quot;&gt;第245回 サグラダ・ファミリアは完成したら築何年になんねん！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1912" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1912&amp;text=%E7%AC%AC245%E5%9B%9E%20%E3%82%B5%E3%82%B0%E3%83%A9%E3%83%80%E3%83%BB%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%82%A2%E3%81%AF%E5%AE%8C%E6%88%90%E3%81%97%E3%81%9F%E3%82%89%E7%AF%89%E4%BD%95%E5%B9%B4%E3%81%AB%E3%81%AA%E3%82%93%E3%81%AD%E3%82%93%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1912" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>･<a href="https://www.oasis.security/resources/blog/oasis-security-research-team-discovers-microsoft-azure-mfa-bypass">Oasis Security Research Team Discovers Microsoft Azure MFA Bypass</a><br />
-･<a href="https://www.rfc-editor.org/rfc/rfc6238.html">RFC 6238: TOTP: Time-Based One-Time Password Algorithm</a><br />
-･<a href="https://www.ppc.go.jp/news/careful_information/241211_alert_dataleakage/">不正アクセスによる個人データ漏えい防止のための注意喚起 ｜個人情報保護委員会</a><br />
-･<a href="https://www.ppc.go.jp/personalinfo/legal/supervision/">監視・監督方針、調査計画 ｜個人情報保護委員会</a><br />
-･<a href="https://www.rapid7.com/blog/post/2024/12/04/black-basta-ransomware-campaign-drops-zbot-darkgate-and-custom-malware/">Black Basta Ransomware Campaign Drops Zbot, DarkGate, &amp; Custom Malware | Rapid7 Blog</a><br />
-･<a href="https://www.fujiya-peko.co.jp/cake/item/41291.html">生ミルキー（各種） | カジュアルギフト | ギフト | ケーキ・洋菓子 | 株式会社不二家</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/kissa.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kissa-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1913" srcset="https://www.tsujileaks.com/wp-content/uploads/kissa-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kissa-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kissa-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kissa.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：喉の調子ががが。乾燥にお気を付けください！ステッカーコンプへの道。現在5名？サグラダ・ファミリアの謎。ぶっぱっ！piyolog掘り起こし。スタンプつかってーん。多要素認証のバイパス？！というよりは正面突破やで。修正済み。アプリでの認証みたいに通知がこないという穴。かつレートリミットが緩い。修正はレートリミットかな。以前に悪用されてたら怖い。盲目的に信じる怖さもある。PPCはめちゃ知ってる。誰向けの注意喚起？子会社が親会社を監督ってちょっとムズない？辛口コメントもある。対策は分かっているけどなかなかっていうものが目立つ。事象の根本原因が分からないのが多い。レポートには確かに数字は欲しい。とはいえミスリードには気を付けないといけない。掘り下げ文書も欲しい。ランサムギャングの夏休み。過去にもあったが洗練されてきているキャンペーン。ML登録してって昔から嫌がらせでもあったなぁ。謎QR。多分フィッシング。SharePointでブロックされない工夫。目的はクレデンシャル。バトンタッチしてる感じあるので分業してるかも。<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から                     | 00:00 |<br />
-| お便りのコーナー                     | 04:51 |<br />
-| (N) Microsoft の MFA の脆弱性     | 13:29 |<br />
-| (P) 個人情報保護委員会からの注意喚起         | 25:06 |<br />
-| (T) Black Basta ランサムウェアの活動状況 | 43:21 |<br />
-| オススメのアレ                      | 56:33 |</p>
-</blockquote>
-<p>収録日: 2024年12月15日</p><p>The post <a href="https://www.tsujileaks.com/?p=1912">第245回 サグラダ・ファミリアは完成したら築何年になんねん！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_241219_youbimatigai.mp3" length="29909713" type="audio/mpeg" />
 		<itunes:subtitle>Tweet･Oasis Security Research Team Discovers Microsoft [...]</itunes:subtitle>
 		<itunes:summary>Tweet･Oasis Security Research Team Discovers Microsoft [...]</itunes:summary>
