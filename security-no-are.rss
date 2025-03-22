@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 18 Mar 2025 11:00:05 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Mar 2025 12:57:52 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -76,7 +76,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p>&nbsp;<br />
 <a href="http://www.tsujileaks.com/wp-content/uploads/HayFever.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/HayFever-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1980" srcset="https://www.tsujileaks.com/wp-content/uploads/HayFever-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/HayFever-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/HayFever-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/HayFever.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
-<p>辻伸弘メモ：Comming Soon!?<br />
+<p>辻伸弘メモ：久しぶりの再開という振り返り方。I Love。国産というのはあくまで基準の１つかな。クリックフィックスかぁ。ちょっとピンとこなさそうなネーミング。見逃しを誘発しそう。回避のために人の手を使う。意外と成功率高いのかも。汎用性高いし、デリバリーの確率高そうやし。先行マルウェアは専売特許やったんかい。元情報セキュリティハンドブック。結構細かく書いているみたい。これをたたき台にしてオリジナルを作るのもいいかも！中身だけではなく、表現方法も。AKIRAの由来。別経路から暗号化するというEDR回避手法。別のものも使われるかもしれない。セグメンテーションとアクセス制御やっぱ大事。AKIRAめる。AKIRAか。先回り行動。<br />
 &nbsp;<br />
 &nbsp;</p>
 <blockquote>
