@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Thu, 20 Mar 2025 12:57:52 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Mar 2025 11:00:20 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -54,6 +54,53 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第256回 オンなのに0ff会だ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1984</link>
+		<pubDate>Tue, 25 Mar 2025 11:00:20 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1984</guid>
+		<comments>https://www.tsujileaks.com/?p=1984#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1984</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・moNa2 – shakupan – BOOTH ・ロジクールMX MAS[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1984&quot;&gt;第256回 オンなのに0ff会だ！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1984" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1984&amp;text=%E7%AC%AC256%E5%9B%9E%20%E3%82%AA%E3%83%B3%E3%81%AA%E3%81%AE%E3%81%AB0ff%E4%BC%9A%E3%81%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1984" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://booth.pm/ja/items/6376654">moNa2 &#8211; shakupan &#8211; BOOTH</a><br />
+・<a href="https://www.logicool.co.jp/ja-jp/mx/master-series.html">ロジクールMX MASTERシリーズ</a><br />
+・<a href="https://blog.cloudflare.com/password-reuse-rampant-half-user-logins-compromised/">Password reuse is rampant: nearly half of observed user logins are compromised</a><br />
+・<a href="https://developers.cloudflare.com/waf/detections/leaked-credentials/">Leaked credentials detection · Cloudflare Web Application Firewall (WAF) docs</a><br />
+・<a href="https://www.trendmicro.com/ja_jp/about/press-release/2023/pr-20230831-01.html">パスワードの利用実態調査2023| トレンドマイクロ | トレンドマイクロ (JP)</a><br />
+・<a href="https://vulncheck.com/blog/black-basta-chats">Exposing CVEs from Black Bastas&#8217; Chats</a><br />
+・<a href="https://blog.eclecticiq.com/inside-bruted-black-basta-raas-members-used-automated-brute-forcing-framework-to-target-edge-network-devices">Inside BRUTED: Black Basta (RaaS) Members Used Automated Brute Forcing Framework to Target Edge Network Devices</a><br />
+・<a href="https://www.cisa.gov/news-events/alerts/2025/03/18/supply-chain-compromise-third-party-github-action-cve-2025-30066">Supply Chain Compromise of Third-Party GitHub Action, CVE-2025-30066 | CISA</a><br />
+・<a href="https://www.wiz.io/blog/new-github-action-supply-chain-attack-reviewdog-action-setup">GitHub Action supply chain attack: reviewdog/action-setup | Wiz Blog</a><br />
+・<a href="https://unit42.paloaltonetworks.com/github-actions-supply-chain-attack/">GitHub Actions Supply Chain Attack: A Targeted Attack on Coinbase Expanded to the Widespread tj-actions/changed-files Incident: Threat Assessment (Updated 3/21)</a><br />
+・<a href="https://www.youtube.com/@aki_chan_0">Aki &#8211; YouTube</a><br />
+・<a href="https://columbia.jp/filter/">Filter Project | 日本コロムビア</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/pen.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/pen-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1985" srcset="https://www.tsujileaks.com/wp-content/uploads/pen-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/pen-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/pen-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/pen.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：年度末。毎年機種変更するという慣れ。みんなのキー入力デバイス。物持ちいいんです。ワタクシ。漏洩しているパスワードからの調査。HIBPはもうすぐ150億アカウントになりますね。41%が漏洩しているものって高っ！ボット大杉。リクエストベースは珍しい。WordPressにも使い回すという感覚は正直なかった。詳しくない人の感覚を忘れない。度々リークされるでお馴染み。チャットログで言及されていた脆弱性。KEVに掲載されていないがExploitやPoCがある脆弱性について言及あり。購入についても。ブルートフォースプラットフォームもあった。攻撃者って情報収集して議論してちゃんとやってるなぁ。GitHub Actionsめっちゃ海外ニュースで上がってましたね。攻撃慣れしてるかどうかで明暗？気軽に依存してるのではと考え直してもいいように思う。<br />
+&nbsp;<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 03:54 |<br />
+| (N) パスワード利用に関する Cloudflare の調査結果 | 14:44 |<br />
+| (T) リークされた Black Basta のチャットからわかること | 29:15 |<br />
+| (P) GitHub Actions で起きたサプライチェーン攻撃 | 45:17 |<br />
+| オススメのアレ | 60:37 |
+</p></blockquote>
+<p>収録日: 2025年03月23日</p><p>The post <a href="https://www.tsujileaks.com/?p=1984">第256回 オンなのに0ff会だ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_250325_0ff.mp3" length="31228849" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・moNa2 – shakupan – BOOTH ・ロジクールMX MAS[...]</itunes:subtitle>
+		<itunes:summary>Tweet・moNa2 – shakupan – BOOTH ・ロジクールMX MAS[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:04:51</itunes:duration>
+	</item>
+	<item>
 		<title>第255回 名が体を表していこう！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1979</link>
 		<pubDate>Tue, 18 Mar 2025 11:00:05 +0000</pubDate>
@@ -74,7 +121,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.s-rminform.com/latest-thinking/camera-off-akira-deploys-ransomware-via-webcam">Camera off: Akira deploys ransomware via webcam</a><br />
 ・<a href="https://cycle.me/shop/pages/seven_eleven_limited/">7-Eleven Limited | Cycle.me</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/HayFever.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/HayFever-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1980" srcset="https://www.tsujileaks.com/wp-content/uploads/HayFever-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/HayFever-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/HayFever-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/HayFever.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/HayFever.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/HayFever-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1980" srcset="https://www.tsujileaks.com/wp-content/uploads/HayFever-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/HayFever-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/HayFever-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/HayFever.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：久しぶりの再開という振り返り方。I Love。国産というのはあくまで基準の１つかな。クリックフィックスかぁ。ちょっとピンとこなさそうなネーミング。見逃しを誘発しそう。回避のために人の手を使う。意外と成功率高いのかも。汎用性高いし、デリバリーの確率高そうやし。先行マルウェアは専売特許やったんかい。元情報セキュリティハンドブック。結構細かく書いているみたい。これをたたき台にしてオリジナルを作るのもいいかも！中身だけではなく、表現方法も。AKIRAの由来。別経路から暗号化するというEDR回避手法。別のものも使われるかもしれない。セグメンテーションとアクセス制御やっぱ大事。AKIRAめる。AKIRAか。先回り行動。<br />
 &nbsp;<br />
@@ -166,7 +213,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.popmc.jp/home/consultation/er9dkox7/lromw3x9/">地方独立行政法人 岡山県精神科医療センター ランサムウェア事案調査報告書について – 地方独立行政法人 岡山県精神科医療センター</a><br />
 ・<a href="https://nantebi-da.jp/">[小峠英二のなんて美だ！] 番組公式サイト</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/nighit.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/nighit-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1965" srcset="https://www.tsujileaks.com/wp-content/uploads/nighit-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/nighit-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/nighit-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/nighit.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/nighit.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/nighit-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1965" srcset="https://www.tsujileaks.com/wp-content/uploads/nighit-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/nighit-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/nighit-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/nighit.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：したりしなかったりの告知。いつも熱入ってた。どこならいいのかの基準。話題になっているかどうかとは。ADPに関する良くない動きがあった。短縮URLでまた何か起きるのかな。CISOのパスってほんま様々ですよ。お便りコーナー充実してる回。InfoStealerはマジで注目の脅威。ソースとなる数字の集計手段は知りたいですよね。Webサービスも危ないですがそれ以外も場合によっては相当にクリティカル。状況が分からないという意味では幸いではないかも。InfoStealerのみを防ぐための対策はないけど、対応内容はユニークなものはありそう。ULP。これ！といった事例があんまないんですよね。でもね。ないことはない！まだまだ足すくわれている説。Signalユーザを狙う攻撃。デバイス紐付けはこれに限らず怖い。デバイスの名前問題。前提はっきり言ってくれるのいい。ランサムとすぐに気付けないときもある。公表の段階の踏み方も診療を止めなかったことは素晴らしい。見られていないことの根拠は納得した。製品によってはデフォルトのログ保存は心許ないので外にということ考えてほしい！物理面がシステム反映されていない印象強い。なかたにさんではなく、なかやさんでした。<br />
 &nbsp;<br />
@@ -457,31 +504,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=1920</link>
 		<pubDate>Tue, 24 Dec 2024 15:00:05 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1920</guid>
-		<comments>https://www.tsujileaks.com/?p=1920#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1920</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet･最近の観測状況 | NOTICE ･新しい NOTICE における調査業務 ･NICT サイバーセ[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1920&quot;&gt;第246回 オレたちは共に歩んできたんだぜ！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1920" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1920&amp;text=%E7%AC%AC246%E5%9B%9E%20%E3%82%AA%E3%83%AC%E3%81%9F%E3%81%A1%E3%81%AF%E5%85%B1%E3%81%AB%E6%AD%A9%E3%82%93%E3%81%A7%E3%81%8D%E3%81%9F%E3%82%93%E3%81%A0%E3%81%9C%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1920" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>･<a href="https://notice.go.jp/status">最近の観測状況 | NOTICE</a><br />
-･<a href="https://www.soumu.go.jp/main_content/000945732.pdf">新しい NOTICE における調査業務</a><br />
-･<a href="https://www.soumu.go.jp/main_content/000952545.pdf">NICT サイバーセキュリティ研究所の取り組み</a><br />
-･<a href="https://nihontouitsu.jp/">日本統一 公式サイト</a><br />
-･<a href="https://www.nict.go.jp/publication/20th-anniversary/">20周年記念誌 | NICT-情報通信研究機構</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/xmas2024_sp.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/xmas2024_sp-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1921" srcset="https://www.tsujileaks.com/wp-content/uploads/xmas2024_sp-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/xmas2024_sp-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/xmas2024_sp-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/xmas2024_sp.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：セキュリティアレてなんぞ？年末の風物詩。室長クビ。ネク長&#038;所長！はじめはチャラいと言われた。サイバー井上。色々と乗り越えてきはったんやなぁ。死んだおじさん。死んだじゃなくて移った。新しいNOTICE。脆弱性を調べるのは機器特定からの照合なんですね。長らく追いかけてたものが特定できたとき嬉しかったろうな。壁埋め込み型。成果を見える形でのアピールもしてほしい！引き込み方が重要なStardust。やり甲斐ありそう。ハッカー：「お前はハッカーか！？」。めっちゃ充実してる。これ大解放されるといいな。受けたい。報告大好き辻さん。ワクワク感が今回もあった！全国と書いててっぺん。<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から !?           | 00:00 |<br />
-| サイバーセキュリティ研究室の 13年 | 02:40 |<br />
-| NOTICE の最新活動状況     | 10:02 |<br />
-| CYNEX の最新活動状況      | 28:57 |<br />
-| オススメのアレ            | 54:36 |</p>
-</blockquote>
-<p>収録日: 2024年12月21日</p><p>The post <a href="https://www.tsujileaks.com/?p=1920">第246回 オレたちは共に歩んできたんだぜ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_241225_notlast.mp3" length="29754562" type="audio/mpeg" />
 		<itunes:subtitle>Tweet･最近の観測状況 | NOTICE ･新しい NOTICE における調査業務 ･NICT サイバーセ[...]</itunes:subtitle>
 		<itunes:summary>Tweet･最近の観測状況 | NOTICE ･新しい NOTICE における調査業務 ･NICT サイバーセ[...]</itunes:summary>
