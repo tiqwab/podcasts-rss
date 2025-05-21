@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 12 May 2025 11:00:13 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 May 2025 12:01:57 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -54,6 +54,51 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第261回 5月の第1木曜日と5月12日は何の日？スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2015</link>
+		<pubDate>Mon, 19 May 2025 11:00:45 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2015</guid>
+		<comments>https://www.tsujileaks.com/?p=2015#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2015</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・サイバー安全保障に関する取組（能動的サイバー防御の実現に向けた検討など）｜内閣官房ホームページ ・[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2015&quot;&gt;第261回 5月の第1木曜日と5月12日は何の日？スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton2015" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2015&amp;text=%E7%AC%AC261%E5%9B%9E%205%E6%9C%88%E3%81%AE%E7%AC%AC1%E6%9C%A8%E6%9B%9C%E6%97%A5%E3%81%A85%E6%9C%8812%E6%97%A5%E3%81%AF%E4%BD%95%E3%81%AE%E6%97%A5%EF%BC%9F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2015" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.cas.go.jp/jp/seisaku/cyber_anzen_hosyo_torikumi/index.html">サイバー安全保障に関する取組（能動的サイバー防御の実現に向けた検討など）｜内閣官房ホームページ</a><br />
+・<a href="https://www3.nhk.or.jp/news/html/20250516/k10014807531000.html">「能動的サイバー防御」導入の法律 参院本会議で可決・成立 | NHK | サイバー攻撃</a><br />
+・<a href="https://www.fsa.go.jp/ordinary/chuui/chuui_phishing.html">インターネット取引サービスへの不正アクセス・不正取引による被害が急増しています：金融庁</a><br />
+・<a href="https://members10.live.itmedia.co.jp/library/ODQ1MzY%253D">ITmedia Security Week 2025 春</a><br />
+・<a href="https://developer.chrome.com/blog/passkey-automatic-upgrades">Automatically create passkeys in Google Password Manager on Chrome desktop | Blog | Chrome for Developers</a><br />
+・<a href="https://developer.chrome.com/docs/identity/webauthn-conditional-create">Help users adopt passkeys more seamlessly | Identity | Chrome for Developers</a><br />
+・<a href="https://blog.checkpoint.com/security/ransomware-reloaded-why-2025-is-the-most-dangerous-year-yet-2/">Ransomware Reloaded: Why 2025 Is the Most Dangerous Year Yet &#8211; Check Point Blog</a><br />
+・<a href="https://www.theregister.com/2025/05/15/snowflake_ciso_interview/">Snowflake CISO talks lessons learned from breaches, improv • The Register</a><br />
+・<a href="https://cloud.google.com/blog/topics/threat-intelligence/unc5537-snowflake-data-theft-extortion">UNC5537 Targets Snowflake Customer Instances for Data Theft and Extortion | Google Cloud Blog</a><br />
+・<a href="https://www.lec-online.com/c/06bath/4903320041578">激落ち 黒カビくん カビ取りジェル 100g | レック公式オンラインショップ【通販】</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/shopping.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/shopping-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2016" srcset="https://www.tsujileaks.com/wp-content/uploads/shopping-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/shopping-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/shopping-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/shopping.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：コンクラーベ。能動的サイバー防御は今おさらいしておくのおすすめ。インシデントの善し悪し。Incident X。NIST SP800-57。経路毎に整理してリスクの優先順位を考えるべきかな。エンタープライジーなら経路やフェーズ毎に見るかな。ロードは13章まである。パスキー作りたくてしょうがない？勝手に作っちゃう。その条件って…。これだと差が広がる。セキュリティ強化キャンペーンやってほしいねん！5月の第一木曜日は！5月12日。恐喝のエコシステム。RaaS増えてる。AIの活用。捏造リーク。リークのみにも重きを置き始めている？RaaSがハブになりそう。スノーフレーク事案（InfoStealer）扱ってみよう。CISOは言いました。運命の共有。この形になるのが最適解なのかも。狙われたことにも責任があるのでは。<br />
+&nbsp;<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 04:21 |<br />
+| (N) passkey upgrades について | 18:46 |<br />
+| (T) Ransomware Reloaded | 31:08 |<br />
+| (P) Snowflake 事案をあらためて考える | 44:49 |<br />
+| オススメのアレ | 60:36 |
+</p></blockquote>
+<p>収録日: 2025年05月17日</p><p>The post <a href="https://www.tsujileaks.com/?p=2015">第261回 5月の第1木曜日と5月12日は何の日？スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_250519_yukijirushi.mp3" length="31275188" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・サイバー安全保障に関する取組（能動的サイバー防御の実現に向けた検討など）｜内閣官房ホームページ ・[...]</itunes:subtitle>
+		<itunes:summary>Tweet・サイバー安全保障に関する取組（能動的サイバー防御の実現に向けた検討など）｜内閣官房ホームページ ・[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:04:57</itunes:duration>
+	</item>
+	<item>
 		<title>第260回 いたしかゆしいとしこいし！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2011</link>
 		<pubDate>Mon, 12 May 2025 11:00:13 +0000</pubDate>
@@ -71,7 +116,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://ctid.mitre.org/blog/2025/02/13/pkev-blog/">Put Your Money Where Your Adversaries Are: Exploited Vulnerabilities | Center for Threat-Informed Defense</a><br />
 ・<a href="https://www.youtube.com/channel/UCvfAxTOyi9d4v31oND5cdVQ">戦闘力5のアラフォーレトロゲーマー【ゆっくり実況】『戦5』 &#8211; YouTube</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/underthesea.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/underthesea-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2012" srcset="https://www.tsujileaks.com/wp-content/uploads/underthesea-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/underthesea-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/underthesea-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/underthesea.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/underthesea.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/underthesea-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2012" srcset="https://www.tsujileaks.com/wp-content/uploads/underthesea-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/underthesea-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/underthesea-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/underthesea.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：発売日に買いたい。ハードウェアキーできるだけ触りたくない。バランス。たまに変なメールを送る習慣があった。連続より継続！サービスを止めたのは英断だと思う。シードフレーズ入れたら地獄行きだが緩和策として。決断も凄いけど、サービス停止のスピード感もすごいですよね。攻撃側のスピード感も注目に値する。SNSの乗っ取り対策は、もうちょっと広く見ないといけないと思った。なんで乗っ取られたかがないのは残念。前回変わり種アフィリエイトの話をした。今回はサービスサプライチェーンの事例。AitM事案。ほぼLoLかな。DragonForceたぶんやっとんな。ここ最近のQilin。DDoSもできるようになったっぽい。弁護士に質問もできちゃう。アップロード容量問題。売り手市場っぽい。悪用された脆弱性の傾向分析。4点。CVSSによる優先順位付けの落し穴。高いものの中からの絞り込みが課題なんです。脆弱性がどのような攻撃フェーズで使われるかというのは一定の評価基準にできるかもしれないが先読みが難しいかもしれない。やっぱりそうだったということが分かったということも大事。<br />
 &nbsp;<br />
@@ -158,7 +203,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/">Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication | Volexity</a><br />
 ・<a href="https://www.kaldi.co.jp/ec/pro/disp/1/4940088151989">【冷蔵】オーヴァーノウ 白カビスナックサラミ（ロックフォールチーズ） 50g &#8211; カルディコーヒーファーム オンラインストア</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/o-kororin.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/o-kororin-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1999" srcset="https://www.tsujileaks.com/wp-content/uploads/o-kororin-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/o-kororin-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/o-kororin-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/o-kororin.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/o-kororin.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/o-kororin-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1999" srcset="https://www.tsujileaks.com/wp-content/uploads/o-kororin-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/o-kororin-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/o-kororin-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/o-kororin.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：知人に見られるのは恥ずかしい。Apple富豪。Oracle狂想曲。結局エンドポイントで見るしかないのか。新しいRaaS。デポジットパターン増えるのかな。手法を気にして見ているけど新規のってこういうレポートになりがちかな。ランサムギャングのインフラが統合？乗っ取り？メリット見当たらないと思う。今々は分からないけどどういった影響が出るか分からないので見ておきたい。DDoSの傾向「Sophistication」。Horizontal DDoS。広くほぼ色々同時。長いものが増えてきている。種類多すぎて一言で言えないから認識ずれそう。デバイスコード認証フィッシング。これフィッシングと呼んでいいものか。15分の壁。制限はあるが得られるものは大きいけどマスには行われなさそう。これデフォルトでオンにするほど利用頻度高いものなのかな。<br />
 &nbsp;<br />
@@ -459,39 +504,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=1949</link>
 		<pubDate>Mon, 10 Feb 2025 11:00:15 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1949</guid>
-		<comments>https://www.tsujileaks.com/?p=1949#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1949</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・長嶋一茂『モーニングショー』を欠席すると毎回ニュースになる不思議も「どうせハワイだろ」安心の常習犯[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1949&quot;&gt;第251回 祝！地上波デビューだ！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1949" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1949&amp;text=%E7%AC%AC251%E5%9B%9E%20%E7%A5%9D%EF%BC%81%E5%9C%B0%E4%B8%8A%E6%B3%A2%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC%E3%81%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1949" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.jprime.jp/articles/-/35518?display=b">長嶋一茂『モーニングショー』を欠席すると毎回ニュースになる不思議も「どうせハワイだろ」安心の常習犯 | 週刊女性PRIME</a><br />
-・<a href="https://claroty.com/team82/research/are-contec-cms8000-patient-monitors-infected-with-a-chinese-backdoor-the-reality-is-more-complicated">Do the CONTEC CMS8000 Patient Monitors Contain a Chinese Backdoor? The Reality is More Complicated… | Claroty</a><br />
-・<a href="https://status.deepseek.com/incidents/666k4t024szr">DeepSeek Service Status &#8211; DeepSeek 网页/API 性能异常（DeepSeek Web/API Degraded Performance）</a><br />
-・<a href="https://nsfocusglobal.com/the-undercurrent-behind-the-rise-of-deepseek-ddos-attacks-in-the-global-ai-technology-game/">The Undercurrent Behind the Rise of DeepSeek: DDoS Attacks in the Global AI Technology Game &#8211; NSFOCUS, Inc., a global network and cyber security leader, protects enterprises and carriers from advanced cyber attacks.</a><br />
-・<a href="https://cyberint.com/blog/research/ransomware-annual-report-2024/">Ransomware Annual Report 2024</a><br />
-・<a href="https://cyberint.com/blog/research/ransomhub-the-new-kid-on-the-block-to-know/">RansomHub: The New Kid on the Block to Know</a><br />
-・<a href="https://www.chainalysis.com/blog/crypto-crime-ransomware-victim-extortion-2025/">Crypto Ransomware 2025: 35.82% YoY Decrease in Ransomware Payments</a><br />
-・<a href="https://www.coveware.com/blog/2025/1/31/q4-report">Will Law Enforcement success against ransomware continue in 2025?</a><br />
-・<a href="https://www.nisc.go.jp/pdf/press/press_Edgedevice_Mitigation_Guidance.pdf">国際文書「エッジデバイスのための緩和戦略」への共同署名について</a><br />
-・<a href="https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration/network-hardening/securing-edge-devices">Securing edge devices | Cyber.gov.au</a><br />
-・<a href="https://www.cisa.gov/news-events/directives/binding-operational-directive-23-02">BOD 23-02: Mitigating the Risk from Internet-Exposed Management Interfaces | CISA</a><br />
-・<a href="https://nisshoku-natsuko.com/">日食なつこ OFFICIAL WEB SITE日食なつこ | 環礁宇宙</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/cho.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/cho-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1954" srcset="https://www.tsujileaks.com/wp-content/uploads/cho-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/cho-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/cho-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/cho.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：このアレが地上波デビュー！引き離されないように。ほならアメリカはいいのかともなると思う。医療機器のアレの更新情報。DeepSeekへの調査。注目集めると攻撃もくるのかな。それほどのものか疑問。DDoSってサイト公開時に必ず想定し対策すべき脅威なのか問題。自分の集計と比較しました。新興ギャングが爆増。1割くらいが支払い。LockBit4.0の今後が気になる。守り方は変わらないと思ってる。情報窃取だけは儲からなさそう？Unknown消さんといてー！日本の存在感が出てきていていい！絶対読んでほしいそうです。エッヂを知る。パッチの適用は攻撃の対処ではないのだ！<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から                          | 00:00 |<br />
-| お便りのコーナー                          | 04:08 |<br />
-| (N) DeepSeek への DDoS 攻撃           | 13:28 |<br />
-| (T) Ransomware Annual Report 2024 | 24:26 |<br />
-| (P) エッジデバイスのための緩和戦略               | 41:20 |<br />
-| オススメのアレ                           | 54:54 |
-</p></blockquote>
-<p>収録日: 2025年02月08日</p><p>The post <a href="https://www.tsujileaks.com/?p=1949">第251回 祝！地上波デビューだ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_250210_over-the-air.mp3" length="28052936" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・長嶋一茂『モーニングショー』を欠席すると毎回ニュースになる不思議も「どうせハワイだろ」安心の常習犯[...]</itunes:subtitle>
 		<itunes:summary>Tweet・長嶋一茂『モーニングショー』を欠席すると毎回ニュースになる不思議も「どうせハワイだろ」安心の常習犯[...]</itunes:summary>
