@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 09 Jun 2025 11:00:17 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Jun 2025 11:00:37 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -54,6 +54,49 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第264回 巧妙化してるのか？していないのか？どっちなんだい！？スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2037</link>
+		<pubDate>Mon, 23 Jun 2025 11:00:37 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2037</guid>
+		<comments>https://www.tsujileaks.com/?p=2037#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2037</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・巧妙化するフィッシング詐欺メールとの10年超の闘い – 佐川急便が貫く情報発信の信念 [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2037&quot;&gt;第264回 巧妙化してるのか？していないのか？どっちなんだい！？スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton2037" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2037&amp;text=%E7%AC%AC264%E5%9B%9E%20%E5%B7%A7%E5%A6%99%E5%8C%96%E3%81%97%E3%81%A6%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AA%E3%82%93%E3%81%A0%E3%81%84%EF%BC%81%EF%BC%9F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2037" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://news.mynavi.jp/techplus/article/20250618-3346574/">巧妙化するフィッシング詐欺メールとの10年超の闘い &#8211; 佐川急便が貫く情報発信の信念 | TECH+（テックプラス）</a><br />
+・<a href="https://www.pref.mie.lg.jp/KIKAKUK/HP/renkei/09519011959.htm">三重県｜広域連携：三重県は中部地方？近畿地方?</a><br />
+・<a href="https://www.gov-online.go.jp/tokusyu/phishing/">巧妙化するフィッシング</a><br />
+・<a href="https://www.antiphishing.jp/report/wg/phishing_report2025.html">フィッシング対策協議会 Council of Anti-Phishing Japan | 報告書類 | 協議会WG報告書 | 資料公開: フィッシングレポート 2025 の掲載について</a><br />
+・<a href="https://www.npa.go.jp/bureau/cyber/countermeasures/phishing.html#contact">フィッシング対策｜警察庁Webサイト</a><br />
+・<a href="https://developer.apple.com/documentation/xcode/allowing-apps-and-websites-to-link-to-your-content">Allowing apps and websites to link to your content | Apple Developer Documentation</a><br />
+・<a href="https://research.checkpoint.com/2025/from-trust-to-threat-hijacked-discord-invites-used-for-multi-stage-malware-delivery/">The Discord Invite Loop Hole Hijacked for Attacks &#8211; Check Point Research</a><br />
+・<a href="https://www.asahiinryo.co.jp/products/fruit/welchs_muscat/">Welch&#8217;sマスカットブレンド100 PET800g｜果実・野菜飲料｜商品情報｜アサヒ飲料</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/tote.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/tote-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2038" srcset="https://www.tsujileaks.com/wp-content/uploads/tote-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tote-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tote-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tote.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：梅雨どこ？みんな夏は夜型になればいいのに。情報セキュリティ事故対応アワード10回目でした。皆さんのおかげです。12年は凄い！「横入り」はどこから？名古屋説もあるそうです。「ですやん」はあるけど「ですじゃん」はない。ステッカー配れてよかった！政府広報オンライン結構ボリュームある。フィッシングの注意喚起から。直接リンクしてないやん。めっちゃまともな対策が挙っている。公式アプリを推していきたい！ユニバーサルリンクの仕組み。ブックマークは面倒。Discordの招待リンクフィッシング。課金しないとのやつか！元々正しかった無期限のカスタムリンクを再取得して誘導。からの応用範囲が広いでお馴染みクリックフィックス！ずっと使えるのまずない？びずどびばがた。使っているものの細かい仕様の落し穴。不仲説。<br />
+&nbsp;<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 04:42 |<br />
+| (T) 巧妙化するフィッシングへの対策を考える | 16:08 |<br />
+| (N) Discord の招待リンクを悪用する攻撃 | 31:16 |<br />
+| Operation Piyokango | 49:10 |<br />
+| オススメのアレ | 51:03 |
+</p></blockquote>
+<p>収録日: 2025年06月21日</p><p>The post <a href="https://www.tsujileaks.com/?p=2037">第264回 巧妙化してるのか？していないのか？どっちなんだい！？スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_250623_sophisticated.mp3" length="25845058" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・巧妙化するフィッシング詐欺メールとの10年超の闘い – 佐川急便が貫く情報発信の信念 [...]</itunes:subtitle>
+		<itunes:summary>Tweet・巧妙化するフィッシング詐欺メールとの10年超の闘い – 佐川急便が貫く情報発信の信念 [...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>53:38</itunes:duration>
+	</item>
+	<item>
 		<title>第263回 コレではないアレのこっちパターン！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2031</link>
 		<pubDate>Mon, 09 Jun 2025 11:00:17 +0000</pubDate>
@@ -72,7 +115,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://csrc.nist.gov/pubs/cswp/41/likely-exploited-vulnerabilities-a-proposed-metric/final">CSWP 41, Likely Exploited Vulnerabilities: A Proposed Metric for Vulnerability Exploitation Probability | CSRC</a><br />
 ・<a href="https://news.mynavi.jp/techplus/lp/2025/enterprise/SecurityAwards_202506/">第10回 情報セキュリティ事故対応アワード | マイナビニュース</a><br />
 &nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/mou_summer.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mou_summer-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2032" srcset="https://www.tsujileaks.com/wp-content/uploads/mou_summer-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mou_summer-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mou_summer-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mou_summer.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/mou_summer.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mou_summer-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2032" srcset="https://www.tsujileaks.com/wp-content/uploads/mou_summer-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mou_summer-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mou_summer-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mou_summer.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：練習してるんですわ。悩んでますねん。Do備えるDDoS。ひっかかる心理。生の声ありがとうございます！新しいチャットサービスどないでっか。メッセージ単位の暗号化ちゃうんかい。ええとこないんちゃいますか。メリットないから継続ウォッチやな。Lummaのテイクダウンはどんなんやったんか。その後どうなってんの。若干の矛盾あるわ。売り方も多種多様やで。台数は衝撃やった。三つ目の担当は。Likelyのほう。KEV + EPSS = ?。活用方法よー聞かれますわ。ゴミからゴミっ！？オフラインでステッカーをゲットしてや！<br />
 &nbsp;<br />
@@ -161,7 +204,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://cloud.google.com/blog/topics/threat-intelligence/unc5537-snowflake-data-theft-extortion">UNC5537 Targets Snowflake Customer Instances for Data Theft and Extortion | Google Cloud Blog</a><br />
 ・<a href="https://www.lec-online.com/c/06bath/4903320041578">激落ち 黒カビくん カビ取りジェル 100g | レック公式オンラインショップ【通販】</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/shopping.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/shopping-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2016" srcset="https://www.tsujileaks.com/wp-content/uploads/shopping-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/shopping-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/shopping-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/shopping.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/shopping.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/shopping-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2016" srcset="https://www.tsujileaks.com/wp-content/uploads/shopping-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/shopping-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/shopping-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/shopping.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：コンクラーベ。能動的サイバー防御は今おさらいしておくのおすすめ。インシデントの善し悪し。Incident X。NIST SP800-57。経路毎に整理してリスクの優先順位を考えるべきかな。エンタープライジーなら経路やフェーズ毎に見るかな。ロードは13章まである。パスキー作りたくてしょうがない？勝手に作っちゃう。その条件って…。これだと差が広がる。セキュリティ強化キャンペーンやってほしいねん！5月の第一木曜日は！5月12日。恐喝のエコシステム。RaaS増えてる。AIの活用。捏造リーク。リークのみにも重きを置き始めている？RaaSがハブになりそう。スノーフレーク事案（InfoStealer）扱ってみよう。CISOは言いました。運命の共有。この形になるのが最適解なのかも。狙われたことにも責任があるのでは。<br />
 &nbsp;<br />
@@ -447,37 +490,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=1972</link>
 		<pubDate>Tue, 11 Mar 2025 02:00:49 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1972</guid>
-		<comments>https://www.tsujileaks.com/?p=1972#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1972</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・Ivanti Connect Secure VPN Targeted in New Zero-Da[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1972&quot;&gt;第254回 FLASHBACK 温泉！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1972" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1972&amp;text=%E7%AC%AC254%E5%9B%9E%20FLASHBACK%20%E6%B8%A9%E6%B3%89%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1972" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day/?hl=en">Ivanti Connect Secure VPN Targeted in New Zero-Day Exploitation | Google Cloud Blog</a><br />
-・<a href="https://blogs.jpcert.or.jp/ja/2025/02/spawnchimera.html">Ivanti Connect Secureの脆弱性を利用して設置されたマルウェアSPAWNCHIMERA &#8211; JPCERT/CC Eyes | JPCERTコーディネーションセンター公式ブログ</a><br />
-・<a href="https://www.bleepingcomputer.com/news/security/us-seizes-23-million-in-crypto-stolen-via-password-manager-breach/">US seizes $23 million in crypto linked to LastPass breaches</a><br />
-・<a href="https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/">Feds Link $150M Cyberheist to 2022 LastPass Hacks – Krebs on Security</a><br />
-・<a href="https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/">Experts Fear Crooks are Cracking Keys Stolen in LastPass Breach – Krebs on Security</a><br />
-・<a href="https://blog.lastpass.com/posts/notice-of-recent-security-incident">12-22-2022: Notice of Security Incident</a><br />
-・<a href="https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html">Password Storage &#8211; OWASP Cheat Sheet Series</a><br />
-・<a href="https://www.ishikura.co.jp/news/386">不正アクセスによる情報漏えいのおそれがある事案の発生に関するご報告とお詫び &#8211; 株式会社イシクラ</a><br />
-・<a href="https://www.softbanktech.co.jp/special/blog/sbt_sbt/2025/0002/">情報セキュリティワークショップ in 越後湯沢 2024 車座「警視庁とアレ」参加レポート① | SBテクノロジー (SBT)</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/stove.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/stove-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1973" srcset="https://www.tsujileaks.com/wp-content/uploads/stove-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/stove-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/stove-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/stove.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：そういえば318の日やん。ドラマ見てね！Ivantiのゼロデイ。上々颱風はスレットアクターではありません。全部入りスポーン！仮想的に修正して穴塞ぐ。外からチェックできなくなる。能動的にいこうぜぇ。3500000000。ポロリ。マスターパスワードやられてるてことか。バック人。卒業アルバムの！？内容は結構良いのに。分割されてるやん。機器交換後どういうチェックしてたんやろ。通るようになった経路の先の原因も言ってほしい。壮大な台無し。<br />
-&nbsp;<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から                              | 00:00 |<br />
-| お便りのコーナー                              | 02:29 |<br />
-| (T) Ivanti Connect Secure の脆弱性を悪用する攻撃 | 10:58 |<br />
-| (N) LastPass から漏洩した秘密鍵による暗号資産の盗難事件    | 22:21 |<br />
-| (P) 不正アクセスによる情報漏洩事案                   | 39:02 |<br />
-| オススメのアレ                               | 57:18 |
-</p></blockquote>
-<p>収録日: 2025年03月10日</p><p>The post <a href="https://www.tsujileaks.com/?p=1972">第254回 FLASHBACK 温泉！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_250311_NSP.mp3" length="29332130" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・Ivanti Connect Secure VPN Targeted in New Zero-Da[...]</itunes:subtitle>
 		<itunes:summary>Tweet・Ivanti Connect Secure VPN Targeted in New Zero-Da[...]</itunes:summary>
