@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 22 Jul 2025 11:00:22 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 28 Jul 2025 23:00:09 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -54,6 +54,52 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第268回 ホーッホッホッホ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2052</link>
+		<pubDate>Mon, 28 Jul 2025 23:00:09 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2052</guid>
+		<comments>https://www.tsujileaks.com/?p=2052#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2052</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・Mr.都市伝説・関暁夫の裏都市伝説｜縦型ショートドラマアプリ「タテドラ」公式サイト ・サイバー防御[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2052&quot;&gt;第268回 ホーッホッホッホ！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton2052" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2052&amp;text=%E7%AC%AC268%E5%9B%9E%20%E3%83%9B%E3%83%BC%E3%83%83%E3%83%9B%E3%83%83%E3%83%9B%E3%83%83%E3%83%9B%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2052" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://tated.tv/toshidensetsu/">Mr.都市伝説・関暁夫の裏都市伝説｜縦型ショートドラマアプリ「タテドラ」公式サイト</a><br />
+・<a href="https://www.gov-online.go.jp/article/202507/tv-6037.html">サイバー防御 | 政府広報オンライン</a><br />
+・<a href="https://www.gov-online.go.jp/article/202507/tv-6049.html">サイバーセキュリティ | 政府広報オンライン</a><br />
+・<a href="https://msrc.microsoft.com/blog/2025/07/customer-guidance-for-sharepoint-vulnerability-cve-2025-53770/">Customer guidance for SharePoint vulnerability CVE-2025-53770 | MSRC Blog | Microsoft Security Response Center</a><br />
+・<a href="https://www.microsoft.com/en-us/security/blog/2025/07/22/disrupting-active-exploitation-of-on-premises-sharepoint-vulnerabilities/">Disrupting active exploitation of on-premises SharePoint vulnerabilities | Microsoft Security Blog</a><br />
+・<a href="https://blog.viettelcybersecurity.com/sharepoint-toolshell/">SharePoint ToolShell – One Request PreAuth RCE chain CVE-2025-53770</a><br />
+・<a href="https://blog.viettelcybersecurity.com/toolshell-a-critical-sharepoint-vulnerability-chain-under-active-exploitation/">ToolShell &#8211; A Critical SharePoint Vulnerability Chain under Active Exploitation</a><br />
+・<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-203a">#StopRansomware: Interlock | CISA</a><br />
+・<a href="https://www.trendmicro.com/en_us/research/25/g/lumma-stealer-returns.html">Back to Business: Lumma Stealer Returns with Stealthier Methods | Trend Micro (US)</a><br />
+・<a href="https://www.microsoft.com/en-us/security/blog/2025/05/21/lumma-stealer-breaking-down-the-delivery-techniques-and-capabilities-of-a-prolific-infostealer/">Lumma Stealer: Breaking down the delivery techniques and capabilities of a prolific infostealer | Microsoft Security Blog</a><br />
+・<a href="https://www.youtube.com/@WarauSalesman_Anime">笑ゥせぇるすまん 公式チャンネル【ﾃﾞｼﾞﾀﾙﾘﾏｽﾀｰ版】 &#8211; YouTube</a><br />
+・<a href="https://www.sankei.com/article/20240927-ANVDT5CEMND4DI7RK3LTGY4AHU/">石破茂氏といえば…「魔人ブウ」のコスプレ 仕掛け人は「だまし討ちもニコニコ受けた」 &#8211; 産経ニュース</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/bate.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/bate-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2053" srcset="https://www.tsujileaks.com/wp-content/uploads/bate-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/bate-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/bate-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/bate.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：人それぞれの捉え方。手持ち豚さん。政府広報オンラインデビュー。鏡がDeepFake。週間だったものが習慣でなくなるという習慣。デモは何をするかも何をしてるか分かることも大事。例のシェアポの。修正されたと思いきやパッチがバイパスされ合計2つが4つに。パッチを当てた後の心構え。ゼロデイやん！その経緯って。被害に遭っていることを考慮して痕跡を調べる手段。リークで見たら教育。実際の被害はどうだろう。InfoStealerも使ってくるんかい！なんちゃらFixに切り替え。アクターベースより手法ベース。復活というか死んでなかった感。ドメインをメインにテイクダウン。物理押収はできていないっぽい。インフラをロシア中心に。こっちもFix。終わってないよ！酷くなってるかもよ！無くなると思っていた頃がボクらにもありました。<br />
+&nbsp;<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 06:47 |<br />
+| (N) Microsoft SharePoint Server の脆弱性 | 15:35 |<br />
+| (T) Interlock ランサムウェアに関する注意喚起 | 33:47 |<br />
+| (P) Lumma Stealer 復活の動き | 45:06 |<br />
+| オススメのアレ | 58:33 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2052">第268回 ホーッホッホッホ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_250729_zeian.mp3" length="30500529" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・Mr.都市伝説・関暁夫の裏都市伝説｜縦型ショートドラマアプリ「タテドラ」公式サイト ・サイバー防御[...]</itunes:subtitle>
+		<itunes:summary>Tweet・Mr.都市伝説・関暁夫の裏都市伝説｜縦型ショートドラマアプリ「タテドラ」公式サイト ・サイバー防御[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:03:20</itunes:duration>
+	</item>
+	<item>
 		<title>第267回 ポジティブな気持ちは即伝えよう！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2048</link>
 		<pubDate>Tue, 22 Jul 2025 11:00:22 +0000</pubDate>
@@ -71,7 +117,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://prtimes.jp/common/file/20250626_PRTIMES_UnauthorizedAccess_detail.pdf">PR TIMES 不正アクセス（5 月 7 日発表）の再発防止策の追加と実施予定について</a><br />
 ・<a href="https://www.kokia.com/">KOKIA Official Web</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/neware.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/neware-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2049" srcset="https://www.tsujileaks.com/wp-content/uploads/neware-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/neware-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/neware-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/neware.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/neware.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/neware-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2049" srcset="https://www.tsujileaks.com/wp-content/uploads/neware-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/neware-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/neware-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/neware.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：髭伸びないという悩み。あぶらしっこ。APT。データ容量問題。はじめてのNCO。負荷軽減になるのか否か。報告だけではなく、その後の大変さ。具体的 = ボリューミー。自分が記載する側の気持ちで見てみよう。活用される範囲を拡げて考えてみる。段階的にとか。欲しいときに欲しいものを。何が起きたのかといった顛末情報とすぐ活用したい情報は分けたほうがいいと思う。相変らず多い。前のQはイレギュラーとすると右肩上がり。必殺技みたい。競合他社からの攻撃？昔は聞いたことあるけど今もあるんですね。何故無くならないんだろうかという違和感。ランサム(D)DoSの内訳知りたい。業界によっては後回しにされがちなのかな。ピーアールタイム「ズ」でした。すいません。管理者画面へアクセスできた理由。追加理由不明のIPアドレスの怪。共有アカウントってトレースできないのほんま怖い。予告なしで追加されたユーザ向けの対策。複雑性は勘弁してほしい。今更感あるとはいえ全部ができているわけではない良い対応だと思いました。再発防止策というよりは追加の保護策っぽさある。<br />
 &nbsp;<br />
@@ -160,7 +206,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.instapaper.com/">Instapaper</a><br />
 ・<a href="https://raindrop.io/">Raindrop.io — All-in-one bookmark manager</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/SummerStart.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/SummerStart-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2041" srcset="https://www.tsujileaks.com/wp-content/uploads/SummerStart-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/SummerStart-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/SummerStart-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/SummerStart.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/SummerStart.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/SummerStart-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2041" srcset="https://www.tsujileaks.com/wp-content/uploads/SummerStart-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/SummerStart-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/SummerStart-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/SummerStart.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：かんごさん？まだ6月やで。方向性の違いというのがないというか意識してない。方言から学んだぞ。保護しているようで無視。アプリ認証。誘導のポイント。数回のやりとりから。本物ドメインの存在しないアドレスがCCあってもエラー返らないので標的に気付かれない。レガシーの穴。やっぱコールバック？知らない方からのご連絡のそれぞれの対処。そもそもアプリパスワードのことを知らんかったら警戒しないかも。ちょっと久しぶり感じ。二つの不正ログイン事案。11%って高い！相当質の高いリスト。顧客からの指摘。はじめから明確なターゲット？不可解な点がある。不正ログインする必要ないのでは？疑問符が残るリリースは避けたほうがいい。MDM管理サーバが被害。脆弱性対策の際に侵害を受けていないかをログから調査した。有益な情報ありそうなんやけどなぁ。論理的に残留とは。どんな製品でも管理しないとね。終了のお知らせ。<br />
 &nbsp;<br />
@@ -446,37 +492,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=1998</link>
 		<pubDate>Mon, 14 Apr 2025 11:00:34 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1998</guid>
-		<comments>https://www.tsujileaks.com/?p=1998#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1998</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・Linus Torvalds forgot to release Linux 6.14 for a[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=1998&quot;&gt;第258回 ʕ•ᴥ•  ʔ！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1998" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1998&amp;text=%E7%AC%AC258%E5%9B%9E%20%CA%95%E2%80%A2%E1%B4%A5%E2%80%A2%20%20%CA%94%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1998" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.theregister.com/2025/03/25/linux_6_14_day_late/">Linus Torvalds forgot to release Linux 6.14 for a day • The Register</a><br />
-・<a href="https://www.bleepingcomputer.com/news/security/oracle-says-obsolete-servers-hacked-denies-cloud-breach/">Oracle says &quot;obsolete servers&quot; hacked, denies cloud breach</a><br />
-・<a href="https://are.bocchi-megane.dev/">セキュリティのアレまとめ — セキュリティのアレまとめ</a><br />
-・<a href="https://research.checkpoint.com/2025/vanhelsing-new-raas-in-town/">VanHelsing, new RaaS in Town &#8211; Check Point Research</a><br />
-・<a href="https://thecyberexpress.com/dragonforce-claims-to-be-taking-over-ransomhub/">DragonForce Claims To Be Taking Over RansomHub</a><br />
-・<a href="https://www.akamai.com/blog/security/ddos-attack-trends-2024-signify-sophistication-overshadows-size">DDoS Attack Trends in 2024 Signify That Sophistication Overshadows Size | Akamai</a><br />
-・<a href="https://www.microsoft.com/en-us/security/blog/2025/02/13/storm-2372-conducts-device-code-phishing-campaign/">Storm-2372 conducts device code phishing campaign | Microsoft Security Blog</a><br />
-・<a href="https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/">Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication | Volexity</a><br />
-・<a href="https://www.kaldi.co.jp/ec/pro/disp/1/4940088151989">【冷蔵】オーヴァーノウ 白カビスナックサラミ（ロックフォールチーズ） 50g &#8211; カルディコーヒーファーム オンラインストア</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/o-kororin.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/o-kororin-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1999" srcset="https://www.tsujileaks.com/wp-content/uploads/o-kororin-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/o-kororin-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/o-kororin-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/o-kororin.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：知人に見られるのは恥ずかしい。Apple富豪。Oracle狂想曲。結局エンドポイントで見るしかないのか。新しいRaaS。デポジットパターン増えるのかな。手法を気にして見ているけど新規のってこういうレポートになりがちかな。ランサムギャングのインフラが統合？乗っ取り？メリット見当たらないと思う。今々は分からないけどどういった影響が出るか分からないので見ておきたい。DDoSの傾向「Sophistication」。Horizontal DDoS。広くほぼ色々同時。長いものが増えてきている。種類多すぎて一言で言えないから認識ずれそう。デバイスコード認証フィッシング。これフィッシングと呼んでいいものか。15分の壁。制限はあるが得られるものは大きいけどマスには行われなさそう。これデフォルトでオンにするほど利用頻度高いものなのかな。<br />
-&nbsp;<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から | 00:00 |<br />
-| お便りのコーナー | 02:55 |<br />
-| (T) 新しい RaaS の動き、あれこれ | 11:35 |<br />
-| (N) 2024年の DDoS 攻撃の傾向 | 23:28 |<br />
-| (P) デバイスコードフィッシングの脅威 | 38:38 |<br />
-| オススメのアレ | 53:26 |
-</p></blockquote>
-<p>収録日: 2025年04月12日</p><p>The post <a href="https://www.tsujileaks.com/?p=1998">第258回 ʕ•ᴥ•  ʔ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_250414_kuma.mp3" length="27740485" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・Linus Torvalds forgot to release Linux 6.14 for a[...]</itunes:subtitle>
 		<itunes:summary>Tweet・Linus Torvalds forgot to release Linux 6.14 for a[...]</itunes:summary>
