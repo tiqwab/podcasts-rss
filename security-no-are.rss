@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 12 Aug 2025 02:52:31 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Aug 2025 11:00:52 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -54,6 +54,48 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第271回 アレと生きる！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2070</link>
+		<pubDate>Mon, 18 Aug 2025 11:00:52 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2070</guid>
+		<comments>https://www.tsujileaks.com/?p=2070#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2070</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・電話後にメールを送ってくるフィッシング攻撃についてまとめてみた – piyolog ・[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2070&quot;&gt;第271回 アレと生きる！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton2070" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2070&amp;text=%E7%AC%AC271%E5%9B%9E%20%E3%82%A2%E3%83%AC%E3%81%A8%E7%94%9F%E3%81%8D%E3%82%8B%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2070" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://piyolog.hatenadiary.jp/entry/2023/04/07/010410">電話後にメールを送ってくるフィッシング攻撃についてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2025/03/13/021327">1億円を不正送金された山形鉄道への音声フィッシングについてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://deepness-lab.org/publications/madeyoureset/">MadeYouReset &#8211; DEEPNESS Lab</a><br />
+・<a href="https://galbarnahum.com/made-you-reset">MadeYouReset | Gal Bar Nahum&#8217;s Blog</a><br />
+・<a href="https://kb.cert.org/vuls/id/767506">VU#767506 &#8211; HTTP/2 implementations are vulnerable to &quot;MadeYouReset&quot; DoS attack through HTTP/2 control frames</a><br />
+・<a href="https://prtimes.jp/main/html/rd/p/000000721.000034075.html">大手企業の64％で取引先企業に起因したセキュリティ被害が発生【従業員数1,000名以上の大手企業の情シス部門300人に調査（アシュアード）】 | Visionalのプレスリリース</a><br />
+・<a href="https://www.trendmicro.com/en_us/research/25/h/crypto24-ransomware-stealth-attacks.html">Crypto24 Ransomware Group Blends Legitimate Tools with Custom Malware for Stealth Attacks | Trend Micro (US)</a><br />
+・<a href="https://www.suntory.co.jp/softdrink/craftboss/tea/">クラフトボス 世界のTEA｜CRAFT BOSS（クラフトボス） サントリー</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/kakigo.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kakigo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2071" srcset="https://www.tsujileaks.com/wp-content/uploads/kakigo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kakigo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kakigo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kakigo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：お盆でした。感謝を込めてドネーション。雑談したり。緊急で動画回してた。電話の後。MadeYouResetはRapidResetの応用的な。フロントとバックエンドの処理に差がでてくるのがRapidResetの肝。そこに制限をかけたわけだが。そして逆向きへ。Fingerprint思い出した。独自実装は既に対応済みだった。影響範囲どんくらいなんかな。サプライチェーンのアンケート。4分の1は不安に感じてない。経由思ったより多い。誤送信意外と少なかった。水平だとありえるのか。チェックシートそのものがいいのかという課題はないんですね。施策を見せるのがいいのでは。どうなったら嫌かということに対して運用的・技術的アプローチを考えるべきでは。テストでいい点取るのが目的はちょっと違う。申し訳なくないですって 笑。EDR重要論。止めるのはもはや定番。正規のメンテツールを悪用された。ATT&#038;CK網羅。入れないといけないけど止められたときのことも考えないと。売ってるのみたことあったわ。<br />
+&nbsp;<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 03:50 |<br />
+| (N) HTTP/2 の MadeYouReset 脆弱性 | 10:36 |<br />
+| (T) 「取引先企業のセキュリティ評価」に関する実態調査 | 22:09 |<br />
+| (P) Crypto24 ランサムウェアによる攻撃活動 | 39:05 |<br />
+| オススメのアレ | 51:09 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2070">第271回 アレと生きる！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_250818_boss.mp3" length="27739275" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・電話後にメールを送ってくるフィッシング攻撃についてまとめてみた – piyolog ・[...]</itunes:subtitle>
+		<itunes:summary>Tweet・電話後にメールを送ってくるフィッシング攻撃についてまとめてみた – piyolog ・[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>57:35</itunes:duration>
+	</item>
+	<item>
 		<title>第270回 なんでもいろいろほどほどに！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2061</link>
 		<pubDate>Mon, 11 Aug 2025 11:00:02 +0000</pubDate>
@@ -75,7 +117,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.salesforce.com/blog/protect-against-social-engineering/">Protect Your Salesforce Environment from Social Engineering Threats</a><br />
 ・<a href="http://matsubayashoten.jp/shopdetail/000000000865/">麻辣青豆 (マーラー青豆) (1kg) 中国産</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/nasu.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/nasu-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2066" srcset="https://www.tsujileaks.com/wp-content/uploads/nasu-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/nasu-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/nasu-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/nasu.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/nasu.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/nasu-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2066" srcset="https://www.tsujileaks.com/wp-content/uploads/nasu-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/nasu-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/nasu-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/nasu.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：蝉の鳴き声って聞きました？ボクに惹かれたのかも。はじめは東名。アドベって読んでた。難儀は難儀やけど関係性構築もいるんちゃうかな。ケブ。昨年比較1割程度の増加。VulnCheckとKEVは通知機能使うといいと思います！CMSは相変らずプラグインなんですね。水曜日のパッチチューズデー。脅威アクター四天王。脆弱性の対処という意味では誰が悪用してくるかってあまり考えなくてもいい場合が多いと思う。積み上げ問題相変らず。言われてみたらそこまで影響があるとも思っていない。悪用の行き渡りも知りたい。脆弱性数よりも悪用の多さで知りたい。CL0Pが利用する脆弱性は一気に沢山行き渡る系。海外からのメールクライアントを制限していく。デフォルトで。より安全。パスワードレスを必須にしていく。不正ログイン後に何をされるんやろか。ビッシングからのCRMからの情報窃取。シスコの割にあっさりしてた。似たような事件の報告が続いていた。色違いのポケモンを狙って捕まえる人のことをシャイニーハンターと言います。6月に注意喚起からの8月に自分たちもと。言葉巧みな攻撃の手口の共有もあまり見ない。これは騙されるわが欲しい。オススメしてよかったんか。<br />
 &nbsp;<br />
@@ -165,7 +207,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.youtube.com/@WarauSalesman_Anime">笑ゥせぇるすまん 公式チャンネル【ﾃﾞｼﾞﾀﾙﾘﾏｽﾀｰ版】 &#8211; YouTube</a><br />
 ・<a href="https://www.sankei.com/article/20240927-ANVDT5CEMND4DI7RK3LTGY4AHU/">石破茂氏といえば…「魔人ブウ」のコスプレ 仕掛け人は「だまし討ちもニコニコ受けた」 &#8211; 産経ニュース</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/bate.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/bate-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2053" srcset="https://www.tsujileaks.com/wp-content/uploads/bate-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/bate-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/bate-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/bate.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/bate.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/bate-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2053" srcset="https://www.tsujileaks.com/wp-content/uploads/bate-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/bate-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/bate-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/bate.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：人それぞれの捉え方。手持ち豚さん。政府広報オンラインデビュー。鏡がDeepFake。週間だったものが習慣でなくなるという習慣。デモは何をするかも何をしてるか分かることも大事。例のシェアポの。修正されたと思いきやパッチがバイパスされ合計2つが4つに。パッチを当てた後の心構え。ゼロデイやん！その経緯って。被害に遭っていることを考慮して痕跡を調べる手段。リークで見たら教育。実際の被害はどうだろう。InfoStealerも使ってくるんかい！なんちゃらFixに切り替え。アクターベースより手法ベース。復活というか死んでなかった感。ドメインをメインにテイクダウン。物理押収はできていないっぽい。インフラをロシア中心に。こっちもFix。終わってないよ！酷くなってるかもよ！無くなると思っていた頃がボクらにもありました。<br />
 &nbsp;<br />
@@ -451,38 +493,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=2015</link>
 		<pubDate>Mon, 19 May 2025 11:00:45 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2015</guid>
-		<comments>https://www.tsujileaks.com/?p=2015#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2015</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・サイバー安全保障に関する取組（能動的サイバー防御の実現に向けた検討など）｜内閣官房ホームページ ・[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2015&quot;&gt;第261回 5月の第1木曜日と5月12日は何の日？スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton2015" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2015&amp;text=%E7%AC%AC261%E5%9B%9E%205%E6%9C%88%E3%81%AE%E7%AC%AC1%E6%9C%A8%E6%9B%9C%E6%97%A5%E3%81%A85%E6%9C%8812%E6%97%A5%E3%81%AF%E4%BD%95%E3%81%AE%E6%97%A5%EF%BC%9F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2015" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.cas.go.jp/jp/seisaku/cyber_anzen_hosyo_torikumi/index.html">サイバー安全保障に関する取組（能動的サイバー防御の実現に向けた検討など）｜内閣官房ホームページ</a><br />
-・<a href="https://www3.nhk.or.jp/news/html/20250516/k10014807531000.html">「能動的サイバー防御」導入の法律 参院本会議で可決・成立 | NHK | サイバー攻撃</a><br />
-・<a href="https://www.fsa.go.jp/ordinary/chuui/chuui_phishing.html">インターネット取引サービスへの不正アクセス・不正取引による被害が急増しています：金融庁</a><br />
-・<a href="https://members10.live.itmedia.co.jp/library/ODQ1MzY%253D">ITmedia Security Week 2025 春</a><br />
-・<a href="https://developer.chrome.com/blog/passkey-automatic-upgrades">Automatically create passkeys in Google Password Manager on Chrome desktop | Blog | Chrome for Developers</a><br />
-・<a href="https://developer.chrome.com/docs/identity/webauthn-conditional-create">Help users adopt passkeys more seamlessly | Identity | Chrome for Developers</a><br />
-・<a href="https://blog.checkpoint.com/security/ransomware-reloaded-why-2025-is-the-most-dangerous-year-yet-2/">Ransomware Reloaded: Why 2025 Is the Most Dangerous Year Yet &#8211; Check Point Blog</a><br />
-・<a href="https://www.theregister.com/2025/05/15/snowflake_ciso_interview/">Snowflake CISO talks lessons learned from breaches, improv • The Register</a><br />
-・<a href="https://cloud.google.com/blog/topics/threat-intelligence/unc5537-snowflake-data-theft-extortion">UNC5537 Targets Snowflake Customer Instances for Data Theft and Extortion | Google Cloud Blog</a><br />
-・<a href="https://www.lec-online.com/c/06bath/4903320041578">激落ち 黒カビくん カビ取りジェル 100g | レック公式オンラインショップ【通販】</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/shopping.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/shopping-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2016" srcset="https://www.tsujileaks.com/wp-content/uploads/shopping-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/shopping-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/shopping-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/shopping.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：コンクラーベ。能動的サイバー防御は今おさらいしておくのおすすめ。インシデントの善し悪し。Incident X。NIST SP800-57。経路毎に整理してリスクの優先順位を考えるべきかな。エンタープライジーなら経路やフェーズ毎に見るかな。ロードは13章まである。パスキー作りたくてしょうがない？勝手に作っちゃう。その条件って…。これだと差が広がる。セキュリティ強化キャンペーンやってほしいねん！5月の第一木曜日は！5月12日。恐喝のエコシステム。RaaS増えてる。AIの活用。捏造リーク。リークのみにも重きを置き始めている？RaaSがハブになりそう。スノーフレーク事案（InfoStealer）扱ってみよう。CISOは言いました。運命の共有。この形になるのが最適解なのかも。狙われたことにも責任があるのでは。<br />
-&nbsp;<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から | 00:00 |<br />
-| お便りのコーナー | 04:21 |<br />
-| (N) passkey upgrades について | 18:46 |<br />
-| (T) Ransomware Reloaded | 31:08 |<br />
-| (P) Snowflake 事案をあらためて考える | 44:49 |<br />
-| オススメのアレ | 60:36 |
-</p></blockquote>
-<p>収録日: 2025年05月17日</p><p>The post <a href="https://www.tsujileaks.com/?p=2015">第261回 5月の第1木曜日と5月12日は何の日？スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_250519_yukijirushi.mp3" length="31275188" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・サイバー安全保障に関する取組（能動的サイバー防御の実現に向けた検討など）｜内閣官房ホームページ ・[...]</itunes:subtitle>
 		<itunes:summary>Tweet・サイバー安全保障に関する取組（能動的サイバー防御の実現に向けた検討など）｜内閣官房ホームページ ・[...]</itunes:summary>
