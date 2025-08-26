@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 18 Aug 2025 11:00:52 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Aug 2025 11:00:56 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -54,6 +54,48 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第272回 ¯\_(ツ)_/¯！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2076</link>
+		<pubDate>Mon, 25 Aug 2025 11:00:56 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2076</guid>
+		<comments>https://www.tsujileaks.com/?p=2076#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2076</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・Booking.com phishing campaign uses sneaky ‘[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2076&quot;&gt;第272回 ¯\_(ツ)_/¯！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton2076" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2076&amp;text=%E7%AC%AC272%E5%9B%9E%20%C2%AF%5C_%28%E3%83%84%29_%2F%C2%AF%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2076" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.bleepingcomputer.com/news/security/bookingcom-phishing-campaign-uses-sneaky-character-to-trick-you/">Booking.com phishing campaign uses sneaky &#8216;ん&#8217; character to trick you</a><br />
+・<a href="https://www.ic3.gov/PSA/2025/PSA250820">Internet Crime Complaint Center (IC3) | Russian Government Cyber Actors Targeting Networking Devices, Critical Infrastructure</a><br />
+・<a href="https://www.cisco.com/c/en/us/support/docs/csa/cisco-sa-20180328-smi2.html">Cisco IOS and IOS XE Software Smart Install Remote Code Execution Vulnerability &#8211; Cisco</a><br />
+・<a href="https://blog.talosintelligence.com/static-tundra/">Russian state-sponsored espionage group Static Tundra compromises unpatched end-of-life network devices</a><br />
+・<a href="https://blog.nicter.jp/2018/04/cisco-switch-hack/">Cisco Smart Install プロトコルを狙った攻撃の急増 &#8211; NICTER Blog</a><br />
+・<a href="https://www.justice.gov/usao-ak/pr/oregon-man-charged-administering-rapper-bot-ddos-hire-botnet">District of Alaska | Oregon man charged with administering “Rapper Bot” DDoS-for-hire Botnet | United States Department of Justice</a><br />
+・<a href="https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/">Oregon Man Charged in ‘Rapper Bot’ DDoS Service – Krebs on Security</a><br />
+・<a href="https://blog.nicter.jp/2025/06/rapperbot_2025_2g/">DVRを狙うRapperBotの最新動向 &#8211; NICTER Blog</a><br />
+・<a href="https://furuya-milk.co.jp/commodity/others/commodity-4475/">ブラックコーヒーBEANSゲイシャブレンド｜古谷乳業株式会社</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/everydaylife.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/everydaylife-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2077" srcset="https://www.tsujileaks.com/wp-content/uploads/everydaylife-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/everydaylife-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/everydaylife-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/everydaylife.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：喋らせてもらえてます。ポッドキャストしてた。回しの裏側。何が言いたいかっていうとポッドキャストやっててよかった！拠り所としてのチェックシート。こっそり色々教えてください！「ん」に「ん？」。眼鏡も顔の一部。VS忘れ。次のプレゼント。7年前に公表された脆弱性。ベルセルク。初期アクセスの次はTFTP。懐かしい。さぐる情勢。我らがじゃなかった。注意喚起の更新と報道。業を煮やした？目に見えるダメージがないという特徴もあるかも。情報発信の仕方を考え直さないといけないと思った。そのMV見た！主犯が捕まった。その理由とは。脇が甘系。攻撃を検証させるの凄いなぁ。利用者の目的。課金への脅迫かっ！サービス提供者がイラっとするくらい儲かってるみたい。入れ替わる末路となり根絶にはならないもどかしさ。そういえばの人数。<br />
+&nbsp;<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 04:47 |<br />
+| (T) 7年前の脆弱性 CVE-2018-0171 の悪用への注意喚起 | 15:53 |<br />
+| (N) RapperBot の開発者が特定、告訴された話 | 31:33 |<br />
+| オススメのアレ | 52:09 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2076">第272回 ¯\_(ツ)_/¯！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_250825_geisha.mp3" length="27434500" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・Booking.com phishing campaign uses sneaky ‘[...]</itunes:subtitle>
+		<itunes:summary>Tweet・Booking.com phishing campaign uses sneaky ‘[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>56:57</itunes:duration>
+	</item>
+	<item>
 		<title>第271回 アレと生きる！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2070</link>
 		<pubDate>Mon, 18 Aug 2025 11:00:52 +0000</pubDate>
@@ -73,7 +115,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.trendmicro.com/en_us/research/25/h/crypto24-ransomware-stealth-attacks.html">Crypto24 Ransomware Group Blends Legitimate Tools with Custom Malware for Stealth Attacks | Trend Micro (US)</a><br />
 ・<a href="https://www.suntory.co.jp/softdrink/craftboss/tea/">クラフトボス 世界のTEA｜CRAFT BOSS（クラフトボス） サントリー</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/kakigo.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kakigo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2071" srcset="https://www.tsujileaks.com/wp-content/uploads/kakigo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kakigo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kakigo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kakigo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/kakigo.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kakigo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2071" srcset="https://www.tsujileaks.com/wp-content/uploads/kakigo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kakigo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kakigo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kakigo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：お盆でした。感謝を込めてドネーション。雑談したり。緊急で動画回してた。電話の後。MadeYouResetはRapidResetの応用的な。フロントとバックエンドの処理に差がでてくるのがRapidResetの肝。そこに制限をかけたわけだが。そして逆向きへ。Fingerprint思い出した。独自実装は既に対応済みだった。影響範囲どんくらいなんかな。サプライチェーンのアンケート。4分の1は不安に感じてない。経由思ったより多い。誤送信意外と少なかった。水平だとありえるのか。チェックシートそのものがいいのかという課題はないんですね。施策を見せるのがいいのでは。どうなったら嫌かということに対して運用的・技術的アプローチを考えるべきでは。テストでいい点取るのが目的はちょっと違う。申し訳なくないですって 笑。EDR重要論。止めるのはもはや定番。正規のメンテツールを悪用された。ATT&#038;CK網羅。入れないといけないけど止められたときのことも考えないと。売ってるのみたことあったわ。<br />
 &nbsp;<br />
@@ -161,7 +203,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://help.dropbox.com/installs/dropbox-passwords-discontinuation">Dropbox Passwords discontinuation | Dropbox Help &#8211; Dropbox Help</a><br />
 ・<a href="https://www.library-archives.pref.fukui.lg.jp/tosyo/category/shiraberu/368.html">福井県立図書館 | 覚え違いタイトル集</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/mogumogu.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mogumogu-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2057" srcset="https://www.tsujileaks.com/wp-content/uploads/mogumogu-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mogumogu-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mogumogu-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mogumogu.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/mogumogu.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mogumogu-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2057" srcset="https://www.tsujileaks.com/wp-content/uploads/mogumogu-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mogumogu-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mogumogu-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mogumogu.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：てーてーてれてーてーてーてれてー。オクラホマというとスタンピート。ワンピースは言い過ぎたと思っている。誤検知でもそうでなくても検知後のことをが知りたい。HIBP大活用。出ている情報からリークを調べてみたら名義が異なっていた。委託先管理を強化するとは言っていたものの。一時期このパターン続きましたよね。やっぱり自組織外に責があるものは後回しの意識？10年ぶりに言ってみようかな。みんなどうしてIRMやらへんの？教えてぇん！喉元過ぎてもとならないように。tenki.jpへのDDoSの話。当事者の経験談が出にくい攻撃の最たるものの1つ。年末年始のアレ流れの巧妙な攻撃の内容4つ。攻撃先も元も頻繁に変更されていた。攻撃手法も様々。流量増大。続きましての。これがあれば他いらない！決定打！エクスポートできるすご！そして詰まない！オープンソースのもなかったですね。のべ。<br />
 &nbsp;<br />
@@ -449,37 +491,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=2021</link>
 		<pubDate>Mon, 26 May 2025 11:00:58 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2021</guid>
-		<comments>https://www.tsujileaks.com/?p=2021#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2021</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・「スマートEX」気軽にネット予約で新幹線を利用するなら！ ・脆弱性関連情報についての届出 | 情報[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2021&quot;&gt;第262回 素晴らしき授かりものと頂きもの！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton2021" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2021&amp;text=%E7%AC%AC262%E5%9B%9E%20%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%8D%E6%8E%88%E3%81%8B%E3%82%8A%E3%82%82%E3%81%AE%E3%81%A8%E9%A0%82%E3%81%8D%E3%82%82%E3%81%AE%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2021" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://smart-ex.jp/top.php">「スマートEX」気軽にネット予約で新幹線を利用するなら！</a><br />
-・<a href="https://www.ipa.go.jp/security/todokede/vuln/index.html">脆弱性関連情報についての届出 | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</a><br />
-・<a href="https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/">Troy Hunt: Have I Been Pwned 2.0 is Now Live!</a><br />
-・<a href="https://www.trendmicro.com/en_us/research/25/e/tiktok-videos-infostealers.html">TikTok Videos Promise Pirated Apps, Deliver Vidar and StealC Infostealers Instead | Trend Micro (US)</a><br />
-・<a href="https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/">KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS – Krebs on Security</a><br />
-・<a href="https://blog.cloudflare.com/ddos-threat-report-for-2025-q1/">Targeted by 20.5 million DDoS attacks, up 358% year-over-year: Cloudflare’s 2025 Q1 DDoS Threat Report</a><br />
-・<a href="https://projectshield.withgoogle.com/landing">Project Shield</a><br />
-・<a href="https://www.ipa.go.jp/security/jc-star/index.html">セキュリティ要件適合評価及びラベリング制度（JC-STAR） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</a><br />
-・<a href="http://www.kinchouen.co.jp/item/index.html">通年のお菓子 ｜ 金蝶園総本家</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/gumikango.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/gumikango-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2022" srcset="https://www.tsujileaks.com/wp-content/uploads/gumikango-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/gumikango-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/gumikango-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/gumikango.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：ITは便利ですよね。出張って皆さん減りました？辻が遅れてきただけ。アレから生まれたアレ太郎～。聴いてるかもしれない。その観点がなくて反省。2.0になりました。何が良いって紙吹雪ですよ！削除された機能もある。MFAやパスキーが使えるというサジェストは嬉しい。ダッシュボードは便利。フィックスはしない。呪文とか裏技の類いっぽい。再生数といいね！とかも作られたもの？やっぱ応用利く。世界4大アクター。ユーザがなんでもかんでもできることへの見直し。アンロックという言葉もマジック。促す対応の攻撃。操り人形型攻撃。6.3Tbps。スワッティングめっちゃこわい。それにボクも保護されたい。散ってる世界中のCDNのを合算ということに注意が必要。受けられるからこれくらいのものが観測されるとも言える。DDoS業界によくあるアレ。攻撃の規模こそ変わっているが。不便を強いられない根深さ。<br />
-&nbsp;<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から | 00:00 |<br />
-| お便りのコーナー | 05:46 |<br />
-| (T) Have I Been Pwned 2.0 | 15:48 |<br />
-| (P) TikTok の動画からマルウェアへの誘導 | 28:54 |<br />
-| (N) KrebsOnSecurity への DDoS 攻撃 | 40:40 |<br />
-| オススメのアレ | 55:29 |
-</p></blockquote>
-<p>収録日: 2025年05月24日</p><p>The post <a href="https://www.tsujileaks.com/?p=2021">第262回 素晴らしき授かりものと頂きもの！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_250526_Congrats_on_your_little_baby.mp3" length="28908928" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・「スマートEX」気軽にネット予約で新幹線を利用するなら！ ・脆弱性関連情報についての届出 | 情報[...]</itunes:subtitle>
 		<itunes:summary>Tweet・「スマートEX」気軽にネット予約で新幹線を利用するなら！ ・脆弱性関連情報についての届出 | 情報[...]</itunes:summary>
@@ -4801,20 +4814,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="http://www.tsujileaks.com/media/tsujileaks02.m4a" length="10945866" type="audio/x-m4a" />
 		<itunes:subtitle>Tweet月１くらいでぼちぼちやっていきたいですねー とか言いつつ、第1回から2ヶ月ほどのご無沙汰となってしま[...]</itunes:subtitle>
 		<itunes:summary>Tweet月１くらいでぼちぼちやっていきたいですねー とか言いつつ、第1回から2ヶ月ほどのご無沙汰となってしま[...]</itunes:summary>
-		<itunes:author>セキュリティのアレ</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
-	</item>
-	<item>
-		<title>第1回 タイトルも決まってないけどとりあえず始めましたスペシャル</title>
-		<link>https://www.tsujileaks.com/?p=10</link>
-		<pubDate>Sun, 20 Feb 2011 16:46:27 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=10</guid>
-		<description>&lt;p&gt;Tweet某ポッドキャストで告知させていただいた「セキュリティのポッドキャスト(仮）」の第１回です。 色々と探[...]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=10&quot;&gt;第1回 タイトルも決まってないけどとりあえず始めましたスペシャル&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<enclosure url="http://www.tsujileaks.com/media/security01.m4a" length="16323195" type="audio/x-m4a" />
-		<itunes:subtitle>Tweet某ポッドキャストで告知させていただいた「セキュリティのポッドキャスト(仮）」の第１回です。 色々と探[...]</itunes:subtitle>
-		<itunes:summary>Tweet某ポッドキャストで告知させていただいた「セキュリティのポッドキャスト(仮）」の第１回です。 色々と探[...]</itunes:summary>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
