@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 25 Aug 2025 11:00:56 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 02 Sep 2025 11:00:37 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -54,6 +54,46 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第273回 収録参加したいって方いますか！？スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2081</link>
+		<pubDate>Tue, 02 Sep 2025 11:00:37 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2081</guid>
+		<comments>https://www.tsujileaks.com/?p=2081#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2081</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・Detecting and countering misuse of AI: August 202[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2081&quot;&gt;第273回 収録参加したいって方いますか！？スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton2081" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2081&amp;text=%E7%AC%AC273%E5%9B%9E%20%E5%8F%8E%E9%8C%B2%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%9F%E3%81%84%E3%81%A3%E3%81%A6%E6%96%B9%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%81%EF%BC%9F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2081" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.anthropic.com/news/detecting-countering-misuse-aug-2025">Detecting and countering misuse of AI: August 2025 \ Anthropic</a><br />
+・<a href="https://www.ftc.gov/news-events/news/press-releases/2025/08/ftc-chairman-ferguson-warns-companies-against-censoring-or-weakening-data-security-americans-behest">FTC Chairman Ferguson Warns Companies Against Censoring or Weakening the Data Security of Americans at the Behest of Foreign Powers | Federal Trade Commission</a><br />
+・<a href="https://www.reuters.com/sustainability/boards-policy-regulation/us-spy-chief-gabbard-says-uk-agreed-drop-backdoor-mandate-apple-2025-08-19/">US spy chief Gabbard says UK agreed to drop &#8216;backdoor&#8217; mandate for Apple | Reuters</a><br />
+・<a href="https://reliaquest.com/blog/threat-spotlight-cybercrime-is-hiring-recruiting-ai-iot-and-cloud-experts/">Cybercrime Is Hiring: Recruiting AI, IoT, and Cloud Experts to Fuel Future Campaigns</a><br />
+・<a href="https://www.youtube.com/watch?v=y7jPl-o79sc">古山菜の花『もののけはいないよ』（Live-Full Ver.@ソロシンガー版音楽深化論~the battle~） &#8211; YouTube</a><br />
+・<a href="https://nanohakoyama.ryzm.jp/">古山菜の花オフィシャルウェブサイト</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/slime.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/slime-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2082" srcset="https://www.tsujileaks.com/wp-content/uploads/slime-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/slime-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/slime-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/slime.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：ずっと付いてくる虫が最終的にとった行動とは。腐り始めてるのかな。グッズ。ニンバスですね。収録参加したいですか？生成AI悪用の調査。効率化図ってるなぁ。RaaSにもノーコードの波が。正常な範囲での悪用。それができないと便利でなくなるもんな。外国の政府の要請により暗号を弱くしたりバックドア使っちゃダメとのこと。あったあった。あの件は断念に至ったのか。どこの国に対してもってことは。自分たちはいいとなるとかなりのアドですね。犯罪者の求人が活性化。ワークフローの効率化にAI。でディープフェイクに加えて。英語ネイティブへのニーズかなりあるみたい。実物を見に行く必要はないけどトレンドを知るくらいはしておいたほうがいい。でも足を掬われないようにする基本は大事。とんでもない方を見つけた。<br />
+&nbsp;<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 04:57 |<br />
+| (P) Anthropic の脅威レポートから | 18:29 |<br />
+| (N) FTC からテック企業への警告文書 | 30:44 |<br />
+| (T) アンダーグラウンドにおける求人動向 | 41:08 |<br />
+| オススメのアレ | 54:19 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2081">第273回 収録参加したいって方いますか！？スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_250902_hanamushi.mp3" length="28517059" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・Detecting and countering misuse of AI: August 202[...]</itunes:subtitle>
+		<itunes:summary>Tweet・Detecting and countering misuse of AI: August 202[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>59:12</itunes:duration>
+	</item>
+	<item>
 		<title>第272回 ¯\_(ツ)_/¯！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2076</link>
 		<pubDate>Mon, 25 Aug 2025 11:00:56 +0000</pubDate>
@@ -74,7 +114,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://blog.nicter.jp/2025/06/rapperbot_2025_2g/">DVRを狙うRapperBotの最新動向 &#8211; NICTER Blog</a><br />
 ・<a href="https://furuya-milk.co.jp/commodity/others/commodity-4475/">ブラックコーヒーBEANSゲイシャブレンド｜古谷乳業株式会社</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/everydaylife.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/everydaylife-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2077" srcset="https://www.tsujileaks.com/wp-content/uploads/everydaylife-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/everydaylife-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/everydaylife-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/everydaylife.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/everydaylife.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/everydaylife-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2077" srcset="https://www.tsujileaks.com/wp-content/uploads/everydaylife-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/everydaylife-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/everydaylife-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/everydaylife.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：喋らせてもらえてます。ポッドキャストしてた。回しの裏側。何が言いたいかっていうとポッドキャストやっててよかった！拠り所としてのチェックシート。こっそり色々教えてください！「ん」に「ん？」。眼鏡も顔の一部。VS忘れ。次のプレゼント。7年前に公表された脆弱性。ベルセルク。初期アクセスの次はTFTP。懐かしい。さぐる情勢。我らがじゃなかった。注意喚起の更新と報道。業を煮やした？目に見えるダメージがないという特徴もあるかも。情報発信の仕方を考え直さないといけないと思った。そのMV見た！主犯が捕まった。その理由とは。脇が甘系。攻撃を検証させるの凄いなぁ。利用者の目的。課金への脅迫かっ！サービス提供者がイラっとするくらい儲かってるみたい。入れ替わる末路となり根絶にはならないもどかしさ。そういえばの人数。<br />
 &nbsp;<br />
@@ -159,7 +199,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.salesforce.com/blog/protect-against-social-engineering/">Protect Your Salesforce Environment from Social Engineering Threats</a><br />
 ・<a href="http://matsubayashoten.jp/shopdetail/000000000865/">麻辣青豆 (マーラー青豆) (1kg) 中国産</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/nasu.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/nasu-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2066" srcset="https://www.tsujileaks.com/wp-content/uploads/nasu-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/nasu-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/nasu-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/nasu.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/nasu.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/nasu-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2066" srcset="https://www.tsujileaks.com/wp-content/uploads/nasu-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/nasu-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/nasu-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/nasu.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：蝉の鳴き声って聞きました？ボクに惹かれたのかも。はじめは東名。アドベって読んでた。難儀は難儀やけど関係性構築もいるんちゃうかな。ケブ。昨年比較1割程度の増加。VulnCheckとKEVは通知機能使うといいと思います！CMSは相変らずプラグインなんですね。水曜日のパッチチューズデー。脅威アクター四天王。脆弱性の対処という意味では誰が悪用してくるかってあまり考えなくてもいい場合が多いと思う。積み上げ問題相変らず。言われてみたらそこまで影響があるとも思っていない。悪用の行き渡りも知りたい。脆弱性数よりも悪用の多さで知りたい。CL0Pが利用する脆弱性は一気に沢山行き渡る系。海外からのメールクライアントを制限していく。デフォルトで。より安全。パスワードレスを必須にしていく。不正ログイン後に何をされるんやろか。ビッシングからのCRMからの情報窃取。シスコの割にあっさりしてた。似たような事件の報告が続いていた。色違いのポケモンを狙って捕まえる人のことをシャイニーハンターと言います。6月に注意喚起からの8月に自分たちもと。言葉巧みな攻撃の手口の共有もあまり見ない。これは騙されるわが欲しい。オススメしてよかったんか。<br />
 &nbsp;<br />
@@ -449,35 +489,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=2031</link>
 		<pubDate>Mon, 09 Jun 2025 11:00:17 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2031</guid>
-		<comments>https://www.tsujileaks.com/?p=2031#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2031</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・About Encrypted Direct Messages – DMs | X Help ・m[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2031&quot;&gt;第263回 コレではないアレのこっちパターン！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton2031" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2031&amp;text=%E7%AC%AC263%E5%9B%9E%20%E3%82%B3%E3%83%AC%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%82%A2%E3%83%AC%E3%81%AE%E3%81%93%E3%81%A3%E3%81%A1%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2031" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://help.x.com/en/using-x/encrypted-direct-messages">About Encrypted Direct Messages – DMs | X Help</a><br />
-・<a href="https://mjg59.dreamwidth.org/71646.html">mjg59 | Twitter&#8217;s new encrypted DMs aren&#8217;t better than the old ones</a><br />
-・<a href="https://juicebox.xyz/">Juicebox | An open-source encryption key recovery protocol</a><br />
-・<a href="https://blog.checkpoint.com/security/lumma-infostealer-down-but-not-out/">Lumma Infostealer – Down but Not Out? &#8211; Check Point Blog</a><br />
-・<a href="https://blogs.microsoft.com/on-the-issues/2025/05/21/microsoft-leads-global-action-against-favored-cybercrime-tool/">Disrupting Lumma Stealer: Microsoft leads global action against favored cybercrime tool &#8211; Microsoft On the Issues</a><br />
-・<a href="https://csrc.nist.gov/pubs/cswp/41/likely-exploited-vulnerabilities-a-proposed-metric/final">CSWP 41, Likely Exploited Vulnerabilities: A Proposed Metric for Vulnerability Exploitation Probability | CSRC</a><br />
-・<a href="https://news.mynavi.jp/techplus/lp/2025/enterprise/SecurityAwards_202506/">第10回 情報セキュリティ事故対応アワード | マイナビニュース</a><br />
-&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/mou_summer.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mou_summer-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2032" srcset="https://www.tsujileaks.com/wp-content/uploads/mou_summer-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mou_summer-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mou_summer-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mou_summer.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：練習してるんですわ。悩んでますねん。Do備えるDDoS。ひっかかる心理。生の声ありがとうございます！新しいチャットサービスどないでっか。メッセージ単位の暗号化ちゃうんかい。ええとこないんちゃいますか。メリットないから継続ウォッチやな。Lummaのテイクダウンはどんなんやったんか。その後どうなってんの。若干の矛盾あるわ。売り方も多種多様やで。台数は衝撃やった。三つ目の担当は。Likelyのほう。KEV + EPSS = ?。活用方法よー聞かれますわ。ゴミからゴミっ！？オフラインでステッカーをゲットしてや！<br />
-&nbsp;<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から | 00:00 |<br />
-| お便りのコーナー | 05:55 |<br />
-| (N) X の新しいチャットサービス | 19:25 |<br />
-| (T) Lumma のテイクダウン後の動き | 29:06 |<br />
-| (N) Likely Exploited Vulnerabilities (LEV) | 44:56 |<br />
-| オススメのアレ | 59:35 |
-</p></blockquote>
-<p>収録日: 2025年06月07日</p><p>The post <a href="https://www.tsujileaks.com/?p=2031">第263回 コレではないアレのこっちパターン！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_250609_negitsuji.mp3" length="31780517" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・About Encrypted Direct Messages – DMs | X Help ・m[...]</itunes:subtitle>
 		<itunes:summary>Tweet・About Encrypted Direct Messages – DMs | X Help ・m[...]</itunes:summary>
@@ -4800,20 +4813,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="http://tsujileaks.com/media/tsujileaks03.m4a" length="34391447" type="audio/x-m4a" />
 		<itunes:subtitle>Tweetまたまたのお久しぶりです。 今回は、dpost.jpのポッドキャストに出られている @machiko[...]</itunes:subtitle>
 		<itunes:summary>Tweetまたまたのお久しぶりです。 今回は、dpost.jpのポッドキャストに出られている @machiko[...]</itunes:summary>
-		<itunes:author>セキュリティのアレ</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
-	</item>
-	<item>
-		<title>第2回 「自粛」は自粛させていただきますスペシャル</title>
-		<link>https://www.tsujileaks.com/?p=41</link>
-		<pubDate>Sun, 10 Apr 2011 13:38:28 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=41</guid>
-		<description>&lt;p&gt;Tweet月１くらいでぼちぼちやっていきたいですねー とか言いつつ、第1回から2ヶ月ほどのご無沙汰となってしま[...]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=41&quot;&gt;第2回 「自粛」は自粛させていただきますスペシャル&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<enclosure url="http://www.tsujileaks.com/media/tsujileaks02.m4a" length="10945866" type="audio/x-m4a" />
-		<itunes:subtitle>Tweet月１くらいでぼちぼちやっていきたいですねー とか言いつつ、第1回から2ヶ月ほどのご無沙汰となってしま[...]</itunes:subtitle>
-		<itunes:summary>Tweet月１くらいでぼちぼちやっていきたいですねー とか言いつつ、第1回から2ヶ月ほどのご無沙汰となってしま[...]</itunes:summary>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
