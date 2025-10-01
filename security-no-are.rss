@@ -19,7 +19,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-		<generator>https://wordpress.org/?v=6.4.6</generator>
+		<generator>https://wordpress.org/?v=6.4.7</generator>
 
 <image>
 	<url>https://www.tsujileaks.com/wp-content/uploads/cropped-anchor_thumb-1-32x32.png</url>
