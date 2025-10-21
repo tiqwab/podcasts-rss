@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 06 Oct 2025 10:49:07 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 20 Oct 2025 11:00:30 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -54,6 +54,42 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第279回 安全だけではなく安心を！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2117</link>
+		<pubDate>Mon, 20 Oct 2025 11:00:30 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2117</guid>
+		<comments>https://www.tsujileaks.com/?p=2117#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2117</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・Cache smuggling: When a picture isn’t a thousand [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2117&quot;&gt;第279回 安全だけではなく安心を！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton2117" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2117&amp;text=%E7%AC%AC279%E5%9B%9E%20%E5%AE%89%E5%85%A8%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E5%AE%89%E5%BF%83%E3%82%92%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2117" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://expel.com/blog/cache-smuggling-when-a-picture-isnt-a-thousand-words/">Cache smuggling: When a picture isn’t a thousand words | Expel</a><br />
+・<a href="https://www.jsda.or.jp/about/public/kekka/index.html">「インターネット取引における不正アクセス等防止に向けたガイドライン」の改正について</a><br />
+・<a href="https://www.fsa.go.jp/ordinary/chuui/chuui_phishing.html">インターネット取引サービスへの不正アクセス・不正取引による被害が急増しています：金融庁</a><br />
+・<a href="https://www.rakuten-sec.co.jp/web/info/info20251010-01.html">リアルタイムフィッシング詐欺にご注意ください | 楽天証券</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/gg.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/gg-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2118" srcset="https://www.tsujileaks.com/wp-content/uploads/gg-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/gg-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/gg-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/gg.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：病み上がりです。東京ラブストーリー懐かしい。人と話してる感じがええんよ。安全だけではあかん！。タダでは起きひんぞ！寝込んでいただけにな！試験結果が合格であることを祈っております。素数回。実際に同じようなの来たよを教えてくれるのありがたい。新たなっていうか拡張かな。139個でよかったんか？問題。画像（キャッシュ）に見せかけたファイルから抜き出すんですよ。スマグリングですわ。密輸ですよ！PowerShellの扱いを本気で考え直さないといけないのでは？ほんま使い勝手良くて拡張性も高い。日本証券業協会のCMはもう歌える。リアルタイムフィッシングが発生。絵文字認証どう突破してるんやろか。ガイドラインいいですね。少しでも進むといいな。サポートコストが結構ありそう。これAitMも含んでる？そのほうが実現しやすそうな攻撃だと思うんです。注意喚起方法ってあまり変化ないときありますよね。やっぱブックマークかアプリですよ！人の部分は色々な意味で疎かになっちゃいかんなと。技術というか欺術ってね。セキュリティに詳しい人が他の方の業務を学ぶという「セキュリティ+(プラス)」を提唱します！<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| 1 | いつもの雑談から | 00:00 |<br />
+| 2 | お便りのコーナー | 06:24 |<br />
+| 3 | (T) Filefix と Cache smuggling の組み合わせによる攻撃 | 15:35 |<br />
+| 4 | (N) フィッシングに耐性のある多要素認証の必要性 | 27:37 |<br />
+| 5 | オススメのアレ | 50:03 |</p>
+</blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2117">第279回 安全だけではなく安心を！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_251019_malwaretech.mp3" length="26349066" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・Cache smuggling: When a picture isn’t a thousand [...]</itunes:subtitle>
+		<itunes:summary>Tweet・Cache smuggling: When a picture isn’t a thousand [...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>54:41</itunes:duration>
+	</item>
+	<item>
 		<title>第278回 いつも励みをありがとう！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2112</link>
 		<pubDate>Mon, 06 Oct 2025 10:49:07 +0000</pubDate>
@@ -72,7 +108,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://piyolog.hatenadiary.jp/entry/2020/08/31/120000">従業員へ賄賂を渡し脅迫目的で不正アクセスを企んだ米国の事件についてまとめてみた &#8211; piyolog</a><br />
 ・<a href="https://tousenkyou.wixsite.com/home/%E5%85%A8%E5%95%86%E5%93%81%E3%81%AE%E3%83%AA%E3%82%B9%E3%83%88">取り扱い商品 | 株式会社唐船峡食品</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/hb.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/hb-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2113" srcset="https://www.tsujileaks.com/wp-content/uploads/hb-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/hb-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/hb-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/hb.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/hb.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/hb-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2113" srcset="https://www.tsujileaks.com/wp-content/uploads/hb-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/hb-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/hb-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/hb.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：ニーズあるとのこと嬉しく思っております。ほんまありがとうございます。復活までお待ちいただけると幸いです。<br />
 &nbsp;</p>
@@ -154,7 +190,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.huntress.com/blog/threat-advisory-oh-no-cleo-cleo-software-actively-being-exploited-in-the-wild">Cleo Software Actively Being Exploited in the Wild CVE-2024-55956 | Huntress</a><br />
 ・<a href="https://ja.wikipedia.org/wiki/Y%E6%B0%8F%E3%81%AE%E9%9A%A3%E4%BA%BA">Y氏の隣人 &#8211; Wikipedia</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/kuri.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kuri-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2103" srcset="https://www.tsujileaks.com/wp-content/uploads/kuri-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kuri-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kuri-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kuri.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/kuri.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kuri-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2103" srcset="https://www.tsujileaks.com/wp-content/uploads/kuri-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kuri-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kuri-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kuri.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：秋の足音。まだ着てない半袖があるねん。アンブレラマーカーだけにRainDropや！どう紐付くかによって公開すべきかどうか。できているできていないの格差がある。結果論・べき論だけではないを心がけたい。AKIRAかに。検知して通知したけど。色々探されていた。そこの管理いじられるのきっついなぁ。BYOVDいらず。迂闊さん。デスクトップに置きがちファイル。まぁやっぱ増えてるんですよ。CL0Pの2月。グループ数3年で倍。コードが一致的な。復号さえされなければいいしね。審査が厳しいRaaS。自分たちでやったほうがいいと考え始めてる？ベンチャーランサム。個人事業化。要求額も支払額もかなり減っている。IAB + 小粒化。<br />
 &nbsp;<br />
@@ -437,37 +473,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=2056</link>
 		<pubDate>Mon, 04 Aug 2025 11:00:35 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2056</guid>
-		<comments>https://www.tsujileaks.com/?p=2056#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2056</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・あすけん | あすけんダイエット – 栄養士が無料であなたのダイエットをサポート ・不[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2056&quot;&gt;第269回 ビジネスにも役立つポッドキャストやで！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton2056" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2056&amp;text=%E7%AC%AC269%E5%9B%9E%20%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%AB%E3%82%82%E5%BD%B9%E7%AB%8B%E3%81%A4%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E3%82%84%E3%81%A7%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2056" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.asken.jp/">あすけん | あすけんダイエット &#8211; 栄養士が無料であなたのダイエットをサポート</a><br />
-・<a href="https://scs-21.co.jp/20250711-2/">不正アクセスに関するご報告とお詫び | 株式会社 審調社</a><br />
-・<a href="https://xtech.nikkei.com/atcl/nxt/news/24/02689/">審調社がランサムウエア被害、三井住友海上など委託元に影響 「ダークウェブに情報」 | 日経クロステック（xTECH）</a><br />
-・<a href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/10902/">審調社のランサム被害が30超の保険会社に影響、未発表の東京海上日動なども委託 | 日経クロステック（xTECH）</a><br />
-・<a href="https://www.ms-ins.com/news/fy2024/pdf/1225_2.pdf">業務委託先における不正アクセス被害に関する調査結果について</a><br />
-・<a href="https://kn.itmedia.co.jp/kn/articles/2507/28/news026.html">集中アクセスに強い「tenki.jp」、なぜDDoS攻撃にあっさり敗れたのか？ &#8211; キーマンズネット</a><br />
-・<a href="https://unitis.jp/articles/17531/">tenki.jpのDDoS被害事例に学ぶ事業判断と対策フロー AWS Summit Japan 2025レポート</a><br />
-・<a href="https://proton.me/blog/authenticator-app">Introducing Proton Authenticator: Secure 2FA, your way | Proton</a><br />
-・<a href="https://help.dropbox.com/installs/dropbox-passwords-discontinuation">Dropbox Passwords discontinuation | Dropbox Help &#8211; Dropbox Help</a><br />
-・<a href="https://www.library-archives.pref.fukui.lg.jp/tosyo/category/shiraberu/368.html">福井県立図書館 | 覚え違いタイトル集</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/mogumogu.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mogumogu-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2057" srcset="https://www.tsujileaks.com/wp-content/uploads/mogumogu-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mogumogu-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mogumogu-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mogumogu.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：てーてーてれてーてーてーてれてー。オクラホマというとスタンピート。ワンピースは言い過ぎたと思っている。誤検知でもそうでなくても検知後のことをが知りたい。HIBP大活用。出ている情報からリークを調べてみたら名義が異なっていた。委託先管理を強化するとは言っていたものの。一時期このパターン続きましたよね。やっぱり自組織外に責があるものは後回しの意識？10年ぶりに言ってみようかな。みんなどうしてIRMやらへんの？教えてぇん！喉元過ぎてもとならないように。tenki.jpへのDDoSの話。当事者の経験談が出にくい攻撃の最たるものの1つ。年末年始のアレ流れの巧妙な攻撃の内容4つ。攻撃先も元も頻繁に変更されていた。攻撃手法も様々。流量増大。続きましての。これがあれば他いらない！決定打！エクスポートできるすご！そして詰まない！オープンソースのもなかったですね。のべ。<br />
-&nbsp;<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から | 00:00 |<br />
-| お便りのコーナー | 03:26 |<br />
-| (T) 保険業界における業務委託先からの情報漏洩事案 | 11:21 |<br />
-| (N) tenki.jp における DDoS 攻撃への取り組み | 27:04 |<br />
-| (N) Proton Authenticator | 38:29 |<br />
-| オススメのアレ | 51:25 |
-</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2056">第269回 ビジネスにも役立つポッドキャストやで！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_250804_mayim2.mp3" length="27373137" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・あすけん | あすけんダイエット – 栄養士が無料であなたのダイエットをサポート ・不[...]</itunes:subtitle>
 		<itunes:summary>Tweet・あすけん | あすけんダイエット – 栄養士が無料であなたのダイエットをサポート ・不[...]</itunes:summary>
@@ -4795,21 +4802,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
-	</item>
-	<item>
-		<title>第8回 初めてのオフライン収録！初めてのゲスト！しかも女性！スペシャル</title>
-		<link>https://www.tsujileaks.com/?p=174</link>
-		<pubDate>Sun, 12 Aug 2012 13:56:10 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=174</guid>
-		<description>&lt;p&gt;Tweet 普段はムサい（？）男二人でお送りしてきたポットキャストですが 今期は初にして女性ゲストをお迎えして[...]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=174&quot;&gt;第8回 初めてのオフライン収録！初めてのゲスト！しかも女性！スペシャル&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<enclosure url="http://tsujileaks.com/media/tsujileaks8.m4a" length="32401575" type="audio/x-m4a" />
-		<itunes:subtitle>Tweet 普段はムサい（？）男二人でお送りしてきたポットキャストですが 今期は初にして女性ゲストをお迎えして[...]</itunes:subtitle>
-		<itunes:summary>Tweet 普段はムサい（？）男二人でお送りしてきたポットキャストですが 今期は初にして女性ゲストをお迎えして[...]</itunes:summary>
-		<itunes:author>セキュリティのアレ</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
-		<itunes:duration>1:04:28</itunes:duration>
 	</item>
 </channel>
 </rss>
