@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 20 Oct 2025 11:00:30 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Oct 2025 11:00:57 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -54,6 +54,47 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第280回 色々把握しておこう！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2122</link>
+		<pubDate>Mon, 27 Oct 2025 11:00:57 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2122</guid>
+		<comments>https://www.tsujileaks.com/?p=2122#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2122</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・LINE暗号化状況レポート｜LINEヤフー株式会社 ・サイバー 攻撃その瞬間社長の決定 | サイバ[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2122&quot;&gt;第280回 色々把握しておこう！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton2122" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2122&amp;text=%E7%AC%AC280%E5%9B%9E%20%E8%89%B2%E3%80%85%E6%8A%8A%E6%8F%A1%E3%81%97%E3%81%A6%E3%81%8A%E3%81%93%E3%81%86%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2122" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.lycorp.co.jp/ja/privacy-security/security/transparency/encryption-report/2024/">LINE暗号化状況レポート｜LINEヤフー株式会社</a><br />
+・<a href="https://www.kantsu.com/lp/cyberdecision/">サイバー 攻撃その瞬間社長の決定 | サイバー 攻撃その瞬間社長の決定</a><br />
+・<a href="https://www.softbank.jp/business/content/blog/202509/kantsu-ciso">ランサムウェア被害のリアル～株式会社関通 達城氏が語る、経営者としての決断と教訓～ ｜ビジネスブログ｜ソフトバンク</a><br />
+・<a href="https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update">Key IOCs for Pegasus and Predator Spyware Cleaned With iOS 26 Update</a><br />
+・<a href="https://securelist.com/shutdown-log-lightweight-ios-malware-detection-method/111734/">Detecting iOS malware via Shutdown.log file | Securelist</a><br />
+・<a href="https://reliaquest.com/blog/threat-spotlight-ransomware-and-cyber-extortion-in-q3-2025">Ransomware and Cyber Extortion in Q3 2025</a><br />
+・<a href="https://www.bleepingcomputer.com/news/security/fbi-takes-down-breachforums-portal-used-for-salesforce-extortion/">FBI takes down BreachForums portal used for Salesforce extortion</a><br />
+・<a href="https://www.youtube.com/channel/UCDishZFfEEFw_TRee8w4WRg">キュウ お笑いオフィシャルチャンネル &#8211; YouTube</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/yomikikase.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/yomikikase-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2123" srcset="https://www.tsujileaks.com/wp-content/uploads/yomikikase-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/yomikikase-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/yomikikase-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/yomikikase.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：床暖付けてもた。寝るときも仕事のこと考えちゃって。買い物袋ストッカーもおすすめですよ。「セキュリティ・プラス人材」言っていきまっせ。アプリ増える問題。他人に教える前にまずは自分が実践してみるって大事。適用範囲の把握。本を読んだ話。結構レアケースじゃないですかね。連休前の金曜でしたね。インシデント対応時のメンバへのケア。やったらあかんことリスト。経営視点という学び。結構シビアだったみたい。食事大切です。まじで。いざってときの安全な回線ってあってよかったってなるのかも。シャットダウン時のログが取られなくなった。詐欺メール内でも登場するくらい有名なスパイウェア。容量もそんな大きくないのになんで消すん？OSのアップデートごとにフォレンジックツール対応問題ありますね。陰謀論出てきそうな感じある。ScatteredでLAPSUS$でHunters。ランサムどころではない状況。みんなLockbitのこと忘れてない？リークはまだだけど検体あるのでもう動いてるっぽい。ランサムカルテルみたいな動きは2019年くらいからありますよね。アフィリエイト売り手市場。LockbitってQilin水掛け論みたいな喧嘩してたよなぁ。どういった起因で数字に変化を与えるか。背景情報で厚みがでると思いますよ！<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 03:48 |<br />
+| (P) サイバーセキュリティの書籍紹介 | 15:45 |<br />
+| (N) iOS 26 での shutdown.log の仕様変更 | 34:19 |<br />
+| (T) ランサムウェア界隈の最近の動向 | 44:28 |<br />
+| オススメのアレ | 60:13 |</p>
+</blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2122">第280回 色々把握しておこう！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_251027_ioshaitteru.mp3" length="30609791" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・LINE暗号化状況レポート｜LINEヤフー株式会社 ・サイバー 攻撃その瞬間社長の決定 | サイバ[...]</itunes:subtitle>
+		<itunes:summary>Tweet・LINE暗号化状況レポート｜LINEヤフー株式会社 ・サイバー 攻撃その瞬間社長の決定 | サイバ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:03:34</itunes:duration>
+	</item>
+	<item>
 		<title>第279回 安全だけではなく安心を！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2117</link>
 		<pubDate>Mon, 20 Oct 2025 11:00:30 +0000</pubDate>
@@ -69,7 +110,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.fsa.go.jp/ordinary/chuui/chuui_phishing.html">インターネット取引サービスへの不正アクセス・不正取引による被害が急増しています：金融庁</a><br />
 ・<a href="https://www.rakuten-sec.co.jp/web/info/info20251010-01.html">リアルタイムフィッシング詐欺にご注意ください | 楽天証券</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/gg.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/gg-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2118" srcset="https://www.tsujileaks.com/wp-content/uploads/gg-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/gg-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/gg-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/gg.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/gg.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/gg-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2118" srcset="https://www.tsujileaks.com/wp-content/uploads/gg-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/gg-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/gg-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/gg.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：病み上がりです。東京ラブストーリー懐かしい。人と話してる感じがええんよ。安全だけではあかん！。タダでは起きひんぞ！寝込んでいただけにな！試験結果が合格であることを祈っております。素数回。実際に同じようなの来たよを教えてくれるのありがたい。新たなっていうか拡張かな。139個でよかったんか？問題。画像（キャッシュ）に見せかけたファイルから抜き出すんですよ。スマグリングですわ。密輸ですよ！PowerShellの扱いを本気で考え直さないといけないのでは？ほんま使い勝手良くて拡張性も高い。日本証券業協会のCMはもう歌える。リアルタイムフィッシングが発生。絵文字認証どう突破してるんやろか。ガイドラインいいですね。少しでも進むといいな。サポートコストが結構ありそう。これAitMも含んでる？そのほうが実現しやすそうな攻撃だと思うんです。注意喚起方法ってあまり変化ないときありますよね。やっぱブックマークかアプリですよ！人の部分は色々な意味で疎かになっちゃいかんなと。技術というか欺術ってね。セキュリティに詳しい人が他の方の業務を学ぶという「セキュリティ+(プラス)」を提唱します！<br />
 &nbsp;</p>
@@ -150,7 +191,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.usenix.org/conference/usenixsecurity25/presentation/vu">Assessing the Aftermath: the Effects of a Global Takedown against DDoS-for-hire Services | USENIX</a><br />
 ・<a href="https://shop.ogawaseimen.com/products/3tobikirisoba">3束ね山形のとびきりそば – 小川製麺所</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/kyohou.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kyohou-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2109" srcset="https://www.tsujileaks.com/wp-content/uploads/kyohou-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kyohou-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kyohou-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kyohou.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/kyohou.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kyohou-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2109" srcset="https://www.tsujileaks.com/wp-content/uploads/kyohou-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kyohou-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kyohou-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kyohou.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：一時休止。ニーズがあれば復活するかも。<br />
 &nbsp;<br />
@@ -429,37 +470,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=2061</link>
 		<pubDate>Mon, 11 Aug 2025 11:00:02 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2061</guid>
-		<comments>https://www.tsujileaks.com/?p=2061#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2061</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・Best Password Manager for Business, Enterprise &amp;a[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2061&quot;&gt;第270回 なんでもいろいろほどほどに！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton2061" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2061&amp;text=%E7%AC%AC270%E5%9B%9E%20%E3%81%AA%E3%82%93%E3%81%A7%E3%82%82%E3%81%84%E3%82%8D%E3%81%84%E3%82%8D%E3%81%BB%E3%81%A9%E3%81%BB%E3%81%A9%E3%81%AB%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2061" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://bitwarden.com/">Best Password Manager for Business, Enterprise &amp; Personal | Bitwarden</a><br />
-・<a href="https://www.vulncheck.com/blog/state-of-exploitation-1h-2025">State of Exploitation &#8211; A look Into The 1H-2025 Vulnerability Exploitation &amp; Threat Activity | Blog | VulnCheck</a><br />
-・<a href="https://feedly.com/cve">Current Common Vulnerabilities and Exposures</a><br />
-・<a href="https://whatsnewmail.yahoo.co.jp/yahoo/20250805a.html">他社メールソフト等を利用した海外からのアクセスが制限されます | Yahoo!メール新着情報</a><br />
-・<a href="https://whatsnewmail.yahoo.co.jp/yahoo/20250702a.html">（7/4追記）【重要】より安全なログイン方法によるアクセスが必須となります | Yahoo!メール新着情報</a><br />
-・<a href="https://sec.cloudapps.cisco.com/security/center/resources/CRM-vishing">Cisco Event Response: Vishing Attack Impacting Third-Party CRM System</a><br />
-・<a href="https://cloud.google.com/blog/topics/threat-intelligence/voice-phishing-data-extortion">The Cost of a Call: From Voice Phishing to Data Extortion | Google Cloud Blog</a><br />
-・<a href="https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/">Google suffers data breach in ongoing Salesforce data theft attacks</a><br />
-・<a href="https://www.salesforce.com/blog/protect-against-social-engineering/">Protect Your Salesforce Environment from Social Engineering Threats</a><br />
-・<a href="http://matsubayashoten.jp/shopdetail/000000000865/">麻辣青豆 (マーラー青豆) (1kg) 中国産</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/nasu.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/nasu-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2066" srcset="https://www.tsujileaks.com/wp-content/uploads/nasu-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/nasu-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/nasu-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/nasu.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：蝉の鳴き声って聞きました？ボクに惹かれたのかも。はじめは東名。アドベって読んでた。難儀は難儀やけど関係性構築もいるんちゃうかな。ケブ。昨年比較1割程度の増加。VulnCheckとKEVは通知機能使うといいと思います！CMSは相変らずプラグインなんですね。水曜日のパッチチューズデー。脅威アクター四天王。脆弱性の対処という意味では誰が悪用してくるかってあまり考えなくてもいい場合が多いと思う。積み上げ問題相変らず。言われてみたらそこまで影響があるとも思っていない。悪用の行き渡りも知りたい。脆弱性数よりも悪用の多さで知りたい。CL0Pが利用する脆弱性は一気に沢山行き渡る系。海外からのメールクライアントを制限していく。デフォルトで。より安全。パスワードレスを必須にしていく。不正ログイン後に何をされるんやろか。ビッシングからのCRMからの情報窃取。シスコの割にあっさりしてた。似たような事件の報告が続いていた。色違いのポケモンを狙って捕まえる人のことをシャイニーハンターと言います。6月に注意喚起からの8月に自分たちもと。言葉巧みな攻撃の手口の共有もあまり見ない。これは騙されるわが欲しい。オススメしてよかったんか。<br />
-&nbsp;<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から | 00:00 |<br />
-| お便りのコーナー | 04:50 |<br />
-| (P) VulnCheck による 2025年上半期の脆弱性悪用レポート | 11:19 |<br />
-| (N) Yahoo!メールのセキュリティ強化の取り組み | 31:45 |<br />
-| (T) Vishing による攻撃キャンペーン | 42:27 |<br />
-| オススメのアレ | 54:32 |
-</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2061">第270回 なんでもいろいろほどほどに！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_250811_semikowai.mp3" length="28596932" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・Best Password Manager for Business, Enterprise &amp;a[...]</itunes:subtitle>
 		<itunes:summary>Tweet・Best Password Manager for Business, Enterprise &amp;a[...]</itunes:summary>
@@ -4788,20 +4800,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>56:46</itunes:duration>
-	</item>
-	<item>
-		<title>第9回 短い間隔でノーアイデアだスペシャル</title>
-		<link>https://www.tsujileaks.com/?p=196</link>
-		<pubDate>Mon, 03 Sep 2012 14:00:34 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=196</guid>
-		<description>&lt;p&gt;Tweet いつものようにやるやる詐欺で数ヶ月空くというパターンにならず 今回は比較的早く出すことができちゃい[...]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=196&quot;&gt;第9回 短い間隔でノーアイデアだスペシャル&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<enclosure url="http://www.tsujileaks.com/media/tsujileaks9.m4a" length="5242880" type="audio/x-m4a" />
-		<itunes:subtitle>Tweet いつものようにやるやる詐欺で数ヶ月空くというパターンにならず 今回は比較的早く出すことができちゃい[...]</itunes:subtitle>
-		<itunes:summary>Tweet いつものようにやるやる詐欺で数ヶ月空くというパターンにならず 今回は比較的早く出すことができちゃい[...]</itunes:summary>
-		<itunes:author>セキュリティのアレ</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 	</item>
 </channel>
 </rss>
