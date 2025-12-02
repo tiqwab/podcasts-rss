@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 25 Nov 2025 04:00:13 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Dec 2025 11:00:41 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -54,6 +54,47 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第283回 我々、手も動かしてるんやで！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2137</link>
+		<pubDate>Mon, 01 Dec 2025 11:00:41 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2137</guid>
+		<comments>https://www.tsujileaks.com/?p=2137#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2137</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・Active Directory: Best Practices for Internal Dom[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2137&quot;&gt;第283回 我々、手も動かしてるんやで！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton2137" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2137&amp;text=%E7%AC%AC283%E5%9B%9E%20%E6%88%91%E3%80%85%E3%80%81%E6%89%8B%E3%82%82%E5%8B%95%E3%81%8B%E3%81%97%E3%81%A6%E3%82%8B%E3%82%93%E3%82%84%E3%81%A7%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2137" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://learn.microsoft.com/ja-jp/archive/technet-wiki/34981.active-directory-best-practices-for-internal-domain-and-network-names">Active Directory: Best Practices for Internal Domain and Network Names | Microsoft Learn</a><br />
+・<a href="https://are.bocchi-megane.dev/index.html">セキュリティのアレまとめ — セキュリティのアレまとめ</a><br />
+・<a href="https://www.npa.go.jp/bureau/cyber/pdf/R7_Vol.1cpal.pdf">サイバー警察局便りR7Vol.1「銀行から電話・・・はたして本物？企業の資産が危ない！」（R７.4.24）</a><br />
+・<a href="https://www.yomiuri.co.jp/local/kansai/news/20251128-OYO1T50040/">銀行装う電話「ボイスフィッシング」で口座情報を盗む、不正送金３億４０００万円被害…警察「金融機関からの電話は一度切り再度かけ直して」：地域ニュース : 読売新聞</a><br />
+・<a href="https://www.youtube.com/watch?v=H4GLDaMGu_I">「性的脅迫・セクストーションの恐怖」個人情報全てが盗まれる。ゾッとしたAIサイバー犯罪の進化とは？【落合陽一】 &#8211; YouTube</a><br />
+・<a href="https://www.npa.go.jp/higaisya/seihanzai/seihanzai.html">犯罪被害者等施策ホームページ &#8211; 警察庁 / 各都道府県警察の性犯罪被害相談電話につながる全国共通番号「♯８１０３（ハートさん）」</a><br />
+・<a href="https://www.fbi.gov/news/press-releases/sextortion-a-growing-threat-targeting-minors">Sextortion: A Growing Threat Targeting Minors — FBI</a><br />
+・<a href="https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/sextortion">Sextortion — FBI</a><br />
+・<a href="https://jp.technics.com/products/tws/az100/">ワイヤレスステレオインサイドホン EAH-AZ100｜Hi-Fi オーディオ &#8211; Technics（テクニクス）</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/moisture.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/moisture-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2141" srcset="https://www.tsujileaks.com/wp-content/uploads/moisture-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/moisture-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/moisture-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/moisture.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：12月か。2月って皆さんバタバタしてます？華やかなりし頃。余裕を持ったスケジュールを。根岸さんがひっさびさにWindows。インテル入ってる出る。ふざけるゆとり。一度決めたものを変える大変さ。古の霞ヶ関・霞ヶ浦問題。アレまとめはもう公認です！一連の地銀法人ユーザへの攻撃。入口は電話。振り込み上限が高いというのが狙い目と思われていそう。出所がどこやろか。精度高そうな気がする。「良いこと言った」って言われるとちょっぴり嬉しい辻さん。「フィッシングメールにご注意ください」の盲点。ばら撒きメールは観測されやすいから止められやすい。取引パスワードはどうしてるんやろか。リアルタイムやAitMとかかな。入口の先は応用利くなぁ。日本語を含むアジア圏の言語を扱える人を探す求人を見た。ボクがひっかかってないのちょっと残念？セクストーション被害に遭った方から連絡が来た。調べたて行き着いたそう。InstagramのDMからLINE。質の低い翻訳っぽい。ブラフもしてくる。まず「賭けになる」ということを強調した。できるだけ冷静かつ現実に沿いながら寄り添うことを意識しました。セクストーションをご存じなかった。インシデント時に大事なものの1つに「情緒」ってのがあると思ってる。事例紹介を快諾してくださって本当にありがとうございます。皆さんが相談されたときにも是非ご活用ください。あくまで個人でどうしようもなくなっている人のみですよ。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 07:46 |<br />
+| (N) ボイスフィッシングによる不正送金被害 | 17:18 |<br />
+| (T) セクストーション被害を受けた話 | 39:06 |<br />
+| オススメのアレ | 58:47 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2137">第283回 我々、手も動かしてるんやで！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_251201_akaruinational.mp3" length="32781826" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・Active Directory: Best Practices for Internal Dom[...]</itunes:subtitle>
+		<itunes:summary>Tweet・Active Directory: Best Practices for Internal Dom[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:08:05</itunes:duration>
+	</item>
+	<item>
 		<title>第282回 ラグ&#x1f499;ラグ&#x2665;ラグ&#x1f49a;！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2131</link>
 		<pubDate>Tue, 25 Nov 2025 04:00:13 +0000</pubDate>
@@ -72,7 +113,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://help.salesforce.com/s/articleView?id=005229029&amp;type=1">Security Advisory: Unusual Activity related to the Gainsight application</a><br />
 ・<a href="https://wwws.warnerbros.co.jp/bakudan-movie/">映画『爆弾』公式サイト</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/winterisstarting.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/winterisstarting-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2132" srcset="https://www.tsujileaks.com/wp-content/uploads/winterisstarting-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/winterisstarting-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/winterisstarting-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/winterisstarting.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/winterisstarting.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/winterisstarting-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2132" srcset="https://www.tsujileaks.com/wp-content/uploads/winterisstarting-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/winterisstarting-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/winterisstarting-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/winterisstarting.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：ステッカー結構配った。いいんです！経済産業省の方々、お待ちいたしております。#セキュルティのアレを付けてのポストでお便りになります。それぞれの英語ドキュメントへの向き合い方。クリスマス読まれへんかった。2つの違う反応。連絡がどこに来るか問題。フィッシングにひっかかった話。ガチで素。自動入力がされないことで。あれがAitMだったらと考えると。都合の良いように解釈してしまう。フィッシングの成功率が上がる時間帯。なんで今？NIST SP800-63B Rev.4。ユーザビリティ向上ってセキュリティ向上に繋がることもある。文字数短いのやめてほしい。パスワードへの依存からの脱却を意識していると思った。定期変更を止めることとセットで考えるべきこともある。ブラウザにパスワードを保存しないの文言。からの、気になった事件。事例が無いことがマズい。点検のきっかけにしてほしい。内通者が攻撃者に情報提供していた疑惑。特定は済んでる。どうやって特定したんやろか。以外と監視カメラから？テレグラムチャンネルを見ると。今後色々多岐にわたる動きが出てきそうなので注目していきたい。ただ、色々すぐ消されてるのは追いにくい。悪いことではないんだろうけれど。まさにScattered。<br />
 &nbsp;</p>
@@ -151,7 +192,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.bleepingcomputer.com/news/security/fbi-takes-down-breachforums-portal-used-for-salesforce-extortion/">FBI takes down BreachForums portal used for Salesforce extortion</a><br />
 ・<a href="https://www.youtube.com/channel/UCDishZFfEEFw_TRee8w4WRg">キュウ お笑いオフィシャルチャンネル &#8211; YouTube</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/yomikikase.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/yomikikase-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2123" srcset="https://www.tsujileaks.com/wp-content/uploads/yomikikase-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/yomikikase-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/yomikikase-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/yomikikase.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/yomikikase.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/yomikikase-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2123" srcset="https://www.tsujileaks.com/wp-content/uploads/yomikikase-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/yomikikase-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/yomikikase-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/yomikikase.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：床暖付けてもた。寝るときも仕事のこと考えちゃって。買い物袋ストッカーもおすすめですよ。「セキュリティ・プラス人材」言っていきまっせ。アプリ増える問題。他人に教える前にまずは自分が実践してみるって大事。適用範囲の把握。本を読んだ話。結構レアケースじゃないですかね。連休前の金曜でしたね。インシデント対応時のメンバへのケア。やったらあかんことリスト。経営視点という学び。結構シビアだったみたい。食事大切です。まじで。いざってときの安全な回線ってあってよかったってなるのかも。シャットダウン時のログが取られなくなった。詐欺メール内でも登場するくらい有名なスパイウェア。容量もそんな大きくないのになんで消すん？OSのアップデートごとにフォレンジックツール対応問題ありますね。陰謀論出てきそうな感じある。ScatteredでLAPSUS$でHunters。ランサムどころではない状況。みんなLockbitのこと忘れてない？リークはまだだけど検体あるのでもう動いてるっぽい。ランサムカルテルみたいな動きは2019年くらいからありますよね。アフィリエイト売り手市場。LockbitってQilin水掛け論みたいな喧嘩してたよなぁ。どういった起因で数字に変化を与えるか。背景情報で厚みがでると思いますよ！<br />
 &nbsp;</p>
@@ -424,33 +465,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=2081</link>
 		<pubDate>Tue, 02 Sep 2025 11:00:37 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2081</guid>
-		<comments>https://www.tsujileaks.com/?p=2081#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2081</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・Detecting and countering misuse of AI: August 202[...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2081&quot;&gt;第273回 収録参加したいって方いますか！？スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton2081" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2081&amp;text=%E7%AC%AC273%E5%9B%9E%20%E5%8F%8E%E9%8C%B2%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%9F%E3%81%84%E3%81%A3%E3%81%A6%E6%96%B9%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%81%EF%BC%9F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2081" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.anthropic.com/news/detecting-countering-misuse-aug-2025">Detecting and countering misuse of AI: August 2025 \ Anthropic</a><br />
-・<a href="https://www.ftc.gov/news-events/news/press-releases/2025/08/ftc-chairman-ferguson-warns-companies-against-censoring-or-weakening-data-security-americans-behest">FTC Chairman Ferguson Warns Companies Against Censoring or Weakening the Data Security of Americans at the Behest of Foreign Powers | Federal Trade Commission</a><br />
-・<a href="https://www.reuters.com/sustainability/boards-policy-regulation/us-spy-chief-gabbard-says-uk-agreed-drop-backdoor-mandate-apple-2025-08-19/">US spy chief Gabbard says UK agreed to drop &#8216;backdoor&#8217; mandate for Apple | Reuters</a><br />
-・<a href="https://reliaquest.com/blog/threat-spotlight-cybercrime-is-hiring-recruiting-ai-iot-and-cloud-experts/">Cybercrime Is Hiring: Recruiting AI, IoT, and Cloud Experts to Fuel Future Campaigns</a><br />
-・<a href="https://www.youtube.com/watch?v=y7jPl-o79sc">古山菜の花『もののけはいないよ』（Live-Full Ver.@ソロシンガー版音楽深化論~the battle~） &#8211; YouTube</a><br />
-・<a href="https://nanohakoyama.ryzm.jp/">古山菜の花オフィシャルウェブサイト</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/slime.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/slime-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2082" srcset="https://www.tsujileaks.com/wp-content/uploads/slime-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/slime-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/slime-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/slime.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：ずっと付いてくる虫が最終的にとった行動とは。腐り始めてるのかな。グッズ。ニンバスですね。収録参加したいですか？生成AI悪用の調査。効率化図ってるなぁ。RaaSにもノーコードの波が。正常な範囲での悪用。それができないと便利でなくなるもんな。外国の政府の要請により暗号を弱くしたりバックドア使っちゃダメとのこと。あったあった。あの件は断念に至ったのか。どこの国に対してもってことは。自分たちはいいとなるとかなりのアドですね。犯罪者の求人が活性化。ワークフローの効率化にAI。でディープフェイクに加えて。英語ネイティブへのニーズかなりあるみたい。実物を見に行く必要はないけどトレンドを知るくらいはしておいたほうがいい。でも足を掬われないようにする基本は大事。とんでもない方を見つけた。<br />
-&nbsp;<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から | 00:00 |<br />
-| お便りのコーナー | 04:57 |<br />
-| (P) Anthropic の脅威レポートから | 18:29 |<br />
-| (N) FTC からテック企業への警告文書 | 30:44 |<br />
-| (T) アンダーグラウンドにおける求人動向 | 41:08 |<br />
-| オススメのアレ | 54:19 |
-</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2081">第273回 収録参加したいって方いますか！？スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_250902_hanamushi.mp3" length="28517059" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・Detecting and countering misuse of AI: August 202[...]</itunes:subtitle>
 		<itunes:summary>Tweet・Detecting and countering misuse of AI: August 202[...]</itunes:summary>
@@ -4779,21 +4795,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>6:48</itunes:duration>
-	</item>
-	<item>
-		<title>第12回 みんなが幸せになる嘘！スペシャル</title>
-		<link>https://www.tsujileaks.com/?p=266</link>
-		<pubDate>Tue, 05 Feb 2013 13:57:24 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=266</guid>
-		<description>&lt;p&gt;Tweet 目指せリスナー２桁！ 年始に公開されたntsujiの記事についてお話しました。 何でもそうですが、[...]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=266&quot;&gt;第12回 みんなが幸せになる嘘！スペシャル&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<enclosure url="http://www.tsujileaks.com/media/tsujileaks201302.m4a" length="25257686" type="audio/x-m4a" />
-		<itunes:subtitle>Tweet 目指せリスナー２桁！ 年始に公開されたntsujiの記事についてお話しました。 何でもそうですが、[...]</itunes:subtitle>
-		<itunes:summary>Tweet 目指せリスナー２桁！ 年始に公開されたntsujiの記事についてお話しました。 何でもそうですが、[...]</itunes:summary>
-		<itunes:author>セキュリティのアレ</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
-		<itunes:duration>52:05</itunes:duration>
 	</item>
 </channel>
 </rss>
