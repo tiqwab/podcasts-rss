@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 01 Dec 2025 11:00:41 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Dec 2025 12:07:54 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -54,6 +54,51 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第284回 アレの名前がアレ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2146</link>
+		<pubDate>Mon, 08 Dec 2025 11:00:21 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2146</guid>
+		<comments>https://www.tsujileaks.com/?p=2146#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2146</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>&lt;p&gt;Tweet・アレ (Are) | 競走馬データ – netkeiba ・JAPAN PODCAST[...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2146&quot;&gt;第284回 アレの名前がアレ！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="tweetbutton2146" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2146&amp;text=%E7%AC%AC284%E5%9B%9E%20%E3%82%A2%E3%83%AC%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%8C%E3%82%A2%E3%83%AC%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2146" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://db.netkeiba.com/horse/2021103287/">アレ (Are) | 競走馬データ &#8211; netkeiba</a><br />
+・<a href="https://www.japanpodcastawards.com/">JAPAN PODCAST AWARDS ジャパンポッドキャストアワード</a><br />
+・<a href="https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components">Critical Security Vulnerability in React Server Components – React</a><br />
+・<a href="https://react2shell.com/">React2Shell (CVE-2025-55182)</a><br />
+・<a href="https://blog.cloudflare.com/5-december-2025-outage/">Cloudflare outage on December 5, 2025</a><br />
+・<a href="https://aws.amazon.com/blogs/security/china-nexus-cyber-threat-groups-rapidly-exploit-react2shell-vulnerability-cve-2025-55182/">China-nexus cyber threat groups rapidly exploit React2Shell vulnerability (CVE-2025-55182) | AWS Security Blog</a><br />
+・<a href="https://slcyber.io/research-center/high-fidelity-detection-mechanism-for-rsc-next-js-rce-cve-2025-55182-cve-2025-66478">High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 &amp; CVE-2025-66478) › Searchlight Cyber</a><br />
+・<a href="https://www.nikkei.com/article/DGXZQOUC186PB0Y5A111C2000000/">ランサムウエア攻撃受けたら「交渉はすべき」</a><br />
+・<a href="https://www.cnn.co.jp/usa/35240003.html">セキュリティー企業の元従業員2人、ランサムウェア攻撃の共謀罪で起訴 被害企業から多額を恐喝 &#8211; CNN.co.jp</a><br />
+・<a href="https://blog.cloudflare.com/ddos-threat-report-2025-q3/">Cloudflare&#8217;s 2025 Q3 DDoS threat report &#8212; including Aisuru, the apex of botnets</a><br />
+・<a href="https://techcommunity.microsoft.com/blog/azureinfrastructureblog/defending-the-cloud-azure-neutralized-a-record-breaking-15-tbps-ddos-attack/4470422">Defending the cloud: Azure neutralized a record-breaking 15 Tbps DDoS attack | Microsoft Community Hub</a><br />
+・<a href="https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/">DDoS Botnet Aisuru Blankets US ISPs in Record DDoS – Krebs on Security</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/winterramen.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/winterramen-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2147" srcset="https://www.tsujileaks.com/wp-content/uploads/winterramen-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/winterramen-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/winterramen-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/winterramen.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：競走馬の名前は2文字から9文字以下でした。ちなみにツジハンサムボーイっていう馬も過去にいたんです。いつも反応いただいてありがとうございます！弱くなる流れ。フルスコア。どこに紛れているのか。時系列で変化する情報も。Log4shellのときが教訓になるかも。よかれと思ってやったことが。攻撃者と交渉をしたほうがいいという主張。立ち回る上で都合の良い人物像を作るんですね。見極めって難しいと思うんやけど、何回も交渉しているとあのときのみたいな感じになったりもするんかな。法律についても素人ながら調べて見ました。ボクとしては交渉と判断の順序が逆かなって思ってます。交渉のプロの見極めはどうすんねん問題。交渉することのゴールは何か。先に出来ることも意識、実施してほしい。レイヤーが逆転した。その理由とは。ハイパーボリューメトリック。Aisuru。合算とはいえトンデモナイし、何の数字ってレベル。どうしたらいいってどうしようもない。根本的には元を絶たないといけない。継続時間は大体短め。DDoS軽視されがち問題。あの方にもグローバルに活躍していただいて。TorでなくてもアメリカのIPアドレスからもAccess Deniedでした。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 04:17 |<br />
+| (P) React Server Components の脆弱性 | 12:33 |<br />
+| (T) ランサムウエア攻撃受けたら「交渉はすべき」なのか | 24:19 |<br />
+| (N) Cloudflare の DDoS 脅威レポート 2025 Q3 | 40:21 |<br />
+| オススメのアレ | 55:45 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2146">第284回 アレの名前がアレ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_251206_wasure.mp3" length="29280106" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・アレ (Are) | 競走馬データ – netkeiba ・JAPAN PODCAST[...]</itunes:subtitle>
+		<itunes:summary>Tweet・アレ (Are) | 競走馬データ – netkeiba ・JAPAN PODCAST[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:00:47</itunes:duration>
+	</item>
+	<item>
 		<title>第283回 我々、手も動かしてるんやで！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2137</link>
 		<pubDate>Mon, 01 Dec 2025 11:00:41 +0000</pubDate>
@@ -74,7 +119,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/sextortion">Sextortion — FBI</a><br />
 ・<a href="https://jp.technics.com/products/tws/az100/">ワイヤレスステレオインサイドホン EAH-AZ100｜Hi-Fi オーディオ &#8211; Technics（テクニクス）</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/moisture.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/moisture-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2141" srcset="https://www.tsujileaks.com/wp-content/uploads/moisture-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/moisture-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/moisture-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/moisture.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/moisture.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/moisture-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2141" srcset="https://www.tsujileaks.com/wp-content/uploads/moisture-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/moisture-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/moisture-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/moisture.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：12月か。2月って皆さんバタバタしてます？華やかなりし頃。余裕を持ったスケジュールを。根岸さんがひっさびさにWindows。インテル入ってる出る。ふざけるゆとり。一度決めたものを変える大変さ。古の霞ヶ関・霞ヶ浦問題。アレまとめはもう公認です！一連の地銀法人ユーザへの攻撃。入口は電話。振り込み上限が高いというのが狙い目と思われていそう。出所がどこやろか。精度高そうな気がする。「良いこと言った」って言われるとちょっぴり嬉しい辻さん。「フィッシングメールにご注意ください」の盲点。ばら撒きメールは観測されやすいから止められやすい。取引パスワードはどうしてるんやろか。リアルタイムやAitMとかかな。入口の先は応用利くなぁ。日本語を含むアジア圏の言語を扱える人を探す求人を見た。ボクがひっかかってないのちょっと残念？セクストーション被害に遭った方から連絡が来た。調べたて行き着いたそう。InstagramのDMからLINE。質の低い翻訳っぽい。ブラフもしてくる。まず「賭けになる」ということを強調した。できるだけ冷静かつ現実に沿いながら寄り添うことを意識しました。セクストーションをご存じなかった。インシデント時に大事なものの1つに「情緒」ってのがあると思ってる。事例紹介を快諾してくださって本当にありがとうございます。皆さんが相談されたときにも是非ご活用ください。あくまで個人でどうしようもなくなっている人のみですよ。<br />
 &nbsp;</p>
@@ -151,7 +196,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.itmedia.co.jp/news/articles/2510/28/news067.html">X、11月10日までの2要素認証（2FA）再登録をユーザーに要請 「Twitterドメイン廃止のため」 &#8211; ITmedia NEWS</a><br />
 ・<a href="https://www.lawson.co.jp/recommend/original/detail/1510958_1996.html">オーベルジーヌ監修 チキン焼カレー｜ローソン公式サイト</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/kouraku.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kouraku-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2128" srcset="https://www.tsujileaks.com/wp-content/uploads/kouraku-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kouraku-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kouraku-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kouraku.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/kouraku.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/kouraku-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2128" srcset="https://www.tsujileaks.com/wp-content/uploads/kouraku-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/kouraku-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/kouraku-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/kouraku.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：そういう時期。めっちゃしょっちゅう会ってると思われてるみたい。それぞれの寝るとき。おすすめじゃないアレ。リーダーシップ+センスの大切さ。久々のコンプ。聴いてないけど欲しい。キリンなのかチーリンなのかキーリンなのか。今年は爆増。弁護士オプション結構自分にはインパクトあった。認証情報が漏えいからの。こんな状況で多要素まだなとこあるんですね。LOLって悪用だけではない。色々と設定変更もしてくる。ちょっと懐かしいCyberduck。無効にしたり、通るようにしたり。ほんまなかなかでてこないのつらい。CVE-2025-61932。脆弱性はエンドポイントに。正規のサーバになりすましたものに接続して、ん？なんか聞いたことあるような。取り上げられ方に違和感。注意喚起の在り方。ナラティブ次第。攻撃試行を受ける可能性が高まることが想定される利用例って何？訂正します。再三の再登録通知。ドメイン廃止に向けて。ほっとした話の中に見た盲点。Twitterって呼んでいきたい。<br />
 &nbsp;</p>
@@ -422,36 +467,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=2087</link>
 		<pubDate>Tue, 09 Sep 2025 11:00:35 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2087</guid>
-		<comments>https://www.tsujileaks.com/?p=2087#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2087</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>&lt;p&gt;Tweet・ついに決勝戦！圧巻のパフォーマンスに審査も難航、、、。勝利を掴むのはどっちだ！？ – [...]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2087&quot;&gt;第274回 歯抜け！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<content:encoded><![CDATA[<div id="tweetbutton2087" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2087&amp;text=%E7%AC%AC274%E5%9B%9E%20%E6%AD%AF%E6%8A%9C%E3%81%91%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2087" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.youtube.com/watch?v=TQPc2ijJqYE">ついに決勝戦！圧巻のパフォーマンスに審査も難航、、、。勝利を掴むのはどっちだ！？ &#8211; YouTube</a><br />
-・<a href="https://www.soumu.go.jp/menu_news/s-news/01kiban18_01000260.html">総務省｜報道資料｜フィッシングメール対策の強化に関する要請</a><br />
-・<a href="https://www.antiphishing.jp/report/monthly/202507.html">フィッシング対策協議会 Council of Anti-Phishing Japan | 報告書類 | 月次報告書 | 2025/07 フィッシング報告状況</a><br />
-・<a href="https://www.recordedfuture.com/research/h1-2025-malware-and-vulnerability-trends">H1 2025 Malware and Vulnerability Trends</a><br />
-・<a href="https://trust.salesloft.com/?uid=Drift%2FSalesforce+Security+Notification">Salesloft Trust Portal</a><br />
-・<a href="https://cloud.google.com/blog/topics/threat-intelligence/data-theft-salesforce-instances-via-salesloft-drift">Widespread Data Theft Targets Salesforce Instances via Salesloft Drift | Google Cloud Blog</a><br />
-・<a href="https://blog.cloudflare.com/response-to-salesloft-drift-incident/">The impact of the Salesloft Drift breach on Cloudflare and our customers</a><br />
-・<a href="https://www.schwarzkopf-professional.com/jp/ja/fibreplex/homecare.html">FIBREPLEX Homecare | Schwarzkopf Professional</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/dragonfly.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/dragonfly-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2088" srcset="https://www.tsujileaks.com/wp-content/uploads/dragonfly-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/dragonfly-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/dragonfly-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/dragonfly.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：今歯取れた。優勝おめでとうございます。壁紙募集！収録参加はやろう。<br />
-アレながら。ありがたいコメント！来るところには来る。来ないところには全然来ない。そのあたりギャップがあるのかも。届くところにはなぜ届くのか。その傾向は。プラットフォームごとの濃淡もあるのかな。なかなかに根深いかも。なかなかに鰻登り。エッジデバイスを合算するとMS製品より多くなる。KEVにCVSSのエッセンスでフィルタしました。基準を作るときは漏れが生まれないかの注意が必要。悪用の有無に加えて、シナリオがあるといいかも。ドリドリ。名前ややこしや。巻き込まれまくってる。お手本になるけど実際真似ようとすると難しい。ドリフトしたのはボクか。<br />
-&nbsp;<br />
-&nbsp;</p>
-<blockquote>
-<p>【チャプター】<br />
-| いつもの雑談から | 00:00 |<br />
-| お便りのコーナー | 03:21 |<br />
-| (N) 総務省からフィッシングメール対策強化の要請 | 12:07 |<br />
-| (T) 2025年上半期の脆弱性の動向 | 30:04 |<br />
-| (P) Salesloft Drift から Salesforce へのサプライチェーン攻撃 | 47:49 |<br />
-| オススメのアレ | 58:43 |
-</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2087">第274回 歯抜け！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_250909_mariokart.mp3" length="30524985" type="audio/mpeg" />
 		<itunes:subtitle>Tweet・ついに決勝戦！圧巻のパフォーマンスに審査も難航、、、。勝利を掴むのはどっちだ！？ – [...]</itunes:subtitle>
 		<itunes:summary>Tweet・ついに決勝戦！圧巻のパフォーマンスに審査も難航、、、。勝利を掴むのはどっちだ！？ – [...]</itunes:summary>
@@ -4780,21 +4797,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>49:01</itunes:duration>
-	</item>
-	<item>
-		<title>第13回 勢いにまかせて急遽収録が開始されたよ！スペシャル</title>
-		<link>https://www.tsujileaks.com/?p=281</link>
-		<pubDate>Wed, 13 Feb 2013 12:39:12 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=281</guid>
-		<description>&lt;p&gt;Tweet 某所で某セミナーの打ち合わせをした勢いで収録しました。 後先考えず急遽収録したら… 今回、短いです[...]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=281&quot;&gt;第13回 勢いにまかせて急遽収録が開始されたよ！スペシャル&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
-		<enclosure url="http://www.tsujileaks.com/media/tsujileaks_special.m4a" length="3546117" type="audio/x-m4a" />
-		<itunes:subtitle>Tweet 某所で某セミナーの打ち合わせをした勢いで収録しました。 後先考えず急遽収録したら… 今回、短いです[...]</itunes:subtitle>
-		<itunes:summary>Tweet 某所で某セミナーの打ち合わせをした勢いで収録しました。 後先考えず急遽収録したら… 今回、短いです[...]</itunes:summary>
-		<itunes:author>セキュリティのアレ</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
-		<itunes:duration>6:48</itunes:duration>
 	</item>
 </channel>
 </rss>
