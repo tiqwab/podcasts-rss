@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 15 Dec 2025 11:52:16 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 Dec 2025 11:00:01 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,45 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第286回 尋常じゃないんだ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2162</link>
+		<pubDate>Tue, 23 Dec 2025 11:00:01 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2162</guid>
+		<comments>https://www.tsujileaks.com/?p=2162#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2162</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<div id="tweetbutton2162" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2162&amp;text=%E7%AC%AC286%E5%9B%9E%20%E5%B0%8B%E5%B8%B8%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%82%93%E3%81%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2162" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://hiroba.dqx.jp/sc/topics/detail/77143919d1234297079f075357988f3b/">クリスマスイベント「もうひとつの星夜祭２」 （2025/12/10更新）｜目覚めし冒険者の広場</a><br />
+・<a href="https://notice.go.jp/status">最近の観測状況 | NOTICE</a><br />
+・<a href="https://www.cyber.go.jp/pdf/press/20240719NISC_press.pdf">横断的アタックサーフェスマネジメント（ASM）事業の運用開始に係るプレスリリース</a><br />
+・<a href="https://amii.ynu.codes/">am I infected? &#8211; マルウェア感染・脆弱性診断サービス</a><br />
+・<a href="https://securityscorecard.com/blog/unmasking-a-new-china-linked-covert-orb-network-inside-the-lapdogs-campaign/">Unmasking A New China-Linked Covert ORB Network: Inside the LapDogs Campaign &#8211; SecurityScorecard</a><br />
+・<a href="https://www.amazon.co.jp/dp/B08M5JSLLT">Amazon.co.jp: 長谷川刃物 CANARY 段ボールのこ ダンちゃん フッ素コーティング キャップ付 DC-190FC : DIY・工具・ガーデン</a><br />
+・<a href="https://www.nict.go.jp/press/2025/05/13-1.html">Web媒介型サイバー攻撃対策プロジェクト「WarpDrive」のゲーム機能を一新！｜2025年｜NICT-情報通信研究機構</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/candle2.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/candle2-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2163" srcset="https://www.tsujileaks.com/wp-content/uploads/candle2-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/candle2-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/candle2-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/candle2.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：尋常じゃ無い！<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から? | 00:00 |<br />
+| お便りのコーナー | 05:27 |<br />
+| NOTICE の最近の状況 | 15:19 |<br />
+| (その他の活動 1) 行政機関向け ASM | 29:54 |<br />
+| (その他の活動 2) EOL 製品の調査 | 33:17 |<br />
+| (その他の活動 3) 注意喚起を受領したユーザの認知・行動に関する研究 | 38:22 |<br />
+| (その他の活動 4) LapDogs キャンペーンの追跡 | 45:38 |<br />
+| 最近モヤモヤする話 | 54:11 |<br />
+| オススメのアレ | 63:55 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2162">第286回 尋常じゃないんだ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_251223_notJinjoyou.mp3" length="33477485" type="audio/mpeg" />
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:09:32</itunes:duration>
+	</item>
+	<item>
 		<title>第285回 お客様は神様です！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2152</link>
 		<pubDate>Mon, 15 Dec 2025 11:00:04 +0000</pubDate>
@@ -70,7 +109,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.payroll.co.jp/Payroll-WRDPRS/wp-content/uploads/2025/12/20251209_%E3%80%90%E9%87%8D%E8%A6%81%E3%80%91%E5%85%88%E6%97%A5%E3%81%94%E6%A1%88%E5%86%85%E3%81%97%E3%81%9F%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0%E8%A9%90%E6%AC%BA%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%BF%BD%E5%8A%A0%E6%83%85%E5%A0%B1.pdf">【重要】先日ご案内したフィッシング詐欺メールに関する追加情報</a><br />
 ・<a href="https://kickswrap.com/products/foam-cleaner-200ml">Foam Cleaner 200ml – KicksWrap®︎</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/xms.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/xms-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2153" srcset="https://www.tsujileaks.com/wp-content/uploads/xms-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/xms-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/xms-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/xms.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/xms.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/xms-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2153" srcset="https://www.tsujileaks.com/wp-content/uploads/xms-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/xms-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/xms-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/xms.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：臨場ええわ。三波春夫さんですね。テンションも関西弁もバキバキ。尋常じゃ無い回。公開オンライン収録について。2026年1月24日22時からです。連絡くださいね！ランサムボーイ。ハンサムギャング。300回見えてきた。マルチプルじゃなくてマルチキャスト。詳しい方は教えてください。ブラウザの拡張問題。中身も期間も興味深い。まずはアフィリエイトコードからスタート。徐々にエスカレートしていく。信用を悪用。バックドアまで。狙い澄ました攻撃も可能。数は水増ししてる可能性あると思う。ブラウザってもう第二のOSやろ。組織、個人それぞれでできる対策。目的は何だったのか。パンダということは。EDRとかEPPで検知できるんかいな。AMOS。いわゆるマルバ。質問した結果の共有ってことですね。ClickFix的な。その回答を用意するのが巧妙だ。広告業界頑張ってほしい。教育にも入れた方がよくない？自分も検索気を付けよう。とあるフィッシング詐欺に関する注意喚起。めっちゃ時節のネタ。出た！訓練でしたパターン。重要なお願い！事前調整大事。準備八割！こうならないような注意喚起してほしい。狼少年を懸念。逆効果を生んじゃいかねない。訓練の失敗事例と再発防止策の事例をご存じの方、教えてくれると嬉しいです。<br />
 &nbsp;</p>
@@ -149,7 +188,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/sextortion">Sextortion — FBI</a><br />
 ・<a href="https://jp.technics.com/products/tws/az100/">ワイヤレスステレオインサイドホン EAH-AZ100｜Hi-Fi オーディオ &#8211; Technics（テクニクス）</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/moisture.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/moisture-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2141" srcset="https://www.tsujileaks.com/wp-content/uploads/moisture-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/moisture-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/moisture-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/moisture.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/moisture.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/moisture-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2141" srcset="https://www.tsujileaks.com/wp-content/uploads/moisture-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/moisture-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/moisture-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/moisture.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：12月か。2月って皆さんバタバタしてます？華やかなりし頃。余裕を持ったスケジュールを。根岸さんがひっさびさにWindows。インテル入ってる出る。ふざけるゆとり。一度決めたものを変える大変さ。古の霞ヶ関・霞ヶ浦問題。アレまとめはもう公認です！一連の地銀法人ユーザへの攻撃。入口は電話。振り込み上限が高いというのが狙い目と思われていそう。出所がどこやろか。精度高そうな気がする。「良いこと言った」って言われるとちょっぴり嬉しい辻さん。「フィッシングメールにご注意ください」の盲点。ばら撒きメールは観測されやすいから止められやすい。取引パスワードはどうしてるんやろか。リアルタイムやAitMとかかな。入口の先は応用利くなぁ。日本語を含むアジア圏の言語を扱える人を探す求人を見た。ボクがひっかかってないのちょっと残念？セクストーション被害に遭った方から連絡が来た。調べたて行き着いたそう。InstagramのDMからLINE。質の低い翻訳っぽい。ブラフもしてくる。まず「賭けになる」ということを強調した。できるだけ冷静かつ現実に沿いながら寄り添うことを意識しました。セクストーションをご存じなかった。インシデント時に大事なものの1つに「情緒」ってのがあると思ってる。事例紹介を快諾してくださって本当にありがとうございます。皆さんが相談されたときにも是非ご活用ください。あくまで個人でどうしようもなくなっている人のみですよ。<br />
 &nbsp;</p>
@@ -9539,25 +9578,6 @@ mtakeshiが海外で仕入れてきたお話をさせていただいておりま
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>48:48</itunes:duration>
-	</item>
-	<item>
-		<title>第15回 収録して公開までのデモしたよ！ スペシャル</title>
-		<link>https://www.tsujileaks.com/?p=309</link>
-		<pubDate>Wed, 24 Apr 2013 12:42:22 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=309</guid>
-		<comments>https://www.tsujileaks.com/?p=309#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=309</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<div id="tweetbutton309" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D309&amp;text=%E7%AC%AC15%E5%9B%9E%20%E5%8F%8E%E9%8C%B2%E3%81%97%E3%81%A6%E5%85%AC%E9%96%8B%E3%81%BE%E3%81%A7%E3%81%AE%E3%83%87%E3%83%A2%E3%81%97%E3%81%9F%E3%82%88%EF%BC%81%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D309" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>ひょんなことでこのポッドキャストが取材を受けることになり<br />
-都内某所で取材を受けながら収録をしてその場で公開するよ！っていうデモをしました。<br />
-というわけでみなさんそのデモにお付き合いくださいませ！！！</p>
-<p></p><p>The post <a href="https://www.tsujileaks.com/?p=309">第15回 収録して公開までのデモしたよ！ スペシャル</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
-		<enclosure url="http://www.tsujileaks.com/media/tsujileaks_15.m4a" length="3533711" type="audio/x-m4a" />
-		<itunes:author>セキュリティのアレ</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
-		<itunes:duration>6:39</itunes:duration>
 	</item>
 </channel>
 </rss>
