@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 23 Dec 2025 11:00:01 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Jan 2026 02:45:49 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -31,7 +31,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 	<itunes:new-feed-url>https://www.tsujileaks.com/?feed=podcast</itunes:new-feed-url>
 	<itunes:author>セキュリティのアレ</itunes:author>
-	<itunes:explicit>false</itunes:explicit>
 	<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 	<itunes:owner>
 		<itunes:name>セキュリティのアレ</itunes:name>
@@ -52,6 +51,42 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第287回 5点から10点は底上げされるんだ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2167</link>
+		<pubDate>Tue, 13 Jan 2026 02:45:49 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2167</guid>
+		<comments>https://www.tsujileaks.com/?p=2167#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2167</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<div id="tweetbutton2167" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2167&amp;text=%E7%AC%AC287%E5%9B%9E%205%E7%82%B9%E3%81%8B%E3%82%8910%E7%82%B9%E3%81%AF%E5%BA%95%E4%B8%8A%E3%81%92%E3%81%95%E3%82%8C%E3%82%8B%E3%82%93%E3%81%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2167" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.post.japanpost.jp/service/webletter/">Webレター 案内状、通知書、請求書、DM等の発送・郵便代行 &#8211; 日本郵便</a><br />
+・<a href="https://blog.xlab.qianxin.com/kimwolf-botnet-en/">Kimwolf Exposed: The Massive Android Botnet with 1.8 Million Infected Devices</a><br />
+・<a href="https://synthient.com/blog/a-broken-system-fueling-botnets">A Broken System Fueling Botnets | Synthient</a><br />
+・<a href="https://www.itmedia.co.jp/news/articles/2510/02/news081.html">証券口座乗っ取りの“STBが踏み台”報道がケーブルテレビ業界に波紋 問題は「ネット通販等で売られている管理されていない端末」 &#8211; ITmedia NEWS</a><br />
+・<a href="https://jerrygamblin.com/2026/01/01/2025-cve-data-review/">2025 CVE Data Review – JerryGamblin.com</a><br />
+・<a href="https://cve.icu/">CVE.ICU &#8211; CVE Analysis Dashboard</a><br />
+・<a href="https://www.resecurity.com/blog/article/synthetic-data-a-new-frontier-for-cyber-deception-and-honeypots">Resecurity | Synthetic Data: A New Frontier for Cyber Deception and Honeypots</a><br />
+・<a href="https://prtimes.jp/main/html/rd/p/000002033.000046210.html">シリーズ累計販売数４億５千万本突破の「ファミボス」 初のファミマルプレミアム商品「ファミボス ゲイシャブレンド ブラック」を発売～幻の品種と呼ばれるエチオピア産「ゲイシャ豆」を51%使用～ | 株式会社ファミリーマートのプレスリリース</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/2026.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/2026-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2168" srcset="https://www.tsujileaks.com/wp-content/uploads/2026-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/2026-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/2026-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/2026.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：アレましておめでとうございます！今年の1文字決めてます。どっちのVPN？皆さん合格おめでとうございます！連絡するスキーム依存の難しさ。事故の時あったら良さそうなもの。あいする。C2からだったら信頼性高い数字っぽい。何故こんなに多いのか。除外してへんのかい！STPって主語でかく汚名きせられた感ある。もはやマルウェアみたいなプロクシだけに踏んだり蹴ったりってね。高齢化でも間違ってない。右肩上がりのCVE。WPのプラグインは水増し要因っぽさありますよね。あんま変わらないというかちょっと悪くなってる。注意喚起側になんらかのテコ入れが必要だと思った。流す情報と使い方のセット。SLH関連。やったったと宣言したのに。障害起きて実IP。キルスイッチなかったんかいね。漏洩データの活用の是非。とはいえ欺き方難しいですよね。さらにとはいえ学びはあった。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 05:14 |<br />
+| (N) Residential Proxy を利用する Kimwolf ボットネットの感染手法 | 21:33 |<br />
+| (P) 2025年の脆弱性状況ふりかえり | 40:01 |<br />
+| (T) Resecurity によるハニーポット観測 | 59:36 |<br />
+| オススメのアレ | 72:56 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2167">第287回 5点から10点は底上げされるんだ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260113_shin.mp3" length="37037213" type="audio/mpeg" />
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:16:57</itunes:duration>
+	</item>
+	<item>
 		<title>第286回 尋常じゃないんだ！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2162</link>
 		<pubDate>Tue, 23 Dec 2025 11:00:01 +0000</pubDate>
@@ -68,7 +103,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.amazon.co.jp/dp/B08M5JSLLT">Amazon.co.jp: 長谷川刃物 CANARY 段ボールのこ ダンちゃん フッ素コーティング キャップ付 DC-190FC : DIY・工具・ガーデン</a><br />
 ・<a href="https://www.nict.go.jp/press/2025/05/13-1.html">Web媒介型サイバー攻撃対策プロジェクト「WarpDrive」のゲーム機能を一新！｜2025年｜NICT-情報通信研究機構</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/candle2.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/candle2-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2163" srcset="https://www.tsujileaks.com/wp-content/uploads/candle2-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/candle2-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/candle2-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/candle2.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/candle2.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/candle2-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2163" srcset="https://www.tsujileaks.com/wp-content/uploads/candle2-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/candle2-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/candle2-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/candle2.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：尋常じゃ無い！<br />
 &nbsp;</p>
@@ -87,7 +122,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_251223_notJinjoyou.mp3" length="33477485" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:32</itunes:duration>
 	</item>
 	<item>
@@ -125,7 +159,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_251215_rinojou.mp3" length="28514978" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:12</itunes:duration>
 	</item>
 	<item>
@@ -150,7 +183,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://techcommunity.microsoft.com/blog/azureinfrastructureblog/defending-the-cloud-azure-neutralized-a-record-breaking-15-tbps-ddos-attack/4470422">Defending the cloud: Azure neutralized a record-breaking 15 Tbps DDoS attack | Microsoft Community Hub</a><br />
 ・<a href="https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/">DDoS Botnet Aisuru Blankets US ISPs in Record DDoS – Krebs on Security</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/winterramen.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/winterramen-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2147" srcset="https://www.tsujileaks.com/wp-content/uploads/winterramen-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/winterramen-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/winterramen-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/winterramen.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/winterramen.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/winterramen-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2147" srcset="https://www.tsujileaks.com/wp-content/uploads/winterramen-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/winterramen-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/winterramen-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/winterramen.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：競走馬の名前は2文字から9文字以下でした。ちなみにツジハンサムボーイっていう馬も過去にいたんです。いつも反応いただいてありがとうございます！弱くなる流れ。フルスコア。どこに紛れているのか。時系列で変化する情報も。Log4shellのときが教訓になるかも。よかれと思ってやったことが。攻撃者と交渉をしたほうがいいという主張。立ち回る上で都合の良い人物像を作るんですね。見極めって難しいと思うんやけど、何回も交渉しているとあのときのみたいな感じになったりもするんかな。法律についても素人ながら調べて見ました。ボクとしては交渉と判断の順序が逆かなって思ってます。交渉のプロの見極めはどうすんねん問題。交渉することのゴールは何か。先に出来ることも意識、実施してほしい。レイヤーが逆転した。その理由とは。ハイパーボリューメトリック。Aisuru。合算とはいえトンデモナイし、何の数字ってレベル。どうしたらいいってどうしようもない。根本的には元を絶たないといけない。継続時間は大体短め。DDoS軽視されがち問題。あの方にもグローバルに活躍していただいて。TorでなくてもアメリカのIPアドレスからもAccess Deniedでした。<br />
 &nbsp;</p>
@@ -166,7 +199,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_251206_wasure.mp3" length="29280106" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:47</itunes:duration>
 	</item>
 	<item>
@@ -203,7 +235,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_251201_akaruinational.mp3" length="32781826" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:08:05</itunes:duration>
 	</item>
 	<item>
@@ -238,7 +269,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_251124_laglaglag.mp3" length="28160771" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>58:28</itunes:duration>
 	</item>
 	<item>
@@ -273,7 +303,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_251104_batabata.mp3" length="27308980" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>56:41</itunes:duration>
 	</item>
 	<item>
@@ -310,7 +339,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_251027_ioshaitteru.mp3" length="30609791" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:34</itunes:duration>
 	</item>
 	<item>
@@ -342,7 +370,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_251019_malwaretech.mp3" length="26349066" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>54:41</itunes:duration>
 	</item>
 	<item>
@@ -378,7 +405,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_251006_vsonegai.mp3" length="29708697" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:41</itunes:duration>
 	</item>
 	<item>
@@ -417,7 +443,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250929_jigsaw.mp3" length="30611941" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:34</itunes:duration>
 	</item>
 	<item>
@@ -452,7 +477,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250922_twoareconnected.mp3" length="29252400" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:44</itunes:duration>
 	</item>
 	<item>
@@ -494,7 +518,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250916_17.mp3" length="30093039" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:02:29</itunes:duration>
 	</item>
 	<item>
@@ -533,7 +556,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250909_mariokart.mp3" length="30524985" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:23</itunes:duration>
 	</item>
 	<item>
@@ -569,7 +591,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250902_hanamushi.mp3" length="28517059" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:12</itunes:duration>
 	</item>
 	<item>
@@ -607,7 +628,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250825_geisha.mp3" length="27434500" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>56:57</itunes:duration>
 	</item>
 	<item>
@@ -645,7 +665,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250818_boss.mp3" length="27739275" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>57:35</itunes:duration>
 	</item>
 	<item>
@@ -685,7 +704,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250811_semikowai.mp3" length="28596932" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:22</itunes:duration>
 	</item>
 	<item>
@@ -725,7 +743,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250804_mayim2.mp3" length="27373137" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>56:49</itunes:duration>
 	</item>
 	<item>
@@ -767,7 +784,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250729_zeian.mp3" length="30500529" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:20</itunes:duration>
 	</item>
 	<item>
@@ -804,7 +820,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250722_higeto.mp3" length="30794989" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:57</itunes:duration>
 	</item>
 	<item>
@@ -846,7 +861,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250707_omede10.mp3" length="30406745" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:08</itunes:duration>
 	</item>
 	<item>
@@ -885,7 +899,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250630_okaeri.mp3" length="29060617" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:20</itunes:duration>
 	</item>
 	<item>
@@ -924,7 +937,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250623_sophisticated.mp3" length="25845058" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>53:38</itunes:duration>
 	</item>
 	<item>
@@ -962,7 +974,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250609_negitsuji.mp3" length="31780517" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:00</itunes:duration>
 	</item>
 	<item>
@@ -1002,7 +1013,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250526_Congrats_on_your_little_baby.mp3" length="28908928" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:01</itunes:duration>
 	</item>
 	<item>
@@ -1043,7 +1053,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250519_yukijirushi.mp3" length="31275188" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:57</itunes:duration>
 	</item>
 	<item>
@@ -1080,7 +1089,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250512_nothing.mp3" length="30441123" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:13</itunes:duration>
 	</item>
 	<item>
@@ -1119,7 +1127,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250505_transistor_radio.mp3" length="30397040" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:07</itunes:duration>
 	</item>
 	<item>
@@ -1159,7 +1166,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250414_kuma.mp3" length="27740485" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>57:35</itunes:duration>
 	</item>
 	<item>
@@ -1195,7 +1201,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250407_hunthunt.mp3" length="27596940" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>57:17</itunes:duration>
 	</item>
 	<item>
@@ -1238,7 +1243,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250325_0ff.mp3" length="31228849" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:51</itunes:duration>
 	</item>
 	<item>
@@ -1277,7 +1281,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250318_cyberday.mp3" length="26857563" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>55:45</itunes:duration>
 	</item>
 	<item>
@@ -1317,7 +1320,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250311_NSP.mp3" length="29332130" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:54</itunes:duration>
 	</item>
 	<item>
@@ -1362,7 +1364,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250225_osusumesaretai.mp3" length="37068968" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:17:01</itunes:duration>
 	</item>
 	<item>
@@ -1408,7 +1409,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250218_rankingnakushitai.mp3" length="32656129" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:49</itunes:duration>
 	</item>
 	<item>
@@ -1450,7 +1450,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250210_over-the-air.mp3" length="28052936" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>58:14</itunes:duration>
 	</item>
 	<item>
@@ -1491,7 +1490,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250203_NSANFS.mp3" length="31365479" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:08</itunes:duration>
 	</item>
 	<item>
@@ -1527,7 +1525,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250128_goldfinger.mp3" length="27158726" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>56:22</itunes:duration>
 	</item>
 	<item>
@@ -1565,7 +1562,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250119_jBeatles.mp3" length="28700972" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:35</itunes:duration>
 	</item>
 	<item>
@@ -1601,7 +1597,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_250114_k.mp3" length="28645399" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:28</itunes:duration>
 	</item>
 	<item>
@@ -1635,7 +1630,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_241225_notlast.mp3" length="29754562" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:47</itunes:duration>
 	</item>
 	<item>
@@ -1671,7 +1665,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_241219_youbimatigai.mp3" length="29909713" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:02:06</itunes:duration>
 	</item>
 	<item>
@@ -1714,7 +1707,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_241209_homophone.mp3" length="29077981" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:22</itunes:duration>
 	</item>
 	<item>
@@ -1754,7 +1746,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_241203_mada12.mp3" length="32829150" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:08:11</itunes:duration>
 	</item>
 	<item>
@@ -1792,7 +1783,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_241126_Omitted.mp3" length="27860916" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>57:50</itunes:duration>
 	</item>
 	<item>
@@ -1831,7 +1821,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_241119_getup.mp3" length="29666049" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:36</itunes:duration>
 	</item>
 	<item>
@@ -1870,7 +1859,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_241112_vs.mp3" length="25525111" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>52:58</itunes:duration>
 	</item>
 	<item>
@@ -1908,7 +1896,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_241104_each.mp3" length="30149021" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:02:36</itunes:duration>
 	</item>
 	<item>
@@ -1944,7 +1931,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_241028_a-r-3.mp3" length="33620783" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:50</itunes:duration>
 	</item>
 	<item>
@@ -1984,7 +1970,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_241007_tamaran.mp3" length="34933183" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:12:34</itunes:duration>
 	</item>
 	<item>
@@ -2021,7 +2006,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_240930_8451.mp3" length="28524621" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:13</itunes:duration>
 	</item>
 	<item>
@@ -2056,7 +2040,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_240923_memorydump.mp3" length="35493495" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:13:44</itunes:duration>
 	</item>
 	<item>
@@ -2094,7 +2077,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_240916_kamikami.mp3" length="32458652" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:25</itunes:duration>
 	</item>
 	<item>
@@ -2131,7 +2113,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_240909_kokokara.mp3" length="29765301" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:48</itunes:duration>
 	</item>
 	<item>
@@ -2176,7 +2157,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_240826_shintoku.mp3" length="26941994" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>55:55</itunes:duration>
 	</item>
 	<item>
@@ -2210,7 +2190,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<enclosure url="https://www.tsujileaks.com/media/are_240812_obonkobon.mp3" length="31300704" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:00</itunes:duration>
 	</item>
 	<item>
@@ -2247,7 +2226,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240805_scramble.mp3" length="31676867" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:47</itunes:duration>
 	</item>
 	<item>
@@ -2286,7 +2264,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240729_deux.mp3" length="32093596" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:39</itunes:duration>
 	</item>
 	<item>
@@ -2324,7 +2301,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240722_doudougekiteki.mp3" length="34189463" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:01</itunes:duration>
 	</item>
 	<item>
@@ -2359,7 +2335,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240716_gotosummer.mp3" length="29220579" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:40</itunes:duration>
 	</item>
 	<item>
@@ -2394,7 +2369,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240708_Terrestrial.mp3" length="30995372" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:22</itunes:duration>
 	</item>
 	<item>
@@ -2434,7 +2408,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240702_konkaihagachi.mp3" length="33349329" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:16</itunes:duration>
 	</item>
 	<item>
@@ -2480,7 +2453,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_24624_mounakanaide.mp3" length="29868960" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:02:01</itunes:duration>
 	</item>
 	<item>
@@ -2517,7 +2489,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240603_black.mp3" length="34688830" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第222回 にゃーにゃーにゃー！スペシャル！</title>
@@ -2554,7 +2525,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240520_neko.mp3" length="29910153" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:02:06</itunes:duration>
 	</item>
 	<item>
@@ -2593,7 +2563,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240513_vuln.mp3" length="28789374" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:46</itunes:duration>
 	</item>
 	<item>
@@ -2628,7 +2597,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240429_AreIntiRaymi.mp3" length="29821329" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:55</itunes:duration>
 	</item>
 	<item>
@@ -2667,7 +2635,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_20240422_moya2.mp3" length="30492608" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:19</itunes:duration>
 	</item>
 	<item>
@@ -2708,7 +2675,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240415_PENPANApple.mp3" length="30452658" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:14</itunes:duration>
 	</item>
 	<item>
@@ -2746,7 +2712,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240408_NeedBadget.mp3" length="32277285" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:02</itunes:duration>
 	</item>
 	<item>
@@ -2782,7 +2747,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240325_ClosedNextWeek.mp3" length="34901607" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:12:30</itunes:duration>
 	</item>
 	<item>
@@ -2819,7 +2783,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240318_iwabamasanimohayamushiro.mp3" length="33173527" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:08:54</itunes:duration>
 	</item>
 	<item>
@@ -2856,7 +2819,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240311_takopaha5gatsu.mp3" length="35493013" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:13:44</itunes:duration>
 	</item>
 	<item>
@@ -2892,7 +2854,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240304_123.mp3" length="31534335" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:29</itunes:duration>
 	</item>
 	<item>
@@ -2932,7 +2893,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240219_naniyaki.mp3" length="33405178" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:23</itunes:duration>
 	</item>
 	<item>
@@ -2968,7 +2928,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240212_IDKW.mp3" length="30933751" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:14</itunes:duration>
 	</item>
 	<item>
@@ -3005,7 +2964,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240205_mame.mp3" length="35621737" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:14:00</itunes:duration>
 	</item>
 	<item>
@@ -3040,7 +2998,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240129_MetALotOf.mp3" length="28540276" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:15</itunes:duration>
 	</item>
 	<item>
@@ -3076,7 +3033,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240122_namechange.mp3" length="33029435" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:08:36</itunes:duration>
 	</item>
 	<item>
@@ -3110,7 +3066,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_240115_sagasu.mp3" length="31141013" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:40</itunes:duration>
 	</item>
 	<item>
@@ -3147,7 +3102,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_231225_iruuesan.mp3" length="31789021" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:01</itunes:duration>
 	</item>
 	<item>
@@ -3187,7 +3141,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_231218_RealASM.mp3" length="35061287" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:12:50</itunes:duration>
 	</item>
 	<item>
@@ -3224,7 +3177,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_231212_thx.mp3" length="34333156" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:19</itunes:duration>
 	</item>
 	<item>
@@ -3261,7 +3213,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_231204_SECBECCOO.mp3" length="28181048" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>58:30</itunes:duration>
 	</item>
 	<item>
@@ -3298,7 +3249,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_231127_17B1B.mp3" length="34981696" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:12:40</itunes:duration>
 	</item>
 	<item>
@@ -3334,7 +3284,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_231120_gonna.mp3" length="28237907" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>58:37</itunes:duration>
 	</item>
 	<item>
@@ -3369,7 +3318,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_231114_200.mp3" length="30956508" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:17</itunes:duration>
 	</item>
 	<item>
@@ -3407,7 +3355,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_231107_4238.mp3" length="33462462" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:30</itunes:duration>
 	</item>
 	<item>
@@ -3450,7 +3397,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_231023_mrchildren.mp3" length="28325037" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>58:48</itunes:duration>
 	</item>
 	<item>
@@ -3485,7 +3431,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_231010_nanigaiitaikatteiuto.mp3" length="30836793" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:02</itunes:duration>
 	</item>
 	<item>
@@ -3523,7 +3468,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_231002_whyEUR.mp3" length="33602224" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:48</itunes:duration>
 	</item>
 	<item>
@@ -3560,7 +3504,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230926_nowareare.mp3" length="33621597" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:50</itunes:duration>
 	</item>
 	<item>
@@ -3598,7 +3541,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com//media/are_230918_areandare.mp3" length="28697638" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:35</itunes:duration>
 	</item>
 	<item>
@@ -3634,7 +3576,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230911_change.mp3" length="30205446" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:02:43</itunes:duration>
 	</item>
 	<item>
@@ -3675,7 +3616,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230904_Aug_35.mp3" length="31365065" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:08</itunes:duration>
 	</item>
 	<item>
@@ -3716,7 +3656,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230821_itsuari.mp3" length="30365299" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:03</itunes:duration>
 	</item>
 	<item>
@@ -3752,7 +3691,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230814_3yearsStrange.mp3" length="27837904" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>57:47</itunes:duration>
 	</item>
 	<item>
@@ -3788,7 +3726,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230807_dadada.mp3" length="32509675" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:31</itunes:duration>
 	</item>
 	<item>
@@ -3827,7 +3764,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230731_yasuyou.mp3" length="34285521" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:13</itunes:duration>
 	</item>
 	<item>
@@ -3864,7 +3800,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230724_1000yen.mp3" length="28677393" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:32</itunes:duration>
 	</item>
 	<item>
@@ -3901,7 +3836,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230717_kowaihanashi.mp3" length="33325905" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:13</itunes:duration>
 	</item>
 	<item>
@@ -3937,7 +3871,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230710_nevernote.mp3" length="32381721" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:15</itunes:duration>
 	</item>
 	<item>
@@ -3979,7 +3912,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230703_openingsong.mp3" length="30069780" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:02:26</itunes:duration>
 	</item>
 	<item>
@@ -4018,7 +3950,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230626_mosquito.mp3" length="30341324" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:00</itunes:duration>
 	</item>
 	<item>
@@ -4058,7 +3989,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230611_yubikiri.mp3" length="29476630" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:12</itunes:duration>
 	</item>
 	<item>
@@ -4098,7 +4028,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230605_kpMAX.mp3" length="28036617" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>58:12</itunes:duration>
 	</item>
 	<item>
@@ -4138,7 +4067,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230529_playback2.mp3" length="31534323" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:29</itunes:duration>
 	</item>
 	<item>
@@ -4174,7 +4102,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230515_nothing.mp3" length="28421984" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:00</itunes:duration>
 	</item>
 	<item>
@@ -4208,7 +4135,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230509_tsuukainariyuki.mp3" length="29356984" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:57</itunes:duration>
 	</item>
 	<item>
@@ -4244,7 +4170,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230423_WanderleiSilva.mp3" length="29580971" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:25</itunes:duration>
 	</item>
 	<item>
@@ -4279,7 +4204,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230417_DQ1-3.mp3" length="32789257" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:08:06</itunes:duration>
 	</item>
 	<item>
@@ -4319,7 +4243,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230409_internetyamemasuka.mp3" length="32237817" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:57</itunes:duration>
 	</item>
 	<item>
@@ -4360,7 +4283,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230403_yamiup.mp3" length="32018432" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:30</itunes:duration>
 	</item>
 	<item>
@@ -4397,7 +4319,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230327_stoukaku.mp3" length="30119358" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:02:32</itunes:duration>
 	</item>
 	<item>
@@ -4435,7 +4356,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230320_iutetawa.mp3" length="33213548" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:08:59</itunes:duration>
 	</item>
 	<item>
@@ -4463,7 +4383,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_2303114_bakibaki.mp3" length="29149426" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:31</itunes:duration>
 	</item>
 	<item>
@@ -4492,7 +4411,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230306_securitynoara.mp3" length="27334263" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>56:44</itunes:duration>
 	</item>
 	<item>
@@ -4522,7 +4440,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230219_nankai.mp3" length="25646234" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>53:13</itunes:duration>
 	</item>
 	<item>
@@ -4551,7 +4468,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230213_OnTheOtherHand.mp3" length="30931622" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:14</itunes:duration>
 	</item>
 	<item>
@@ -4583,7 +4499,6 @@ IoCに縛られないようにというのは印象的。入れてるだけ問�
 		<enclosure url="https://www.tsujileaks.com/media/are_230207_LINEstampNowOnSale.mp3" length="28461256" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:05</itunes:duration>
 	</item>
 	<item>
@@ -4617,7 +4532,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_230130_mikan.mp3" length="29445001" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:08</itunes:duration>
 	</item>
 	<item>
@@ -4651,7 +4565,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_230123_gakko.mp3" length="31949798" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:21</itunes:duration>
 	</item>
 	<item>
@@ -4680,7 +4593,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_230116_henna.mp3" length="33997593" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:10:37</itunes:duration>
 	</item>
 	<item>
@@ -4710,7 +4622,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_230109_yoh.mp3" length="27445428" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>56:58</itunes:duration>
 	</item>
 	<item>
@@ -4738,7 +4649,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_221226_tawara.mp3" length="31877287" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:12</itunes:duration>
 	</item>
 	<item>
@@ -4767,7 +4677,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_221220_areandare.mp3" length="27898737" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>57:55</itunes:duration>
 	</item>
 	<item>
@@ -4794,7 +4703,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_221212_tadaima.mp3" length="31963981" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:23</itunes:duration>
 	</item>
 	<item>
@@ -4821,7 +4729,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_221205_akusasa.mp3" length="28853310" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:54</itunes:duration>
 	</item>
 	<item>
@@ -4852,7 +4759,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_221127_esetogiji.mp3" length="30474193" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:17</itunes:duration>
 	</item>
 	<item>
@@ -4880,7 +4786,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_221122_hanbou.mp3" length="26860174" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>55:45</itunes:duration>
 	</item>
 	<item>
@@ -4909,7 +4814,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_221107_nBefore.mp3" length="30511380" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:21</itunes:duration>
 	</item>
 	<item>
@@ -4936,7 +4840,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_221031_compower.mp3" length="33421433" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:25</itunes:duration>
 	</item>
 	<item>
@@ -4968,7 +4871,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_221025_recipe.mp3" length="31332003" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:04</itunes:duration>
 	</item>
 	<item>
@@ -5001,7 +4903,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_221017_36.938189896535064_138.81274701707304.mp3" length="29637206" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:32</itunes:duration>
 	</item>
 	<item>
@@ -5031,7 +4932,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_221003_ikinari.mp3" length="35340437" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:13:25</itunes:duration>
 	</item>
 	<item>
@@ -5064,7 +4964,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220926_tanpakuwanpaku.mp3" length="31730736" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:54</itunes:duration>
 	</item>
 	<item>
@@ -5090,7 +4989,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220919_arekaburi.mp3" length="31053047" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:29</itunes:duration>
 	</item>
 	<item>
@@ -5118,7 +5016,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_20220912_juicy.mp3" length="35936677" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:14:40</itunes:duration>
 	</item>
 	<item>
@@ -5147,7 +5044,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220906_meijin.mp3" length="33889557" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:10:24</itunes:duration>
 	</item>
 	<item>
@@ -5179,7 +5075,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220829_3.mp3" length="34053810" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:10:44</itunes:duration>
 	</item>
 	<item>
@@ -5209,7 +5104,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220822_signalnowa.mp3" length="32387092" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:16</itunes:duration>
 	</item>
 	<item>
@@ -5237,7 +5131,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220808_1stTime.mp3" length="32615947" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:44</itunes:duration>
 	</item>
 	<item>
@@ -5269,7 +5162,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220801_higayakko.mp3" length="34533679" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:44</itunes:duration>
 	</item>
 	<item>
@@ -5301,7 +5193,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220725_tanktop.mp3" length="33136165" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:08:49</itunes:duration>
 	</item>
 	<item>
@@ -5330,7 +5221,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220719_macmount.mp3" length="29319768" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:52</itunes:duration>
 	</item>
 	<item>
@@ -5357,7 +5247,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220711_2genius.mp3" length="30431578" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:11</itunes:duration>
 	</item>
 	<item>
@@ -5386,7 +5275,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220704_HonBuchoDairi.mp3" length="31629618" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:41</itunes:duration>
 	</item>
 	<item>
@@ -5420,7 +5308,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220628_nndknd.mp3" length="31619781" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:40</itunes:duration>
 	</item>
 	<item>
@@ -5447,7 +5334,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220620_hamoge.mp3" length="30994837" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:22</itunes:duration>
 	</item>
 	<item>
@@ -5477,7 +5363,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220613_konayatabetai.mp3" length="31862596" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:10</itunes:duration>
 	</item>
 	<item>
@@ -5507,7 +5392,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220606_ilovetranslation.mp3" length="29672544" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:36</itunes:duration>
 	</item>
 	<item>
@@ -5535,7 +5419,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220531_result20.mp3" length="30807932" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:58</itunes:duration>
 	</item>
 	<item>
@@ -5567,7 +5450,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220523_insidebeside.mp3" length="37464332" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:17:50</itunes:duration>
 	</item>
 	<item>
@@ -5603,7 +5485,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_20220516_CMYB.mp3" length="32301314" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:05</itunes:duration>
 	</item>
 	<item>
@@ -5637,7 +5518,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220509_NPOWER.mp3" length="34333403" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:19</itunes:duration>
 	</item>
 	<item>
@@ -5666,7 +5546,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220425_curryRamen.mp3" length="31108243" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:36</itunes:duration>
 	</item>
 	<item>
@@ -5696,7 +5575,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220418_sampojapan1yearAniv.mp3" length="35589132" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:13:56</itunes:duration>
 	</item>
 	<item>
@@ -5731,7 +5609,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220411_pang4yau5.mp3" length="30760447" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:52</itunes:duration>
 	</item>
 	<item>
@@ -5759,7 +5636,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://tsujileaks.com/media/are_220404_greoka.mp3" length="32182160" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:50</itunes:duration>
 	</item>
 	<item>
@@ -5793,7 +5669,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220328_shikujiri.mp3" length="34357430" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:22</itunes:duration>
 	</item>
 	<item>
@@ -5822,7 +5697,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220321_souhou.mp3" length="30356970" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:02</itunes:duration>
 	</item>
 	<item>
@@ -5856,7 +5730,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220315_areikuyokuruyo.mp3" length="27230042" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>56:31</itunes:duration>
 	</item>
 	<item>
@@ -5898,7 +5771,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220307_aresama.mp3" length="36267107" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:15:20</itunes:duration>
 	</item>
 	<item>
@@ -5930,7 +5802,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220221_iiwasure.mp3" length="31801611" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:15</itunes:duration>
 	</item>
 	<item>
@@ -5962,7 +5833,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220214_utahime.mp3" length="26176346" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>54:32</itunes:duration>
 	</item>
 	<item>
@@ -6007,7 +5877,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220207_weareare.mp3" length="32217571" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:07</itunes:duration>
 	</item>
 	<item>
@@ -6040,7 +5909,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220131_WC.mp3" length="32395957" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:29</itunes:duration>
 	</item>
 	<item>
@@ -6074,7 +5942,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220124_carmen.mp3" length="29662727" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:48</itunes:duration>
 	</item>
 	<item>
@@ -6108,7 +5975,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220118_dreamMask.mp3" length="30961107" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:30</itunes:duration>
 	</item>
 	<item>
@@ -6140,7 +6006,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_220111_AI.mp3" length="33622456" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:10:03</itunes:duration>
 	</item>
 	<item>
@@ -6173,7 +6038,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_211227_nexus.mp3" length="33407934" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:36</itunes:duration>
 	</item>
 	<item>
@@ -6214,7 +6078,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_211220_hahaha.mp3" length="32881477" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:08:30</itunes:duration>
 	</item>
 	<item>
@@ -6247,7 +6110,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_211213_are4j.mp3" length="34194208" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:14</itunes:duration>
 	</item>
 	<item>
@@ -6282,7 +6144,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_211206_CIO.mp3" length="35749706" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:14:29</itunes:duration>
 	</item>
 	<item>
@@ -6321,7 +6182,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_211130_coffee.mp3" length="30793441" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:09</itunes:duration>
 	</item>
 	<item>
@@ -6355,7 +6215,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_211123_dozan11.mp3" length="33569379" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:56</itunes:duration>
 	</item>
 	<item>
@@ -6387,7 +6246,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_211115_noransom.mp3" length="38914040" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:21:04</itunes:duration>
 	</item>
 	<item>
@@ -6433,7 +6291,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_211108_de.mp3" length="36951266" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:16:59</itunes:duration>
 	</item>
 	<item>
@@ -6465,7 +6322,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_211030_oldnormal.mp3" length="36290129" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:15:36</itunes:duration>
 	</item>
 	<item>
@@ -6493,7 +6349,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_211025_coxdbxxx.mp3" length="36086403" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:15:11</itunes:duration>
 	</item>
 	<item>
@@ -6530,7 +6385,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_211011_nyansom.mp3" length="33520486" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:50</itunes:duration>
 	</item>
 	<item>
@@ -6567,7 +6421,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_211004_ikatai.mp3" length="32329053" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:21</itunes:duration>
 	</item>
 	<item>
@@ -6602,7 +6455,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210927_nidoarukotoha.mp3" length="38561589" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:20:20</itunes:duration>
 	</item>
 	<item>
@@ -6637,7 +6489,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210920_aruware.mp3" length="35242716" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:13:25</itunes:duration>
 	</item>
 	<item>
@@ -6672,7 +6523,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210913_namidanoRPS.mp3" length="31249939" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:06</itunes:duration>
 	</item>
 	<item>
@@ -6711,7 +6561,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210906_sadaharu.mp3" length="31041968" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:40</itunes:duration>
 	</item>
 	<item>
@@ -6747,7 +6596,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210830_100.mp3" length="34482234" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:50</itunes:duration>
 	</item>
 	<item>
@@ -6782,7 +6630,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210823_guruguru.mp3" length="38801581" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:20:50</itunes:duration>
 	</item>
 	<item>
@@ -6815,7 +6662,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210817_fightMPD.mp3" length="34145289" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:08</itunes:duration>
 	</item>
 	<item>
@@ -6848,7 +6694,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210802_CWECVECVSSCVV.mp3" length="34273370" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:24</itunes:duration>
 	</item>
 	<item>
@@ -6880,7 +6725,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210726_higan_island.mp3" length="36242104" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:15:30</itunes:duration>
 	</item>
 	<item>
@@ -6916,7 +6760,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210719_nokoriGo.mp3" length="32040680" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:45</itunes:duration>
 	</item>
 	<item>
@@ -6956,7 +6799,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210712_arenakorenasorena.mp3" length="34897881" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:12:42</itunes:duration>
 	</item>
 	<item>
@@ -6999,7 +6841,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210706_chochocho.mp3" length="3522560" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>7:20</itunes:duration>
 	</item>
 	<item>
@@ -7041,7 +6882,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210621_tsuyunobuhiro.mp3" length="35090110" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:13:06</itunes:duration>
 	</item>
 	<item>
@@ -7074,7 +6914,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210614_KANE-BO-KANE.mp3" length="35458004" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:13:52</itunes:duration>
 	</item>
 	<item>
@@ -7105,7 +6944,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210607_nolicenseman.mp3" length="36826306" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:16:43</itunes:duration>
 	</item>
 	<item>
@@ -7137,7 +6975,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210531_oniai.mp3" length="36834289" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:16:44</itunes:duration>
 	</item>
 	<item>
@@ -7170,7 +7007,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210524_soucedebut.mp3" length="28513538" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:24</itunes:duration>
 	</item>
 	<item>
@@ -7209,7 +7045,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210518_iamyourfather.mp3" length="31937273" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:32</itunes:duration>
 	</item>
 	<item>
@@ -7253,7 +7088,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210510_M1N1.mp3" length="29913733" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:02:19</itunes:duration>
 	</item>
 	<item>
@@ -7287,7 +7121,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210503_nogw.mp3" length="38866021" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:20:58</itunes:duration>
 	</item>
 	<item>
@@ -7318,7 +7151,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210426_signal.mp3" length="31873958" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:24</itunes:duration>
 	</item>
 	<item>
@@ -7367,7 +7199,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210419_homestay.mp3" length="32581740" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:53</itunes:duration>
 	</item>
 	<item>
@@ -7405,7 +7236,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_20210412_100YenLawsonHaJikyuuMo100YenNanodarouka.mp3" length="34905688" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:12:43</itunes:duration>
 	</item>
 	<item>
@@ -7449,7 +7279,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210405_SQLiLink.mp3" length="34281554" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:25</itunes:duration>
 	</item>
 	<item>
@@ -7506,7 +7335,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210329_negicup.mp3" length="30465403" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:28</itunes:duration>
 	</item>
 	<item>
@@ -7539,7 +7367,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_20210321_hitok_uchi.mp3" length="30977527" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:32</itunes:duration>
 	</item>
 	<item>
@@ -7582,7 +7409,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_20210315_shigotoosame.mp3" length="33423031" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:38</itunes:duration>
 	</item>
 	<item>
@@ -7618,7 +7444,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_20210308_dekafilebin.mp3" length="31577672" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:47</itunes:duration>
 	</item>
 	<item>
@@ -7648,7 +7473,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210222_inochimijikashikoiseyoN.mp3" length="31689633" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:01</itunes:duration>
 	</item>
 	<item>
@@ -7683,7 +7507,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210215_otawa.mp3" length="35498230" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:13:57</itunes:duration>
 	</item>
 	<item>
@@ -7720,7 +7543,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_20210208_cholestetoite.mp3" length="33304923" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:23</itunes:duration>
 	</item>
 	<item>
@@ -7756,7 +7578,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_20210130_kiretyanaiyo.mp3" length="31029266" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:39</itunes:duration>
 	</item>
 	<item>
@@ -7796,7 +7617,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210125_ryouleague.mp3" length="30680544" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:55</itunes:duration>
 	</item>
 	<item>
@@ -7836,7 +7656,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210119_GOUF.mp3" length="39162821" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:21:35</itunes:duration>
 	</item>
 	<item>
@@ -7862,7 +7681,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_210112_USO.mp3" length="28953427" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:19</itunes:duration>
 	</item>
 	<item>
@@ -7892,7 +7710,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_201228_daibouken.mp3" length="29650179" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:46</itunes:duration>
 	</item>
 	<item>
@@ -7923,7 +7740,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_201221_solorisolori.mp3" length="37034869" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:17:09</itunes:duration>
 	</item>
 	<item>
@@ -7953,7 +7769,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_201214_NPowerPiyoPower.mp3" length="28241764" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>58:50</itunes:duration>
 	</item>
 	<item>
@@ -7986,7 +7801,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_201207_sitsuchohaarimasu.mp3" length="30425527" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:23</itunes:duration>
 	</item>
 	<item>
@@ -8019,7 +7833,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_201130_nomorehouti.mp3" length="33479704" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:45</itunes:duration>
 	</item>
 	<item>
@@ -8051,7 +7864,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_201123_3nin.mp3" length="28361553" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:05</itunes:duration>
 	</item>
 	<item>
@@ -8073,7 +7885,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_201116_piyohiro.mp3" length="67137408" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:55</itunes:duration>
 	</item>
 	<item>
@@ -8102,7 +7913,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_201109_dendendedenden.mp3" length="28985796" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:23</itunes:duration>
 	</item>
 	<item>
@@ -8131,7 +7941,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/201102_are_liveshitemitai.mp3" length="36625343" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:16:18</itunes:duration>
 	</item>
 	<item>
@@ -8158,7 +7967,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_201025_injelly.mp3" length="8011776" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>16:41</itunes:duration>
 	</item>
 	<item>
@@ -8184,7 +7992,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_201019_jandj.mp3" length="32015009" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:42</itunes:duration>
 	</item>
 	<item>
@@ -8211,7 +8018,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_201005_yazawa.mp3" length="31801752" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:15</itunes:duration>
 	</item>
 	<item>
@@ -8239,7 +8045,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_200928_neushitoraburyu.mp3" length="31105587" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:48</itunes:duration>
 	</item>
 	<item>
@@ -8264,7 +8069,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_200922_kanchigai.mp3" length="30751459" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:04</itunes:duration>
 	</item>
 	<item>
@@ -8291,7 +8095,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_200914_tottoriken.mp3" length="32287405" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:16</itunes:duration>
 	</item>
 	<item>
@@ -8314,7 +8117,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_200906_emotot.mp3" length="29817034" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:02:07</itunes:duration>
 	</item>
 	<item>
@@ -8337,7 +8139,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_200831_galgal.mp3" length="32376547" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:27</itunes:duration>
 	</item>
 	<item>
@@ -8360,7 +8161,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_200824_garake.mp3" length="27511480" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>57:19</itunes:duration>
 	</item>
 	<item>
@@ -8383,7 +8183,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_200817_kobo.mp3" length="47310343" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:43</itunes:duration>
 	</item>
 	<item>
@@ -8409,7 +8208,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_200809_ADIF.mp3" length="58468056" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:17:59</itunes:duration>
 	</item>
 	<item>
@@ -8432,7 +8230,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_200804_zhif.mp3" length="54346848" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:12:57</itunes:duration>
 	</item>
 	<item>
@@ -8448,7 +8245,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_200727_zamz.mp3" length="42638328" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>57:48</itunes:duration>
 	</item>
 	<item>
@@ -8464,7 +8260,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_200720_kori.mp3" length="39042792" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>51:08</itunes:duration>
 	</item>
 	<item>
@@ -8480,7 +8275,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_200713_gggh.mp3" length="44207880" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>55:35</itunes:duration>
 	</item>
 	<item>
@@ -8496,7 +8290,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_200706_aase.mp3" length="51607008" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:51</itunes:duration>
 	</item>
 	<item>
@@ -8512,7 +8305,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_200629_pppa.mp3" length="45845256" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:32</itunes:duration>
 	</item>
 	<item>
@@ -8528,7 +8320,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_200621_allll.mp3" length="55955472" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:14:39</itunes:duration>
 	</item>
 	<item>
@@ -8544,7 +8335,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_200614_djakljd.mp3" length="54850824" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:14:12</itunes:duration>
 	</item>
 	<item>
@@ -8560,7 +8350,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_200608_kuhjis.mp3" length="46260144" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:56</itunes:duration>
 	</item>
 	<item>
@@ -8576,7 +8365,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_200525_aja.mp3" length="43671744" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>57:09</itunes:duration>
 	</item>
 	<item>
@@ -8592,7 +8380,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_0518_cccc.mp3" length="42028800" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>55:03</itunes:duration>
 	</item>
 	<item>
@@ -8608,7 +8395,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_0511_0511.mp3" length="61878864" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:18:56</itunes:duration>
 	</item>
 	<item>
@@ -8624,7 +8410,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_0503_twww.mp3" length="46420344" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>54:35</itunes:duration>
 	</item>
 	<item>
@@ -8640,7 +8425,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_0426_defl.mp3" length="60454560" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:05</itunes:duration>
 	</item>
 	<item>
@@ -8656,7 +8440,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_200420_3177.mp3" length="51284461" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:47</itunes:duration>
 	</item>
 	<item>
@@ -8672,7 +8455,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_0406_12kjsa.m4a" length="38139014" type="audio/x-m4a" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第33回 タイトル付けるのに困るほどおもろかったぞ！スペシャル</title>
@@ -8687,7 +8469,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_200306_azxcv.mp3" length="73551294" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:16:37</itunes:duration>
 	</item>
 	<item>
@@ -8703,7 +8484,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/200205_kikiki.mp3" length="60797349" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:20</itunes:duration>
 	</item>
 	<item>
@@ -8719,7 +8499,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_191231_bvbv.mp3" length="5242880" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:15:39</itunes:duration>
 	</item>
 	<item>
@@ -8735,7 +8514,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_191229_1603.mp3" length="63326871" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:58</itunes:duration>
 	</item>
 	<item>
@@ -8751,7 +8529,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="https://www.tsujileaks.com/media/are_191112_codebbb.mp3" length="66712494" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:29</itunes:duration>
 	</item>
 	<item>
@@ -8767,7 +8544,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_190930_dqw9.mp3" length="70962141" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:13:55</itunes:duration>
 	</item>
 	<item>
@@ -8783,7 +8559,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_190909_hijq.mp3" length="61492905" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:03</itunes:duration>
 	</item>
 	<item>
@@ -8799,7 +8574,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_190807_poke.mp3" length="71832837" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:14:49</itunes:duration>
 	</item>
 	<item>
@@ -8815,7 +8589,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_190508_xxxl.mp3" length="83473471" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>57:58</itunes:duration>
 	</item>
 	<item>
@@ -8831,7 +8604,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_190408_2bbb.mp3" length="37537089" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>39:06</itunes:duration>
 	</item>
 	<item>
@@ -8847,7 +8619,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_190408_1aaa.mp3" length="62173449" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:46</itunes:duration>
 	</item>
 	<item>
@@ -8863,7 +8634,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_190325_1gas.mp3" length="71141034" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:14:06</itunes:duration>
 	</item>
 	<item>
@@ -8882,7 +8652,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://tsujileaks.com/media/are_190217_xsd.m4a" length="49212144" type="audio/x-m4a" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第21回 あけおめ！ランサム！DDoS！艦Collection #1 スペシャル！</title>
@@ -8897,7 +8666,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_190124_zxcoo.mp3" length="1835008" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:55</itunes:duration>
 	</item>
 	<item>
@@ -8922,7 +8690,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are181228_djjaljda.mp3" length="75383175" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:18:31</itunes:duration>
 	</item>
 	<item>
@@ -8938,7 +8705,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are181217_987b.mp3" length="72161850" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:15:10</itunes:duration>
 	</item>
 	<item>
@@ -8954,7 +8720,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_181102_taitai.m4a" length="45179470" type="audio/x-m4a" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第17回 スクープ！スクープ！16億！スペシャル</title>
@@ -8969,7 +8734,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_180918_ujh4.m4a" length="57337717" type="audio/x-m4a" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第16回 STOP！提供元不明インストール！！スペシャル</title>
@@ -8985,7 +8749,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_180803_akjdu.m4a" length="5242880" type="audio/x-m4a" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第15回 リスト型攻撃はなくなってないんだ！スペシャル</title>
@@ -9000,7 +8763,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://tsujileaks.com/media/are_180626_jnbh.m4a" length="5242880" type="audio/x-m4a" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第14回 カレーを食べながらSP 800-63B From USAだ！スペシャル</title>
@@ -9015,7 +8777,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://tsujileaks.com/media/are180520_jdajy.m4a" length="5242880" type="audio/x-m4a" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第13回 雑談しすぎの定期変更強制しない！スペシャル</title>
@@ -9030,7 +8791,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_180413_vbn.m4a" length="5242880" type="audio/x-m4a" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第12回 都内某所からDDoSウォッチへの愛が止まらない！スペシャル</title>
@@ -9045,7 +8805,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are180305_pptp.mp3" length="5242880" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第11回 「ビジネスメール詐欺」詐欺に気をつけろ！スペシャル</title>
@@ -9060,7 +8819,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://tsujileaks.com/media/are171228_1543.mp3" length="5242880" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第10回 マイニングとエストニアの話をしたよ！スペシャル</title>
@@ -9075,7 +8833,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://tsujileaks.com/media/are_171030_zxcvf.mp3" length="5242880" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第9回 DDoSがありあまる！スペシャル</title>
@@ -9090,7 +8847,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_170926_1620bbb.mp3" length="5242880" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第8回 これもこの後も本番なんだぜ！スペシャル</title>
@@ -9105,7 +8861,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_170830_1500.mp3" length="47255274" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>49:13</itunes:duration>
 	</item>
 	<item>
@@ -9121,7 +8876,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_170803_ppz.mp3" length="38949885" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>40:34</itunes:duration>
 	</item>
 	<item>
@@ -9137,7 +8891,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_170803_ppapt.mp3" length="42457689" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>44:14</itunes:duration>
 	</item>
 	<item>
@@ -9153,7 +8906,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_170720_zzz.mp3" length="41221284" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>42:56</itunes:duration>
 	</item>
 	<item>
@@ -9170,7 +8922,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_170719_two_z.mp3" length="55574007" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>57:53</itunes:duration>
 	</item>
 	<item>
@@ -9186,7 +8937,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://tsujileaks.com/media/are_170701_b.mp3" length="25198592" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>26:15</itunes:duration>
 	</item>
 	<item>
@@ -9204,7 +8954,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://tsujileaks.com/media/are_170628_z.mp3" length="59112252" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:34</itunes:duration>
 	</item>
 	<item>
@@ -9222,7 +8971,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_170529.mp3" length="30588928" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>21:15</itunes:duration>
 	</item>
 	<item>
@@ -9241,7 +8989,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://tsujileaks.com/media/are_170523.mp3" length="76711698" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>45:40</itunes:duration>
 	</item>
 	<item>
@@ -9260,7 +9007,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://tsujileaks.com/media/are_170423.mp3" length="57425128" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:49</itunes:duration>
 	</item>
 	<item>
@@ -9281,7 +9027,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/tsujileaks_201503_2.m4a" length="6525672" type="audio/x-m4a" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>12:41</itunes:duration>
 	</item>
 	<item>
@@ -9306,7 +9051,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/tsujileaks_201503_1.m4a" length="18159128" type="audio/x-m4a" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>36:06</itunes:duration>
 	</item>
 	<item>
@@ -9343,7 +9087,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/tsujileaks24.m4a" length="23530676" type="audio/x-m4a" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>50:21</itunes:duration>
 	</item>
 	<item>
@@ -9369,7 +9112,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/tsujileaks_0811.m4a" length="9200971" type="audio/x-m4a" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>17:57</itunes:duration>
 	</item>
 	<item>
@@ -9394,7 +9136,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/tsujileaks_0804.m4a" length="14239435" type="audio/x-m4a" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>28:03</itunes:duration>
 	</item>
 	<item>
@@ -9420,7 +9161,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/tsujileaks0509.m4a" length="23038413" type="audio/x-m4a" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>46:47</itunes:duration>
 	</item>
 	<item>
@@ -9446,7 +9186,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/tsujileaks0409.m4a" length="5242880" type="audio/x-m4a" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第19回 大阪より愛を込めて。あけましておめでとうスペシャル</title>
@@ -9462,7 +9201,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/tsujileaks_0304.m4a" length="16211999" type="audio/x-m4a" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>32:02</itunes:duration>
 	</item>
 	<item>
@@ -9502,7 +9240,6 @@ Twitterで #tsujileaks のハッシュタグとポッドキャストのURL(http:
 		<enclosure url="http://www.tsujileaks.com/media/tsujileaks20131223.m4a" length="29071993" type="audio/x-m4a" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:53</itunes:duration>
 	</item>
 	<item>
@@ -9540,44 +9277,7 @@ mtakeshiが海外で仕入れてきたお話をさせていただいておりま
 		<enclosure url="http://www.tsujileaks.com/media/tsujileaks201310.m4a" length="26052802" type="audio/x-m4a" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>53:35</itunes:duration>
-	</item>
-	<item>
-		<title>第16回 しゃっくりが止まらない！スペシャル</title>
-		<link>https://www.tsujileaks.com/?p=315</link>
-		<pubDate>Sun, 07 Jul 2013 10:37:01 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=315</guid>
-		<comments>https://www.tsujileaks.com/?p=315#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=315</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<div id="tweetbutton315" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D315&amp;text=%E7%AC%AC16%E5%9B%9E%20%E3%81%97%E3%82%83%E3%81%A3%E3%81%8F%E3%82%8A%E3%81%8C%E6%AD%A2%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D315" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>
-４月ぶりっ！！！<br />
-お互い色々状況が変わったりとバタバタしつつも<br />
-このポッドキャストのことはいつも気がかりなのです！（言い訳</p>
-<p>今回もいつもどおり旬よりも自分たちが気になる話をしております。<br />
-ゆるーく　ゆる〜〜〜く。</p>
-<p>番組後半ぐらいから辻はしゃっくりがとまらなくなってわたわたしていましたが<br />
-その感じは伝わってますでしょうか？w</p>
-<p>よかったら回数でも数えてみてくださいませ。</p>
-<p>【その他・関連リンク】</p>
-<p>・<a href="http://www.atmarkit.co.jp/ait/articles/1304/11/news059.html">大切なパスワードをつなぐ ひみつマネージャ</a></p>
-<p>・<a href="http://www.ebookjapan.jp/ebj/information/20130405_access.asp">【重要なお知らせ】不正ログイン被害のご報告とパスワード再設定のお願い</a></p>
-<p>・<a href="http://ja.wikipedia.org/wiki/%E7%B7%8F%E5%BD%93%E3%81%9F%E3%82%8A%E6%94%BB%E6%92%83">総当たり攻撃</a></p>
-<p>・<a href="http://ja.wikipedia.org/wiki/%E8%BE%9E%E6%9B%B8%E6%94%BB%E6%92%83">辞書攻撃</a></p>
-<p>・<a href="http://d.hatena.ne.jp/sen-u/20061108/p2">ゴルゴメソッド &#8211; 「Gは無理です。」</a></p>
-<p>・<a href="http://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%A2%E3%82%B0%E3%83%AA%E3%82%B2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3">アカウントアグリゲーション</a></p>
-<p>・<a href="http://www.zakzak.co.jp/society/domestic/news/20130618/dms1306180710001-n1.htm">ロト６を利用した詐欺が横行中　「特別ルートから当選番号入手」と持ち掛け…</a></p>
-<p>・<a href="http://news.mynavi.jp/column/secdoor/001/index.html">セキュリティのトビラ パスワードのトビラ(1) オンラインとオフラインを知る</a></p>
-<p>・<a href="http://enterprisezine.jp/special/securityonline">セキュリティ オンライン</a></p>
-<p>・<a href="http://www.spread-j.org/info/guidance/spread_workshop130713.html">SPREAD情報セキュリティ勉強会「そのパスワード、あなたの情報と会社・学校・組織を守ってくれますか？」</a></p>
-<p>・<a href="http://www.kyoto-wu.ac.jp/chiikikoryu/koza/201307.html">現代社会学科公開講座　「情報セキュリティの今」</a></p><p>The post <a href="https://www.tsujileaks.com/?p=315">第16回 しゃっくりが止まらない！スペシャル</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
-		<enclosure url="http://www.tsujileaks.com/media/tsujileaks16.m4a" length="23749885" type="audio/x-m4a" />
-		<itunes:author>セキュリティのアレ</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>false</itunes:explicit>
-		<itunes:duration>48:48</itunes:duration>
 	</item>
 </channel>
 </rss>
