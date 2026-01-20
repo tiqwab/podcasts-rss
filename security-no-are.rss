@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 13 Jan 2026 02:45:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Jan 2026 11:00:07 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -51,6 +51,47 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第288回 投げます。一石、！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2172</link>
+		<pubDate>Mon, 19 Jan 2026 11:00:07 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2172</guid>
+		<comments>https://www.tsujileaks.com/?p=2172#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2172</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<div id="tweetbutton2172" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2172&amp;text=%E7%AC%AC288%E5%9B%9E%20%E6%8A%95%E3%81%92%E3%81%BE%E3%81%99%E3%80%82%E4%B8%80%E7%9F%B3%E3%80%81%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2172" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://atmarkit.itmedia.co.jp/ait/articles/2601/07/news084.html">「ペネトレーションテストは死んだ？」：辻伸弘の「投げます。一石、」（1）（1/2 ページ） &#8211; ＠IT</a><br />
+・<a href="https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes">Scammers use AI to enhance their family emergency schemes | Consumer Advice</a><br />
+・<a href="https://retool.com/blog/mfa-isnt-mfa">Retool Blog | When MFA isn&#8217;t actually MFA</a><br />
+・<a href="https://blog.lastpass.com/posts/attempted-audio-deepfake-call-targets-lastpass-employee">Attempted Audio Deepfake Call Targets LastPass Employee</a><br />
+・<a href="https://fortune.com/2024/07/27/ferrari-deepfake-attempt-scammer-security-question-ceo-benedetto-vigna-cybersecurity-ai/">Ferrari exec foils deepfake plot by asking a question only the CEO could answer | Fortune</a><br />
+・<a href="https://www.npa.go.jp/bureau/safetylife/sos47/index.html">警察庁・SOS47特殊詐欺対策ページ | ストップ、オレオレ詐欺</a><br />
+・<a href="https://phishcare.com/top-10-deepfake-phishing-scams/">Top 10 Deepfake Phishing Scams (2026)</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2026/01/16/155626">LINEグループ作成を要求されるCEO詐欺メールについてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://www.kubell.com/news/2026/01/heads-up.html">【重要】Chatwork上でのなりすまし詐欺にご注意ください | 株式会社kubell</a><br />
+・<a href="https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sma-attack-N9bf4">Reports About Cyberattacks Against Cisco Secure Email Gateway And Cisco Secure Email and Web Manager</a><br />
+・<a href="https://blog.talosintelligence.com/uat-9686/">UAT-9686 actively targets Cisco Secure Email Gateway and Secure Email and Web Manager</a><br />
+・<a href="https://www.tokai-com.co.jp/news/pdf/2025/20251222.pdf">OneOffice メールソリューションにおける不正アクセスによる 新たな個人情報漏洩の可能性についてのお知らせとお詫び（第二報）</a><br />
+・<a href="https://personal.canon.jp/product/business-tool/page-clicker">ページクリッカー｜個人｜キヤノン</a><br />
+・<a href="https://www.kokuyo.com/stationery/category/presentation/pointer/12257/">フィンガープレゼンター｜文具｜コクヨ</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/teatime.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/teatime-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2173" srcset="https://www.tsujileaks.com/wp-content/uploads/teatime-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/teatime-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/teatime-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/teatime.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：新連載はじめたよ！みんな読んでね！アレはアレ。2019年！4年ぶり！CISOになってください！ログアウトあんま明示的にはしてないかな。アレは勧めてくれてます？主体性大事。段階的にオープン化もいいかも。今日は二人でした。ちょいとバズってたポストから。すっきり読みやすさも大事。厳密性とのバランス。ピンと来る人は反射的にくるもんなんですよね。単体では信用に値しなくなったもの。事例調べて見ると結構あるので参考にしてほしい！地銀のあった！関連あることは意識せずアクションしがちかも。Ciscoのゼロデイだったやつ。止めるしかないやん。しかも長期間。該当するユーザがどのような対応で凌いだかも共有してほしい。脱○○。外接するもののゼロデイちょっと目立ちますよね。対策、緩和策以外の方法も示してほしいなり。やっぱ多層防御大事やで。ほいでもって外に任せっきりはほんま危ない。脱丸投げ！<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 02:17 |<br />
+| (T) 生成 AI を利用した音声によるなりすましの手口 | 15:11 |<br />
+| (N) Cisco Secure Email のゼロデイ脆弱性 | 32:58 |<br />
+| オススメのアレ | 45:41 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2172">第288回 投げます。一石、！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260119_keepitcoolandreal.mp3" length="24996745" type="audio/mpeg" />
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>51:52</itunes:duration>
+	</item>
+	<item>
 		<title>第287回 5点から10点は底上げされるんだ！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2167</link>
 		<pubDate>Tue, 13 Jan 2026 02:45:49 +0000</pubDate>
@@ -68,7 +109,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.resecurity.com/blog/article/synthetic-data-a-new-frontier-for-cyber-deception-and-honeypots">Resecurity | Synthetic Data: A New Frontier for Cyber Deception and Honeypots</a><br />
 ・<a href="https://prtimes.jp/main/html/rd/p/000002033.000046210.html">シリーズ累計販売数４億５千万本突破の「ファミボス」 初のファミマルプレミアム商品「ファミボス ゲイシャブレンド ブラック」を発売～幻の品種と呼ばれるエチオピア産「ゲイシャ豆」を51%使用～ | 株式会社ファミリーマートのプレスリリース</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/2026.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/2026-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2168" srcset="https://www.tsujileaks.com/wp-content/uploads/2026-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/2026-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/2026-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/2026.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/2026.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/2026-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2168" srcset="https://www.tsujileaks.com/wp-content/uploads/2026-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/2026-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/2026-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/2026.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：アレましておめでとうございます！今年の1文字決めてます。どっちのVPN？皆さん合格おめでとうございます！連絡するスキーム依存の難しさ。事故の時あったら良さそうなもの。あいする。C2からだったら信頼性高い数字っぽい。何故こんなに多いのか。除外してへんのかい！STPって主語でかく汚名きせられた感ある。もはやマルウェアみたいなプロクシだけに踏んだり蹴ったりってね。高齢化でも間違ってない。右肩上がりのCVE。WPのプラグインは水増し要因っぽさありますよね。あんま変わらないというかちょっと悪くなってる。注意喚起側になんらかのテコ入れが必要だと思った。流す情報と使い方のセット。SLH関連。やったったと宣言したのに。障害起きて実IP。キルスイッチなかったんかいね。漏洩データの活用の是非。とはいえ欺き方難しいですよね。さらにとはいえ学びはあった。<br />
 &nbsp;</p>
@@ -143,7 +184,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.payroll.co.jp/Payroll-WRDPRS/wp-content/uploads/2025/12/20251209_%E3%80%90%E9%87%8D%E8%A6%81%E3%80%91%E5%85%88%E6%97%A5%E3%81%94%E6%A1%88%E5%86%85%E3%81%97%E3%81%9F%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0%E8%A9%90%E6%AC%BA%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%BF%BD%E5%8A%A0%E6%83%85%E5%A0%B1.pdf">【重要】先日ご案内したフィッシング詐欺メールに関する追加情報</a><br />
 ・<a href="https://kickswrap.com/products/foam-cleaner-200ml">Foam Cleaner 200ml – KicksWrap®︎</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/xms.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/xms-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2153" srcset="https://www.tsujileaks.com/wp-content/uploads/xms-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/xms-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/xms-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/xms.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/xms.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/xms-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2153" srcset="https://www.tsujileaks.com/wp-content/uploads/xms-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/xms-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/xms-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/xms.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：臨場ええわ。三波春夫さんですね。テンションも関西弁もバキバキ。尋常じゃ無い回。公開オンライン収録について。2026年1月24日22時からです。連絡くださいね！ランサムボーイ。ハンサムギャング。300回見えてきた。マルチプルじゃなくてマルチキャスト。詳しい方は教えてください。ブラウザの拡張問題。中身も期間も興味深い。まずはアフィリエイトコードからスタート。徐々にエスカレートしていく。信用を悪用。バックドアまで。狙い澄ました攻撃も可能。数は水増ししてる可能性あると思う。ブラウザってもう第二のOSやろ。組織、個人それぞれでできる対策。目的は何だったのか。パンダということは。EDRとかEPPで検知できるんかいな。AMOS。いわゆるマルバ。質問した結果の共有ってことですね。ClickFix的な。その回答を用意するのが巧妙だ。広告業界頑張ってほしい。教育にも入れた方がよくない？自分も検索気を付けよう。とあるフィッシング詐欺に関する注意喚起。めっちゃ時節のネタ。出た！訓練でしたパターン。重要なお願い！事前調整大事。準備八割！こうならないような注意喚起してほしい。狼少年を懸念。逆効果を生んじゃいかねない。訓練の失敗事例と再発防止策の事例をご存じの方、教えてくれると嬉しいです。<br />
 &nbsp;</p>
@@ -9241,43 +9282,6 @@ Twitterで #tsujileaks のハッシュタグとポッドキャストのURL(http:
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>59:53</itunes:duration>
-	</item>
-	<item>
-		<title>第17回 もうパスワードの定期変更言うななんて言わないよ絶対！！スペシャル</title>
-		<link>https://www.tsujileaks.com/?p=329</link>
-		<pubDate>Mon, 28 Oct 2013 00:45:16 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=329</guid>
-		<comments>https://www.tsujileaks.com/?p=329#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=329</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<div id="tweetbutton329" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D329&amp;text=%E7%AC%AC17%E5%9B%9E%20%E3%82%82%E3%81%86%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%81%AE%E5%AE%9A%E6%9C%9F%E5%A4%89%E6%9B%B4%E8%A8%80%E3%81%86%E3%81%AA%E3%81%AA%E3%82%93%E3%81%A6%E8%A8%80%E3%82%8F%E3%81%AA%E3%81%84%E3%82%88%E7%B5%B6%E5%AF%BE%EF%BC%81%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D329" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>
-全国3人のリスナーの皆様、七夕ぶりです。<br />
-安心安定の不定期っぷり申し訳ございません。</p>
-<p>今回は、ntsujiとmtakshiで勉強会に参加させてもらってきました。<br />
-テーマは「パスワード管理」そちらのお話と<br />
-mtakeshiが海外で仕入れてきたお話をさせていただいております。</p>
-<p>今回は、初のプレゼント企画もありますのでみなさん奮ってご応募くださいませ！<br />
-応募方法は番組の中で！！！<br />
-応募締め切りは11月8日です！</p>
-<p>【その他・関連リンク】</p>
-<p>・<a href="http://kokucheese.com/event/index/113133/">SPREAD情報セキュリティ勉強会〜どうするパスワード管理！〜</a></p>
-<p>・<a href="http://jp.norton.com/portal-idsafe">ノートン ID セーフ</a></p>
-<p>・<a href="http://www.kaspersky.com/password-manager">Kaspersky Password Manager</a></p>
-<p>・<a href="http://safe.trendmicro.jp/purchase/pm.aspx">トレンドマイクロ PasswordManager</a></p>
-<p>・<a href="https://agilebits.com/onepassword">1Password</a></p>
-<p>・<a href="http://www.youtube.com/watch?v=_TLdcViM1vw">もう恋なんてしない</a></p>
-<p>・<a href="http://bizmakoto.jp/style/articles/1309/20/news022.html">スマホアプリだけで海外旅行を楽しめるのか？　2泊4日のマレーシア弾丸取材</a></p>
-<p>・<a href="http://itpro.nikkeibp.co.jp/article/Keyword/20081028/317943/">DLPとは</a></p>
-<p>・<a href="http://en.wikipedia.org/wiki/Operation_Payback">2011年のVISAへのDDoS攻撃</a></p>
-<p>・<a href="http://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%95%E3%83%A9%E3%82%A4%E3%83%87%E3%83%BC_(%E8%B2%B7%E3%81%84%E7%89%A9)">ブラックフライデー (買い物)</a></p>
-<p>・<a href="http://ja.wikipedia.org/wiki/RFID">RFID</a></p>
-<p>・<a href="http://ja.wikipedia.org/wiki/PCI%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89">PCIデータセキュリティスタンダード</a></p>
-<p>・<a href="http://getnews.jp/archives/423087">俳優の玉木宏さんが店員に『Twitter』でクレジットカード番号とサインを晒される　成田空港は謝罪　モデルの菜々緒さんも苦言</a></p><p>The post <a href="https://www.tsujileaks.com/?p=329">第17回 もうパスワードの定期変更言うななんて言わないよ絶対！！スペシャル</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
-		<enclosure url="http://www.tsujileaks.com/media/tsujileaks201310.m4a" length="26052802" type="audio/x-m4a" />
-		<itunes:author>セキュリティのアレ</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>53:35</itunes:duration>
 	</item>
 </channel>
 </rss>
