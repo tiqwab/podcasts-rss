@@ -31,6 +31,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 	<itunes:new-feed-url>https://www.tsujileaks.com/?feed=podcast</itunes:new-feed-url>
 	<itunes:author>セキュリティのアレ</itunes:author>
+	<itunes:explicit>false</itunes:explicit>
 	<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 	<itunes:owner>
 		<itunes:name>セキュリティのアレ</itunes:name>
