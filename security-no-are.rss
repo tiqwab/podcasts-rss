@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 09 Feb 2026 15:43:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Feb 2026 12:29:51 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,43 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第292回 愛と情熱を！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2200</link>
+		<pubDate>Mon, 16 Feb 2026 11:00:32 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2200</guid>
+		<comments>https://www.tsujileaks.com/?p=2200#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2200</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<div id="tweetbutton2200" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2200&amp;text=%E7%AC%AC292%E5%9B%9E%20%E6%84%9B%E3%81%A8%E6%83%85%E7%86%B1%E3%82%92%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2200" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.tanaka-foods.co.jp/products/furikake1-1.html">看板商品 | 田中食品株式会社 &#8211; ふりかけ、旅行の友、食卓の笑顔と日本の食文化を考えて一世紀</a><br />
+・<a href="https://wanpass.me/">ペット同伴可のお出かけ先を、カンタンに見つけるならWan!Pass（ワンパス）</a><br />
+・<a href="https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use">GTIG AI Threat Tracker: Distillation, Experimentation, and (Continued) Integration of AI for Adversarial Use | Google Cloud Blog</a><br />
+・<a href="https://www.huntress.com/blog/amos-stealer-chatgpt-grok-ai-trust">AI-Poisoning &amp; AMOS Stealer: How Trust Became the Biggest Mac Threat | Huntress</a><br />
+・<a href="https://www.first.org/blog/20260211-vulnerability-forecast-2026">Vulnerability forecast 2026: The Year Ahead</a><br />
+・<a href="https://github.com/FIRSTdotorg/Vuln4Cast">GitHub &#8211; FIRSTdotorg/Vuln4Cast: A collection of data fetchers, and simple quarterly and yearly CVE forecasting models.</a><br />
+・<a href="https://cveforecast.org/">CVEForecast</a><br />
+・<a href="https://www.huntress.com/blog/employee-monitoring-simplehelp-abused-in-ransomware-operations">Employee Monitoring and SimpleHelp Software Abused in Ransomware Operations | Huntress</a><br />
+・<a href="https://github.com/0x706972686f/RMM-Catalogue">GitHub &#8211; 0x706972686f/RMM-Catalogue</a><br />
+・<a href="https://proton.me/authenticator">Proton Authenticator: Private, secure 2FA authenticator | Proton</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/ginsekai.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/ginsekai-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2201" srcset="https://www.tsujileaks.com/wp-content/uploads/ginsekai-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/ginsekai-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/ginsekai-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/ginsekai.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：CM流れてきてびっくりうらやましかった。ふりかけ届くの楽しみ。ある意味でのTMN。ワンパス。ぴよログ。どっちもどっちな気がするので自分は利便性重視でいくかな。頻度にもよるけど。会社行かへんから攻撃けーへんのかなぁ。ディスカッションは準備大変かもやけど実りありそう。AIをどう攻撃に使っているのかって話。AI for Security。Security for AI。カービィなのか牛丼なのか。作業支援の位置づけという状況。ガードレールの越え方。手探りから次の段階に。参入障壁も下げてると思う。FIRSTのあるWG。脆弱性に関する予測。めっちゃ増える予想の中央値。頭打ちどこでするかなぁ。脆弱性を作り込まない精度と悪用の精度。アカウントの操作に違和感。はじめからなんか途中からなんか。監視だけでなく資産管理系って強力なものある。監視機能を使って更なる情報収集。自分たちが使っているソフトが悪用される想定。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 03:52 |<br />
+| (P) AI の悪用に関する Google のレポート | 13:44 |<br />
+| (N) Vuln4Cast による脆弱性の数の予測 | 27:10 |<br />
+| (T) 従業員を監視するツールを悪用するランサムウェアの攻撃 | 38:15 |<br />
+| オススメのアレ | 51:42 |</p><p>The post <a href="https://www.tsujileaks.com/?p=2200">第292回 愛と情熱を！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260216_IIJ.mp3" length="28101015" type="audio/mpeg" />
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>58:20</itunes:duration>
+	</item>
+	<item>
 		<title>第291回 皆さんのお気に入りのふりかけ教えてちょ！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2194</link>
 		<pubDate>Mon, 09 Feb 2026 11:00:00 +0000</pubDate>
@@ -66,7 +103,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://arcticwolf.com/resources/blog/threat-actor-profile-interlock-ransomware/">Threat Actor Profile: Interlock Ransomware &#8211; Arctic Wolf</a><br />
 ・<a href="https://www.marumiya.co.jp/product/series/furikake/soft/index.html">ふりかけ：ソフトふりかけシリーズ | 丸美屋</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/stv.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/stv-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2195" srcset="https://www.tsujileaks.com/wp-content/uploads/stv-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/stv-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/stv-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/stv.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/stv.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/stv-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2195" srcset="https://www.tsujileaks.com/wp-content/uploads/stv-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/stv-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/stv-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/stv.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：たまにはここを募集してみたい。募集したらいただけました！<br />
 &nbsp;<br />
@@ -137,7 +174,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.vulncheck.com/blog/state-of-exploitation-2026">VulnCheck State of Exploitation 2026 | Blog | VulnCheck</a><br />
 ・<a href="https://www.youtube.com/channel/UC43KSVyRxlUGDaL09wRjxLA">清水ミチコのシミチコチャンネル &#8211; YouTube</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/gumikana.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/gumikana-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2180" srcset="https://www.tsujileaks.com/wp-content/uploads/gumikana-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/gumikana-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/gumikana-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/gumikana.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/gumikana.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/gumikana-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2180" srcset="https://www.tsujileaks.com/wp-content/uploads/gumikana-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/gumikana-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/gumikana-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/gumikana.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>アレ勢メモ：アクティブすぎるアグレッシブや。参考になるが、万人には成果を誇れない。法執行機関に頑張って貰うのが正しい経路か？騙されやすい人を狙っている。。検索上位に上がってきて入れちゃう企業の人もいる。そのタイトルは開きやすい。ドメインに偏りあり。リストを持っている？朝４時サイトはアクティブじゃない。７時頃からOpen。フィルタリング回避か？パッケージを使ったサイトでロゴだけ違うサイトもあるから作りが楽。ボイスフィッシングは顕在化し辛い。マネロン部門だけでは無理CISRT部門と一緒に取り組む。日によって移動する。金融機関同士で連携。AitM多いか？と思ったらかなり少ない。リアルタイムフィッシングの方が多い。他行宛て振込送金を止めるルールはあるのか？事前にルール決めておくのがいいね。2024年に比べてスピードアップ。OS関係の脆弱性は1日未満で悪用が50%。日本で使ってないが、海外支社で使っている場合もあるので注意。対応会社側が厳しい状況は続いている。自社で収集しないといけないし、見直しもしないといけない。EPSSに頼りたくなる。観測網が充実していれば良いが、後手に回る。AIや情報共有のスピードUPが求められる。パッチの当てにくさも対応遅れる一因ではないか？パッチ自体の品質UPが求められる。パッチ適用時の試験だけをやってくれるところがあるといいな。辻さんって今何してるんやろ？って言われないようにしないとな。<br />
 &nbsp;</p>
@@ -9283,31 +9320,6 @@ LINEスタンプ申請中！</p>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>28:03</itunes:duration>
-	</item>
-	<item>
-		<title>第21回 とりあえず聞いてよっ！奥さんっ！スペシャル</title>
-		<link>https://www.tsujileaks.com/?p=348</link>
-		<pubDate>Sun, 11 May 2014 23:11:11 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=348</guid>
-		<comments>https://www.tsujileaks.com/?p=348#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=348</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<category><![CDATA[ntsuji]]></category>
-		<description><![CDATA[<div id="tweetbutton348" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D348&amp;text=%E7%AC%AC21%E5%9B%9E%20%E3%81%A8%E3%82%8A%E3%81%82%E3%81%88%E3%81%9A%E8%81%9E%E3%81%84%E3%81%A6%E3%82%88%E3%81%A3%EF%BC%81%E5%A5%A5%E3%81%95%E3%82%93%E3%81%A3%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D348" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>今回はもう何もここで言うことはありません！<br />
-まぁ、聞いてみてくださいよ！<br />
-ゲストいるよ！！！<br />
-<br />
-【その他・関連リンク】</p>
-<p>・<a href="https://chrome.google.com/webstore/detail/%E7%B7%8A%E6%80%A5%E5%9C%B0%E9%9C%87%E9%80%9F%E5%A0%B1-by-extension/pebgngldogenhmnokpncolbajkelhjba?hl=ja">緊急地震速報 by Extension</a></p>
-<p>・<a href="https://play.google.com/store/apps/details?id=info.justoneplanet.android.kaomoji">みんなの顔文字辞典（検索できる顔文字アプリ）(Android版)</a></p>
-<p>・<a href="https://itunes.apple.com/jp/app/minnano-yan-wen-zi-ci-dian/id465250131?mt=8">みんなの顔文字辞典（iOS版）</a></p>
-<p>・<a href="https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A0%E3%82%B7%E3%83%86%E3%82%A3">シムシティ</a></p>
-<p>・<a href="https://www.google.co.jp/search?q=%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E9%A1%94%E6%96%87%E5%AD%97%E8%BE%9E%E5%85%B8&#038;oq=%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E9%A1%94%E6%96%87%E5%AD%97%E8%BE%9E%E5%85%B8&#038;aqs=chrome.0.69i59j69i61l3j0l2.8478j0j4&#038;sourceid=chrome&#038;es_sm=119&#038;ie=UTF-8&#038;qscrl=1">「みんなの顔文字辞典」のGoogle検索結果</a></p><p>The post <a href="https://www.tsujileaks.com/?p=348">第21回 とりあえず聞いてよっ！奥さんっ！スペシャル</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
-		<enclosure url="http://www.tsujileaks.com/media/tsujileaks0509.m4a" length="23038413" type="audio/x-m4a" />
-		<itunes:author>セキュリティのアレ</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>46:47</itunes:duration>
 	</item>
 </channel>
 </rss>
