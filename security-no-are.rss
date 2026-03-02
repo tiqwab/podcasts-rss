@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 16 Feb 2026 12:29:51 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Mar 2026 16:39:13 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -82,7 +82,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 | (P) AI の悪用に関する Google のレポート | 13:44 |<br />
 | (N) Vuln4Cast による脆弱性の数の予測 | 27:10 |<br />
 | (T) 従業員を監視するツールを悪用するランサムウェアの攻撃 | 38:15 |<br />
-| オススメのアレ | 51:42 |</p><p>The post <a href="https://www.tsujileaks.com/?p=2200">第292回 愛と情熱を！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+| オススメのアレ | 51:42 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2200">第292回 愛と情熱を！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
 		<enclosure url="https://www.tsujileaks.com/media/are_260216_IIJ.mp3" length="28101015" type="audio/mpeg" />
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
