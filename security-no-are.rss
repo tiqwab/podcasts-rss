@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 10 Mar 2026 11:00:31 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Mar 2026 08:30:08 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,40 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第295回 隙間や乍らで！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2225</link>
+		<pubDate>Tue, 17 Mar 2026 08:30:08 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2225</guid>
+		<comments>https://www.tsujileaks.com/?p=2225#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2225</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<div id="tweetbutton2225" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2225&amp;text=%E7%AC%AC295%E5%9B%9E%20%E9%9A%99%E9%96%93%E3%82%84%E4%B9%8D%E3%82%89%E3%81%A7%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2225" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.security.com/threat-intelligence/lazarus-medusa-ransomware">North Korean Lazarus Group Now Working With Medusa Ransomware | SECURITY.COM</a><br />
+・<a href="https://www.ark-invest.com/white-papers/bitcoin-and-quantum-computing">Bitcoin And Quantum Computing</a><br />
+・<a href="https://www.projecteleven.com/bitcoin-risq-list">Project Eleven &#8211; Bitcoin Risq List</a><br />
+・<a href="https://www.businessinsider.jp/article/2603amazon-data-centers-middle-east-drone-strukes-us-iran-conflict/">アマゾン、中東のデータセンター3カ所がドローン攻撃で被害 | Business Insider Japan</a><br />
+・<a href="https://health.aws.amazon.com/health/status">Service health &#8211; Mar 16, 2026 | AWS Health Dashboard | Global</a><br />
+・<a href="https://www.donki.com/j-kakaku/product/detail.php?item=3508">ごまにんにく｜乾物｜商品紹介｜ドン・キホーテのピープルブランド（PB）「情熱価格」｜驚安の殿堂 ドン・キホーテ</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/sakuramo.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/sakuramo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2227" srcset="https://www.tsujileaks.com/wp-content/uploads/sakuramo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/sakuramo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/sakuramo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/sakuramo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：3秒考えて分からないことは調べるか聞くかする。調べる楽しさ。RaaSを使う国家背景の攻撃者。過去にも起訴、報奨金。使われているツールの特徴。チョリマかコリマか。攻撃者によってMimikatzは被害環境から出てこないことはまぁまぁあるんですよね。他にも。キトゥン（発音記号：/ˈkɪtn/）国家から指示は受けてるけど国家ではない系。インフラ維持しなくてもいい。なんでも使えるものは使う。垣根がなくなってきている。暗号の安全性。vs 量子コンピュータ。公開されてないけど公開鍵。半分危ない。再利用の危険性。データセンターの障害の原因。とばっちりではなく明確な意思を持って。データセンターの所在地について。地上ですか地下ですか。ごめんなさいしたい。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 05:19 |<br />
+| (T) Lazarus による Medusa ランサムウェアを利用した攻撃 | 10:10 |<br />
+| (N) Bitcoin の量子コンピュータによるリスク | 21:57 |<br />
+| (P) AWS 中東リージョン障害の原因 | 36:56 |<br />
+| オススメのアレ | 50:26 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2225">第295回 隙間や乍らで！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260317_inquiry.mp3" length="26293137" type="audio/mpeg" />
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>54:34</itunes:duration>
+	</item>
+	<item>
 		<title>第294回 追いかけてなのか、お湯かけてなのか！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2217</link>
 		<pubDate>Tue, 10 Mar 2026 11:00:31 +0000</pubDate>
@@ -67,7 +101,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog | CISA</a><br />
 ・<a href="https://www.youtube.com/channel/UCDn8Lqf-x0zD8hmFUg08f6w">狩野英孝【公式チャンネル】EIKO!GO!! &#8211; YouTube</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/umeyade.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/umeyade-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2219" srcset="https://www.tsujileaks.com/wp-content/uploads/umeyade-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/umeyade-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/umeyade-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/umeyade.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/umeyade.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/umeyade-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2219" srcset="https://www.tsujileaks.com/wp-content/uploads/umeyade-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/umeyade-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/umeyade-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/umeyade.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：皆さんの好きなカップヌードルは何味ですか？追いかけてお湯かけて引っかけて。やっぱ加点方式でしょ。★1どこに売ってるん？健康にもいいアレ。韓国の国税庁のやらかし。写ってはいけないもの。お気付きだろうかぁ。秘密鍵の作り方。善意の人。ドメインたまに取るで！冬ソナ思い出した。多さと影響度。中身に注目。ターゲットの変化。使い勝手の良い芋づる式パターン。コマーシャルな攻撃が目立ってきている。外せないキーワード「AI活用」。自動化、効率化、成功率を上げる要素。悪用されているゼロデイの中には自分たちに来なさそうなものもあることに注意。同じ武器を持っている。いつも触れてるというか身に付けてるってレベル。大好きではなかった。CVE分のKEV。Mediumどう見てる？接してる？今しなくていいものにリソースかけてしまう、今しないといけないことを見逃してしまうを避けよう。KEVの中でExploitがあるものの割合。KEVの有用性が明らかに。時系列でも見てみた。自分たちのところに来るか来ないかを判断する指標。ベンダーの方々もうちょっと頑張ってくださいよ！<br />
 &nbsp;</p>
@@ -138,7 +172,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://github.com/0x706972686f/RMM-Catalogue">GitHub &#8211; 0x706972686f/RMM-Catalogue</a><br />
 ・<a href="https://proton.me/authenticator">Proton Authenticator: Private, secure 2FA authenticator | Proton</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/ginsekai.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/ginsekai-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2201" srcset="https://www.tsujileaks.com/wp-content/uploads/ginsekai-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/ginsekai-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/ginsekai-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/ginsekai.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/ginsekai.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/ginsekai-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2201" srcset="https://www.tsujileaks.com/wp-content/uploads/ginsekai-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/ginsekai-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/ginsekai-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/ginsekai.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：CM流れてきてびっくりうらやましかった。ふりかけ届くの楽しみ。ある意味でのTMN。ワンパス。ぴよログ。どっちもどっちな気がするので自分は利便性重視でいくかな。頻度にもよるけど。会社行かへんから攻撃けーへんのかなぁ。ディスカッションは準備大変かもやけど実りありそう。AIをどう攻撃に使っているのかって話。AI for Security。Security for AI。カービィなのか牛丼なのか。作業支援の位置づけという状況。ガードレールの越え方。手探りから次の段階に。参入障壁も下げてると思う。FIRSTのあるWG。脆弱性に関する予測。めっちゃ増える予想の中央値。頭打ちどこでするかなぁ。脆弱性を作り込まない精度と悪用の精度。アカウントの操作に違和感。はじめからなんか途中からなんか。監視だけでなく資産管理系って強力なものある。監視機能を使って更なる情報収集。自分たちが使っているソフトが悪用される想定。<br />
 &nbsp;</p>
@@ -9303,42 +9337,6 @@ LINEスタンプ申請中！</p>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>36:06</itunes:duration>
-	</item>
-	<item>
-		<title>第24回 ボクたちの戦いは始まったばかりだ！スペシャル</title>
-		<link>https://www.tsujileaks.com/?p=381</link>
-		<pubDate>Wed, 24 Sep 2014 14:32:33 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=381</guid>
-		<comments>https://www.tsujileaks.com/?p=381#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=381</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<div id="tweetbutton381" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D381&amp;text=%E7%AC%AC24%E5%9B%9E%20%E3%83%9C%E3%82%AF%E3%81%9F%E3%81%A1%E3%81%AE%E6%88%A6%E3%81%84%E3%81%AF%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%B0%E3%81%8B%E3%82%8A%E3%81%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D381" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>今回はゲストに<a href="https://twitter.com/keijitakeda">武田圭史さん</a>、<a href="https://twitter.com/kitagawa_takuji">北河拓士さん</a>をお招きしてパスワードの定期変更についてお話しました。</p>
-<p>動画は<a href="http://www.tsujileaks.com/media/tsujileaks24.mov">こちら</a>。<br />
-（ただ画質は…　ごめんなさい…）</p>
-<p>今回は色々な背景があっての収録となりました。<br />
-是非、以下の関連リンクもご覧になって聴いて頂ければと思います。</p>
-<p>今回ちょっと専門用語多めです…</p>
-<p>ntsujiは<br />
-「パスワードの定期変更」の効果はゼロと言わないし<br />
-「するな」とまでも言わないが現状を考慮すると<br />
-「強固なパスワードの設定」<br />
-「使い回しをしない」<br />
-と比べると効果は薄く、優先順位が低いと考えています。</p>
-<p>この話題は今回だけで終わらず、継続していきたいと思います。<br />
-</p>
-<p>【その他・関連リンク】</p>
-<p>・<a href="http://www.soumu.go.jp/menu_news/s-news/01ryutsu03_02000063.html">「リスト型アカウントハッキングによる不正ログインへの対応方策について（サイト管理者などインターネットサービス提供事業者向け対策集）」の公表</a></p>
-<p>・<a href="https://www.ipa.go.jp/about/kobo/kobo20140903.html">「ID・パスワードのセキュリティ対策促進に関する広告等業務」に係る企画競争</a></p>
-<p>・<a href="http://togetter.com/li/605811">武田先生とボクのパスワードの定期変更に関するやり取りメモ</a></p>
-<p>・<a href="http://togetter.com/li/715385">定期的なパスワード変更は有効な施策なのか？</a></p>
-<p>・<a href="http://togetter.com/li/715400">今日も今日とて定期的変更 TKDKG先生のひよひよプレイを今日もご覧ください!</a></p>
-<p>・<a href="http://research.lifemedia.jp/2014/04/140423_authentication.html">パスワード管理と認証に関する調査。ID＆PWの管理、男性は「記憶」女性は「紙にメモ」。</a></p>
-<p>・<a href="http://e-words.jp/w/E3838FE38383E382B7E383A5E58C96.html">ハッシュ化 【 hashing 】 ハッシング</a></p><p>The post <a href="https://www.tsujileaks.com/?p=381">第24回 ボクたちの戦いは始まったばかりだ！スペシャル</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
-		<enclosure url="http://www.tsujileaks.com/media/tsujileaks24.m4a" length="23530676" type="audio/x-m4a" />
-		<itunes:author>セキュリティのアレ</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>50:21</itunes:duration>
 	</item>
 </channel>
 </rss>
