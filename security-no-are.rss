@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 17 Mar 2026 08:30:08 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Mar 2026 11:00:48 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,41 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第296回 真相 in the Dark！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2230</link>
+		<pubDate>Mon, 23 Mar 2026 11:00:48 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2230</guid>
+		<comments>https://www.tsujileaks.com/?p=2230#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2230</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<div id="tweetbutton2230" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2230&amp;text=%E7%AC%AC296%E5%9B%9E%20%E7%9C%9F%E7%9B%B8%20in%20the%20Dark%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2230" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.amiya.co.jp/nature/webinar/22673/">第23回 情報セキュリティEXPO【春】 | セミナー/イベント | NATURE SERIES | 株式会社 網屋</a><br />
+・<a href="https://tobila.com/news/report/p2801/">会社員の4人に1人が「ニセ社長詐欺」のメールを受信 急増するビジネスメール詐欺の手口＆アンケート調査レポートを公開 ｜トビラシステムズ株式会社</a><br />
+・<a href="https://www.ipa.go.jp/security/anshin/attention/2025/mgdayori20260312.html">社長等をかたる詐欺メールに注意！ | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</a><br />
+・<a href="https://www.npa.go.jp/news/release/2026/20260310001.html">令和７年におけるサイバー空間をめぐる脅威の情勢等について｜警察庁Webサイト</a><br />
+・<a href="https://reliaquest.com/blog/threat-spotlight-casting-a-wider-net-clickfix-deno-and-leaknets-scaling-threat">Casting a Wider Net: ClickFix, Deno, and LeakNet’s Scaling Threat</a><br />
+・<a href="https://atos.net/en/lp/cybershield/investigating-a-new-click-fix-variant">Investigating a new Click-fix variant &#8211; Atos</a><br />
+・<a href="https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction-rules-reference">Attack surface reduction rules reference &#8211; Microsoft Defender for Endpoint | Microsoft Learn</a><br />
+・<a href="https://panasonic.jp/treatment/">カテゴリー概要 | 治療器（家庭用電気治療器） | Panasonic</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/buttonNo3.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/buttonNo3-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2237" srcset="https://www.tsujileaks.com/wp-content/uploads/buttonNo3-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/buttonNo3-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/buttonNo3-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/buttonNo3.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：乞うご期待<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 04:25 |<br />
+| (N) ニセ社長詐欺のアンケート調査レポート | 18:46 |<br />
+| (T) LeakNet による ClickFix を使う攻撃手口 | 36:58 |<br />
+| オススメのアレ | 55:10 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2230">第296回 真相 in the Dark！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260323_suenagaku.mp3" length="29385934" type="audio/mpeg" />
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:01:01</itunes:duration>
+	</item>
+	<item>
 		<title>第295回 隙間や乍らで！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2225</link>
 		<pubDate>Tue, 17 Mar 2026 08:30:08 +0000</pubDate>
@@ -67,7 +102,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://health.aws.amazon.com/health/status">Service health &#8211; Mar 16, 2026 | AWS Health Dashboard | Global</a><br />
 ・<a href="https://www.donki.com/j-kakaku/product/detail.php?item=3508">ごまにんにく｜乾物｜商品紹介｜ドン・キホーテのピープルブランド（PB）「情熱価格」｜驚安の殿堂 ドン・キホーテ</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/sakuramo.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/sakuramo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2227" srcset="https://www.tsujileaks.com/wp-content/uploads/sakuramo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/sakuramo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/sakuramo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/sakuramo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/sakuramo.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/sakuramo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2227" srcset="https://www.tsujileaks.com/wp-content/uploads/sakuramo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/sakuramo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/sakuramo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/sakuramo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：3秒考えて分からないことは調べるか聞くかする。調べる楽しさ。RaaSを使う国家背景の攻撃者。過去にも起訴、報奨金。使われているツールの特徴。チョリマかコリマか。攻撃者によってMimikatzは被害環境から出てこないことはまぁまぁあるんですよね。他にも。キトゥン（発音記号：/ˈkɪtn/）国家から指示は受けてるけど国家ではない系。インフラ維持しなくてもいい。なんでも使えるものは使う。垣根がなくなってきている。暗号の安全性。vs 量子コンピュータ。公開されてないけど公開鍵。半分危ない。再利用の危険性。データセンターの障害の原因。とばっちりではなく明確な意思を持って。データセンターの所在地について。地上ですか地下ですか。ごめんなさいしたい。<br />
 &nbsp;</p>
@@ -134,7 +169,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.crowdstrike.com/en-us/press-releases/2026-crowdstrike-global-threat-report/">2026 CrowdStrike Global Threat Report: AI Accelerated Adversaries</a><br />
 ・<a href="https://www.kamejirushi.co.jp/view/item/000000000004">吉原殿中 6本入-42本入 | 水戸銘菓 | 亀じるしオンラインショップ</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/makimaki.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/makimaki-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2209" srcset="https://www.tsujileaks.com/wp-content/uploads/makimaki-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/makimaki-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/makimaki-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/makimaki.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/makimaki.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/makimaki-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2209" srcset="https://www.tsujileaks.com/wp-content/uploads/makimaki-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/makimaki-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/makimaki-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/makimaki.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：昨年のM-1の話。最高で準決勝（敗者復活戦）敗退でした。タイミングや環境。信念持って。ぜーんぶセットで！色々巻き込んだらできそうではある。アレがたいところ。数字の見方。辻さんの語り口。いい立場の変化。複数のMFA。運用との兼ね合い。認証規格の難しさ。ちょっと何書いてるんやろ？って思ったけど人というのが気になった。原因と責任の所在におけるギャップ。数と頻度ですかね。結構懲戒されている。リテラシーのレベルからか依存が大きく見える。期待しているとも取れなくもない。違反と過失を見極めた対応が理想ですよね。見てるぞってことを認識させる抑止効果って結構大きいと信じている。隠す文化にならないように。しっかり聞かないと置いて行かれそうになる話。.arpaを使ってフィッシングってそんなんできんの？登録できて証明書も発行できてまうんかい。逆引きではなく正引きとして扱われると。やってみたらできるのか。できたらいいなでやってそう。2025年は回避型の年。目的達成までの時間の短縮。これくらいのものがあることを留意せねばならないのか。どの程度の速度か影響範囲か。自分たちの環境が攻撃者にとってどれほど便利かも知らないといけないですね。対処は人がするのかそうでないのかも切り分けておかないと。何前提にしたらええねん。脱マルウェアの攻撃者？<br />
 &nbsp;</p>
@@ -9313,30 +9348,6 @@ LINEスタンプ申請中！</p>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>12:41</itunes:duration>
-	</item>
-	<item>
-		<title>第25回 空けましておめでとう！スペシャル 前編</title>
-		<link>https://www.tsujileaks.com/?p=395</link>
-		<pubDate>Wed, 25 Mar 2015 07:05:10 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=395</guid>
-		<comments>https://www.tsujileaks.com/?p=395#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=395</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<div id="tweetbutton395" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D395&amp;text=%E7%AC%AC25%E5%9B%9E%20%E7%A9%BA%E3%81%91%E3%81%BE%E3%81%97%E3%81%A6%E3%81%8A%E3%82%81%E3%81%A7%E3%81%A8%E3%81%86%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20%E5%89%8D%E7%B7%A8%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D395" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>なんとか前回が最終回にならずにすみました…<br />
-今回もオフライン！<br />
-大阪のセミナーでのパネルディスカッション後にゲストを迎えての収録です！</p>
-<p>【その他・関連リンク】<br />
-・<a href="http://blog.trendmicro.co.jp/archives/11009">SSL/TLS通信時の脆弱性「FREAK」、その影響度は？</a></p>
-<p>・<a href="http://bizmakoto.jp/bizid/articles/1503/23/news073.html">「DDoS攻撃、800円でやってあげる」が成り立つワケ</a></p>
-<p>・<a href="http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072800020/">多様化する「DDoS攻撃」、国内のホームルーターも踏み台に</a></p>
-<p>・<a href="http://itpro.nikkeibp.co.jp/atcl/column/14/346926/092200062/?ST=security&#038;P=1">高校生でも企業サイトを落とせる時代に、「DDoS攻撃サービス」の脅威</a></p>
-<p>・<a href="https://www.npa.go.jp/cyberpolice/topics/?seq=15671">「Islamic State（ISIS）」と称する者によるウェブサイト改ざんに係る注意喚起について</a></p>
-<p>・<a href="http://d.hatena.ne.jp/Kango/20150311/1426092556">「Hacked by Islamic State」と改ざんされた国内のウェブサイトについてまとめてみた。</a></p><p>The post <a href="https://www.tsujileaks.com/?p=395">第25回 空けましておめでとう！スペシャル 前編</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
-		<enclosure url="http://www.tsujileaks.com/media/tsujileaks_201503_1.m4a" length="18159128" type="audio/x-m4a" />
-		<itunes:author>セキュリティのアレ</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>36:06</itunes:duration>
 	</item>
 </channel>
 </rss>
