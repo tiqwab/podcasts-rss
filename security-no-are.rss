@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 23 Mar 2026 11:00:48 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Mar 2026 11:00:24 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,43 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第297回 アレや！これや！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2240</link>
+		<pubDate>Mon, 30 Mar 2026 11:00:24 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2240</guid>
+		<comments>https://www.tsujileaks.com/?p=2240#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2240</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<div id="tweetbutton2240" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2240&amp;text=%E7%AC%AC297%E5%9B%9E%20%E3%82%A2%E3%83%AC%E3%82%84%EF%BC%81%E3%81%93%E3%82%8C%E3%82%84%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2240" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.amiya.co.jp/nature/webinar/22673/">第23回 情報セキュリティEXPO【春】 | セミナー/イベント | NATURE SERIES | 株式会社 網屋</a><br />
+・<a href="https://note.com/vast_sedum756/n/n9ed593514741">アレや、これや、網屋！8年ぶりのEXPO出展｜AMIYA公式note</a><br />
+・<a href="https://www.raumen.co.jp/sugomen-labo.html">ラー博スゴメンラボ &#8211; 新横浜ラーメン博物館</a><br />
+・<a href="https://www.nikkei.com/article/DGXZQOGM239M40T20C26A3000000/">香港、スマホのパスワード開示拒否は違法 国安法の捜査で &#8211; 日本経済新聞</a><br />
+・<a href="https://x.com/ntsuji/status/2022601527706386745">辻 伸弘 (nobuhiro tsuji) on X: &quot;なんでもかんでもVPNのせいにすな&quot; / X</a><br />
+・<a href="https://www.npa.go.jp/publications/statistics/cybersecurity/index.html">サイバー空間をめぐる脅威の情勢等｜警察庁Webサイト</a><br />
+・<a href="https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers">FCC Updates Covered List to Include Foreign-Made Consumer Routers | Federal Communications Commission</a><br />
+・<a href="https://therecord.media/fcc-routers-banned-security-china">FCC bans foreign-made routers from US market over ‘unacceptable risk’ | The Record from Recorded Future News</a><br />
+・<a href="https://wmg.jp/don-toliver/">Don Toliver / ドン・トリバー | Warner Music Japan</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/amiya_collaboration.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/amiya_collaboration-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2241" srcset="https://www.tsujileaks.com/wp-content/uploads/amiya_collaboration-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/amiya_collaboration-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/amiya_collaboration-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/amiya_collaboration.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：4月9日に！<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 08:37 |<br />
+| (P) 香港でスマホのパスワード開示拒否が違法に ? | 18:08 |<br />
+| (T) 「なんでもかんでもVPNのせいにすな」 | 29:31 |<br />
+| (N) 米国で外国製の消費者向けルーターが禁止に ? | 42:26 |<br />
+| オススメのアレ | 56:13 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2240">第297回 アレや！これや！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260330_areyakoreya.mp3" length="28781439" type="audio/mpeg" />
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>59:45</itunes:duration>
+	</item>
+	<item>
 		<title>第296回 真相 in the Dark！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2230</link>
 		<pubDate>Mon, 23 Mar 2026 11:00:48 +0000</pubDate>
@@ -69,7 +106,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction-rules-reference">Attack surface reduction rules reference &#8211; Microsoft Defender for Endpoint | Microsoft Learn</a><br />
 ・<a href="https://panasonic.jp/treatment/">カテゴリー概要 | 治療器（家庭用電気治療器） | Panasonic</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/buttonNo3.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/buttonNo3-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2237" srcset="https://www.tsujileaks.com/wp-content/uploads/buttonNo3-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/buttonNo3-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/buttonNo3-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/buttonNo3.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/buttonNo3.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/buttonNo3-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2237" srcset="https://www.tsujileaks.com/wp-content/uploads/buttonNo3-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/buttonNo3-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/buttonNo3-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/buttonNo3.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：乞うご期待<br />
 &nbsp;</p>
@@ -136,7 +173,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog | CISA</a><br />
 ・<a href="https://www.youtube.com/channel/UCDn8Lqf-x0zD8hmFUg08f6w">狩野英孝【公式チャンネル】EIKO!GO!! &#8211; YouTube</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/umeyade.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/umeyade-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2219" srcset="https://www.tsujileaks.com/wp-content/uploads/umeyade-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/umeyade-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/umeyade-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/umeyade.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/umeyade.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/umeyade-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2219" srcset="https://www.tsujileaks.com/wp-content/uploads/umeyade-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/umeyade-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/umeyade-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/umeyade.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：皆さんの好きなカップヌードルは何味ですか？追いかけてお湯かけて引っかけて。やっぱ加点方式でしょ。★1どこに売ってるん？健康にもいいアレ。韓国の国税庁のやらかし。写ってはいけないもの。お気付きだろうかぁ。秘密鍵の作り方。善意の人。ドメインたまに取るで！冬ソナ思い出した。多さと影響度。中身に注目。ターゲットの変化。使い勝手の良い芋づる式パターン。コマーシャルな攻撃が目立ってきている。外せないキーワード「AI活用」。自動化、効率化、成功率を上げる要素。悪用されているゼロデイの中には自分たちに来なさそうなものもあることに注意。同じ武器を持っている。いつも触れてるというか身に付けてるってレベル。大好きではなかった。CVE分のKEV。Mediumどう見てる？接してる？今しなくていいものにリソースかけてしまう、今しないといけないことを見逃してしまうを避けよう。KEVの中でExploitがあるものの割合。KEVの有用性が明らかに。時系列でも見てみた。自分たちのところに来るか来ないかを判断する指標。ベンダーの方々もうちょっと頑張ってくださいよ！<br />
 &nbsp;</p>
@@ -9328,26 +9365,6 @@ LINEスタンプ申請中！</p>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>59:49</itunes:duration>
-	</item>
-	<item>
-		<title>第26回 空けましておめでとう！スペシャル 後編</title>
-		<link>https://www.tsujileaks.com/?p=400</link>
-		<pubDate>Mon, 30 Mar 2015 01:28:59 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=400</guid>
-		<comments>https://www.tsujileaks.com/?p=400#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=400</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<div id="tweetbutton400" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D400&amp;text=%E7%AC%AC26%E5%9B%9E%20%E7%A9%BA%E3%81%91%E3%81%BE%E3%81%97%E3%81%A6%E3%81%8A%E3%82%81%E3%81%A7%E3%81%A8%E3%81%86%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20%E5%BE%8C%E7%B7%A8%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D400" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>まさかの後編！！！</p>
-<p>【その他・関連リンク】</p>
-<p>・<a href="http://d.hatena.ne.jp/hanazukin/">家庭内インフラ管理者の独り言（はなずきんの日記っぽいの）</a></p>
-<p>・<a href="http://www.spread-j.org/">SPREAD セキュリティ対策推進協議会</a></p>
-<p>・<a href="http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AA%E3%83%BC%E3%82%AD%E3%82%AF%E3%83%81%E4%B8%AD%E5%82%B7%E8%A2%AB%E5%AE%B3%E4%BA%8B%E4%BB%B6">スマイリーキクチ中傷被害事件</a></p>
-<p>・<a href="http://bizmakoto.jp/makoto/kw/300m.html">「半径300メートルのIT」最新記事一覧</a></p><p>The post <a href="https://www.tsujileaks.com/?p=400">第26回 空けましておめでとう！スペシャル 後編</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
-		<enclosure url="http://www.tsujileaks.com/media/tsujileaks_201503_2.m4a" length="6525672" type="audio/x-m4a" />
-		<itunes:author>セキュリティのアレ</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>12:41</itunes:duration>
 	</item>
 </channel>
 </rss>
