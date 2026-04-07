@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 30 Mar 2026 11:00:24 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 Apr 2026 11:05:39 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,43 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第298回 そこまでいったらもうサクラや！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2244</link>
+		<pubDate>Mon, 06 Apr 2026 11:00:06 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2244</guid>
+		<comments>https://www.tsujileaks.com/?p=2244#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2244</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<div id="tweetbutton2244" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2244&amp;text=%E7%AC%AC298%E5%9B%9E%20%E3%81%9D%E3%81%93%E3%81%BE%E3%81%A7%E3%81%84%E3%81%A3%E3%81%9F%E3%82%89%E3%82%82%E3%81%86%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%84%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2244" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.amiya.co.jp/nature/webinar/22673/">第23回 情報セキュリティEXPO【春】 | セミナー/イベント | NATURE SERIES | 株式会社 網屋</a><br />
+・<a href="https://www.youtube.com/channel/UC1VghyKU1Nb-Gs8Hv1xmaJw">警視庁公式チャンネル &#8211; YouTube</a><br />
+・<a href="https://www.stryker.com/us/en/about/news/2026/a-message-to-our-customers-03-2026.html">Customer Updates: Stryker Network Disruption | Stryker</a><br />
+・<a href="https://www.justice.gov/opa/pr/justice-department-disrupts-iranian-cyber-enabled-psychological-operations">Office of Public Affairs | Justice Department Disrupts Iranian Cyber Enabled Psychological Operations | United States Department of Justice</a><br />
+・<a href="https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-urges-endpoint-management-system-hardening-after-cyberattack-against-us-organization">CISA Urges Endpoint Management System Hardening After Cyberattack Against US Organization | CISA</a><br />
+・<a href="https://techcommunity.microsoft.com/blog/intunecustomersuccess/best-practices-for-securing-microsoft-intune/4502117">Best practices for securing Microsoft Intune | Microsoft Community Hub</a><br />
+・<a href="https://www.halcyon.ai/blog/abusing-aws-native-services-ransomware-encrypting-s3-buckets-with-sse-c">Abusing AWS Native Services: Ransomware Encrypting S3 Buckets with SSE-C</a><br />
+・<a href="https://www.greynoise.io/blog/invisible-army-why-ip-reputation-fails-against-rotation-economy">The Invisible Army: Why IP Reputation Fails Against the Rotation Economy</a><br />
+・<a href="https://blog.foxio.io/ja4t-tcp-fingerprinting">JA4T: TCP Fingerprinting • FoxIO Blog</a><br />
+・<a href="https://www.tv-tokyo.co.jp/akunohana/">惡の華 | テレ東・ＢＳテレ東 7ch(公式)</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/hanami.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/hanami-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2245" srcset="https://www.tsujileaks.com/wp-content/uploads/hanami-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/hanami-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/hanami-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/hanami.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：来られる方、当日はよろしくお願いします。前泊の大切さ。1人になるかもしれんのかいな。1と2にもあるの見逃してた。啓発動画見てね！前のめりで聴いていただいて嬉しい。お便りきっかけで調べましたよ。Strykerって字面かっこいい。ランサムウェアやワイパーなどを使わない破壊。先に言ってた好き。盗まれた情報次第で今後と影響範囲が変わってくる。これ検知相当に大変。認証・認可の保護はもちろんのこと、権限についても見直しが必要。Separate of Duty。MDMあるの安心。自分たちが被害に遭うことだけではなく、使っているサービスの組織が被害に遭ったときに自分たちにどのような影響があるのかを棚卸ししよ。IPIDEAのテイクダウンを受けて。GREYNOISEって名前は名が体を表してる感じあるしセンスいいと思う。IPごとに平均3セッション未満って使い捨てやん。人の動きと連動している。環境変数的なもので識別。入れ替わり。穴埋めかー。インフラのテイクダウンだけでは戻っちゃう傾向ある。悪用以外思いつかないサービス。Torと違うところ。限りなく黒に近い黒。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 07:44 |<br />
+| (T) Stryker 社で発生したインシデントについて | 12:40 |<br />
+| (N) GreyNoise の RESIP に関するレポート | 31:20 |<br />
+| オススメのアレ | 58:02 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2244">第298回 そこまでいったらもうサクラや！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260406_namaekakkoii.mp3" length="29925109" type="audio/mpeg" />
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:02:08</itunes:duration>
+	</item>
+	<item>
 		<title>第297回 アレや！これや！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2240</link>
 		<pubDate>Mon, 30 Mar 2026 11:00:24 +0000</pubDate>
@@ -70,7 +107,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://therecord.media/fcc-routers-banned-security-china">FCC bans foreign-made routers from US market over ‘unacceptable risk’ | The Record from Recorded Future News</a><br />
 ・<a href="https://wmg.jp/don-toliver/">Don Toliver / ドン・トリバー | Warner Music Japan</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/amiya_collaboration.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/amiya_collaboration-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2241" srcset="https://www.tsujileaks.com/wp-content/uploads/amiya_collaboration-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/amiya_collaboration-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/amiya_collaboration-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/amiya_collaboration.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/amiya_collaboration.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/amiya_collaboration-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2241" srcset="https://www.tsujileaks.com/wp-content/uploads/amiya_collaboration-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/amiya_collaboration-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/amiya_collaboration-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/amiya_collaboration.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：4月9日に！<br />
 &nbsp;</p>
@@ -139,7 +176,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://health.aws.amazon.com/health/status">Service health &#8211; Mar 16, 2026 | AWS Health Dashboard | Global</a><br />
 ・<a href="https://www.donki.com/j-kakaku/product/detail.php?item=3508">ごまにんにく｜乾物｜商品紹介｜ドン・キホーテのピープルブランド（PB）「情熱価格」｜驚安の殿堂 ドン・キホーテ</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/sakuramo.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/sakuramo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2227" srcset="https://www.tsujileaks.com/wp-content/uploads/sakuramo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/sakuramo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/sakuramo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/sakuramo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/sakuramo.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/sakuramo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2227" srcset="https://www.tsujileaks.com/wp-content/uploads/sakuramo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/sakuramo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/sakuramo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/sakuramo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：3秒考えて分からないことは調べるか聞くかする。調べる楽しさ。RaaSを使う国家背景の攻撃者。過去にも起訴、報奨金。使われているツールの特徴。チョリマかコリマか。攻撃者によってMimikatzは被害環境から出てこないことはまぁまぁあるんですよね。他にも。キトゥン（発音記号：/ˈkɪtn/）国家から指示は受けてるけど国家ではない系。インフラ維持しなくてもいい。なんでも使えるものは使う。垣根がなくなってきている。暗号の安全性。vs 量子コンピュータ。公開されてないけど公開鍵。半分危ない。再利用の危険性。データセンターの障害の原因。とばっちりではなく明確な意思を持って。データセンターの所在地について。地上ですか地下ですか。ごめんなさいしたい。<br />
 &nbsp;</p>
@@ -9347,24 +9384,6 @@ LINEスタンプ申請中！</p>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>45:40</itunes:duration>
-	</item>
-	<item>
-		<title>第1回 動画のアレからポッドキャストのアレに帰ってきたよ！スペシャル</title>
-		<link>https://www.tsujileaks.com/?p=426</link>
-		<pubDate>Sun, 23 Apr 2017 14:08:34 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=426</guid>
-		<comments>https://www.tsujileaks.com/?p=426#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=426</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<div id="tweetbutton426" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D426&amp;text=%E7%AC%AC1%E5%9B%9E%20%E5%8B%95%E7%94%BB%E3%81%AE%E3%82%A2%E3%83%AC%E3%81%8B%E3%82%89%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E3%81%AE%E3%82%A2%E3%83%AC%E3%81%AB%E5%B8%B0%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%88%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D426" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>セキュリティのアレは、ポッドキャストをお休みして<a href="http://www.atmarkit.co.jp/ait/subtop/features/ait/are.html" target="_blank">@ITで動画のセキュリティのアレ</a>として連載していました。<br />
-本編配信回数としては43回！期間としては１年4か月程の配信をしてきたのですが色々諸々紆余曲折あってポッドキャストとして帰ってきました！<br />
-ただいま！</p>
-<p>ということでこれからもゆるーくお付き合いお願いいたします！</p><p>The post <a href="https://www.tsujileaks.com/?p=426">第1回 動画のアレからポッドキャストのアレに帰ってきたよ！スペシャル</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
-		<enclosure url="http://tsujileaks.com/media/are_170423.mp3" length="57425128" type="audio/mpeg" />
-		<itunes:author>セキュリティのアレ</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>59:49</itunes:duration>
 	</item>
 </channel>
 </rss>
