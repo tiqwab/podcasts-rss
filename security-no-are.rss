@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 06 Apr 2026 11:05:39 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Apr 2026 06:56:35 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,43 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第299回 これでモンダイナイン！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2251</link>
+		<pubDate>Tue, 14 Apr 2026 06:56:35 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2251</guid>
+		<comments>https://www.tsujileaks.com/?p=2251#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2251</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<div id="tweetbutton2251" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2251&amp;text=%E7%AC%AC299%E5%9B%9E%20%E3%81%93%E3%82%8C%E3%81%A7%E3%83%A2%E3%83%B3%E3%83%80%E3%82%A4%E3%83%8A%E3%82%A4%E3%83%B3%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2251" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://x.com/ntsuji/status/2041098695564001512">辻 伸弘 (nobuhiro tsuji) on X: &quot;なんでもかんでもVPNのせいにすな 2&quot; / X</a><br />
+・<a href="https://www.anthropic.com/glasswing">Project Glasswing: Securing critical software for the AI era \ Anthropic</a><br />
+・<a href="https://red.anthropic.com/2026/mythos-preview/">Claude Mythos Preview \ red.anthropic.com</a><br />
+・<a href="https://www.microsoft.com/en-us/msrc/mapp">Microsoft Active Protections Program</a><br />
+・<a href="https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions">Cryptocurrency and AI Scams Bilk Americans of Billions — FBI</a><br />
+・<a href="https://www.team-cymru.com/post/beast-ransomware-server-toolkit-analysis">Beast Ransomware Toolkit: A Proactive Threat Intelligence Report</a><br />
+・<a href="https://hunt.io/blog/thegentlemen-ransomware-toolkit-russian-proton66-server">TheGentlemen Ransomware Toolkit Found on Russian Proton66 Server</a><br />
+・<a href="https://www.team-cymru.com/post/yurei-double-extortion-ransomware-campaign-toolkit">Yurei Double Extortion Ransomware: Operator Toolkit and Analysis</a><br />
+・<a href="https://www.hoka.com/jp/bondi/">HOKA® 公式サイト【ボンダイ | BONDI 】ホカオネオネ<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/areya.png"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/areya-300x298.png" alt="" width="300" height="298" class="alignnone size-medium wp-image-2232" srcset="https://www.tsujileaks.com/wp-content/uploads/areya-300x298.png 300w, https://www.tsujileaks.com/wp-content/uploads/areya-150x150.png 150w, https://www.tsujileaks.com/wp-content/uploads/areya-144x144.png 144w, https://www.tsujileaks.com/wp-content/uploads/areya.png 330w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：出張版めちゃくちゃ楽しかった！来てくださった皆さんありがとうございました。差し入れありがたくいただきました！アレで回避。ゆっくりでいいんですよ。こんな蝶がいるんですね。Exploitまでってすごいな。悪用される未来。絞ったからといってほんまにこれでええんか。絞ることによる格差。政府機関だからといって正しく使えるとは限らない。むしろ危ないとも言えるケースもあると思う。FBIのレポート。100万件の届出。2018年からどんどん増え続けてきていた。ダントツフィッシング。1発が大きい投資詐欺がとんでもない被害額。ほとんど詐欺！高齢者の方の被害が大きい。AI関連が追加された。かなり活用されているんだろうと思う。AIって使う使わないってものではなくなってきている。ランサム関連の書き込みを禁止していないフォーラム。「index of~」。内部ネットワークの攻撃でnmap使われてるのって見ない。攻撃の課程で脆弱な設定に変更。VPNなどを提供しているProtonはスイス。冗長もあるあるやな。一連のプロセスを自動化。ランサム攻撃の課程で色々なアプリやサービスを落とすのはファイルのロックを解除して暗号化したいため。診断やテストでも自動化、平準化して属人性を減らすのは常にある課題やったなぁ。イベントではなくプロセスで見よう。<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 06:31 |<br />
+| (P) Project Glasswing | 15:31 |<br />
+| (N) 2025 Internet Crime Report | 29:30 |<br />
+| (T) ランサムギャングの使う攻撃ツールいろいろ | 45:25 |<br />
+| オススメのアレ | 63:33 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2251">第299回 これでモンダイナイン！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260414_18mai.mp3" length="33012857" type="audio/mpeg" />
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:08:34</itunes:duration>
+	</item>
+	<item>
 		<title>第298回 そこまでいったらもうサクラや！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2244</link>
 		<pubDate>Mon, 06 Apr 2026 11:00:06 +0000</pubDate>
@@ -71,7 +108,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://blog.foxio.io/ja4t-tcp-fingerprinting">JA4T: TCP Fingerprinting • FoxIO Blog</a><br />
 ・<a href="https://www.tv-tokyo.co.jp/akunohana/">惡の華 | テレ東・ＢＳテレ東 7ch(公式)</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/hanami.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/hanami-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2245" srcset="https://www.tsujileaks.com/wp-content/uploads/hanami-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/hanami-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/hanami-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/hanami.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/hanami.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/hanami-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2245" srcset="https://www.tsujileaks.com/wp-content/uploads/hanami-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/hanami-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/hanami-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/hanami.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：来られる方、当日はよろしくお願いします。前泊の大切さ。1人になるかもしれんのかいな。1と2にもあるの見逃してた。啓発動画見てね！前のめりで聴いていただいて嬉しい。お便りきっかけで調べましたよ。Strykerって字面かっこいい。ランサムウェアやワイパーなどを使わない破壊。先に言ってた好き。盗まれた情報次第で今後と影響範囲が変わってくる。これ検知相当に大変。認証・認可の保護はもちろんのこと、権限についても見直しが必要。Separate of Duty。MDMあるの安心。自分たちが被害に遭うことだけではなく、使っているサービスの組織が被害に遭ったときに自分たちにどのような影響があるのかを棚卸ししよ。IPIDEAのテイクダウンを受けて。GREYNOISEって名前は名が体を表してる感じあるしセンスいいと思う。IPごとに平均3セッション未満って使い捨てやん。人の動きと連動している。環境変数的なもので識別。入れ替わり。穴埋めかー。インフラのテイクダウンだけでは戻っちゃう傾向ある。悪用以外思いつかないサービス。Torと違うところ。限りなく黒に近い黒。<br />
 &nbsp;</p>
@@ -143,7 +180,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction-rules-reference">Attack surface reduction rules reference &#8211; Microsoft Defender for Endpoint | Microsoft Learn</a><br />
 ・<a href="https://panasonic.jp/treatment/">カテゴリー概要 | 治療器（家庭用電気治療器） | Panasonic</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/buttonNo3.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/buttonNo3-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2237" srcset="https://www.tsujileaks.com/wp-content/uploads/buttonNo3-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/buttonNo3-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/buttonNo3-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/buttonNo3.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/buttonNo3.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/buttonNo3-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2237" srcset="https://www.tsujileaks.com/wp-content/uploads/buttonNo3-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/buttonNo3-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/buttonNo3-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/buttonNo3.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：乞うご期待<br />
 &nbsp;</p>
@@ -9366,24 +9403,6 @@ LINEスタンプ申請中！</p>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>21:15</itunes:duration>
-	</item>
-	<item>
-		<title>第2回 今週末はリサーチャーズナイトだよ！Don’t Wanna Cry！スペシャル</title>
-		<link>https://www.tsujileaks.com/?p=431</link>
-		<pubDate>Tue, 23 May 2017 13:05:12 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=431</guid>
-		<comments>https://www.tsujileaks.com/?p=431#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=431</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<div id="tweetbutton431" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D431&amp;text=%E7%AC%AC2%E5%9B%9E%20%E4%BB%8A%E9%80%B1%E6%9C%AB%E3%81%AF%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA%E3%83%8A%E3%82%A4%E3%83%88%E3%81%A0%E3%82%88%EF%BC%81Don%E2%80%99t%20Wanna%20Cry%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D431" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>今週末は、<a href="https://connpass.com/event/55097/" target="_blank">第2回 リサーチャーズナイトを開催</a>します！<br />
-それ向けてメンバー3人で打ち合わせをしたので、<del datetime="2017-05-23T12:58:57+00:00">そのついでに</del>ポッドキャスト収録も行いました！<br />
-というわけでリサーチャーズナイトとは全然関係ない話をしています。<br />
-&nbsp;</p><p>The post <a href="https://www.tsujileaks.com/?p=431">第2回 今週末はリサーチャーズナイトだよ！Don’t Wanna Cry！スペシャル</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
-		<enclosure url="http://tsujileaks.com/media/are_170523.mp3" length="76711698" type="audio/mpeg" />
-		<itunes:author>セキュリティのアレ</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>45:40</itunes:duration>
 	</item>
 </channel>
 </rss>
