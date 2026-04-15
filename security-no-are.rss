@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 14 Apr 2026 06:56:35 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Apr 2026 11:54:13 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -72,7 +72,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p>&nbsp;<br />
 <a href="http://www.tsujileaks.com/wp-content/uploads/areya.png"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/areya-300x298.png" alt="" width="300" height="298" class="alignnone size-medium wp-image-2232" srcset="https://www.tsujileaks.com/wp-content/uploads/areya-300x298.png 300w, https://www.tsujileaks.com/wp-content/uploads/areya-150x150.png 150w, https://www.tsujileaks.com/wp-content/uploads/areya-144x144.png 144w, https://www.tsujileaks.com/wp-content/uploads/areya.png 330w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
-<p>辻伸弘メモ：出張版めちゃくちゃ楽しかった！来てくださった皆さんありがとうございました。差し入れありがたくいただきました！アレで回避。ゆっくりでいいんですよ。こんな蝶がいるんですね。Exploitまでってすごいな。悪用される未来。絞ったからといってほんまにこれでええんか。絞ることによる格差。政府機関だからといって正しく使えるとは限らない。むしろ危ないとも言えるケースもあると思う。FBIのレポート。100万件の届出。2018年からどんどん増え続けてきていた。ダントツフィッシング。1発が大きい投資詐欺がとんでもない被害額。ほとんど詐欺！高齢者の方の被害が大きい。AI関連が追加された。かなり活用されているんだろうと思う。AIって使う使わないってものではなくなってきている。ランサム関連の書き込みを禁止していないフォーラム。「index of~」。内部ネットワークの攻撃でnmap使われてるのって見ない。攻撃の課程で脆弱な設定に変更。VPNなどを提供しているProtonはスイス。冗長もあるあるやな。一連のプロセスを自動化。ランサム攻撃の課程で色々なアプリやサービスを落とすのはファイルのロックを解除して暗号化したいため。診断やテストでも自動化、平準化して属人性を減らすのは常にある課題やったなぁ。イベントではなくプロセスで見よう。<br />
+<p>辻伸弘メモ：出張版めちゃくちゃ楽しかった！来てくださった皆さんありがとうございました。差し入れありがたくいただきました！アレで回避。ゆっくりでいいんですよ。こんな蝶がいるんですね。Exploitまでってすごいな。悪用される未来。絞ったからといってほんまにこれでええんか。絞ることによる格差。政府機関だからといって正しく使えるとは限らない。むしろ危ないとも言えるケースもあると思う。FBIのレポート。100万件の届出。2018年からどんどん増え続けてきていた。ダントツフィッシング。1発が大きい投資詐欺がとんでもない被害額。ほとんど詐欺！高齢者の方の被害が大きい。AI関連が追加された。かなり活用されているんだろうと思う。AIって使う使わないってものではなくなってきている。ランサム関連の書き込みを禁止していないフォーラム。「index of~」。内部ネットワークの攻撃でnmap使われてるのって見ない。攻撃の過程で脆弱な設定に変更。VPNなどを提供しているProtonはスイス。冗長もあるあるやな。一連のプロセスを自動化。ランサム攻撃の過程で色々なアプリやサービスを落とすのはファイルのロックを解除して暗号化したいため。診断やテストでも自動化、平準化して属人性を減らすのは常にある課題やったなぁ。イベントではなくプロセスで見よう。<br />
 &nbsp;</p>
 <blockquote>
 <p>【チャプター】<br />
