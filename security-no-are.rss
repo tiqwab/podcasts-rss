@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 20 Apr 2026 11:00:46 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Apr 2026 06:10:44 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,42 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第301回 次の100回始めました！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2269</link>
+		<pubDate>Tue, 28 Apr 2026 06:10:44 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2269</guid>
+		<comments>https://www.tsujileaks.com/?p=2269#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2269</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<div id="tweetbutton2269" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2269&amp;text=%E7%AC%AC301%E5%9B%9E%20%E6%AC%A1%E3%81%AE100%E5%9B%9E%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2269" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.npa.go.jp/publications/statistics/cybersecurity/index.html">サイバー空間をめぐる脅威の情勢等｜警察庁Webサイト</a><br />
+・<a href="https://dl.acm.org/doi/10.1145/3696410.3714678">7 Days Later: Analyzing Phishing-Site Lifespan After Detected | Proceedings of the ACM on Web Conference 2025</a><br />
+・<a href="https://vercel.com/kb/bulletin/vercel-april-2026-security-incident">Vercel April 2026 security incident | Vercel Knowledge Base</a><br />
+・<a href="https://context.ai/security-update">Security Update — Context</a><br />
+・<a href="https://www.infostealers.com/article/breaking-vercel-breach-linked-to-infostealer-infection-at-context-ai/">Breaking: Vercel Breach Linked to Infostealer Infection at Context.ai | InfoStealers</a><br />
+・<a href="https://checkmarx.com/blog/checkmarx-security-update-april-22/">Checkmarx Security Update: April 22</a><br />
+・<a href="https://community.bitwarden.com/t/bitwarden-statement-on-checkmarx-supply-chain-incident/96127">Bitwarden Statement on Checkmarx Supply Chain Incident &#8211; Announcements / Notices &#8211; Bitwarden Community Forums</a><br />
+・<a href="https://socket.dev/blog/checkmarx-supply-chain-compromise">Malicious Checkmarx Artifacts Found in Official KICS Docker Repository and Code Extensions</a><br />
+・<a href="https://www.yuki-tsubaki.co.jp/">雪椿｜魚沼産のコシヒカリは最高級ブランド</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/pop.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/pop-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2270" srcset="https://www.tsujileaks.com/wp-content/uploads/pop-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/pop-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/pop-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/pop.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：Now Printing.<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| お便りのコーナー | 00:00 |<br />
+| (T) フィッシングサイトの生存期間はどれくらい ? | 21:18 |<br />
+| (N) Vercel への IT サービスサプライチェーン攻撃 | 34:32 |<br />
+| (P) Checkmarx へのソフトウェアサプライチェーン攻撃 | 48:47 |<br />
+| オススメのアレ | 60:21 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2269">第301回 次の100回始めました！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260428_nebyura.mp3" length="31780259" type="audio/mpeg" />
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:06:00</itunes:duration>
+	</item>
+	<item>
 		<title>第300回 お誕生日おめでとうやで！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2261</link>
 		<pubDate>Mon, 20 Apr 2026 11:00:46 +0000</pubDate>
@@ -67,7 +103,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.nist.gov/news-events/news/2026/04/nist-updates-nvd-operations-address-record-cve-growth">NIST Updates NVD Operations to Address Record CVE Growth | NIST</a><br />
 ・<a href="https://nvd.nist.gov/general/nvd-dashboard">NVD &#8211; NVD Dashboard</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/300.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/300-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2262" srcset="https://www.tsujileaks.com/wp-content/uploads/300-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/300-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/300-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/300.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/300.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/300-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2262" srcset="https://www.tsujileaks.com/wp-content/uploads/300-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/300-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/300-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/300.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：「お」と「を」の説明。いつもだからなんなんやの話。アプリでも注意喚起。アレのいい使い方。ソースっすね。nmapの使い道。逸般の誤家庭。変えないといけない外圧があるまでは。FBIが乗ったられたルータを無害化。例のBear。経路ねじ曲げるやつ。何が目的やったんか分からないのが気持ち悪い。Masquerade！同じ方法で乗っ取り返したのでは？タイフーンって言われるとどうしても「上々颱風」が想起されます。広く網を張っていた？NOTICEとの相性。チェイナリシスをチェナリシスって言う人いる。略して「チェナ」。ランサムのところね。中央値と総額。むしろ減ってる数字のこれまで。なぜこんな数字になっているのか。グループ数と集中構造、バックアップからの復旧率を考慮して分析。小粒化と二極化。ランサム収益 vs IAB収益。カバー範囲はすべてではないことに注意。戻さないように踏みとどまらせたい。分析できてないCVE増えとるぞ問題。改善していくとは言っていたものの。結果的にはバックログは増えたのか。減ったのか。全部はやめます。その優先順位とは。これが現実解なんかな。さらっといったなぁ。<br />
 &nbsp;</p>
@@ -142,7 +178,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://blog.foxio.io/ja4t-tcp-fingerprinting">JA4T: TCP Fingerprinting • FoxIO Blog</a><br />
 ・<a href="https://www.tv-tokyo.co.jp/akunohana/">惡の華 | テレ東・ＢＳテレ東 7ch(公式)</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/hanami.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/hanami-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2245" srcset="https://www.tsujileaks.com/wp-content/uploads/hanami-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/hanami-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/hanami-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/hanami.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/hanami.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/hanami-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2245" srcset="https://www.tsujileaks.com/wp-content/uploads/hanami-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/hanami-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/hanami-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/hanami.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：来られる方、当日はよろしくお願いします。前泊の大切さ。1人になるかもしれんのかいな。1と2にもあるの見逃してた。啓発動画見てね！前のめりで聴いていただいて嬉しい。お便りきっかけで調べましたよ。Strykerって字面かっこいい。ランサムウェアやワイパーなどを使わない破壊。先に言ってた好き。盗まれた情報次第で今後と影響範囲が変わってくる。これ検知相当に大変。認証・認可の保護はもちろんのこと、権限についても見直しが必要。Separate of Duty。MDMあるの安心。自分たちが被害に遭うことだけではなく、使っているサービスの組織が被害に遭ったときに自分たちにどのような影響があるのかを棚卸ししよ。IPIDEAのテイクダウンを受けて。GREYNOISEって名前は名が体を表してる感じあるしセンスいいと思う。IPごとに平均3セッション未満って使い捨てやん。人の動きと連動している。環境変数的なもので識別。入れ替わり。穴埋めかー。インフラのテイクダウンだけでは戻っちゃう傾向ある。悪用以外思いつかないサービス。Torと違うところ。限りなく黒に近い黒。<br />
 &nbsp;</p>
@@ -9403,23 +9439,6 @@ LINEスタンプ申請中！</p>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>26:15</itunes:duration>
-	</item>
-	<item>
-		<title>第4回 表彰されておめでたいので今回はなんだか人が多いよ！スペシャル</title>
-		<link>https://www.tsujileaks.com/?p=441</link>
-		<pubDate>Thu, 29 Jun 2017 04:15:32 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=441</guid>
-		<comments>https://www.tsujileaks.com/?p=441#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=441</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<div id="tweetbutton441" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D441&amp;text=%E7%AC%AC4%E5%9B%9E%20%E8%A1%A8%E5%BD%B0%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%81%E3%81%A7%E3%81%9F%E3%81%84%E3%81%AE%E3%81%A7%E4%BB%8A%E5%9B%9E%E3%81%AF%E3%81%AA%E3%82%93%E3%81%A0%E3%81%8B%E4%BA%BA%E3%81%8C%E5%A4%9A%E3%81%84%E3%82%88%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D441" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>ということで今回も自己紹介はありませんが<br />
-6人でお話ししていますよ。歴代最多人数！</p>
-<p>おめでたい話とランサムウェアのお話をしております。</p><p>The post <a href="https://www.tsujileaks.com/?p=441">第4回 表彰されておめでたいので今回はなんだか人が多いよ！スペシャル</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
-		<enclosure url="http://tsujileaks.com/media/are_170628_z.mp3" length="59112252" type="audio/mpeg" />
-		<itunes:author>セキュリティのアレ</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>1:01:34</itunes:duration>
 	</item>
 </channel>
 </rss>
