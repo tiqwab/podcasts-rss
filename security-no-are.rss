@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Thu, 30 Apr 2026 04:56:56 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 04 May 2026 11:20:44 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -49,6 +49,38 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第302回 No Reason アレ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2281</link>
+		<pubDate>Mon, 04 May 2026 11:20:44 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2281</guid>
+		<comments>https://www.tsujileaks.com/?p=2281#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2281</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<div id="tweetbutton2281" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2281&amp;text=%E7%AC%AC302%E5%9B%9E%20No%20Reason%20%E3%82%A2%E3%83%AC%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2281" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.youtube.com/@MPD_koho/videos">警視庁公式チャンネル &#8211; YouTube</a><br />
+・<a href="https://news.mynavi.jp/techplus/lp/2026/enterprise/SecurityAwards_202605/">第11回 情報セキュリティ事故対応アワード | マイナビニュース</a><br />
+・<a href="https://ipinfo.io/blog/vpns-residential-proxies-abuse-findings-rsac-2026">How VPNs and Residential Proxies Are Used in Abuse: Findings from 2026 RSAC Research | IPinfo.io</a><br />
+・<a href="https://www.meti.go.jp/policy/netsecurity/20260427_scs.html">サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）に関する注意喚起 （METI/経済産業省）</a><br />
+・<a href="https://www.ipa.go.jp/security/scs/index.html">サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</a><br />
+・<a href="https://www.lespros.co.jp/artists/kodai-kurosaki/">黒崎煌代｜プロデュース本部｜LesPros Entertainment</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/ensoku.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/ensoku-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2282" srcset="https://www.tsujileaks.com/wp-content/uploads/ensoku-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/ensoku-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/ensoku-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/ensoku.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：GW中の皆さんこんにちは！中学受験の思い出。ウチはそういうママではなかったです。念の為。ずっと休みなのかもしれない。インターネットおじさんだったあの頃。監修のときの話。あなたの身近におすすめのアレ。情報セキュリティ事故対応アワードとは。現地でご参加ください！裁判所の許可を取れるような最小限で結果を出せることしてると思います。RSAでの2組織の発表。悪用の半分はVPNやレジデンシャルプロクシ。同じIPでもそこにぶら下がっている端末の1つでも駄目な挙動すると黒扱いになっちゃう。数が多く生存期間も短い（大体一週間以内）から追いかけてもIoCとしての効果が見込めない。ブラジルぶっちぎりでレジデンシャル！購入して使ってみたっぽい。ANDかORか同じネットワーク内にそれぞれが存在しての重複か。追いかけて追いかけても。元を絶つにも色々な経路ある問題。サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）に関する注意喚起が経済産業省から出てた件。まだ決まってないし、制度が開始されてないものにどうやって今すぐ評価を取得するねん！嘘やんかぁ。自分の公開当初の受け止めから世の中での扱いが変わってきているように思う。そこに違和感を覚えています。書類審査ゲーム。横串、包含であってほしいし、そうでないとコスト増なんですよね。この基準で大丈夫か。年間の半分を対応してこの結果はちょっとなぁ。やれんのか？<br />
+&nbsp;</p>
+<blockquote>
+<p>【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 06:14 |<br />
+| (N) RESIP と VPN はどのくらい悪用されているのか ? | 17:24 |<br />
+| (T) SCS 評価制度に関する注意喚起でてましたね | 39:57 |<br />
+| オススメのアレ | 63:13 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2281">第302回 No Reason アレ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260504_nogw.mp3" length="32311029" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:07:06</itunes:duration>
+	</item>
+	<item>
 		<title>第301回 次の100回始めました！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2269</link>
 		<pubDate>Tue, 28 Apr 2026 06:10:44 +0000</pubDate>
@@ -67,7 +99,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://socket.dev/blog/checkmarx-supply-chain-compromise">Malicious Checkmarx Artifacts Found in Official KICS Docker Repository and Code Extensions</a><br />
 ・<a href="https://www.yuki-tsubaki.co.jp/">雪椿｜魚沼産のコシヒカリは最高級ブランド</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/pop.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/pop-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2270" srcset="https://www.tsujileaks.com/wp-content/uploads/pop-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/pop-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/pop-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/pop.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/pop.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/pop-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2270" srcset="https://www.tsujileaks.com/wp-content/uploads/pop-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/pop-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/pop-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/pop.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：警察庁からお便りいただいたよ。関西弁は病気やないんです。NVD問題。全社研修頑張ってください！タレコミありがたい。フィッシングについて常々気になっていたことを確認したんよ。フィッシングサイトのURL共有の価値。これ良い論文やった。めちゃ参考になった。GSBで検知された頃には8割以上はもうない。これまでのブロックがあるから今のこの状況がある。使い捨てになっているように見える。フェーズごとの対策を考える。ユーザのアクションが主戦場かも。攻撃の経路が興味深い。InfoStealerのログ起因。全社導入じゃないものを従業員がなぜかたまたま使っていた。トークンが取られてからの侵害。サードパーティやのに公式と混同しやすい名前。Shiny hunterってポケモンやと色違いを探す人を指すんですよね。意識は変わってないけどシステムの連携によって価値が高まってるんではないか。利便性の代償。被害の前に把握したい。サプライチェーン絡み華やかなりし頃。続くと続報かと思う問題。開発環境の汚染怖いなぁ。サイバードミノの名付け親。アップデートで常に最新にしようと言いにくい状況になってる。いたしかゆしいとしこいし。別の人に渡ったアプリや拡張の信用。レピュテーションの曖昧さ。必要最小限にするしかない。<br />
 &nbsp;</p>
@@ -135,7 +167,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.team-cymru.com/post/yurei-double-extortion-ransomware-campaign-toolkit">Yurei Double Extortion Ransomware: Operator Toolkit and Analysis</a><br />
 ・<a href="https://www.hoka.com/jp/bondi/">HOKA® 公式サイト【ボンダイ | BONDI 】ホカオネオネ<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/areya.png"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/areya-300x298.png" alt="" width="300" height="298" class="alignnone size-medium wp-image-2232" srcset="https://www.tsujileaks.com/wp-content/uploads/areya-300x298.png 300w, https://www.tsujileaks.com/wp-content/uploads/areya-150x150.png 150w, https://www.tsujileaks.com/wp-content/uploads/areya-144x144.png 144w, https://www.tsujileaks.com/wp-content/uploads/areya.png 330w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/areya.png"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/areya-300x298.png" alt="" width="300" height="298" class="alignnone size-medium wp-image-2232" srcset="https://www.tsujileaks.com/wp-content/uploads/areya-300x298.png 300w, https://www.tsujileaks.com/wp-content/uploads/areya-150x150.png 150w, https://www.tsujileaks.com/wp-content/uploads/areya-144x144.png 144w, https://www.tsujileaks.com/wp-content/uploads/areya.png 330w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：出張版めちゃくちゃ楽しかった！来てくださった皆さんありがとうございました。差し入れありがたくいただきました！アレで回避。ゆっくりでいいんですよ。こんな蝶がいるんですね。Exploitまでってすごいな。悪用される未来。絞ったからといってほんまにこれでええんか。絞ることによる格差。政府機関だからといって正しく使えるとは限らない。むしろ危ないとも言えるケースもあると思う。FBIのレポート。100万件の届出。2018年からどんどん増え続けてきていた。ダントツフィッシング。1発が大きい投資詐欺がとんでもない被害額。ほとんど詐欺！高齢者の方の被害が大きい。AI関連が追加された。かなり活用されているんだろうと思う。AIって使う使わないってものではなくなってきている。ランサム関連の書き込みを禁止していないフォーラム。「index of~」。内部ネットワークの攻撃でnmap使われてるのって見ない。攻撃の過程で脆弱な設定に変更。VPNなどを提供しているProtonはスイス。冗長もあるあるやな。一連のプロセスを自動化。ランサム攻撃の過程で色々なアプリやサービスを落とすのはファイルのロックを解除して暗号化したいため。診断やテストでも自動化、平準化して属人性を減らすのは常にある課題やったなぁ。イベントではなくプロセスで見よう。<br />
 &nbsp;</p>
@@ -9122,20 +9154,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_170719_two_z.mp3" length="55574007" type="audio/mpeg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>57:53</itunes:duration>
-	</item>
-	<item>
-		<title>第5回 緊急特番的な感じでペチャクチャやろうぜ！スペシャル</title>
-		<link>https://www.tsujileaks.com/?p=445</link>
-		<pubDate>Fri, 30 Jun 2017 15:24:46 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=445</guid>
-		<comments>https://www.tsujileaks.com/?p=445#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=445</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<div id="tweetbutton445" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D445&amp;text=%E7%AC%AC5%E5%9B%9E%20%E7%B7%8A%E6%80%A5%E7%89%B9%E7%95%AA%E7%9A%84%E3%81%AA%E6%84%9F%E3%81%98%E3%81%A7%E3%83%9A%E3%83%81%E3%83%A3%E3%82%AF%E3%83%81%E3%83%A3%E3%82%84%E3%82%8D%E3%81%86%E3%81%9C%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D445" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>マルウェアの名前も含め色々情報が錯綜しているようなので集まってペチャクチャお話してみました。</p><p>The post <a href="https://www.tsujileaks.com/?p=445">第5回 緊急特番的な感じでペチャクチャやろうぜ！スペシャル</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
-		<enclosure url="http://tsujileaks.com/media/are_170701_b.mp3" length="25198592" type="audio/mpeg" />
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>26:15</itunes:duration>
 	</item>
 </channel>
 </rss>
