@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 11 May 2026 23:00:28 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 May 2026 13:12:43 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -49,6 +49,45 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第304回 Tomorrow Never Knows！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2292</link>
+		<pubDate>Mon, 18 May 2026 11:00:41 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2292</guid>
+		<comments>https://www.tsujileaks.com/?p=2292#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2292</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<div id="tweetbutton2292" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2292&amp;text=%E7%AC%AC304%E5%9B%9E%20Tomorrow%20Never%20Knows%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2292" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://microsoftedge.github.io/edgevr/posts/Saved-passwords-in-Edge-memory-what-were-changing-and-why/">Saved passwords in Edge memory: what we&#8217;re changing and why | Microsoft Browser Vulnerability Research</a><br />
+・<a href="https://www.fsa.go.jp/news/r7/sonota/20260514/20260514.html">「AI脅威に対する金融分野のサイバーセキュリティ対策強化に関する官民連携会議」の作業部会の開催について：金融庁</a><br />
+・<a href="https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/">Behind the Scenes Hardening Firefox with Claude Mythos Preview &#8211; Mozilla Hacks &#8211; the Web developer blog</a><br />
+・<a href="https://www.microsoft.com/en-us/msrc/blog/2026/05/a-note-on-patch-tuesday">A note on patch Tuesday</a><br />
+・<a href="https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/">Defense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark | Microsoft Security Blog</a><br />
+・<a href="https://www.paloaltonetworks.com/blog/2026/05/defenders-guide-frontier-ai-impact-cybersecurity-may-2026-update/">Defender&#8217;s Guide to the Frontier AI Impact on Cybersecurity: May 2026 Update</a><br />
+・<a href="https://www.vulncheck.com/blog/ai-assisted-vulnerability-discovery">The First CVE Wave: Signs That AI-Assisted Vulnerability Discovery Is Reshaping Disclosure Volumes | Blog | VulnCheck</a><br />
+・<a href="https://www.bankinfosecurity.com/tables-turned-gentlemen-ransomware-group-suffers-data-leak-a-31654">Tables Turned: Gentlemen Ransomware Group Suffers Data Leak</a><br />
+・<a href="https://research.checkpoint.com/2026/thus-spoke-the-gentlemen/">Thus Spoke…The Gentlemen &#8211; Check Point Research</a><br />
+・<a href="https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/">Adversaries Leverage AI for Vulnerability Exploitation, Augmented Operations, and Initial Access | Google Cloud Blog</a><br />
+・<a href="https://www.nikkei.com/article/DGXZQOGN120230S6A510C2000000/">サイバー攻撃にAI悪用、脆弱性発見で「初の実例」 Google報告書 &#8211; 日本経済新聞</a><br />
+・<a href="https://news.mynavi.jp/techplus/lp/2026/enterprise/SecurityAwards_202605/">第11回 情報セキュリティ事故対応アワード | マイナビニュース</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/amechan.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/amechan-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2294" srcset="https://www.tsujileaks.com/wp-content/uploads/amechan-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/amechan-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/amechan-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/amechan.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：第11回お疲れ様でした。ご来場いただいた方々ありがとうございました。夜行バスだなんてもうビックリサイトですやんか。かなり熱のあるイベントになった。20回まではしたい。締めコメントのスイッチ入り具合。早口の自覚あります。あのスンってのも結構好き。相手と自分で読み方、言い方違う時。MS Edgeの件のアップデート。使えないより使えたほうがええんかな。130件中、自身で発見しての修正は16件（エムダッシュ）。今年に入ってからのCVE件数が爆増なんですって！今の限定的な状態でこれ。もっと開かれたらどうなるのか。未知の領域の入り口に立っている。とはいえ中身は？利用者側のトリアージの問題。下手すると攻撃者の利するだけで終わる可能性もあると思う。ジェントルじゃないジェントルマン。フォーラムで売られてた情報に関する裏付け。案件管理。脆弱性に関する言及はほとんどなかった。BlackBastaのときはあった。認証が主戦場に見える。よく使われるけどそれを緩和することってあまりされてないんですよね。相手はしっかりこっちを見てる。脆弱性だけに目が行きがちかもだけど。脆弱性モリモリ時代には原点回帰の基本をしっかりすることが最も効果的となっていくのかもしれないですね。センセーショナルなタイトル。見つかったスクリプトを見たところ。なんでもええやん！発見の仕方が一段上がった気がする。人手の部分への浸食。少し前まで補助ツールだったものが。情報をアップデートしないと痛い目見そう。うちのAIは関西弁。情報セキュリティ事故対応アワードはまだ終わってへんねやで！</p>
+<blockquote>
+<p>&nbsp;<br />
+【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 05:28 |<br />
+| (N) フロンティア AI モデルによる脆弱性発見の状況 | 14:22 |<br />
+| (T) The Gentleman のリークデータを調べてみた | 32:07 |<br />
+| (P) AI の悪用に関する Google のレポート | 53:53 |<br />
+| オススメのアレ | 64:15 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2292">第304回 Tomorrow Never Knows！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260518_MrC.mp3" length="31701532" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:05:50</itunes:duration>
+	</item>
+	<item>
 		<title>第303回 スッスッスッスッ！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2286</link>
 		<pubDate>Mon, 11 May 2026 23:00:28 +0000</pubDate>
@@ -70,7 +109,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://therecord.media/new-criminal-service-plans-to-monetize-ransomware-data">New criminal service plans to monetize data stolen by ransomware gangs | The Record from Recorded Future News</a><br />
 ・<a href="https://capcom.lnk.to/pragmata_ost">Capcom Sound Team &#8211; PRAGMATA Original Soundtrack</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/pancak3.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/pancak3-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2287" srcset="https://www.tsujileaks.com/wp-content/uploads/pancak3-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/pancak3-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/pancak3-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/pancak3.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/pancak3.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/pancak3-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2287" srcset="https://www.tsujileaks.com/wp-content/uploads/pancak3-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/pancak3-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/pancak3-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/pancak3.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：終わってなかったんか。最薄っぽい。今年も連絡ない。バイデン枠を辻枠にしてくれてもええやんか。1人サミット。好き嫌いもなくなるポッドキャスト。こじつけ好きなんですよね。チリンって行って走って行くって法執行機関的。オムニバスに感心してほしかった。結局は英語をカタカナにできないって前提あるけど、なんて読むかって結構好き。インバイトリンクスって脅威アクターっぽいな。書類審査ゲームって言葉を流行らせたい。冷静で着実に粛々とが一番強いですよ。便利になる速度と管理･運用の速度とコスト。騒がせてましたね。妨害というか便乗？プロセスを落とす裏で。相手が何を狙ってくるのか。過去にあったワームやボットと比べてやや経路が弱いかな。アカウントの整理するのって大変。まとめたくなりますよね。例のEdgeに保存されているパスワードの話。メモリ上での振る舞いの違い。何が正しいかではなく、リスクを知った上で何を選ぶか。別の方法で保護すべきというスタンス。ダブスタ感あるねんなぁ。リークとはいえ価値のない情報も多い中で。いやなe-Discovery。欲しいものだけ買える。ええとこ取りちゃうの。一定のニーズはありそうやけど。あとはマッチング。Anubisはちょろっとの紹介でしたもんね。</p>
 <blockquote>
@@ -138,7 +177,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://socket.dev/blog/checkmarx-supply-chain-compromise">Malicious Checkmarx Artifacts Found in Official KICS Docker Repository and Code Extensions</a><br />
 ・<a href="https://www.yuki-tsubaki.co.jp/">雪椿｜魚沼産のコシヒカリは最高級ブランド</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/pop.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/pop-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2270" srcset="https://www.tsujileaks.com/wp-content/uploads/pop-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/pop-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/pop-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/pop.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/pop.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/pop-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2270" srcset="https://www.tsujileaks.com/wp-content/uploads/pop-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/pop-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/pop-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/pop.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：警察庁からお便りいただいたよ。関西弁は病気やないんです。NVD問題。全社研修頑張ってください！タレコミありがたい。フィッシングについて常々気になっていたことを確認したんよ。フィッシングサイトのURL共有の価値。これ良い論文やった。めちゃ参考になった。GSBで検知された頃には8割以上はもうない。これまでのブロックがあるから今のこの状況がある。使い捨てになっているように見える。フェーズごとの対策を考える。ユーザのアクションが主戦場かも。攻撃の経路が興味深い。InfoStealerのログ起因。全社導入じゃないものを従業員がなぜかたまたま使っていた。トークンが取られてからの侵害。サードパーティやのに公式と混同しやすい名前。Shiny hunterってポケモンやと色違いを探す人を指すんですよね。意識は変わってないけどシステムの連携によって価値が高まってるんではないか。利便性の代償。被害の前に把握したい。サプライチェーン絡み華やかなりし頃。続くと続報かと思う問題。開発環境の汚染怖いなぁ。サイバードミノの名付け親。アップデートで常に最新にしようと言いにくい状況になってる。いたしかゆしいとしこいし。別の人に渡ったアプリや拡張の信用。レピュテーションの曖昧さ。必要最小限にするしかない。<br />
 &nbsp;</p>
@@ -9164,20 +9203,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_170803_ppapt.mp3" length="42457689" type="audio/mpeg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>44:14</itunes:duration>
-	</item>
-	<item>
-		<title>第6回分の雑談だ！</title>
-		<link>https://www.tsujileaks.com/?p=450</link>
-		<pubDate>Tue, 18 Jul 2017 18:52:51 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=450</guid>
-		<comments>https://www.tsujileaks.com/?p=450#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=450</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<div id="tweetbutton450" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D450&amp;text=%E7%AC%AC6%E5%9B%9E%E5%88%86%E3%81%AE%E9%9B%91%E8%AB%87%E3%81%A0%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D450" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>The post <a href="https://www.tsujileaks.com/?p=450">第6回分の雑談だ！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
-		<enclosure url="http://www.tsujileaks.com/media/are_170720_zzz.mp3" length="41221284" type="audio/mpeg" />
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>42:56</itunes:duration>
 	</item>
 </channel>
 </rss>
