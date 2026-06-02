@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 01 Jun 2026 11:00:17 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Jun 2026 13:37:01 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -60,9 +60,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2299</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<div id="tweetbutton2299" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2299&amp;text=%E7%AC%AC305%E5%9B%9E%20%E9%96%93%E3%81%8C%E3%83%AF%E3%83%AB%E3%81%84%E3%81%A8%E3%81%AD%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2299" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>第305回 ！スペシャル！</p>
-<p>・<a href="https://microsoftedge.github.io/edgevr/posts/Saved-passwords-in-Edge-memory-what-were-changing-and-why/">Saved passwords in Edge memory: what we&#8217;re changing and why | Microsoft Browser Vulnerability Research</a><br />
-･<a href="https://help.dropbox.com/ja-jp/delete-restore/recover-deleted-files-folders">削除したファイルやフォルダを復元する方法 &#8211; Dropbox ヘルプ</a><br />
+		<description><![CDATA[<div id="tweetbutton2299" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2299&amp;text=%E7%AC%AC305%E5%9B%9E%20%E9%96%93%E3%81%8C%E3%83%AF%E3%83%AB%E3%81%84%E3%81%A8%E3%81%AD%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2299" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>･<a href="https://help.dropbox.com/ja-jp/delete-restore/recover-deleted-files-folders">削除したファイルやフォルダを復元する方法 &#8211; Dropbox ヘルプ</a><br />
 ･<a href="https://news.mynavi.jp/itsearch/seminar/1651">【アーカイブ配信】第11回 情報セキュリティ事故対応アワード｜2026-05-29｜ITセミナー・製品情報</a><br />
 ･<a href="https://news.mynavi.jp/techplus/article/20260529-4482182/">【第11回】情報セキュリティ事故対応アワード、優れた事故対応を表彰 | TECH+（テックプラス）</a><br />
 ･<a href="https://kengoyamamoto.com/notebooklm-securityare304/">【感動】NotebookLMで#セキュリティのアレ第304回を超分かりやすく要約してみた | KENGOの気まぐれブログ</a><br />
