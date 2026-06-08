@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 01 Jun 2026 13:37:01 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Jun 2026 11:00:56 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,39 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第306回 落としていたとはつゆ知らず！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2306</link>
+		<pubDate>Mon, 08 Jun 2026 11:00:56 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2306</guid>
+		<comments>https://www.tsujileaks.com/?p=2306#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2306</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<div id="tweetbutton2306" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2306&amp;text=%E7%AC%AC306%E5%9B%9E%20%E8%90%BD%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A8%E3%81%AF%E3%81%A4%E3%82%86%E7%9F%A5%E3%82%89%E3%81%9A%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2306" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>･<a href="https://support.apple.com/ja-jp/guide/iphone/ipha779f0c10/ios">iPhoneの「探す」でAirTagやその他の持ち物を探す &#8211; Apple サポート (日本)</a><br />
+･<a href="https://red.anthropic.com/2026/attack-navigator/">LLM ATT&amp;CK Navigator \ red.anthropic.com</a><br />
+･<a href="https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/">Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts – Krebs on Security</a><br />
+･<a href="https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/">Instagram users locked out after Meta AI abused to steal accounts</a><br />
+･<a href="https://www.ielove-group.jp/news/detail-1379">【第二報】当社のクラウドサービスへの不正アクセスに関する調査状況および今後の対応について｜株式会社いえらぶGROUP</a><br />
+･<a href="https://www.tuzumi.co.jp/">ツヅミ食品株式会社 | 日本一おいしいソースにも選ばれた絶品こだわり地ソース</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/tsuyu2.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/tsuyu2-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2307" srcset="https://www.tsujileaks.com/wp-content/uploads/tsuyu2-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tsuyu2-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tsuyu2-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tsuyu2.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：大丈夫です。あって良かったの話。なんでも訓練しとかんと。時事ネタ攻撃。感情で殴ると大体あかん。説明の時に気をつけていること。究極の目的。究極の状況。Bar アレ。AIの悪用から見る。ATT&#038;CKのマッピングが十分に表現できていない。フローの概念がないのがちょっとと思ってる。AIが格差を埋め、裾野を広げる。AIの進歩を考えつつ、軸足の置き方を変える。そんなことも対応してくれるんですか！？テスト大変そう。アカウント乗っ取りの用途。ちょいと再度深掘りさせて。はじまりはフォーラムの書き込み。著名ということもあって。一呼吸おこうや。登場人物の整理。インフォスティーラー明記は国内だと初？原因は二段階。どこで誰がどう食い止めるのか。同チェックする。</p>
+<blockquote>
+<p>&nbsp;<br />
+【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 06:49 |<br />
+| (P) AI を利用するサイバー攻撃の実態 | 16:47 |<br />
+| (N) Instagram のアカウント乗っ取りの手口 | 28:19 |<br />
+| (T) いえらぶGROUPへの不正アクセス事案 | 38:57 |<br />
+| オススメのアレ | 54:15 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2306">第306回 落としていたとはつゆ知らず！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260608_kangostart.mp3" length="28428464" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>59:01</itunes:duration>
+	</item>
+	<item>
 		<title>第305回 間がワルいとね！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2299</link>
 		<pubDate>Mon, 01 Jun 2026 11:00:17 +0000</pubDate>
@@ -70,7 +103,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ･<a href="https://www.ipa.go.jp/security/guide/vuln/partnership_guide.html">情報セキュリティ早期警戒パートナーシップガイドライン | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</a><br />
 ･<a href="https://www.dr-air.com/jp/ja/products/exagun-pocket/">エクサガン ポケット | ドクターエア（DOCTORAIR）公式ブランドサイト</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/tamakoro.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/tamakoro-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2300" srcset="https://www.tsujileaks.com/wp-content/uploads/tamakoro-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tamakoro-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tamakoro-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tamakoro.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/tamakoro.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/tamakoro-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2300" srcset="https://www.tsujileaks.com/wp-content/uploads/tamakoro-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tamakoro-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tamakoro-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tamakoro.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：Dropboxからお便り来たよ。たしかにフィッシングの手口として使えますね。オレが先。情報セキュリティ事故対応アワードのコンテンツ出てるんで見てください！動画もあるよ！なかなかに時間が押し押しやったんですよ。サイバーセキュリティの大冒険。文字文字。会社みたいな泥棒って表現いいなぁ。公開タイミングとコードの送信タイミング。自分の言葉に落とすって大事！これがモノにするってことやと思います。地固めほんま素晴らしい！AIうまく付き合っていきたいですね。ある意味で生き残りもかかっていると思う。移行の際に気をつけることは選択のときに気をつけることでもあるんですよね。ClickFixの今とこれから。初期侵入として。その後は永続化とその冗長化。BYOIとは。とはいいつつ持ち込むのってそれほど難しいことではない。監視側が運用の知らないときのジレンマ。目的は。この後に何をしたのか。IAB的にも見ることができる。単なるマルウェアの配送経路としてではなく、広く初期侵入経路として捉えてほしい。ClickFixとこれまでの経路との強み弱み。脆弱性の発見者とベンダーの間で起きたゴタゴタ。In the wildのものも。Banまくり。名指しはなかなかですね。それをきっかけに色々ポロポロ出てくる。公開すりゃいいってもんでもない。でも何がまずいのか分からないと対策も調査もできへんし。狭間にいる運用する側の利益がもっとある形になってほしい。なんかこう丁度ええとこないんかいね。透明性の担保、第三者の目に触れる形。</p>
 <blockquote>
@@ -147,7 +180,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://therecord.media/new-criminal-service-plans-to-monetize-ransomware-data">New criminal service plans to monetize data stolen by ransomware gangs | The Record from Recorded Future News</a><br />
 ・<a href="https://capcom.lnk.to/pragmata_ost">Capcom Sound Team &#8211; PRAGMATA Original Soundtrack</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/pancak3.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/pancak3-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2287" srcset="https://www.tsujileaks.com/wp-content/uploads/pancak3-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/pancak3-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/pancak3-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/pancak3.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/pancak3.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/pancak3-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2287" srcset="https://www.tsujileaks.com/wp-content/uploads/pancak3-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/pancak3-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/pancak3-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/pancak3.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：終わってなかったんか。最薄っぽい。今年も連絡ない。バイデン枠を辻枠にしてくれてもええやんか。1人サミット。好き嫌いもなくなるポッドキャスト。こじつけ好きなんですよね。チリンって行って走って行くって法執行機関的。オムニバスに感心してほしかった。結局は英語をカタカナにできないって前提あるけど、なんて読むかって結構好き。インバイトリンクスって脅威アクターっぽいな。書類審査ゲームって言葉を流行らせたい。冷静で着実に粛々とが一番強いですよ。便利になる速度と管理･運用の速度とコスト。騒がせてましたね。妨害というか便乗？プロセスを落とす裏で。相手が何を狙ってくるのか。過去にあったワームやボットと比べてやや経路が弱いかな。アカウントの整理するのって大変。まとめたくなりますよね。例のEdgeに保存されているパスワードの話。メモリ上での振る舞いの違い。何が正しいかではなく、リスクを知った上で何を選ぶか。別の方法で保護すべきというスタンス。ダブスタ感あるねんなぁ。リークとはいえ価値のない情報も多い中で。いやなe-Discovery。欲しいものだけ買える。ええとこ取りちゃうの。一定のニーズはありそうやけど。あとはマッチング。Anubisはちょろっとの紹介でしたもんね。</p>
 <blockquote>
@@ -9213,20 +9246,6 @@ LINEスタンプ申請中！</p>
 		<enclosure url="http://www.tsujileaks.com/media/are_170830_1500.mp3" length="47255274" type="audio/mpeg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>49:13</itunes:duration>
-	</item>
-	<item>
-		<title>第7回分の雑談やで！</title>
-		<link>https://www.tsujileaks.com/?p=457</link>
-		<pubDate>Sun, 06 Aug 2017 11:55:44 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=457</guid>
-		<comments>https://www.tsujileaks.com/?p=457#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=457</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<div id="tweetbutton457" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D457&amp;text=%E7%AC%AC7%E5%9B%9E%E5%88%86%E3%81%AE%E9%9B%91%E8%AB%87%E3%82%84%E3%81%A7%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D457" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>The post <a href="https://www.tsujileaks.com/?p=457">第7回分の雑談やで！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
-		<enclosure url="http://www.tsujileaks.com/media/are_170803_ppz.mp3" length="38949885" type="audio/mpeg" />
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>40:34</itunes:duration>
 	</item>
 </channel>
 </rss>
