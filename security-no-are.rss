@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 08 Jun 2026 12:10:31 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 Jun 2026 20:46:20 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,42 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第307回 Bleedがklue！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2313</link>
+		<pubDate>Tue, 23 Jun 2026 11:00:36 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2313</guid>
+		<comments>https://www.tsujileaks.com/?p=2313#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2313</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<div id="tweetbutton2313" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2313&amp;text=%E7%AC%AC307%E5%9B%9E%20Bleed%E3%81%8Cklue%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D2313" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://x.com/MPD_cybersec/status/2064986229846987253">警視庁サイバー on X: &quot;【サイバー攻撃対策センター】 フィッシングメールは巧妙化しています。今回紹介する「二段階式フィッシングメール」は、１通目の不審なメールを見破った人に対して、２通目にさらに巧妙なフィッシングメールを送りつけるもので、メール受信者の注意力を逆手に取った手法と言えます。 #フィッシング [https://t.co/N0xReCVlaZ&quot;](https://t.co/N0xReCVlaZ&quot;) / X</a><br />
+・<a href="https://klue.com/blog/an-update-on-recent-klue-security-incident">An Update on the Recent Klue Security Incident &#8211; Klue</a><br />
+・<a href="https://www.huntress.com/blog/klue-breach-investigation">Cybercrime Breaches Klue: Salesforce Data Impacted for Many Victims, including Huntress | Huntress</a><br />
+・<a href="https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk">BOD 26-04: Prioritizing Security Updates Based on Risk | CISA</a><br />
+・<a href="https://github.com/cisagov/vulnrichment">GitHub &#8211; cisagov/vulnrichment: A repo to conduct vulnerability enrichment. · GitHub</a><br />
+・<a href="https://www.fortinet.com/blog/psirt-blogs/analysis-of-reported-credential-compromise-of-fortigate-devices">Analysis of Reported Credential Compromise of FortiGate Devices | Fortinet Blog</a><br />
+・<a href="https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure">CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure | CISA</a><br />
+・<a href="https://www.cloudsek.com/blog/inside-the-fortibleed-open-directory-a-technical-analysis-of-what-the-attacker-left-behind">Inside the FortiBleed Open Directory: A Technical Analysis of What the Attacker Left Behind | CloudSEK</a><br />
+・<a href="https://www.youtube.com/@potatochan_10">ぽてとちゃん。 &#8211; YouTube</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/wc2026.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/wc2026-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2314" srcset="https://www.tsujileaks.com/wp-content/uploads/wc2026-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/wc2026-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/wc2026-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/wc2026.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：めっちゃトラックしたろ。初Qi。過去から来てました。2個来るのいやらしい。確立される良さと失われるもの。動き始めてるで。なんからの方法か。またもやこの流れか。ちょっと複雑なほうのサービスサプライチェーン。セキュリティ企業でも使っている人たち、使うことを決めた人たちが専門家とは限らないですもんね。脅威の見積もりをする際の範囲。攻撃者の対象への理解。BOD 26-04。大注目。何で評価するのか。CVE掲載からKEVの掲載までの期間について。リッチメントいい！次の一手を考えるのに使っていこうと思ってます。CISAの皆さん聴いてますか？Bleedって怖い単語ですわ。いったん落ち着こう。手抜かりなくしたい。フォレンジックトリアージに必要な情報の公開。外からわからんもんなぁ。あってよかった二要素認証。</p>
+<blockquote>
+<p>&nbsp;<br />
+【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 04:42 |<br />
+| (N) klue からのサービスサプライチェーン攻撃 | 14:52 |<br />
+| (T) CISA の BOD 26-04 について | 26:58 |<br />
+| (P) FortiGate を対象にした攻撃キャンペーン “FortiBleed” | 45:04 |<br />
+| オススメのアレ | 58:17 |
+</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2313">第307回 Bleedがklue！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260623_bleble.mp3" length="31708650" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:05:51</itunes:duration>
+	</item>
+	<item>
 		<title>第306回 落としていたとはつゆ知らず！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2306</link>
 		<pubDate>Mon, 08 Jun 2026 11:00:56 +0000</pubDate>
@@ -67,7 +103,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ･<a href="https://www.ielove-group.jp/news/detail-1379">【第二報】当社のクラウドサービスへの不正アクセスに関する調査状況および今後の対応について｜株式会社いえらぶGROUP</a><br />
 ･<a href="https://www.tuzumi.co.jp/">ツヅミ食品株式会社 | 日本一おいしいソースにも選ばれた絶品こだわり地ソース</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/tsuyu2.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/tsuyu2-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2307" srcset="https://www.tsujileaks.com/wp-content/uploads/tsuyu2-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tsuyu2-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tsuyu2-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tsuyu2.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/tsuyu2.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/tsuyu2-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2307" srcset="https://www.tsujileaks.com/wp-content/uploads/tsuyu2-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tsuyu2-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tsuyu2-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tsuyu2.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：大丈夫です。あって良かったの話。なんでも訓練しとかんと。時事ネタ攻撃。感情で殴ると大体あかん。説明の時に気をつけていること。究極の目的。究極の状況。Bar アレ。AIの悪用から見る。ATT&#038;CKのマッピングが十分に表現できていない。フローの概念がないのがちょっとと思ってる。AIが格差を埋め、裾野を広げる。AIの進歩を考えつつ、軸足の置き方を変える。そんなことも対応してくれるんですか！？テスト大変そう。アカウント乗っ取りの用途。ちょいと再度深掘りさせて。はじまりはフォーラムの書き込み。著名ということもあって。一呼吸おこうや。登場人物の整理。インフォスティーラー明記は国内だと初？原因は二段階。どこで誰がどう食い止めるのか。どうチェックする。</p>
 <blockquote>
@@ -141,7 +177,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.nikkei.com/article/DGXZQOGN120230S6A510C2000000/">サイバー攻撃にAI悪用、脆弱性発見で「初の実例」 Google報告書 &#8211; 日本経済新聞</a><br />
 ・<a href="https://news.mynavi.jp/techplus/lp/2026/enterprise/SecurityAwards_202605/">第11回 情報セキュリティ事故対応アワード | マイナビニュース</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/amechan.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/amechan-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2294" srcset="https://www.tsujileaks.com/wp-content/uploads/amechan-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/amechan-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/amechan-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/amechan.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/amechan.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/amechan-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2294" srcset="https://www.tsujileaks.com/wp-content/uploads/amechan-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/amechan-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/amechan-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/amechan.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：第11回お疲れ様でした。ご来場いただいた方々ありがとうございました。夜行バスだなんてもうビックリサイトですやんか。かなり熱のあるイベントになった。20回まではしたい。締めコメントのスイッチ入り具合。早口の自覚あります。あのスンってのも結構好き。相手と自分で読み方、言い方違う時。MS Edgeの件のアップデート。使えないより使えたほうがええんかな。130件中、自身で発見しての修正は16件（エムダッシュ）。今年に入ってからのCVE件数が爆増なんですって！今の限定的な状態でこれ。もっと開かれたらどうなるのか。未知の領域の入り口に立っている。とはいえ中身は？利用者側のトリアージの問題。下手すると攻撃者の利するだけで終わる可能性もあると思う。ジェントルじゃないジェントルマン。フォーラムで売られてた情報に関する裏付け。案件管理。脆弱性に関する言及はほとんどなかった。BlackBastaのときはあった。認証が主戦場に見える。よく使われるけどそれを緩和することってあまりされてないんですよね。相手はしっかりこっちを見てる。脆弱性だけに目が行きがちかもだけど。脆弱性モリモリ時代には原点回帰の基本をしっかりすることが最も効果的となっていくのかもしれないですね。センセーショナルなタイトル。見つかったスクリプトを見たところ。なんでもええやん！発見の仕方が一段上がった気がする。人手の部分への浸食。少し前まで補助ツールだったものが。情報をアップデートしないと痛い目見そう。うちのAIは関西弁。情報セキュリティ事故対応アワードはまだ終わってへんねやで！</p>
 <blockquote>
@@ -9232,20 +9268,6 @@ LINEスタンプ申請中！</p>
 		<description><![CDATA[<div id="tweetbutton465" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D465&amp;text=%E7%AC%AC9%E5%9B%9E%20DDoS%E3%81%8C%E3%81%82%E3%82%8A%E3%81%82%E3%81%BE%E3%82%8B%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D465" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>The post <a href="https://www.tsujileaks.com/?p=465">第9回 DDoSがありあまる！スペシャル</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
 		<enclosure url="http://www.tsujileaks.com/media/are_170926_1620bbb.mp3" length="5242880" type="audio/mpeg" />
 		<itunes:episodeType>full</itunes:episodeType>
-	</item>
-	<item>
-		<title>第8回 これもこの後も本番なんだぜ！スペシャル</title>
-		<link>https://www.tsujileaks.com/?p=460</link>
-		<pubDate>Wed, 30 Aug 2017 13:43:01 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=460</guid>
-		<comments>https://www.tsujileaks.com/?p=460#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=460</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<div id="tweetbutton460" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D460&amp;text=%E7%AC%AC8%E5%9B%9E%20%E3%81%93%E3%82%8C%E3%82%82%E3%81%93%E3%81%AE%E5%BE%8C%E3%82%82%E6%9C%AC%E7%95%AA%E3%81%AA%E3%82%93%E3%81%A0%E3%81%9C%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D460" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>The post <a href="https://www.tsujileaks.com/?p=460">第8回 これもこの後も本番なんだぜ！スペシャル</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
-		<enclosure url="http://www.tsujileaks.com/media/are_170830_1500.mp3" length="47255274" type="audio/mpeg" />
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>49:13</itunes:duration>
 	</item>
 </channel>
 </rss>
