@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 27 Jul 2026 11:00:22 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Jul 2026 18:40:37 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -69,7 +69,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p>&nbsp;<br />
 <a href="http://www.tsujileaks.com/wp-content/uploads/1785138102616.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/1785138102616-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2340" srcset="https://www.tsujileaks.com/wp-content/uploads/1785138102616-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/1785138102616-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/1785138102616-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/1785138102616.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
-<p>辻伸弘メモ：Coming Soon&#8230;?<br />
+<p>辻伸弘メモ：お便りから行く時もあるねん。資格勉強とその維持の意味。SCS評価の使い道。タイムゾーンズレ問題。攻撃者に利する議論。主語はあまり大きすぎないように。AIだから許されてる？時間の経過でバランスが取れてくることもあるかな。自分なり、組織なりの線は必要。もう、Threat Detect Responseやん説。いろいろ準備のためのリソースはあります。同じ見解になると思ってた。どう向き合っているかによる。今、紹介しておきたいランサムギャング。RansomHouse登場したあの頃。はじめはウェアではなかった。なんとも身勝手なAbout。結局暗号化。ESXiも借り物から対応。日本で知られているイメージあるけどまぁぎり中堅。「にくそい」とか「こさえる」ってあんまり言いません？報道で言われていることの是非。リークには間違いもあることに注意。原因は一旦さておき、でた影響についてフォーカスしてみよう。学校給食の件は自分にとっては盲点でした。自分たちから、自分たちへの影響の整理は必要ですね。「Hugging Face」って聞いて映画の「エイリアン」思い出した。実はAIがやっていました事案。思う存分過ぎた。外に出るための動きをするとは。AI in the wild!!! 守る側の行動は断られるんかーい。思考パターンが人間がしそうなことをしてるとボクも思った。人間側が制御できていないことが問題。ん？もしかして、これもマーケティング的なことだったりする？うがちすぎかな。状況の変化速度に追随しないとなぁ。想定外があるからやめられない。<br />
 &nbsp;</p>
 <blockquote>
 <p>&nbsp;<br />
