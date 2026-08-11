@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 04 Aug 2026 16:29:34 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Aug 2026 11:00:25 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,43 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第313回 「ランダム」って入力できへんねん！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2351</link>
+		<pubDate>Mon, 10 Aug 2026 11:00:25 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2351</guid>
+		<comments>https://www.tsujileaks.com/?p=2351#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2351</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<p>・<a href="https://www.kirin.co.jp/softdrink/kitchen/products/product_detail16.html">ソルティライチ｜商品のこと｜キリン</a><br />
+・<a href="https://are.bocchi-megane.dev/words/ResidentialProxy.html">Residential Proxy — セキュリティのアレまとめ</a><br />
+・<a href="https://www.sophos.com/ja-jp/content/state-of-ransomware">ランサムウェアレポート 2026年版。ソフォスランサムウェアの現状</a><br />
+・<a href="https://coveware.com/2026/07/adverse-cyber-extortions-are-more-common-than-commonly-advised/">Adverse cyber extortions are more common than commonly advised – Coveware</a><br />
+・<a href="https://1password.com/blog/why-ai-generated-patches-still-require-human-review">Off-by-1 Labs Research: AI-generated vulnerability patches require human review | 1Password</a><br />
+・<a href="https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/">ChainDrop: Inside a Self-Propagating npm Worm</a><br />
+・<a href="https://blog.flatt.tech/entry/keyv_compromise">keyv 等 複数著名パッケージへのソフトウェアサプライチェーン攻撃の概要と対応指針 &#8211; GMO Flatt Security Blog</a><br />
+・<a href="https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing">Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2026/08/06/014225">英国AISIの評価中に発生したAIエージェントの権限外行動についてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://www.uha-shop.jp/lp?u=rainbow-ramune">レインボーラムネ｜UHA味覚糖オンラインショップ</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/nasuhiro.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/nasuhiro-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2352" srcset="https://www.tsujileaks.com/wp-content/uploads/nasuhiro-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：どれくらいの梅？新しいステッカー。考えながらのご聴取ありがとうございます！抹消されたアレ。まとめありがとうございます！どっちにパッチ？世の中思う通りにはうまくいかない。何故だろうだけでは防げない。多くの人は正常を知らない。そんなことはないを知らない。色を付けずに見る。ステッカーのコンプについては今回からスタートです。体にも影響出てるねん。脆弱性がこんなに減るのは意外。変化意識しておこう。多要素認証の導入は進んでいるが網羅性に欠けている可能性。検知タイミング違いの暗号化の成功と失敗。長い目で見るとバックアップからの復旧は真ん中程度。要求ぎゃく。やっぱ減ってる。弱毒化。AIによるパッチ作成への評価。それぞれ複数作らせて評価。かなり失敗してるものもあるな。直し方がイマイチ？AIでやることの意義があるのか否か。修正できてるかどうかだけではなく、仕様変わってない？新たな穴ない？という品質に関することへも注意が必要。AIの活用は上司と部下のあるべき姿やと思ってますねん。既視感あるんよなぁ。何回目やっけ？って。令和のワームはこういう形か。今回のやらしさは盗み出す情報の広さ。時間差もあるだろうし、関連性が見えないかもしれない。色々と策は講じられているものの根本的ではない。というよりも人が狙われてる。<br />
+&nbsp;</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 06:05 |<br />
+| (T) ランサムウェアの現状 2026年版 | 25:55 |<br />
+| (N) フロンティア AI モデルによる脆弱性パッチの生成 | 42:46 |<br />
+| (P) npm パッケージへのソフトウェアサプライチェーン攻撃再び | 57:26 |<br />
+| オススメのアレ | 70:17 |</p>
+<p>&nbsp;</p><p>The post <a href="https://www.tsujileaks.com/?p=2351">第313回 「ランダム」って入力できへんねん！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260810_obonkobon.mp3" length="36988710" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:16:51</itunes:duration>
+	</item>
+	<item>
 		<title>第312回 28巻247話！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2343</link>
 		<pubDate>Mon, 03 Aug 2026 11:00:09 +0000</pubDate>
@@ -73,7 +110,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-54121">CVE-2026-54121 &#8211; Security Update Guide &#8211; Microsoft &#8211; Active Directory Certificate Services Elevation of Privilege Vulnerability</a><br />
 ・<a href="https://products.suntory.co.jp/d/4901777338685/">サントリー天然水 うめソルティ 540mlペット 商品情報（カロリー・原材料） サントリー</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/31.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/31-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2344" srcset="https://www.tsujileaks.com/wp-content/uploads/31-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/31-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/31-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/31.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/31.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/31-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2344" srcset="https://www.tsujileaks.com/wp-content/uploads/31-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/31-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/31-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/31.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：取材された話。質問力の根っこ。言いたいことも言えない世の中もポイズンだけど、分からない・知らないことも言うのもポイズン。ボク何系出身？そう言われたら蕎麦屋さんに「今でました」って言われたことないな。2026上半期の脆弱性に関して。AIで発見された脆弱性の中身。そこまで悪用は増えてない。これからどうなるか。VulnCheckおこ。AI側の発見した脆弱性に対しての透明性が低い。たしかに粒度わからん。件数だけにフォーカスしないほうがいい。選んで使うのはまだ「人」。こちらも今後の変化は要チェックや！全然分からない名前がよく付いてる。ヴィッシングめっさ増えてるのか。そうか電話だけちゃうか。手練れなのか警戒心が低いのか。ランサムもくるのかいな。Chaosはかなり小粒の部類。そういえばInterLockだけでなく、LeakNetもClickFix使ってくるランサムでしたん。経路の想定って大事。ChaosってmsaRATを使うとも言われてますね。入り口専門というのもありそう。猶予あるケースもあるかもしれない。注意喚起テンプレ。過去の経験はかなり影響しています。盛り込み項目と相手。2つの脆弱性について紹介。実行する内容を権限・認可情報がずれるってなかなかに味わい深い。他との絡みでどうしてもアップデートできない状況ある。今のうちに対処してほしい恐ろしい脆弱性。AD指定できるんかい！こういうのは悪用確認まで時間かかりそう。8月3日18時時点でも変わらずでした。Microsoftを信じるか。辻を信じるか。<br />
 &nbsp;</p>
@@ -141,7 +178,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion">JADEPUFFER: Agentic ransomware for automated database extortion | Sysdig</a><br />
 ・<a href="https://piyolog.hatenadiary.jp/entry/2026/07/10/082142">自動で恐喝まで遂行するエージェント型ランサムの観測事例についてまとめてみた &#8211; piyolog</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/mebuki.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mebuki-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2333" srcset="https://www.tsujileaks.com/wp-content/uploads/mebuki-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mebuki-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mebuki-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mebuki.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/mebuki.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mebuki-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2333" srcset="https://www.tsujileaks.com/wp-content/uploads/mebuki-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mebuki-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mebuki-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mebuki.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：humanだもの。辻だけがいない回。2人いるとなんとかなるという3人。合格後の話もいいですね！もう1つのTDR。1つのチャンネルのためにドメイン全体ってえぐい。なかなかに図りかねる部分もあるけど、犠牲の方が大きいようにも思う。攻撃のインフラになってるところちょくちょく見かけるから、ここまでする場合の基準示してほしい。攻撃者のサプライチェーンを絶つ、弱いところを狙う方向なんですかね。能動的サイバーの無害化処理には期待したいところなんです。ルータを狙った攻撃への注意喚起を見て。古っ！18年前やしSNMPやし。どう受け止めるか。それだけ使われ続けられるって攻撃者にとってうまみのある脆弱性なんですね。AIが背景にいそうな攻撃。Langflowめちゃ使い勝手良さそう。武器化的な意味でも。どういうところからそう評価したのか。単なるリトライではなく、状況判断からの是正をしているように見える。運がいいとか悪いとかではなく順番が回ってくるって感じですね。</p>
 <blockquote>
@@ -9363,19 +9400,6 @@ LINEスタンプ申請中！</p>
 		<category><![CDATA[podcast]]></category>
 		<description><![CDATA[]]></description>
 		<enclosure url="http://tsujileaks.com/media/are_180626_jnbh.m4a" length="5242880" type="audio/x-m4a" />
-		<itunes:episodeType>full</itunes:episodeType>
-	</item>
-	<item>
-		<title>第14回 カレーを食べながらSP 800-63B From USAだ！スペシャル</title>
-		<link>https://www.tsujileaks.com/?p=488</link>
-		<pubDate>Wed, 23 May 2018 10:53:52 +0000</pubDate>
-		<guid isPermaLink="false">http://www.tsujileaks.com/?p=488</guid>
-		<comments>https://www.tsujileaks.com/?p=488#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=488</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[]]></description>
-		<enclosure url="http://tsujileaks.com/media/are180520_jdajy.m4a" length="5242880" type="audio/x-m4a" />
 		<itunes:episodeType>full</itunes:episodeType>
 	</item>
 </channel>
