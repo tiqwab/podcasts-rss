@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 10 Aug 2026 11:00:25 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Aug 2026 12:56:24 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,46 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第314回 セキュリティのアレ f！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2358</link>
+		<pubDate>Mon, 17 Aug 2026 11:00:52 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2358</guid>
+		<comments>https://www.tsujileaks.com/?p=2358#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2358</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<p>・<a href="https://www.konami.com/games/silenthill/f/gate">SILENT HILL f Official Website</a><br />
+・<a href="https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986">AI assistant hacks gym website in first known Australian autonomous cyber attack &#8211; ABC News</a><br />
+・<a href="https://s-wars.jp/">映画「サマーウォーズ」公式サイト</a><br />
+・<a href="https://thinkami.hatenablog.com/entry/2026/08/14/231239">#セキュリティのアレ でRSS配信されなくなった過去回を、自分用に聴けるようにするRSSフィード生成ツールをPythonで作ってみた &#8211; メモ的な思考的な</a><br />
+・<a href="https://www.whitehouse.gov/presidential-actions/2026/08/expanding-capabilities-to-combat-transnational-cyber-enabled-crime/">Expanding Capabilities to Combat Transnational Cyber-Enabled Crime – The White House</a><br />
+・<a href="https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-expands-capabilities-to-combat-transnational-cyber-enabled-crime/">Fact Sheet: President Donald J. Trump Expands Capabilities to Combat Transnational Cyber-Enabled Crime – The White House</a><br />
+・<a href="https://www.whitehouse.gov/presidential-actions/2026/03/combating-cybercrime-fraud-and-predatory-schemes-against-american-citizens/">Combating Cybercrime, Fraud, and Predatory Schemes Against American Citizens – The White House</a><br />
+・<a href="https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/">Former ransomware negotiator gets 4 years for BlackCat attacks</a><br />
+・<a href="https://blog.cloudflare.com/ja-jp/ddos-threat-report-2026-h1/">Cloudflare DDoS脅威レポート（2026年上半期）：DNSフラッドと地政学的緊張が新たな波を引き起こし、テラビット級攻撃が急増 | Cloudflare ブログ</a><br />
+・<a href="https://www.europol.europa.eu/media-press/newsroom/news/europol-supported-global-operation-targets-over-75-000-users-engaged-in-ddos-attacks">Europol-supported global operation targets over 75 000 users engaged in DDoS attacks &#8211; Operation PowerOFF is a global effort aimed at dismantling criminal DDoS-for-hire infrastructure | Europol</a><br />
+・<a href="https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/">Smile, You’re on Camera! Part 2: Lazarus IT Workers Exposed</a><br />
+・<a href="https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation/">How We Caught Lazarus&#8217;s IT Workers Scheme Live on Camera</a><br />
+・<a href="https://www.amepla.jp/f/tie-balls-eggs">【公式】タイボールズ エッグス｜amepla（アメプラ）公式オンラインショップ</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/tokoroten.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/tokoroten-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2359" srcset="https://www.tsujileaks.com/wp-content/uploads/tokoroten-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tokoroten-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tokoroten-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tokoroten.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：お盆でした。平穏でした。2/5周。10月以降も頑張ってほしい！アレを勉強会で使っていただけて嬉しい。AIはもはや日常に。馬のアレの行方。サマーウォーズ久々に観ようかな。アレ勢がコラボ。コンバットってちょっとかっこええなぁ。大統領の覚え書き。色々な制限はある。が、しかし。民間ではあるもののは別の国ではありましたね。「アメリカでは～」ってアメリカのみの場合もあることに注意が必要なワードだと思っています。標的が犯罪者か国家支援かって攻撃してみないと分からないという懸念。とはいえ追いつかない、間に合わないからだろう。国の不得手を民間が補う。その逆も。数が増えれば失敗確率上がる説にはどうするのか。久々のDDoSソムリエ。クォータ単位で観ると件数が底上げされているように見える。Operation PowerOffの成果？超帯域幅消費型ってほんま強そう。漢字やと余計に強そう。10分ってずっとですね。対応しているうちに終わることもあるが。ボットネット由来から踏み台由来へ。半年に一度になった。逆潜入の話。前回のレポートの話から。フロントに立ってもらうパターン。今回は偽会社を作っておびき寄せるというもの。動画でやりとり見られますよ。紹介、紹介、紹介で3人。本人確認書類の怪。使われた画像は本物っぽかった。とはいえ流出したものっぽい。色々初歩的でミスも多かった。多くの人が抱くイメージと違うかもしれないですね。踏み台（ジャンプ）サーバを得られたのは大きい。ちょっとおもろいクロージング。本物のValid Accountを渡してしまう前に。後に。委託先の向こう側のどこかにあるかもしれない脅威をどうとらえるか。<br />
+&nbsp;</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 03:33 |<br />
+| (P) 国家安全保障に関する米大統領の覚書 | 16:53 |<br />
+| (N) Cloudflare DDoS 脅威レポート 2026年上半期 | 34:02 |<br />
+| (T) 北朝鮮 IT ワーカーの実態調査潜入レポート | 48:22 |<br />
+| オススメのアレ | 73:38 |</p>
+<p>&nbsp;</p><p>The post <a href="https://www.tsujileaks.com/?p=2358">第314回 セキュリティのアレ f！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260817_oboegaki.mp3" length="38036741" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:19:02</itunes:duration>
+	</item>
+	<item>
 		<title>第313回 「ランダム」って入力できへんねん！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2351</link>
 		<pubDate>Mon, 10 Aug 2026 11:00:25 +0000</pubDate>
@@ -71,7 +111,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://piyolog.hatenadiary.jp/entry/2026/08/06/014225">英国AISIの評価中に発生したAIエージェントの権限外行動についてまとめてみた &#8211; piyolog</a><br />
 ・<a href="https://www.uha-shop.jp/lp?u=rainbow-ramune">レインボーラムネ｜UHA味覚糖オンラインショップ</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/nasuhiro.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/nasuhiro-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2352" srcset="https://www.tsujileaks.com/wp-content/uploads/nasuhiro-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/nasuhiro.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/nasuhiro-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2352" srcset="https://www.tsujileaks.com/wp-content/uploads/nasuhiro-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：どれくらいの梅？新しいステッカー。考えながらのご聴取ありがとうございます！抹消されたアレ。まとめありがとうございます！どっちにパッチ？世の中思う通りにはうまくいかない。何故だろうだけでは防げない。多くの人は正常を知らない。そんなことはないを知らない。色を付けずに見る。ステッカーのコンプについては今回からスタートです。体にも影響出てるねん。脆弱性がこんなに減るのは意外。変化意識しておこう。多要素認証の導入は進んでいるが網羅性に欠けている可能性。検知タイミング違いの暗号化の成功と失敗。長い目で見るとバックアップからの復旧は真ん中程度。要求ぎゃく。やっぱ減ってる。弱毒化。AIによるパッチ作成への評価。それぞれ複数作らせて評価。かなり失敗してるものもあるな。直し方がイマイチ？AIでやることの意義があるのか否か。修正できてるかどうかだけではなく、仕様変わってない？新たな穴ない？という品質に関することへも注意が必要。AIの活用は上司と部下のあるべき姿やと思ってますねん。既視感あるんよなぁ。何回目やっけ？って。令和のワームはこういう形か。今回のやらしさは盗み出す情報の広さ。時間差もあるだろうし、関連性が見えないかもしれない。色々と策は講じられているものの根本的ではない。というよりも人が狙われてる。<br />
 &nbsp;</p>
@@ -145,7 +185,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.cybergym.io/exploitgym/">ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?</a><br />
 ・<a href="https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/">How OpenAI’s human mistake led to the AI-powered hack on Hugging Face | TechCrunch</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/1785138102616.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/1785138102616-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2340" srcset="https://www.tsujileaks.com/wp-content/uploads/1785138102616-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/1785138102616-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/1785138102616-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/1785138102616.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/1785138102616.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/1785138102616-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2340" srcset="https://www.tsujileaks.com/wp-content/uploads/1785138102616-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/1785138102616-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/1785138102616-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/1785138102616.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：お便りから行く時もあるねん。資格勉強とその維持の意味。SCS評価の使い道。タイムゾーンズレ問題。攻撃者に利する議論。主語はあまり大きすぎないように。AIだから許されてる？時間の経過でバランスが取れてくることもあるかな。自分なり、組織なりの線は必要。もう、Threat Detect Responseやん説。いろいろ準備のためのリソースはあります。同じ見解になると思ってた。どう向き合っているかによる。今、紹介しておきたいランサムギャング。RansomHouse登場したあの頃。はじめはウェアではなかった。なんとも身勝手なAbout。結局暗号化。ESXiも借り物から対応。日本で知られているイメージあるけどまぁぎり中堅。「にくそい」とか「こさえる」ってあんまり言いません？報道で言われていることの是非。リークには間違いもあることに注意。原因は一旦さておき、でた影響についてフォーカスしてみよう。学校給食の件は自分にとっては盲点でした。自分たちから、自分たちへの影響の整理は必要ですね。「Hugging Face」って聞いて映画の「エイリアン」思い出した。実はAIがやっていました事案。思う存分過ぎた。外に出るための動きをするとは。AI in the wild!!! 守る側の行動は断られるんかーい。思考パターンが人間がしそうなことをしてるとボクも思った。人間側が制御できていないことが問題。ん？もしかして、これもマーケティング的なことだったりする？うがちすぎかな。状況の変化速度に追随しないとなぁ。想定外があるからやめられない。<br />
 &nbsp;</p>
@@ -372,36 +412,9 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=2292</link>
 		<pubDate>Mon, 18 May 2026 11:00:41 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2292</guid>
-		<comments>https://www.tsujileaks.com/?p=2292#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2292</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<p>・<a href="https://microsoftedge.github.io/edgevr/posts/Saved-passwords-in-Edge-memory-what-were-changing-and-why/">Saved passwords in Edge memory: what we&#8217;re changing and why | Microsoft Browser Vulnerability Research</a><br />
-・<a href="https://www.fsa.go.jp/news/r7/sonota/20260514/20260514.html">「AI脅威に対する金融分野のサイバーセキュリティ対策強化に関する官民連携会議」の作業部会の開催について：金融庁</a><br />
-・<a href="https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/">Behind the Scenes Hardening Firefox with Claude Mythos Preview &#8211; Mozilla Hacks &#8211; the Web developer blog</a><br />
-・<a href="https://www.microsoft.com/en-us/msrc/blog/2026/05/a-note-on-patch-tuesday">A note on patch Tuesday</a><br />
-・<a href="https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/">Defense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark | Microsoft Security Blog</a><br />
-・<a href="https://www.paloaltonetworks.com/blog/2026/05/defenders-guide-frontier-ai-impact-cybersecurity-may-2026-update/">Defender&#8217;s Guide to the Frontier AI Impact on Cybersecurity: May 2026 Update</a><br />
-・<a href="https://www.vulncheck.com/blog/ai-assisted-vulnerability-discovery">The First CVE Wave: Signs That AI-Assisted Vulnerability Discovery Is Reshaping Disclosure Volumes | Blog | VulnCheck</a><br />
-・<a href="https://www.bankinfosecurity.com/tables-turned-gentlemen-ransomware-group-suffers-data-leak-a-31654">Tables Turned: Gentlemen Ransomware Group Suffers Data Leak</a><br />
-・<a href="https://research.checkpoint.com/2026/thus-spoke-the-gentlemen/">Thus Spoke…The Gentlemen &#8211; Check Point Research</a><br />
-・<a href="https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/">Adversaries Leverage AI for Vulnerability Exploitation, Augmented Operations, and Initial Access | Google Cloud Blog</a><br />
-・<a href="https://www.nikkei.com/article/DGXZQOGN120230S6A510C2000000/">サイバー攻撃にAI悪用、脆弱性発見で「初の実例」 Google報告書 &#8211; 日本経済新聞</a><br />
-・<a href="https://news.mynavi.jp/techplus/lp/2026/enterprise/SecurityAwards_202605/">第11回 情報セキュリティ事故対応アワード | マイナビニュース</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/amechan.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/amechan-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2294" srcset="https://www.tsujileaks.com/wp-content/uploads/amechan-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/amechan-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/amechan-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/amechan.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：第11回お疲れ様でした。ご来場いただいた方々ありがとうございました。夜行バスだなんてもうビックリサイトですやんか。かなり熱のあるイベントになった。20回まではしたい。締めコメントのスイッチ入り具合。早口の自覚あります。あのスンってのも結構好き。相手と自分で読み方、言い方違う時。MS Edgeの件のアップデート。使えないより使えたほうがええんかな。130件中、自身で発見しての修正は16件（エムダッシュ）。今年に入ってからのCVE件数が爆増なんですって！今の限定的な状態でこれ。もっと開かれたらどうなるのか。未知の領域の入り口に立っている。とはいえ中身は？利用者側のトリアージの問題。下手すると攻撃者の利するだけで終わる可能性もあると思う。ジェントルじゃないジェントルマン。フォーラムで売られてた情報に関する裏付け。案件管理。脆弱性に関する言及はほとんどなかった。BlackBastaのときはあった。認証が主戦場に見える。よく使われるけどそれを緩和することってあまりされてないんですよね。相手はしっかりこっちを見てる。脆弱性だけに目が行きがちかもだけど。脆弱性モリモリ時代には原点回帰の基本をしっかりすることが最も効果的となっていくのかもしれないですね。センセーショナルなタイトル。見つかったスクリプトを見たところ。なんでもええやん！発見の仕方が一段上がった気がする。人手の部分への浸食。少し前まで補助ツールだったものが。情報をアップデートしないと痛い目見そう。うちのAIは関西弁。情報セキュリティ事故対応アワードはまだ終わってへんねやで！</p>
-<blockquote>
-<p>&nbsp;<br />
-【チャプター】<br />
-| いつもの雑談から | 00:00 |<br />
-| お便りのコーナー | 05:28 |<br />
-| (N) フロンティア AI モデルによる脆弱性発見の状況 | 14:22 |<br />
-| (T) The Gentleman のリークデータを調べてみた | 32:07 |<br />
-| (P) AI の悪用に関する Google のレポート | 53:53 |<br />
-| オススメのアレ | 64:15 |
-</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2292">第304回 Tomorrow Never Knows！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<description>&lt;p&gt;・Saved passwords in Edge memory: what we’re changing and why | Microsoft Browser Vulnerability Research  … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;https://www.tsujileaks.com/?p=2292&quot; class=&quot;read-more&quot;&gt;もっと読む&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;第304回 Tomorrow Never Knows！スペシャル！&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2292&quot;&gt;第304回 Tomorrow Never Knows！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
 		<enclosure url="https://www.tsujileaks.com/media/are_260518_MrC.mp3" length="31701532" type="audio/mpeg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:05:50</itunes:duration>
