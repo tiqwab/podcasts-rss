@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 17 Aug 2026 12:56:24 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Aug 2026 11:00:54 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,44 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第315回 みんなのトラブルシュートを教えて！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2364</link>
+		<pubDate>Mon, 24 Aug 2026 11:00:54 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2364</guid>
+		<comments>https://www.tsujileaks.com/?p=2364#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2364</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<p>・<a href="https://posfie.com/@piyokango/p/1aHuTOW">日本アノニマス超会議！！（#anonloft）のつぶやきまとめ &#8211; posfie</a><br />
+・<a href="https://www.namecheap.com/blog/namecheap-service-outage-update/">Namecheap service outage update &#8211; Namecheap Blog</a><br />
+・<a href="https://jestr.ai/blog/namecheap-meltdown">The Namecheap Meltdown | Inside the August 2026 Phoenix Outage | Jestr</a><br />
+・<a href="https://japan.zdnet.com/article/35251440/">サイバーセキュリティで資格や経験よりも重要な3つのスキル</a><br />
+・<a href="https://arxiv.org/abs/2607.26791">[2607.26791] SecRespond: Benchmarking AI Agents for Real-World Post-Compromise Incident Response</a><br />
+・<a href="https://www.infoblox.com/blog/threat-intelligence/drop-something-dont-worry-someone-caught-it/">The Second Life of Expired Domains</a><br />
+・<a href="https://www.infoblox.com/blog/threat-intelligence/7-million-in-expired-domains-fuel-a-streaming-empire-with-a-malware-secret/">Illegal Streaming Fronts a $7M Dropcatch Domain Operation</a><br />
+・<a href="https://www.infoblox.com/blog/threat-intelligence/dropcatch-scavengers-expired-malicious-domains-become-cash-cows/">Expired Malicious Domains Bring New Threats to Life</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2026/08/18/145716">期限切れドメインのドロップキャッチを悪用した攻撃インフラの調査についてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2026/08/02/165033">大阪・関西万博関連ドメインの一部で起きているドロップキャッチについてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://www.ohsho.co.jp/menu/west/post_547.html">油淋鶏(ユーリンチー) | メニュー：北陸・東海・関西・四国・中国（岡山・鳥取） | 餃子の王将</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/natsuFES.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/natsuFES-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2365" srcset="https://www.tsujileaks.com/wp-content/uploads/natsuFES-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/natsuFES-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/natsuFES-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/natsuFES.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：パソコンデビューした高校生からずっとこんな感じ。他に活かすことできないトラブルシュート。8月23日。伝説ではない風化してるんだ！アレ勢同士のコラボはほんま嬉しい。観てくれてた！円盤って言ってしもた。ゲームも向き不向き？Teamsの仕様。慣れ・馴染みの穴。冷却できなくなったDC。自分たちのシステムを止めて、利用者が影響を受けた形か。まっちゃっちゃっ！でもDCいっぱいだけど。単一障害点過ぎて何から何まで止まった。そして、原因が二転三転。粛々と復旧を進めていてもその過程での説明が弱いと評価は下がりますね。どこで障害が起こるかで影響範囲が大きく変わる。いつもしっかりしていても1つの失敗があればそこに目が行く説。選んだ責任もある。AIあたりまえの今に求められる力。ちょっとエスパーやなぁ。疑問を持つ大切さ。AIの出すたくさんのそれっぽい答えに対しての疑問と検証。自分事例。自分の成果物へのツッコミ。直感かぁ。異常検知待ちではなく、もう少しプロアクティブに。色々することが増えると対応する時間は削られるから。やはり業務を学ぶことが大事であることには変わりないのかも。皆さんの意見、接し方も聞かせてほしい。過去の流れからの予想は危険かもしれない。その先にある変化ではない変化も考えた方がいいのかも。期限切れドメインのその後。古からの仕組みが悪用されている。一日平均で5万超えってすんごいな！ノリでドメイン取るのやめたい。シンクホール久々に聞いたかも。結構な金額でもペイできるんですね。再利用なくすほうが全体最適ならないのかな。全然興味なかった。<br />
+&nbsp;</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 06:12 |<br />
+| (N) Namecheap で発生したサービス障害 | 15:03 |<br />
+| (T) サイバーセキュリティで資格や経験よりも重要な3つのスキル | 28:24 |<br />
+| (P) 期限切れドメインのドロップキャッチを悪用した攻撃インフラ | 47:46 |<br />
+| オススメのアレ | 63:34 |</p>
+<p>&nbsp;</p><p>The post <a href="https://www.tsujileaks.com/?p=2364">第315回 みんなのトラブルシュートを教えて！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260824_kikaikowai.mp3" length="31948761" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:06:21</itunes:duration>
+	</item>
+	<item>
 		<title>第314回 セキュリティのアレ f！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2358</link>
 		<pubDate>Mon, 17 Aug 2026 11:00:52 +0000</pubDate>
@@ -74,7 +112,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation/">How We Caught Lazarus&#8217;s IT Workers Scheme Live on Camera</a><br />
 ・<a href="https://www.amepla.jp/f/tie-balls-eggs">【公式】タイボールズ エッグス｜amepla（アメプラ）公式オンラインショップ</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/tokoroten.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/tokoroten-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2359" srcset="https://www.tsujileaks.com/wp-content/uploads/tokoroten-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tokoroten-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tokoroten-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tokoroten.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/tokoroten.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/tokoroten-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2359" srcset="https://www.tsujileaks.com/wp-content/uploads/tokoroten-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tokoroten-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tokoroten-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tokoroten.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：お盆でした。平穏でした。2/5周。10月以降も頑張ってほしい！アレを勉強会で使っていただけて嬉しい。AIはもはや日常に。馬のアレの行方。サマーウォーズ久々に観ようかな。アレ勢がコラボ。コンバットってちょっとかっこええなぁ。大統領の覚え書き。色々な制限はある。が、しかし。民間ではあるもののは別の国ではありましたね。「アメリカでは～」ってアメリカのみの場合もあることに注意が必要なワードだと思っています。標的が犯罪者か国家支援かって攻撃してみないと分からないという懸念。とはいえ追いつかない、間に合わないからだろう。国の不得手を民間が補う。その逆も。数が増えれば失敗確率上がる説にはどうするのか。久々のDDoSソムリエ。クォータ単位で観ると件数が底上げされているように見える。Operation PowerOffの成果？超帯域幅消費型ってほんま強そう。漢字やと余計に強そう。10分ってずっとですね。対応しているうちに終わることもあるが。ボットネット由来から踏み台由来へ。半年に一度になった。逆潜入の話。前回のレポートの話から。フロントに立ってもらうパターン。今回は偽会社を作っておびき寄せるというもの。動画でやりとり見られますよ。紹介、紹介、紹介で3人。本人確認書類の怪。使われた画像は本物っぽかった。とはいえ流出したものっぽい。色々初歩的でミスも多かった。多くの人が抱くイメージと違うかもしれないですね。踏み台（ジャンプ）サーバを得られたのは大きい。ちょっとおもろいクロージング。本物のValid Accountを渡してしまう前に。後に。委託先の向こう側のどこかにあるかもしれない脅威をどうとらえるか。<br />
 &nbsp;</p>
@@ -150,7 +188,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-54121">CVE-2026-54121 &#8211; Security Update Guide &#8211; Microsoft &#8211; Active Directory Certificate Services Elevation of Privilege Vulnerability</a><br />
 ・<a href="https://products.suntory.co.jp/d/4901777338685/">サントリー天然水 うめソルティ 540mlペット 商品情報（カロリー・原材料） サントリー</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/31.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/31-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2344" srcset="https://www.tsujileaks.com/wp-content/uploads/31-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/31-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/31-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/31.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/31.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/31-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2344" srcset="https://www.tsujileaks.com/wp-content/uploads/31-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/31-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/31-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/31.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：取材された話。質問力の根っこ。言いたいことも言えない世の中もポイズンだけど、分からない・知らないことも言うのもポイズン。ボク何系出身？そう言われたら蕎麦屋さんに「今でました」って言われたことないな。2026上半期の脆弱性に関して。AIで発見された脆弱性の中身。そこまで悪用は増えてない。これからどうなるか。VulnCheckおこ。AI側の発見した脆弱性に対しての透明性が低い。たしかに粒度わからん。件数だけにフォーカスしないほうがいい。選んで使うのはまだ「人」。こちらも今後の変化は要チェックや！全然分からない名前がよく付いてる。ヴィッシングめっさ増えてるのか。そうか電話だけちゃうか。手練れなのか警戒心が低いのか。ランサムもくるのかいな。Chaosはかなり小粒の部類。そういえばInterLockだけでなく、LeakNetもClickFix使ってくるランサムでしたん。経路の想定って大事。ChaosってmsaRATを使うとも言われてますね。入り口専門というのもありそう。猶予あるケースもあるかもしれない。注意喚起テンプレ。過去の経験はかなり影響しています。盛り込み項目と相手。2つの脆弱性について紹介。実行する内容を権限・認可情報がずれるってなかなかに味わい深い。他との絡みでどうしてもアップデートできない状況ある。今のうちに対処してほしい恐ろしい脆弱性。AD指定できるんかい！こういうのは悪用確認まで時間かかりそう。8月3日18時時点でも変わらずでした。Microsoftを信じるか。辻を信じるか。<br />
 &nbsp;</p>
@@ -377,32 +415,9 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=2299</link>
 		<pubDate>Mon, 01 Jun 2026 11:00:17 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2299</guid>
-		<comments>https://www.tsujileaks.com/?p=2299#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2299</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<p>･<a href="https://help.dropbox.com/ja-jp/delete-restore/recover-deleted-files-folders">削除したファイルやフォルダを復元する方法 &#8211; Dropbox ヘルプ</a><br />
-･<a href="https://news.mynavi.jp/itsearch/seminar/1651">【アーカイブ配信】第11回 情報セキュリティ事故対応アワード｜2026-05-29｜ITセミナー・製品情報</a><br />
-･<a href="https://news.mynavi.jp/techplus/article/20260529-4482182/">【第11回】情報セキュリティ事故対応アワード、優れた事故対応を表彰 | TECH+（テックプラス）</a><br />
-･<a href="https://kengoyamamoto.com/notebooklm-securityare304/">【感動】NotebookLMで#セキュリティのアレ第304回を超分かりやすく要約してみた | KENGOの気まぐれブログ</a><br />
-･<a href="https://reliaquest.com/blog/threat-spotlight-clickfix-evolves-with-pysoxy-proxying/">ClickFix Evolves with PySoxy Proxying | ReliaQuest Threat Research</a><br />
-･<a href="https://www.microsoft.com/en-us/msrc/blog/2026/05/a-shared-responsibility-protecting-customers-through-coordinated-vulnerability-disclosure">A shared responsibility: Protecting customers through Coordinated Vulnerability Disclosure</a><br />
-･<a href="https://deadeclipse666.blogspot.com/">Nightmare Eclipse</a><br />
-･<a href="https://www.ipa.go.jp/security/guide/vuln/partnership_guide.html">情報セキュリティ早期警戒パートナーシップガイドライン | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</a><br />
-･<a href="https://www.dr-air.com/jp/ja/products/exagun-pocket/">エクサガン ポケット | ドクターエア（DOCTORAIR）公式ブランドサイト</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/tamakoro.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/tamakoro-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2300" srcset="https://www.tsujileaks.com/wp-content/uploads/tamakoro-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tamakoro-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tamakoro-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tamakoro.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：Dropboxからお便り来たよ。たしかにフィッシングの手口として使えますね。オレが先。情報セキュリティ事故対応アワードのコンテンツ出てるんで見てください！動画もあるよ！なかなかに時間が押し押しやったんですよ。サイバーセキュリティの大冒険。文字文字。会社みたいな泥棒って表現いいなぁ。公開タイミングとコードの送信タイミング。自分の言葉に落とすって大事！これがモノにするってことやと思います。地固めほんま素晴らしい！AIうまく付き合っていきたいですね。ある意味で生き残りもかかっていると思う。移行の際に気をつけることは選択のときに気をつけることでもあるんですよね。ClickFixの今とこれから。初期侵入として。その後は永続化とその冗長化。BYOIとは。とはいいつつ持ち込むのってそれほど難しいことではない。監視側が運用の知らないときのジレンマ。目的は。この後に何をしたのか。IAB的にも見ることができる。単なるマルウェアの配送経路としてではなく、広く初期侵入経路として捉えてほしい。ClickFixとこれまでの経路との強み弱み。脆弱性の発見者とベンダーの間で起きたゴタゴタ。In the wildのものも。Banまくり。名指しはなかなかですね。それをきっかけに色々ポロポロ出てくる。公開すりゃいいってもんでもない。でも何がまずいのか分からないと対策も調査もできへんし。狭間にいる運用する側の利益がもっとある形になってほしい。なんかこう丁度ええとこないんかいね。透明性の担保、第三者の目に触れる形。</p>
-<blockquote>
-<p>&nbsp;<br />
-【チャプター】<br />
-| いつもの雑談から | 00:00 |<br />
-| お便りのコーナー | 05:33 |<br />
-| (T) ClickFix を使う攻撃手口の進化 | 19:25 |<br />
-| (N) Microsoft とあるセキュリティリサーチャーとのトラブル | 35:44 |<br />
-| オススメのアレ | 55:38 |
-</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2299">第305回 間がワルいとね！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<description>&lt;p&gt;･削除したファイルやフォルダを復元する方法 – Dropbox ヘルプ ･【アーカイブ配信】第11回 情報セキュリティ事故対応アワード｜2026-05-29｜ITセミナー・製品情報 ･【第11回】情報セキュリ … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;https://www.tsujileaks.com/?p=2299&quot; class=&quot;read-more&quot;&gt;もっと読む&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;第305回 間がワルいとね！スペシャル！&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2299&quot;&gt;第305回 間がワルいとね！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
 		<enclosure url="https://www.tsujileaks.com/media/are_260601_naming.mp3" length="30488518" type="audio/mpeg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:03:18</itunes:duration>
