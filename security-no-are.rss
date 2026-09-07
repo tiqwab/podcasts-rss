@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 24 Aug 2026 11:00:54 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Sep 2026 11:00:43 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,42 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第316回 励まして！褒めて！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2368</link>
+		<pubDate>Mon, 07 Sep 2026 11:00:43 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2368</guid>
+		<comments>https://www.tsujileaks.com/?p=2368#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2368</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<p>・<a href="https://imagine-dumplings.amebaownd.com/">原宿餃子楼</a><br />
+・<a href="https://proton.me/blog/august-27-outage-incident-report">August 27 outage: Incident report | Proton</a><br />
+・<a href="https://www.morinaga.co.jp/ramune/">ラムネ｜森永製菓株式会社</a><br />
+・<a href="https://www.virtualizor.com/blog/security-incident-bgp-hijacking/">Security Incident – BGP Hijacking – Virtualizor</a><br />
+・<a href="https://www.kentik.com/blog/latest-bgp-hijack-targets-hosting-software-vendor/">Latest BGP Hijack Targets Hosting Software Vendor | Kentik Blog</a><br />
+・<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-071a">#StopRansomware: Medusa Ransomware | CISA</a><br />
+・<a href="https://www.huntress.com/blog/nezha-china-nexus-threat-actor-tool">The Crown Prince, Nezha | Huntress</a><br />
+・<a href="https://www.ktv.jp/gto2026/">GTO | 関西テレビ放送 カンテレ</a><br />
+・<a href="https://www.ntv.co.jp/oresuka/">俺のスカート、どこ行った？｜日本テレビ</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/cook.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/cook-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2369" srcset="https://www.tsujileaks.com/wp-content/uploads/cook-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/cook-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/cook-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/cook.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：30分はかなり短い。不満。再放送してほしいねん。久々の3人でご飯。入ってきてからのこと。冷却故障再び。想定の幅。どんなお便りもありがたいんですよ。知らん人からの招待に気をつけて。日本にも来てるって！注意喚起って何かしら目を引くものあるといいですよね。Asanaとかもあるんかな。こういった攻撃は状況全体を見渡す形での管理しにくそう。知り合いや同じ組織の人から来るのは何故なのか。どこまでそういったリストを用いているのか知りたい。先行マルウェア。割とそこそこ発生しているんですね。BGPハイジャックの後、悪意のあるアップデートを配信ってこれきついなぁ。証明書まで用意されたらインストール後まで気付きようないやん。配布されたもので認証情報が取られた？狙われた顧客のジャンルを考えると影響範囲が広がりそうなインシデントですね。3CXの例ですね。自分たちの管理が及ぶところかそうでないところかでレスポンスの迅速さに影響でそう。便利さと安全性のバランス。バレンタインデーが最後のリークであるMadusaの話。保険というか医療関係でしたね。IABの募集は結構前の印象あった。広範囲に攻撃していけそうなところをフィルタする仕組み。開けて閉めて。ネットワーク全体を効率的に管理する方向に進んでいると思う。時間の経過で変化するものとしなさそうなものの見極め、ジェネリックな部分はどこかを考えることは大事です。28年ぶりでした。<br />
+&nbsp;</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 05:27 |<br />
+| (P) Slack の不正なワークスペース招待への注意喚起 | 18:50 |<br />
+| (N) BGP ハイジャックによるソフトウェアサプライチェーン攻撃 | 30:40 |<br />
+| (T) Medusa ランサムウェアの攻撃活動 | 46:54 |<br />
+| オススメのアレ | 62:30 |</p>
+<p>&nbsp;</p><p>The post <a href="https://www.tsujileaks.com/?p=2368">第316回 励まして！褒めて！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260907_tochigi.mp3" length="33341393" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:09:15</itunes:duration>
+	</item>
+	<item>
 		<title>第315回 みんなのトラブルシュートを教えて！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2364</link>
 		<pubDate>Mon, 24 Aug 2026 11:00:54 +0000</pubDate>
@@ -72,7 +108,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://piyolog.hatenadiary.jp/entry/2026/08/02/165033">大阪・関西万博関連ドメインの一部で起きているドロップキャッチについてまとめてみた &#8211; piyolog</a><br />
 ・<a href="https://www.ohsho.co.jp/menu/west/post_547.html">油淋鶏(ユーリンチー) | メニュー：北陸・東海・関西・四国・中国（岡山・鳥取） | 餃子の王将</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/natsuFES.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/natsuFES-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2365" srcset="https://www.tsujileaks.com/wp-content/uploads/natsuFES-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/natsuFES-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/natsuFES-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/natsuFES.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/natsuFES.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/natsuFES-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2365" srcset="https://www.tsujileaks.com/wp-content/uploads/natsuFES-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/natsuFES-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/natsuFES-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/natsuFES.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：パソコンデビューした高校生からずっとこんな感じ。他に活かすことできないトラブルシュート。8月23日。伝説ではない風化してるんだ！アレ勢同士のコラボはほんま嬉しい。観てくれてた！円盤って言ってしもた。ゲームも向き不向き？Teamsの仕様。慣れ・馴染みの穴。冷却できなくなったDC。自分たちのシステムを止めて、利用者が影響を受けた形か。まっちゃっちゃっ！でもDCいっぱいだけど。単一障害点過ぎて何から何まで止まった。そして、原因が二転三転。粛々と復旧を進めていてもその過程での説明が弱いと評価は下がりますね。どこで障害が起こるかで影響範囲が大きく変わる。いつもしっかりしていても1つの失敗があればそこに目が行く説。選んだ責任もある。AIあたりまえの今に求められる力。ちょっとエスパーやなぁ。疑問を持つ大切さ。AIの出すたくさんのそれっぽい答えに対しての疑問と検証。自分事例。自分の成果物へのツッコミ。直感かぁ。異常検知待ちではなく、もう少しプロアクティブに。色々することが増えると対応する時間は削られるから。やはり業務を学ぶことが大事であることには変わりないのかも。皆さんの意見、接し方も聞かせてほしい。過去の流れからの予想は危険かもしれない。その先にある変化ではない変化も考えた方がいいのかも。期限切れドメインのその後。古からの仕組みが悪用されている。一日平均で5万超えってすんごいな！ノリでドメイン取るのやめたい。シンクホール久々に聞いたかも。結構な金額でもペイできるんですね。再利用なくすほうが全体最適ならないのかな。全然興味なかった。<br />
 &nbsp;</p>
@@ -149,7 +185,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://piyolog.hatenadiary.jp/entry/2026/08/06/014225">英国AISIの評価中に発生したAIエージェントの権限外行動についてまとめてみた &#8211; piyolog</a><br />
 ・<a href="https://www.uha-shop.jp/lp?u=rainbow-ramune">レインボーラムネ｜UHA味覚糖オンラインショップ</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/nasuhiro.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/nasuhiro-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2352" srcset="https://www.tsujileaks.com/wp-content/uploads/nasuhiro-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/nasuhiro.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/nasuhiro-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2352" srcset="https://www.tsujileaks.com/wp-content/uploads/nasuhiro-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：どれくらいの梅？新しいステッカー。考えながらのご聴取ありがとうございます！抹消されたアレ。まとめありがとうございます！どっちにパッチ？世の中思う通りにはうまくいかない。何故だろうだけでは防げない。多くの人は正常を知らない。そんなことはないを知らない。色を付けずに見る。ステッカーのコンプについては今回からスタートです。体にも影響出てるねん。脆弱性がこんなに減るのは意外。変化意識しておこう。多要素認証の導入は進んでいるが網羅性に欠けている可能性。検知タイミング違いの暗号化の成功と失敗。長い目で見るとバックアップからの復旧は真ん中程度。要求ぎゃく。やっぱ減ってる。弱毒化。AIによるパッチ作成への評価。それぞれ複数作らせて評価。かなり失敗してるものもあるな。直し方がイマイチ？AIでやることの意義があるのか否か。修正できてるかどうかだけではなく、仕様変わってない？新たな穴ない？という品質に関することへも注意が必要。AIの活用は上司と部下のあるべき姿やと思ってますねん。既視感あるんよなぁ。何回目やっけ？って。令和のワームはこういう形か。今回のやらしさは盗み出す情報の広さ。時間差もあるだろうし、関連性が見えないかもしれない。色々と策は講じられているものの根本的ではない。というよりも人が狙われてる。<br />
 &nbsp;</p>
@@ -382,30 +418,9 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=2306</link>
 		<pubDate>Mon, 08 Jun 2026 11:00:56 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2306</guid>
-		<comments>https://www.tsujileaks.com/?p=2306#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2306</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<p>･<a href="https://support.apple.com/ja-jp/guide/iphone/ipha779f0c10/ios">iPhoneの「探す」でAirTagやその他の持ち物を探す &#8211; Apple サポート (日本)</a><br />
-･<a href="https://red.anthropic.com/2026/attack-navigator/">LLM ATT&amp;CK Navigator \ red.anthropic.com</a><br />
-･<a href="https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/">Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts – Krebs on Security</a><br />
-･<a href="https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/">Instagram users locked out after Meta AI abused to steal accounts</a><br />
-･<a href="https://www.ielove-group.jp/news/detail-1379">【第二報】当社のクラウドサービスへの不正アクセスに関する調査状況および今後の対応について｜株式会社いえらぶGROUP</a><br />
-･<a href="https://www.tuzumi.co.jp/">ツヅミ食品株式会社 | 日本一おいしいソースにも選ばれた絶品こだわり地ソース</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/tsuyu2.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/tsuyu2-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2307" srcset="https://www.tsujileaks.com/wp-content/uploads/tsuyu2-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tsuyu2-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tsuyu2-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tsuyu2.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：大丈夫です。あって良かったの話。なんでも訓練しとかんと。時事ネタ攻撃。感情で殴ると大体あかん。説明の時に気をつけていること。究極の目的。究極の状況。Bar アレ。AIの悪用から見る。ATT&#038;CKのマッピングが十分に表現できていない。フローの概念がないのがちょっとと思ってる。AIが格差を埋め、裾野を広げる。AIの進歩を考えつつ、軸足の置き方を変える。そんなことも対応してくれるんですか！？テスト大変そう。アカウント乗っ取りの用途。ちょいと再度深掘りさせて。はじまりはフォーラムの書き込み。著名ということもあって。一呼吸おこうや。登場人物の整理。インフォスティーラー明記は国内だと初？原因は二段階。どこで誰がどう食い止めるのか。どうチェックする。</p>
-<blockquote>
-<p>&nbsp;<br />
-【チャプター】<br />
-| いつもの雑談から | 00:00 |<br />
-| お便りのコーナー | 06:49 |<br />
-| (P) AI を利用するサイバー攻撃の実態 | 16:47 |<br />
-| (N) Instagram のアカウント乗っ取りの手口 | 28:19 |<br />
-| (T) いえらぶGROUPへの不正アクセス事案 | 38:57 |<br />
-| オススメのアレ | 54:15 |
-</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2306">第306回 落としていたとはつゆ知らず！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<description>&lt;p&gt;･iPhoneの「探す」でAirTagやその他の持ち物を探す – Apple サポート (日本) ･LLM ATT&amp;CK Navigator \ red.anthropic.com ･Hackers  … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;https://www.tsujileaks.com/?p=2306&quot; class=&quot;read-more&quot;&gt;もっと読む&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;第306回 落としていたとはつゆ知らず！スペシャル！&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2306&quot;&gt;第306回 落としていたとはつゆ知らず！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
 		<enclosure url="https://www.tsujileaks.com/media/are_260608_kangostart.mp3" length="28428464" type="audio/mpeg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>59:01</itunes:duration>
