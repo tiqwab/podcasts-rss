@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 07 Sep 2026 11:00:43 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Sep 2026 11:00:11 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,42 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第317回 あがるよねぇ～！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2373</link>
+		<pubDate>Mon, 14 Sep 2026 11:00:11 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2373</guid>
+		<comments>https://www.tsujileaks.com/?p=2373#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2373</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<p>・<a href="https://www.digital.go.jp/news/2026-0911-01">ガバメントソリューションサービスへの不正アクセスによる職員等の個人情報の漏えいの可能性について｜デジタル庁</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2026/09/11/220855">デジタル庁のガバメントソリューションサービス(GSS)への不正アクセスについてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://x.com/ntsuji/status/2098662554222617021">辻 伸弘 (nobuhiro tsuji) on X: &quot;デジタル庁の不正アクセス事案からSCS評価制度のある部分のことを考えてきました。&quot; / X</a><br />
+・<a href="https://www.global.toshiba/jp/cybersecurity/corporate/report.html">サイバーセキュリティ報告書 | 東芝 サイバーセキュリティ | 東芝</a><br />
+・<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-237a">A Tale of Two SOCs: Insights From Two Red Team Assessments | CISA</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2026/09/04/134335">2つの重要インフラ組織へ行われたレッドチーム評価についてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://www.vulncheck.com/blog/anthropic-glasswing-receipts">The Anthropic Glasswing Receipts Are Starting to Trickle In | Blog | VulnCheck</a><br />
+・<a href="https://red.anthropic.com/2026/cvd/">Anthropic&#8217;s coordinated vulnerability disclosure dashboard</a><br />
+・<a href="https://news.yahoo.co.jp/articles/0d990b559e517968d6563300705616ac24033aae">韓国政府、「ミュトス発の脅威」へのセキュリティ対策発表…脆弱性管理センター設置、ドメイン3.5億件を毎日監視（KOREA WAVE） &#8211; Yahoo!ニュース</a><br />
+・<a href="https://lolrmm.io/">LOLRMM &#8211; Home &#8211; LOLRMM</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/syoku.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/syoku-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2374" srcset="https://www.tsujileaks.com/wp-content/uploads/syoku-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/syoku-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/syoku-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/syoku.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：選択肢はなかった。Duoが劣るのはカメラだけ！付けてきやがって。占拠してみたいな。15年くらい前に餃子パーティしたっけな。大分ちゃう。距離感・バランス大事ですよ。ほんまに。ほんまお手本になってほしい。読んで眺めて気になるキーワード2つについて考えてきました。レジリエンスについて。言葉分からへんの多いねん。レジリエンスあります！とはいうものの何をもって？レジリエンスって単純な復旧能力だけではなく、攻撃を途中で止める能力も含めて、どう測るのかが大事ですね。サプライチェーンについて。相手方の状態と自組織との関係性を考慮して次のアクションを決定するんでしょうね。Attack Surface Management から Third Party Risk Management になり、侵害された取引先からの Attack Pathと見ないといけないと思った。共通言語化って必要。Project GlassWingで見つかった脆弱性のその後。いい効果とはあまり言えない数字に感じる。今後改善されるとしてもまだ精度の問題が残っているのかな。見つけた側と告げられた側の評価のギャップでかすぎ。過大評価、過小評価があるにせよブレブレであることがまずい。バラバラに同じことをして重複を生む無駄。ありますよね。組織合っても権限というか強制力がないと形だけになりがちですね。<br />
+&nbsp;</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 05:09 |<br />
+| (T) サイバーセキュリティ報告書を読んで考えてみた | 16:40 |<br />
+| (N) Project Glasswing のその後の状況 | 34:26 |<br />
+| オススメのアレ | 55:09 |</p>
+<p>&nbsp;</p><p>The post <a href="https://www.tsujileaks.com/?p=2373">第317回 あがるよねぇ～！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260914_theBestOne.mp3" length="29484780" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:01:13</itunes:duration>
+	</item>
+	<item>
 		<title>第316回 励まして！褒めて！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2368</link>
 		<pubDate>Mon, 07 Sep 2026 11:00:43 +0000</pubDate>
@@ -70,7 +106,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.ktv.jp/gto2026/">GTO | 関西テレビ放送 カンテレ</a><br />
 ・<a href="https://www.ntv.co.jp/oresuka/">俺のスカート、どこ行った？｜日本テレビ</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/cook.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/cook-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2369" srcset="https://www.tsujileaks.com/wp-content/uploads/cook-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/cook-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/cook-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/cook.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/cook.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/cook-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2369" srcset="https://www.tsujileaks.com/wp-content/uploads/cook-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/cook-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/cook-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/cook.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：30分はかなり短い。不満。再放送してほしいねん。久々の3人でご飯。入ってきてからのこと。冷却故障再び。想定の幅。どんなお便りもありがたいんですよ。知らん人からの招待に気をつけて。日本にも来てるって！注意喚起って何かしら目を引くものあるといいですよね。Asanaとかもあるんかな。こういった攻撃は状況全体を見渡す形での管理しにくそう。知り合いや同じ組織の人から来るのは何故なのか。どこまでそういったリストを用いているのか知りたい。先行マルウェア。割とそこそこ発生しているんですね。BGPハイジャックの後、悪意のあるアップデートを配信ってこれきついなぁ。証明書まで用意されたらインストール後まで気付きようないやん。配布されたもので認証情報が取られた？狙われた顧客のジャンルを考えると影響範囲が広がりそうなインシデントですね。3CXの例ですね。自分たちの管理が及ぶところかそうでないところかでレスポンスの迅速さに影響でそう。便利さと安全性のバランス。バレンタインデーが最後のリークであるMadusaの話。保険というか医療関係でしたね。IABの募集は結構前の印象あった。広範囲に攻撃していけそうなところをフィルタする仕組み。開けて閉めて。ネットワーク全体を効率的に管理する方向に進んでいると思う。時間の経過で変化するものとしなさそうなものの見極め、ジェネリックな部分はどこかを考えることは大事です。28年ぶりでした。<br />
 &nbsp;</p>
@@ -148,7 +184,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation/">How We Caught Lazarus&#8217;s IT Workers Scheme Live on Camera</a><br />
 ・<a href="https://www.amepla.jp/f/tie-balls-eggs">【公式】タイボールズ エッグス｜amepla（アメプラ）公式オンラインショップ</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/tokoroten.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/tokoroten-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2359" srcset="https://www.tsujileaks.com/wp-content/uploads/tokoroten-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tokoroten-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tokoroten-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tokoroten.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/tokoroten.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/tokoroten-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2359" srcset="https://www.tsujileaks.com/wp-content/uploads/tokoroten-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tokoroten-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tokoroten-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tokoroten.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：お盆でした。平穏でした。2/5周。10月以降も頑張ってほしい！アレを勉強会で使っていただけて嬉しい。AIはもはや日常に。馬のアレの行方。サマーウォーズ久々に観ようかな。アレ勢がコラボ。コンバットってちょっとかっこええなぁ。大統領の覚え書き。色々な制限はある。が、しかし。民間ではあるもののは別の国ではありましたね。「アメリカでは～」ってアメリカのみの場合もあることに注意が必要なワードだと思っています。標的が犯罪者か国家支援かって攻撃してみないと分からないという懸念。とはいえ追いつかない、間に合わないからだろう。国の不得手を民間が補う。その逆も。数が増えれば失敗確率上がる説にはどうするのか。久々のDDoSソムリエ。クォータ単位で観ると件数が底上げされているように見える。Operation PowerOffの成果？超帯域幅消費型ってほんま強そう。漢字やと余計に強そう。10分ってずっとですね。対応しているうちに終わることもあるが。ボットネット由来から踏み台由来へ。半年に一度になった。逆潜入の話。前回のレポートの話から。フロントに立ってもらうパターン。今回は偽会社を作っておびき寄せるというもの。動画でやりとり見られますよ。紹介、紹介、紹介で3人。本人確認書類の怪。使われた画像は本物っぽかった。とはいえ流出したものっぽい。色々初歩的でミスも多かった。多くの人が抱くイメージと違うかもしれないですね。踏み台（ジャンプ）サーバを得られたのは大きい。ちょっとおもろいクロージング。本物のValid Accountを渡してしまう前に。後に。委託先の向こう側のどこかにあるかもしれない脅威をどうとらえるか。<br />
 &nbsp;</p>
@@ -382,33 +418,9 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=2313</link>
 		<pubDate>Tue, 23 Jun 2026 11:00:36 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2313</guid>
-		<comments>https://www.tsujileaks.com/?p=2313#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2313</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<p>・<a href="https://x.com/MPD_cybersec/status/2064986229846987253">警視庁サイバー on X: &quot;【サイバー攻撃対策センター】 フィッシングメールは巧妙化しています。今回紹介する「二段階式フィッシングメール」は、１通目の不審なメールを見破った人に対して、２通目にさらに巧妙なフィッシングメールを送りつけるもので、メール受信者の注意力を逆手に取った手法と言えます。 #フィッシング [https://t.co/N0xReCVlaZ&quot;](https://t.co/N0xReCVlaZ&quot;) / X</a><br />
-・<a href="https://klue.com/blog/an-update-on-recent-klue-security-incident">An Update on the Recent Klue Security Incident &#8211; Klue</a><br />
-・<a href="https://www.huntress.com/blog/klue-breach-investigation">Cybercrime Breaches Klue: Salesforce Data Impacted for Many Victims, including Huntress | Huntress</a><br />
-・<a href="https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk">BOD 26-04: Prioritizing Security Updates Based on Risk | CISA</a><br />
-・<a href="https://github.com/cisagov/vulnrichment">GitHub &#8211; cisagov/vulnrichment: A repo to conduct vulnerability enrichment. · GitHub</a><br />
-・<a href="https://www.fortinet.com/blog/psirt-blogs/analysis-of-reported-credential-compromise-of-fortigate-devices">Analysis of Reported Credential Compromise of FortiGate Devices | Fortinet Blog</a><br />
-・<a href="https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure">CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure | CISA</a><br />
-・<a href="https://www.cloudsek.com/blog/inside-the-fortibleed-open-directory-a-technical-analysis-of-what-the-attacker-left-behind">Inside the FortiBleed Open Directory: A Technical Analysis of What the Attacker Left Behind | CloudSEK</a><br />
-・<a href="https://www.youtube.com/@potatochan_10">ぽてとちゃん。 &#8211; YouTube</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/wc2026.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/wc2026-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2314" srcset="https://www.tsujileaks.com/wp-content/uploads/wc2026-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/wc2026-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/wc2026-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/wc2026.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：めっちゃトラックしたろ。初Qi。過去から来てました。2個来るのいやらしい。確立される良さと失われるもの。動き始めてるで。なんからの方法か。またもやこの流れか。ちょっと複雑なほうのサービスサプライチェーン。セキュリティ企業でも使っている人たち、使うことを決めた人たちが専門家とは限らないですもんね。脅威の見積もりをする際の範囲。攻撃者の対象への理解。BOD 26-04。大注目。何で評価するのか。CVE掲載からKEVの掲載までの期間について。リッチメントいい！次の一手を考えるのに使っていこうと思ってます。CISAの皆さん聴いてますか？Bleedって怖い単語ですわ。いったん落ち着こう。手抜かりなくしたい。フォレンジックトリアージに必要な情報の公開。外からわからんもんなぁ。あってよかった二要素認証。</p>
-<blockquote>
-<p>&nbsp;<br />
-【チャプター】<br />
-| いつもの雑談から | 00:00 |<br />
-| お便りのコーナー | 04:42 |<br />
-| (N) klue からのサービスサプライチェーン攻撃 | 14:52 |<br />
-| (T) CISA の BOD 26-04 について | 26:58 |<br />
-| (P) FortiGate を対象にした攻撃キャンペーン “FortiBleed” | 45:04 |<br />
-| オススメのアレ | 58:17 |
-</p></blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2313">第307回 Bleedがklue！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<description>&lt;p&gt;・警視庁サイバー on X: &quot;【サイバー攻撃対策センター】 フィッシングメールは巧妙化しています。今回紹介する「二段階式フィッシングメール」は、１通目の不審なメールを見破った人に対して、２通目にさらに巧妙なフ … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;https://www.tsujileaks.com/?p=2313&quot; class=&quot;read-more&quot;&gt;もっと読む&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;第307回 Bleedがklue！スペシャル！&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2313&quot;&gt;第307回 Bleedがklue！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
 		<enclosure url="https://www.tsujileaks.com/media/are_260623_bleble.mp3" length="31708650" type="audio/mpeg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:05:51</itunes:duration>
