@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 14 Sep 2026 11:00:11 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Sep 2026 10:59:43 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,37 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第318回 サイバーやねん！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2377</link>
+		<pubDate>Mon, 21 Sep 2026 10:59:43 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2377</guid>
+		<comments>https://www.tsujileaks.com/?p=2377#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2377</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<p>・<a href="https://blog.google/products-and-platforms/platforms/android/switch-password-managers/">Securely switch password managers on Android</a><br />
+・<a href="https://fidoalliance.org/specifications-credential-exchange-specifications/">FIDO Credential Exchange Specifications | FIDO Alliance</a><br />
+・<a href="https://www.npa.go.jp/publications/statistics/cybersecurity/index.html">サイバー空間をめぐる脅威の情勢等｜警察庁Webサイト</a><br />
+・<a href="https://www.sophos.com/ja-jp/content/state-of-ransomware">ランサムウェアレポート 2026年版。ソフォスランサムウェアの現状</a><br />
+・<a href="https://www.okayama-pmc.jp/home/consultation/er9dkox7/lromw3x9/">地方独立行政法人 岡山県精神科医療センター ランサムウェア事案調査報告書について – 地方独立行政法人 岡山県精神科医療センター</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/imo.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/imo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2379" srcset="https://www.tsujileaks.com/wp-content/uploads/imo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/imo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/imo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/imo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：全員参加の回。定例のない自分。例えの難しさ。子供たちの興味・関心。大切なのは動機付け。名前も難しいところある。あまり範囲限定にならないのがいいですね。それぞれのレジリエンス。上半期という意識がなかった。Androidでのパスキー。一時的であっても平文の保存はソワソワしてしまいます。移動の仕組みの標準化。普及の壁は。暗号苦手やったなぁ。使ってもらうための説明。プライバシーにかなり配慮しているイメージある。こういうのが伝わるの大事ですね。めぐっていく！今回は統計に主にフォーカスしました。被害の報告件数はもはや常態とみるべきかな。VPN機器がずっと多いけども。切り取りで恣意的な使われ方されそう。日本で偏りが見える理由。セミナーでのバックアップ取得率。意識高い人と失ってる人。バックアップ取得率と復元率。取っているから耐えられるへ。事例の規模問題。<br />
+&nbsp;</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 03:36 |<br />
+| (N) Android で GPM がパスキーの移動に対応 | 19:20 |<br />
+| (T) 令和８年上半期におけるサイバー空間をめぐる脅威の情勢等について | 36:37 |<br />
+| オススメのアレ | 61:30 |</p>
+<p>&nbsp;</p><p>The post <a href="https://www.tsujileaks.com/?p=2377">第318回 サイバーやねん！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260921_meguru.mp3" length="33293033" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:09:09</itunes:duration>
+	</item>
+	<item>
 		<title>第317回 あがるよねぇ～！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2373</link>
 		<pubDate>Mon, 14 Sep 2026 11:00:11 +0000</pubDate>
@@ -71,7 +102,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://news.yahoo.co.jp/articles/0d990b559e517968d6563300705616ac24033aae">韓国政府、「ミュトス発の脅威」へのセキュリティ対策発表…脆弱性管理センター設置、ドメイン3.5億件を毎日監視（KOREA WAVE） &#8211; Yahoo!ニュース</a><br />
 ・<a href="https://lolrmm.io/">LOLRMM &#8211; Home &#8211; LOLRMM</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/syoku.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/syoku-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2374" srcset="https://www.tsujileaks.com/wp-content/uploads/syoku-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/syoku-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/syoku-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/syoku.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/syoku.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/syoku-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2374" srcset="https://www.tsujileaks.com/wp-content/uploads/syoku-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/syoku-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/syoku-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/syoku.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：選択肢はなかった。Duoが劣るのはカメラだけ！付けてきやがって。占拠してみたいな。15年くらい前に餃子パーティしたっけな。大分ちゃう。距離感・バランス大事ですよ。ほんまに。ほんまお手本になってほしい。読んで眺めて気になるキーワード2つについて考えてきました。レジリエンスについて。言葉分からへんの多いねん。レジリエンスあります！とはいうものの何をもって？レジリエンスって単純な復旧能力だけではなく、攻撃を途中で止める能力も含めて、どう測るのかが大事ですね。サプライチェーンについて。相手方の状態と自組織との関係性を考慮して次のアクションを決定するんでしょうね。Attack Surface Management から Third Party Risk Management になり、侵害された取引先からの Attack Pathと見ないといけないと思った。共通言語化って必要。Project GlassWingで見つかった脆弱性のその後。いい効果とはあまり言えない数字に感じる。今後改善されるとしてもまだ精度の問題が残っているのかな。見つけた側と告げられた側の評価のギャップでかすぎ。過大評価、過小評価があるにせよブレブレであることがまずい。バラバラに同じことをして重複を生む無駄。ありますよね。組織合っても権限というか強制力がないと形だけになりがちですね。<br />
 &nbsp;</p>
@@ -144,7 +175,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://piyolog.hatenadiary.jp/entry/2026/08/02/165033">大阪・関西万博関連ドメインの一部で起きているドロップキャッチについてまとめてみた &#8211; piyolog</a><br />
 ・<a href="https://www.ohsho.co.jp/menu/west/post_547.html">油淋鶏(ユーリンチー) | メニュー：北陸・東海・関西・四国・中国（岡山・鳥取） | 餃子の王将</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/natsuFES.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/natsuFES-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2365" srcset="https://www.tsujileaks.com/wp-content/uploads/natsuFES-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/natsuFES-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/natsuFES-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/natsuFES.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/natsuFES.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/natsuFES-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2365" srcset="https://www.tsujileaks.com/wp-content/uploads/natsuFES-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/natsuFES-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/natsuFES-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/natsuFES.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：パソコンデビューした高校生からずっとこんな感じ。他に活かすことできないトラブルシュート。8月23日。伝説ではない風化してるんだ！アレ勢同士のコラボはほんま嬉しい。観てくれてた！円盤って言ってしもた。ゲームも向き不向き？Teamsの仕様。慣れ・馴染みの穴。冷却できなくなったDC。自分たちのシステムを止めて、利用者が影響を受けた形か。まっちゃっちゃっ！でもDCいっぱいだけど。単一障害点過ぎて何から何まで止まった。そして、原因が二転三転。粛々と復旧を進めていてもその過程での説明が弱いと評価は下がりますね。どこで障害が起こるかで影響範囲が大きく変わる。いつもしっかりしていても1つの失敗があればそこに目が行く説。選んだ責任もある。AIあたりまえの今に求められる力。ちょっとエスパーやなぁ。疑問を持つ大切さ。AIの出すたくさんのそれっぽい答えに対しての疑問と検証。自分事例。自分の成果物へのツッコミ。直感かぁ。異常検知待ちではなく、もう少しプロアクティブに。色々することが増えると対応する時間は削られるから。やはり業務を学ぶことが大事であることには変わりないのかも。皆さんの意見、接し方も聞かせてほしい。過去の流れからの予想は危険かもしれない。その先にある変化ではない変化も考えた方がいいのかも。期限切れドメインのその後。古からの仕組みが悪用されている。一日平均で5万超えってすんごいな！ノリでドメイン取るのやめたい。シンクホール久々に聞いたかも。結構な金額でもペイできるんですね。再利用なくすほうが全体最適ならないのかな。全然興味なかった。<br />
 &nbsp;</p>
@@ -382,33 +413,9 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=2318</link>
 		<pubDate>Mon, 29 Jun 2026 11:00:34 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2318</guid>
-		<comments>https://www.tsujileaks.com/?p=2318#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2318</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<p>・<a href="https://resproxy.digitalcitizensalliance.org/">Resproxy Reports</a><br />
-・<a href="https://spur.us/blog/smart-tv-apps-residential-proxy-sdks">Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs</a><br />
-・<a href="https://support.mozilla.org/en-US/kb/built-in-vpn">Use built-in VPN in Firefox | Firefox Help</a><br />
-・<a href="https://www.firefox.com/en-US/features/browser-with-built-in-vpn-secure-browsing/">Browser With Built-In VPN: Secure Browsing — Firefox.com</a><br />
-・<a href="https://www.cisa.gov/stopransomware">Stop Ransomware | CISA</a><br />
-・<a href="https://www.welivesecurity.com/en/eset-research/killing-me-gently-inside-gentlemens-edr-killer-framework/">Killing me gently: Inside Gentlemen’s EDR killer framework</a><br />
-・<a href="https://www.zerosalarium.com/2026/06/edrchoker-choking-telemetry-stream-block-edr.html">EDRChoker: Choking The Telemetry Stream to Bypass Defenses</a><br />
-・<a href="https://www.huntress.com/blog/dangers-of-storing-unencrypted-passwords">The Dangers of Storing Unencrypted Passwords | Huntress</a><br />
-・<a href="https://www.kobayashi.co.jp/seihin/mcf/">メガネクリーナふきふき &#8211; 製品情報 &#8211; 小林製薬株式会社</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/mou1kai.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mou1kai-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2319" srcset="https://www.tsujileaks.com/wp-content/uploads/mou1kai-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mou1kai-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mou1kai-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mou1kai.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：早速役に立ったトラッカー。スマホにクレカ？新しいステッカーの後の古いステッカー。お便り読まれやすい傾向。読まれるお便り。やっぱ数。一回関わったらアレ勢説。情報収集ってテーマ新鮮でした。気付いててスルーってなんやっ？！経路の想定が甘くない？アメリカのレジプロ事情。ほぼほぼ全部。入り口いっぱい中は1つってのもよくありますよね。ありとあらゆる攻撃者御用達でしょうね。帯域共有アプリってジャンルになるんかな。パッシブインカム？IoTボットと同じ構造ですね。急に出てきたVPNボタン。日本遅め。ブラウザ単位の通信で50GBまで無料。常時VPNだった。組織で使う・使われることへの注意点。遅いってもう古い感覚なのかもしれませんね。使ってないドメインを売るという選択。EDRの止め方。新しいオリジナルのEDRキラー。に加えてましての。過去に同様のことをRansomHubもしてた。新しいEDR無効化コンセプト。チョークする。止めはしない。絞るんだ。監視してるもらってる場合はSOCの方に確認していただけるといいかもしれませんね。管理コンソール乗っ取りはほんま怖い。</p>
-<blockquote>
-<p>&nbsp;<br />
-【チャプター】<br />
-| いつもの雑談から | 00:00 |<br />
-| お便りのコーナー | 02:55 |<br />
-| (P) 米国における Residential Proxy の状況 | 14:02 |<br />
-| (N) Firefox ブラウザのビルトイン VPN 機能 | 29:43 |<br />
-| (T) EDR 無効化最前線 | 40:16 |<br />
-| オススメのアレ | 57:28 |</p>
-</blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2318">第308回 また過去から来てました！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<description>&lt;p&gt;・Resproxy Reports ・Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs ・Use built-in VPN in Firefox … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;https://www.tsujileaks.com/?p=2318&quot; class=&quot;read-more&quot;&gt;もっと読む&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;第308回 また過去から来てました！スペシャル！&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2318&quot;&gt;第308回 また過去から来てました！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
 		<enclosure url="https://www.tsujileaks.com/media/are_260628_asap.mp3" length="30717217" type="audio/mpeg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:03:47</itunes:duration>
