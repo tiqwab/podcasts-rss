@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 21 Sep 2026 10:59:43 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 28 Sep 2026 11:00:01 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,36 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第319回 止まない雨はないじゃない！明けない夜もないじゃない！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2382</link>
+		<pubDate>Mon, 28 Sep 2026 11:00:01 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2382</guid>
+		<comments>https://www.tsujileaks.com/?p=2382#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2382</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<p>・<a href="https://openai.com/ja-JP/index/model-misalignment-reporting-framework/">モデルのミスアラインメント報告フレームワーク | OpenAI</a><br />
+・<a href="https://newsreleases.jcom.co.jp/news/20260924_22551.html">【更新】インターネット接続がご利用できない、またはご利用しづらい状況について（9月24日16時00分時点）| ニュースリリース | JCOM株式会社 | J:COM</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2026/09/25/145617">JCOMのインターネット接続サービス障害についてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://www.cisa.gov/resources-tools/resources/using-cyber-decoys-strengthen-detection-and-response">Using Cyber Decoys to Strengthen Detection and Response | CISA</a><br />
+・<a href="https://www.capcom-games.com/onimusha/ws/ja-jp/">鬼武者 Way of the Sword | CAPCOM</a></p>
+<p>&nbsp;<br />
+&nbsp;<a href="http://www.tsujileaks.com/wp-content/uploads/giri.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/giri-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2383" srcset="https://www.tsujileaks.com/wp-content/uploads/giri-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/giri-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/giri-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/giri.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：シルバーウィークでした。中身が判明。おすすめDoS。ステッカー貼る派・貼らない派。半二重めっちゃあった。言うだけにならないように。大事なことの1つ「継続」。AIが意図しない動作をしたときの報告フレームワーク。見えない仕様変更みたいなのは怖い。思ってた以上に自由の枠が広い。軽く超えてくる。AIに関するインシデント事例集が始まった感。攻撃者増やしてどうすんねん状態。かなり長かったですね。こんなに長いDDoSはかなり稀。ということは。他への影響もあってこの時間なのでは。外部のDNSを使うことで解決できるというメリットとその裏にあるデメリット。悪意のあるDNSへの誘導のチャンスとも言える。おかんから連絡なかったなぁ。唐突にデコイ。色々な種類があるデコイ。デコイのジャンル。愛してやまない「password.txt」。なぜ今なのか。手軽にミニマムにはじめるのはいいのかも。まずは方法論と異常と通常の定義を。</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 05:25 |<br />
+| (P) OpenAI によるモデルのミスアラインメント報告フレームワーク | 17:25 |<br />
+| (N) JCOM におけるインターネット接続サービスの障害 | 29:34 |<br />
+| (T) Cyber Decoy の活用方法 | 44:54 |<br />
+| オススメのアレ | 63:18 |</p><p>The post <a href="https://www.tsujileaks.com/?p=2382">第319回 止まない雨はないじゃない！明けない夜もないじゃない！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260928_oni.mp3" length="34292876" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:11:14</itunes:duration>
+	</item>
+	<item>
 		<title>第318回 サイバーやねん！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2377</link>
 		<pubDate>Mon, 21 Sep 2026 10:59:43 +0000</pubDate>
@@ -66,7 +96,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.sophos.com/ja-jp/content/state-of-ransomware">ランサムウェアレポート 2026年版。ソフォスランサムウェアの現状</a><br />
 ・<a href="https://www.okayama-pmc.jp/home/consultation/er9dkox7/lromw3x9/">地方独立行政法人 岡山県精神科医療センター ランサムウェア事案調査報告書について – 地方独立行政法人 岡山県精神科医療センター</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/imo.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/imo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2379" srcset="https://www.tsujileaks.com/wp-content/uploads/imo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/imo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/imo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/imo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/imo.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/imo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2379" srcset="https://www.tsujileaks.com/wp-content/uploads/imo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/imo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/imo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/imo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：全員参加の回。定例のない自分。例えの難しさ。子供たちの興味・関心。大切なのは動機付け。名前も難しいところある。あまり範囲限定にならないのがいいですね。それぞれのレジリエンス。上半期という意識がなかった。Androidでのパスキー。一時的であっても平文の保存はソワソワしてしまいます。移動の仕組みの標準化。普及の壁は。暗号苦手やったなぁ。使ってもらうための説明。プライバシーにかなり配慮しているイメージある。こういうのが伝わるの大事ですね。めぐっていく！今回は統計に主にフォーカスしました。被害の報告件数はもはや常態とみるべきかな。VPN機器がずっと多いけども。切り取りで恣意的な使われ方されそう。日本で偏りが見える理由。セミナーでのバックアップ取得率。意識高い人と失ってる人。バックアップ取得率と復元率。取っているから耐えられるへ。事例の規模問題。<br />
 &nbsp;</p>
@@ -137,7 +167,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.ktv.jp/gto2026/">GTO | 関西テレビ放送 カンテレ</a><br />
 ・<a href="https://www.ntv.co.jp/oresuka/">俺のスカート、どこ行った？｜日本テレビ</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/cook.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/cook-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2369" srcset="https://www.tsujileaks.com/wp-content/uploads/cook-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/cook-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/cook-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/cook.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/cook.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/cook-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2369" srcset="https://www.tsujileaks.com/wp-content/uploads/cook-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/cook-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/cook-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/cook.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：30分はかなり短い。不満。再放送してほしいねん。久々の3人でご飯。入ってきてからのこと。冷却故障再び。想定の幅。どんなお便りもありがたいんですよ。知らん人からの招待に気をつけて。日本にも来てるって！注意喚起って何かしら目を引くものあるといいですよね。Asanaとかもあるんかな。こういった攻撃は状況全体を見渡す形での管理しにくそう。知り合いや同じ組織の人から来るのは何故なのか。どこまでそういったリストを用いているのか知りたい。先行マルウェア。割とそこそこ発生しているんですね。BGPハイジャックの後、悪意のあるアップデートを配信ってこれきついなぁ。証明書まで用意されたらインストール後まで気付きようないやん。配布されたもので認証情報が取られた？狙われた顧客のジャンルを考えると影響範囲が広がりそうなインシデントですね。3CXの例ですね。自分たちの管理が及ぶところかそうでないところかでレスポンスの迅速さに影響でそう。便利さと安全性のバランス。バレンタインデーが最後のリークであるMadusaの話。保険というか医療関係でしたね。IABの募集は結構前の印象あった。広範囲に攻撃していけそうなところをフィルタする仕組み。開けて閉めて。ネットワーク全体を効率的に管理する方向に進んでいると思う。時間の経過で変化するものとしなさそうなものの見極め、ジェネリックな部分はどこかを考えることは大事です。28年ぶりでした。<br />
 &nbsp;</p>
@@ -381,29 +411,9 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=2323</link>
 		<pubDate>Tue, 14 Jul 2026 11:00:02 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2323</guid>
-		<comments>https://www.tsujileaks.com/?p=2323#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2323</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<p>・<a href="https://www.cisa.gov/news-events/news/lessons-cisas-cyber-incident">Lessons from CISA’s Cyber Incident | CISA</a><br />
-・<a href="https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/">CISA Admin Leaked AWS GovCloud Keys on Github – Krebs on Security</a><br />
-・<a href="https://piyolog.hatenadiary.jp/entry/2026/07/13/123024">個人用リポジトリで見つかった米国セキュリティ機関の認証情報についてまとめてみた &#8211; piyolog</a><br />
-・<a href="https://www.infoblox.com/blog/threat-intelligence/fake-installers-fake-reviews-fake-services-real-proxies-real-victims/">Proxyware actor behind fake 7-Zip is bigger than you think!</a><br />
-・<a href="https://proxyway.com/research/we-tested-smartproxyorg-ip-pool-findings">We Tested Smartproxy.org’s IP Pool: Here’s What We Found &#8211; Proxyway</a><br />
-・<a href="https://speakerdeck.com/nttcom/ghost-in-the-7-zip-the-shadow-of-residential-proxies-creeping-into-your-life">Ghost in the 7‑Zip: The Shadow of Residential Proxies Creeping into Your Life &#8211; Speaker Deck</a><br />
-・<a href="https://cloud.google.com/blog/topics/threat-intelligence/google-continued-disruption-residential-proxy-networks">Google’s Continued Disruption of Malicious Residential Proxy Networks | Google Cloud Blog</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/toketa.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/toketa-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2324" srcset="https://www.tsujileaks.com/wp-content/uploads/toketa-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/toketa-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/toketa-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/toketa.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：ちょっとお休みです。</p>
-<blockquote>
-<p>&nbsp;<br />
-【チャプター】<br />
-| いつもの雑談から ?? | 00:00 |<br />
-| (P) CISA のインシデント報告 | 05:22 |<br />
-| (N) Lurking Lizard による Residential Proxy の活動 | 24:51 |<br />
-| オススメのアレ | 47:19 |</p>
-</blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2323">第309回 これはボクも聴くのが楽しみだ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<description>&lt;p&gt;・Lessons from CISA’s Cyber Incident | CISA ・CISA Admin Leaked AWS GovCloud Keys on Github – Krebs on Security  … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;https://www.tsujileaks.com/?p=2323&quot; class=&quot;read-more&quot;&gt;もっと読む&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;第309回 これはボクも聴くのが楽しみだ！スペシャル！&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2323&quot;&gt;第309回 これはボクも聴くのが楽しみだ！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
 		<enclosure url="https://www.tsujileaks.com/media/are_260714_newtwo.mp3" length="27685006" type="audio/mpeg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>57:28</itunes:duration>
