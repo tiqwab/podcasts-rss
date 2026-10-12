@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 28 Sep 2026 11:00:01 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 12 Oct 2026 12:44:26 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,35 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第320回 賑やかし少なめ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2387</link>
+		<pubDate>Mon, 12 Oct 2026 11:00:03 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2387</guid>
+		<comments>https://www.tsujileaks.com/?p=2387#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2387</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<p>・<a href="https://www.microsoft.com/en-us/security/security-insider/threat-landscape/2026-digital-defense-report">2026 Digital Defense Report | Security Insider</a><br />
+・<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-281a">Chinese Government-linked Cyber Threat Actors Combine Automated and Hands-on Hacking Tools to Steal Sensitive Data | CISA</a><br />
+・<a href="https://www.npa.go.jp/bureau/cyber/koho/caution/caution202610_itg.html">中国政府関連のサイバー攻撃グループを支援する企業に関する国際アドバイザリーへの共同署名について｜警察庁Webサイト</a><br />
+・<a href="https://wired.jp/article/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/">「AIが人類を滅ぼす」──研究者たちが本気で警告する理由 | WIRED.jp</a><br />
+・<a href="https://blog.google/security/chromes-response-to-recent-cctld-registry-hijacks/">Chrome&#8217;s Response to Recent ccTLD Registry Hijacks</a><br />
+・<a href="https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html">Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/hokkori.png"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/hokkori-300x300.png" alt="" width="300" height="300" class="alignnone size-medium wp-image-2390" srcset="https://www.tsujileaks.com/wp-content/uploads/hokkori-300x300.png 300w, https://www.tsujileaks.com/wp-content/uploads/hokkori-1024x1024.png 1024w, https://www.tsujileaks.com/wp-content/uploads/hokkori-150x150.png 150w, https://www.tsujileaks.com/wp-content/uploads/hokkori-768x768.png 768w, https://www.tsujileaks.com/wp-content/uploads/hokkori-144x144.png 144w, https://www.tsujileaks.com/wp-content/uploads/hokkori.png 1254w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：横浜ぁ♪函館ぇ～♪やと思っていた頃がボクにもありました。北海道の方も聴いてくださってありがとうございます！名前と顔が一致しないけど、声と名前が一致するというパターン。すぐ来た2人回。やっぱり賑わし担当だった。今何をすべきかを考えるには。分量が多いのはそういうこと。日本に関わる部分をチョイス。横並びとなっているのはちょっと注意が必要ですね。脅威の伝え方。AIはどうしても一段以上上げてきていると感じる。オープンなものの性能もかなりになってきている。不正な証明書発行。ガーナ、シエラレオネ、サモア。国レベルのレジストリレベルで侵入されてしまって権威サーバ触られたっぽい。ドメインと影響範囲。CTログ監視って有用ではあると思うけどどれくらいされているものかな。被害事例は確認されていないので目的も不明瞭。辻さんのおすすめは話すまで分からない。見習いたくはなかった 笑</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| (P) Microsoft Digital Defense Report 2026 | 04:21 |<br />
+| (N) 3つの ccTLD で Google ドメインの証明書が不正に発行された話 | 23:55 |<br />
+| エンディング | 44:46 |</p><p>The post <a href="https://www.tsujileaks.com/?p=2387">第320回 賑やかし少なめ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_261012_piyonegi.mp3" length="22574021" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>46:49</itunes:duration>
+	</item>
+	<item>
 		<title>第319回 止まない雨はないじゃない！明けない夜もないじゃない！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2382</link>
 		<pubDate>Mon, 28 Sep 2026 11:00:01 +0000</pubDate>
@@ -66,7 +95,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.cisa.gov/resources-tools/resources/using-cyber-decoys-strengthen-detection-and-response">Using Cyber Decoys to Strengthen Detection and Response | CISA</a><br />
 ・<a href="https://www.capcom-games.com/onimusha/ws/ja-jp/">鬼武者 Way of the Sword | CAPCOM</a></p>
 <p>&nbsp;<br />
-&nbsp;<a href="http://www.tsujileaks.com/wp-content/uploads/giri.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/giri-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2383" srcset="https://www.tsujileaks.com/wp-content/uploads/giri-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/giri-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/giri-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/giri.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;<a href="http://www.tsujileaks.com/wp-content/uploads/giri.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/giri-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2383" srcset="https://www.tsujileaks.com/wp-content/uploads/giri-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/giri-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/giri-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/giri.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：シルバーウィークでした。中身が判明。おすすめDoS。ステッカー貼る派・貼らない派。半二重めっちゃあった。言うだけにならないように。大事なことの1つ「継続」。AIが意図しない動作をしたときの報告フレームワーク。見えない仕様変更みたいなのは怖い。思ってた以上に自由の枠が広い。軽く超えてくる。AIに関するインシデント事例集が始まった感。攻撃者増やしてどうすんねん状態。かなり長かったですね。こんなに長いDDoSはかなり稀。ということは。他への影響もあってこの時間なのでは。外部のDNSを使うことで解決できるというメリットとその裏にあるデメリット。悪意のあるDNSへの誘導のチャンスとも言える。おかんから連絡なかったなぁ。唐突にデコイ。色々な種類があるデコイ。デコイのジャンル。愛してやまない「password.txt」。なぜ今なのか。手軽にミニマムにはじめるのはいいのかも。まずは方法論と異常と通常の定義を。</p>
 <p>&nbsp;<br />
@@ -132,7 +161,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://news.yahoo.co.jp/articles/0d990b559e517968d6563300705616ac24033aae">韓国政府、「ミュトス発の脅威」へのセキュリティ対策発表…脆弱性管理センター設置、ドメイン3.5億件を毎日監視（KOREA WAVE） &#8211; Yahoo!ニュース</a><br />
 ・<a href="https://lolrmm.io/">LOLRMM &#8211; Home &#8211; LOLRMM</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/syoku.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/syoku-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2374" srcset="https://www.tsujileaks.com/wp-content/uploads/syoku-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/syoku-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/syoku-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/syoku.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/syoku.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/syoku-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2374" srcset="https://www.tsujileaks.com/wp-content/uploads/syoku-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/syoku-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/syoku-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/syoku.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：選択肢はなかった。Duoが劣るのはカメラだけ！付けてきやがって。占拠してみたいな。15年くらい前に餃子パーティしたっけな。大分ちゃう。距離感・バランス大事ですよ。ほんまに。ほんまお手本になってほしい。読んで眺めて気になるキーワード2つについて考えてきました。レジリエンスについて。言葉分からへんの多いねん。レジリエンスあります！とはいうものの何をもって？レジリエンスって単純な復旧能力だけではなく、攻撃を途中で止める能力も含めて、どう測るのかが大事ですね。サプライチェーンについて。相手方の状態と自組織との関係性を考慮して次のアクションを決定するんでしょうね。Attack Surface Management から Third Party Risk Management になり、侵害された取引先からの Attack Pathと見ないといけないと思った。共通言語化って必要。Project GlassWingで見つかった脆弱性のその後。いい効果とはあまり言えない数字に感じる。今後改善されるとしてもまだ精度の問題が残っているのかな。見つけた側と告げられた側の評価のギャップでかすぎ。過大評価、過小評価があるにせよブレブレであることがまずい。バラバラに同じことをして重複を生む無駄。ありますよね。組織合っても権限というか強制力がないと形だけになりがちですね。<br />
 &nbsp;</p>
@@ -378,30 +407,9 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=2331</link>
 		<pubDate>Mon, 20 Jul 2026 11:00:07 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2331</guid>
-		<comments>https://www.tsujileaks.com/?p=2331#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2331</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<p>・<a href="https://home.treasury.gov/news/press-releases/sb0559">Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans | U.S. Department of the Treasury</a><br />
-・<a href="https://www.europol.europa.eu/media-press/newsroom/news/cybercriminal-vpn-used-ransomware-actors-dismantled-in-global-crackdown">Cybercriminal VPN used by ransomware actors dismantled in global crackdown &#8211; VPN service featured in almost every major Europol-supported cybercrime investigation | Europol</a><br />
-・<a href="https://www.theregister.com/security/2026/07/16/telegram-shortlinks-knocked-offline-over-sanctioned-vpn-connection/5271964">Telegram shortlinks knocked offline over sanctioned VPN connection</a><br />
-・<a href="https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/improve-router-hygiene-to-protect-against-russian-state-sponsored-targeting">Improve Router Hygiene to Protect Against Russian State-Sponsored Targeting | Cyber.gov.au</a><br />
-・<a href="https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion">JADEPUFFER: Agentic ransomware for automated database extortion | Sysdig</a><br />
-・<a href="https://piyolog.hatenadiary.jp/entry/2026/07/10/082142">自動で恐喝まで遂行するエージェント型ランサムの観測事例についてまとめてみた &#8211; piyolog</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/mebuki.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mebuki-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2333" srcset="https://www.tsujileaks.com/wp-content/uploads/mebuki-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mebuki-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mebuki-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mebuki.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：humanだもの。辻だけがいない回。2人いるとなんとかなるという3人。合格後の話もいいですね！もう1つのTDR。1つのチャンネルのためにドメイン全体ってえぐい。なかなかに図りかねる部分もあるけど、犠牲の方が大きいようにも思う。攻撃のインフラになってるところちょくちょく見かけるから、ここまでする場合の基準示してほしい。攻撃者のサプライチェーンを絶つ、弱いところを狙う方向なんですかね。能動的サイバーの無害化処理には期待したいところなんです。ルータを狙った攻撃への注意喚起を見て。古っ！18年前やしSNMPやし。どう受け止めるか。それだけ使われ続けられるって攻撃者にとってうまみのある脆弱性なんですね。AIが背景にいそうな攻撃。Langflowめちゃ使い勝手良さそう。武器化的な意味でも。どういうところからそう評価したのか。単なるリトライではなく、状況判断からの是正をしているように見える。運がいいとか悪いとかではなく順番が回ってくるって感じですね。</p>
-<blockquote>
-<p>&nbsp;<br />
-【チャプター】<br />
-| いつもの雑談から | 00:00 |<br />
-| お便りのコーナー | 03:32 |<br />
-| (N) 米財務省による制裁の思わぬ影響 | 19:08 |<br />
-| (P) ロシアからの攻撃に関する国際共同アドバイザリ | 31:27 |<br />
-| (T) AI エージェントによるランサム攻撃 | 45:53 |<br />
-| オススメのアレ | 63:20 |</p>
-</blockquote><p>The post <a href="https://www.tsujileaks.com/?p=2331">第310回 おまえんち踏み台サービスで！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<description>&lt;p&gt;・Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans | U.S … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;https://www.tsujileaks.com/?p=2331&quot; class=&quot;read-more&quot;&gt;もっと読む&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;第310回 おまえんち踏み台サービスで！スペシャル！&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2331&quot;&gt;第310回 おまえんち踏み台サービスで！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
 		<enclosure url="https://www.tsujileaks.com/media/are_260720_changeorder.mp3" length="34092639" type="audio/mpeg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:10:49</itunes:duration>
