@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 12 Oct 2026 12:44:26 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 20 Oct 2026 11:00:43 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,39 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第321回 煙に突っ込まないで行くぜ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2394</link>
+		<pubDate>Tue, 20 Oct 2026 11:00:43 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2394</guid>
+		<comments>https://www.tsujileaks.com/?p=2394#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2394</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<p>・<a href="https://www.namamame.jp/index.php?main_page=news_manager&amp;pages_id=995">2026.09.28 サイト障害のお詫びと復旧のお知らせ : コーヒー生豆・焙煎豆の計量販売, 極上珈琲 生豆本舗</a><br />
+・<a href="https://www.ledger.com/blog-response-hardware-implant-attack">Ledger&#8217;s Response to the Hardware Implant Attack | Ledger</a><br />
+・<a href="https://www.tibane.net/research/ledger-nano-x-implant">Tibane Labs &#8211; Solana R&amp;D</a><br />
+・<a href="https://www.bitquery.io/investigations/ledger-cryptobilis-hack">Ledger CryptoBilis Hack: $102.0M Drained, Where It Went &#8211; Bitquery</a><br />
+・<a href="https://www.beyondtrust.com/blog/entry/bt26-05">ARMORY CASTLE and BT26-05: What Security Teams Need to Know | BeyondTrust</a><br />
+・<a href="https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust">ARMORY CASTLE Exploits BeyondTrust | Google Cloud Blog</a><br />
+・<a href="https://www.s-rminform.com/latest-thinking/the-luna-moth-files">Cyber briefing note: The Luna Moth files</a><br />
+・<a href="https://www.bourbon.co.jp/chocobrownie/">ブルボン 濃厚チョコブラウニー</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/321.png"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/321-300x300.png" alt="" width="300" height="300" class="alignnone size-medium wp-image-2395" srcset="https://www.tsujileaks.com/wp-content/uploads/321-300x300.png 300w, https://www.tsujileaks.com/wp-content/uploads/321-1024x1024.png 1024w, https://www.tsujileaks.com/wp-content/uploads/321-150x150.png 150w, https://www.tsujileaks.com/wp-content/uploads/321-768x768.png 768w, https://www.tsujileaks.com/wp-content/uploads/321-144x144.png 144w, https://www.tsujileaks.com/wp-content/uploads/321.png 1254w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：冒頭からお便り。みんなも買おうぜ。寂しがってくれてた。自他共に認める賑やかし担当だ。履いてたスニーカーの意味。バックアップ大事は昔からやけど、消されるという脅威の変化があったと思っています。ゼロデイバンバン感はないですね。今まであった脆弱性に順番が回ってきた。これまでコスト見合いが悪かったカスタム性がAIで解消されたんだと思います。Omiaiの件との比較。色々なところから情報が出ているときには、ちょっと知らないようなサイトまで視野を広げると、めっけものの情報に出会えるときがある。場合によっては判断を入れないルールにするのが良いときもある。良い相手もいる。伝えるときのネーミング問題。セキュリティって言葉が指すもの。イメージするもの。改造されたハードウェアウォレット。Nano Xって洗剤みたいな名前やな。推定とは言えエグい額。色々な販路に乗るので、どこにも届く可能性がある。代理店の前の経路がありそう。Ledgerのチェッカーはあるが。正規品だからといって改造されていないとは限らないと。名前はちょくちょく見かけるけど、日本国内で言われるとあまり見かけない。何故気付けたのか。具体性のない内容？！アラートは上がっていた。でも、その処理に問題があった。AIも人もミスはある。その前提でどうするか。労力の割り振り方。リークされたチャットの件。Wizard SpiderのBazarCall担当の人たちかも。もう営業活動さながら。ビッシングのところがアツかった。揺さぶるなぁ。電話を切らないことの意味。今取り組んでいることだけではなく、今後についても。技術だけの攻撃ではない点が興味深い。</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 05:57 |<br />
+| (N) Ledger Nano X に特殊な基板が埋め込まれていた話 | 27:45 |<br />
+| (P) BeyondTrust RS のゼロデイ脆弱性を悪用する攻撃 | 40:18 |<br />
+| (T) Luna Moth files のリークから見る活動実態 | 49:42 |<br />
+| オススメのアレ | 64:50 |</p><p>The post <a href="https://www.tsujileaks.com/?p=2394">第321回 煙に突っ込まないで行くぜ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_261020_chapterArigato.mp3" length="33669045" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:09:56</itunes:duration>
+	</item>
+	<item>
 		<title>第320回 賑やかし少なめ！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2387</link>
 		<pubDate>Mon, 12 Oct 2026 11:00:03 +0000</pubDate>
@@ -67,7 +100,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://blog.google/security/chromes-response-to-recent-cctld-registry-hijacks/">Chrome&#8217;s Response to Recent ccTLD Registry Hijacks</a><br />
 ・<a href="https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html">Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/hokkori.png"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/hokkori-300x300.png" alt="" width="300" height="300" class="alignnone size-medium wp-image-2390" srcset="https://www.tsujileaks.com/wp-content/uploads/hokkori-300x300.png 300w, https://www.tsujileaks.com/wp-content/uploads/hokkori-1024x1024.png 1024w, https://www.tsujileaks.com/wp-content/uploads/hokkori-150x150.png 150w, https://www.tsujileaks.com/wp-content/uploads/hokkori-768x768.png 768w, https://www.tsujileaks.com/wp-content/uploads/hokkori-144x144.png 144w, https://www.tsujileaks.com/wp-content/uploads/hokkori.png 1254w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/hokkori.png"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/hokkori-300x300.png" alt="" width="300" height="300" class="alignnone size-medium wp-image-2390" srcset="https://www.tsujileaks.com/wp-content/uploads/hokkori-300x300.png 300w, https://www.tsujileaks.com/wp-content/uploads/hokkori-1024x1024.png 1024w, https://www.tsujileaks.com/wp-content/uploads/hokkori-150x150.png 150w, https://www.tsujileaks.com/wp-content/uploads/hokkori-768x768.png 768w, https://www.tsujileaks.com/wp-content/uploads/hokkori-144x144.png 144w, https://www.tsujileaks.com/wp-content/uploads/hokkori.png 1254w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：横浜ぁ♪函館ぇ～♪やと思っていた頃がボクにもありました。北海道の方も聴いてくださってありがとうございます！名前と顔が一致しないけど、声と名前が一致するというパターン。すぐ来た2人回。やっぱり賑わし担当だった。今何をすべきかを考えるには。分量が多いのはそういうこと。日本に関わる部分をチョイス。横並びとなっているのはちょっと注意が必要ですね。脅威の伝え方。AIはどうしても一段以上上げてきていると感じる。オープンなものの性能もかなりになってきている。不正な証明書発行。ガーナ、シエラレオネ、サモア。国レベルのレジストリレベルで侵入されてしまって権威サーバ触られたっぽい。ドメインと影響範囲。CTログ監視って有用ではあると思うけどどれくらいされているものかな。被害事例は確認されていないので目的も不明瞭。辻さんのおすすめは話すまで分からない。見習いたくはなかった 笑</p>
 <p>&nbsp;<br />
@@ -125,7 +158,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.sophos.com/ja-jp/content/state-of-ransomware">ランサムウェアレポート 2026年版。ソフォスランサムウェアの現状</a><br />
 ・<a href="https://www.okayama-pmc.jp/home/consultation/er9dkox7/lromw3x9/">地方独立行政法人 岡山県精神科医療センター ランサムウェア事案調査報告書について – 地方独立行政法人 岡山県精神科医療センター</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/imo.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/imo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2379" srcset="https://www.tsujileaks.com/wp-content/uploads/imo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/imo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/imo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/imo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/imo.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/imo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2379" srcset="https://www.tsujileaks.com/wp-content/uploads/imo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/imo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/imo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/imo.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：全員参加の回。定例のない自分。例えの難しさ。子供たちの興味・関心。大切なのは動機付け。名前も難しいところある。あまり範囲限定にならないのがいいですね。それぞれのレジリエンス。上半期という意識がなかった。Androidでのパスキー。一時的であっても平文の保存はソワソワしてしまいます。移動の仕組みの標準化。普及の壁は。暗号苦手やったなぁ。使ってもらうための説明。プライバシーにかなり配慮しているイメージある。こういうのが伝わるの大事ですね。めぐっていく！今回は統計に主にフォーカスしました。被害の報告件数はもはや常態とみるべきかな。VPN機器がずっと多いけども。切り取りで恣意的な使われ方されそう。日本で偏りが見える理由。セミナーでのバックアップ取得率。意識高い人と失ってる人。バックアップ取得率と復元率。取っているから耐えられるへ。事例の規模問題。<br />
 &nbsp;</p>
@@ -374,30 +407,9 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=2336</link>
 		<pubDate>Mon, 27 Jul 2026 11:00:22 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2336</guid>
-		<comments>https://www.tsujileaks.com/?p=2336#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2336</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<p>・<a href="https://www.nichirei.co.jp/news/2026/512.html">当社グループでのシステム障害発生について（第1報） | 株式会社ニチレイ</a><br />
-・<a href="https://piyolog.hatenadiary.jp/entry/2026/07/16/022032">サイバー攻撃によるニチレイグループのシステム障害についてまとめてみた &#8211; piyolog</a><br />
-・<a href="https://huggingface.co/blog/security-incident-july-2026">Security incident disclosure — July 2026</a><br />
-・<a href="https://openai.com/index/hugging-face-model-evaluation-security-incident/">OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI</a><br />
-・<a href="https://www.cybergym.io/exploitgym/">ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?</a><br />
-・<a href="https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/">How OpenAI’s human mistake led to the AI-powered hack on Hugging Face | TechCrunch</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/1785138102616.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/1785138102616-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2340" srcset="https://www.tsujileaks.com/wp-content/uploads/1785138102616-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/1785138102616-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/1785138102616-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/1785138102616.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：お便りから行く時もあるねん。資格勉強とその維持の意味。SCS評価の使い道。タイムゾーンズレ問題。攻撃者に利する議論。主語はあまり大きすぎないように。AIだから許されてる？時間の経過でバランスが取れてくることもあるかな。自分なり、組織なりの線は必要。もう、Threat Detect Responseやん説。いろいろ準備のためのリソースはあります。同じ見解になると思ってた。どう向き合っているかによる。今、紹介しておきたいランサムギャング。RansomHouse登場したあの頃。はじめはウェアではなかった。なんとも身勝手なAbout。結局暗号化。ESXiも借り物から対応。日本で知られているイメージあるけどまぁぎり中堅。「にくそい」とか「こさえる」ってあんまり言いません？報道で言われていることの是非。リークには間違いもあることに注意。原因は一旦さておき、でた影響についてフォーカスしてみよう。学校給食の件は自分にとっては盲点でした。自分たちから、自分たちへの影響の整理は必要ですね。「Hugging Face」って聞いて映画の「エイリアン」思い出した。実はAIがやっていました事案。思う存分過ぎた。外に出るための動きをするとは。AI in the wild!!! 守る側の行動は断られるんかーい。思考パターンが人間がしそうなことをしてるとボクも思った。人間側が制御できていないことが問題。ん？もしかして、これもマーケティング的なことだったりする？うがちすぎかな。状況の変化速度に追随しないとなぁ。想定外があるからやめられない。<br />
-&nbsp;</p>
-<blockquote>
-<p>&nbsp;<br />
-【チャプター】<br />
-| いきなりお便りのコーナー | 00:00 |<br />
-| (T) RansomHouse の活動と最近の国内事案 | 24:01 |<br />
-| (N) OpenAI のモデルによる Hugging Face への攻撃 | 42:32 |<br />
-| オススメのアレ | 61:33 |</p>
-</blockquote>
-<p>&nbsp;</p><p>The post <a href="https://www.tsujileaks.com/?p=2336">第311回 外の影響範囲も考えなあかんなぁ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<description>&lt;p&gt;・当社グループでのシステム障害発生について（第1報） | 株式会社ニチレイ ・サイバー攻撃によるニチレイグループのシステム障害についてまとめてみた – piyolog ・Security incident d … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;https://www.tsujileaks.com/?p=2336&quot; class=&quot;read-more&quot;&gt;もっと読む&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;第311回 外の影響範囲も考えなあかんなぁ！スペシャル！&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2336&quot;&gt;第311回 外の影響範囲も考えなあかんなぁ！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
 		<enclosure url="https://www.tsujileaks.com/media/are_260727_effect.mp3" length="33404781" type="audio/mpeg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:09:23</itunes:duration>
