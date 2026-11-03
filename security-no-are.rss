@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Wed, 28 Oct 2026 06:43:27 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 03 Nov 2026 03:00:34 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,35 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第323回 やんす！やんす！！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2408</link>
+		<pubDate>Tue, 03 Nov 2026 03:00:34 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2408</guid>
+		<comments>https://www.tsujileaks.com/?p=2408#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2408</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<p>・<a href="https://www.binance.com/en/support/announcement/detail/c5a8729a97ac486d963784d96c5642d7">Security Incident Update (2026-10-30) | Binance Announcements, Binance News</a><br />
+・<a href="https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack">North Korea Responsible for $6 Billion+ Binance Attack — FBI</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2026/10/30/230303">推定1兆円相当のBinanceの不正出金事案についてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://announcements.bybit.com/en/article/incident-update-unauthorized-activity-involving-eth-cold-wallet-blt292c0454d26e9140/">Bybit Announcement | Incident Update: Unauthorized Activity Involving ETH Cold Wallet</a><br />
+・<a href="https://www.ginco.co.jp/news/20250128_pressrelease">当社サービスへのサイバー攻撃に関するご報告 | Ginco</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/DueDiliyanceBiyance.png"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/DueDiliyanceBiyance-300x200.png" alt="" width="300" height="200" class="alignnone size-medium wp-image-2409" srcset="https://www.tsujileaks.com/wp-content/uploads/DueDiliyanceBiyance-300x200.png 300w, https://www.tsujileaks.com/wp-content/uploads/DueDiliyanceBiyance-1024x683.png 1024w, https://www.tsujileaks.com/wp-content/uploads/DueDiliyanceBiyance-768x512.png 768w, https://www.tsujileaks.com/wp-content/uploads/DueDiliyanceBiyance.png 1536w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：出張先のエレベータで起きた事件。ロックンロールくらい鳴り止まなかった。聖地という新しい概念。昨今のインシデントに対するアクションへのコメントへのコメント。役割を意識していきたい。これも過去の経験があってのことなんですけどね。皆さんの聴き始めたきっかけは気になるものです。1兆円って。どうしてもクレイマークレイマー思い出すんです。1人の侵害から始まったにしては。初期アクセスの後にどうして止まらなかったのか。こうすればよかったの学びが欲しい。対策や信用に偏りがあるのかもしれない。脆弱性管理好きとして思うこと。対策もお金もバランス大事。「AIで攻撃を高度化」ではなく「AIで攻撃を効率化」と考えている。知人の相談から始まった調査。その調査の観点を共有します。「誰の会社か」「誰が作るか」「何がどこへ行くか」「誰が触れるか」「何かあったら誰が直すか」。公式文書に書かれていた住所を調べた。そこから別の会社が出てきた。文書を比べた。人を見た。製品の資料を見た。会社の開示資料を見た。株主を一段ずつ上へたどった。「確認できた事実」「そこから生まれた疑問」「まだ確認できていないこと」これは分けて進めないといけない。深掘り加減。聞くことリストも作る。使い続けてくれていた。</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 02:11 |<br />
+| (N) Binance から約 1兆円の暗号資産が流出 | 13:48 |<br />
+| (T) とある会社の情報をいろいろ調べてみた | 30:15 |<br />
+| オススメのアレ | 51:12 |</p><p>The post <a href="https://www.tsujileaks.com/?p=2408">第323回 やんす！やんす！！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_261103_DueDiliyanceBiyance.mp3" length="28032569" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>58:12</itunes:duration>
+	</item>
+	<item>
 		<title>第322回 ゴジラ型ってあったよね！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2400</link>
 		<pubDate>Mon, 26 Oct 2026 11:00:00 +0000</pubDate>
@@ -70,7 +99,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://kaba.cx/posts/20261020_Tor/">How I got over 300 Tor exit nodes removed &#8211; KABA</a><br />
 ・<a href="https://www.kao.co.jp/iroka/">IROKA プレミアム柔軟剤 公式サイト | 花王</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/riverside.png"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/riverside-300x200.png" alt="" width="300" height="200" class="alignnone size-medium wp-image-2401" srcset="https://www.tsujileaks.com/wp-content/uploads/riverside-300x200.png 300w, https://www.tsujileaks.com/wp-content/uploads/riverside-1024x683.png 1024w, https://www.tsujileaks.com/wp-content/uploads/riverside-768x512.png 768w, https://www.tsujileaks.com/wp-content/uploads/riverside.png 1536w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/riverside.png"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/riverside-300x200.png" alt="" width="300" height="200" class="alignnone size-medium wp-image-2401" srcset="https://www.tsujileaks.com/wp-content/uploads/riverside-300x200.png 300w, https://www.tsujileaks.com/wp-content/uploads/riverside-1024x683.png 1024w, https://www.tsujileaks.com/wp-content/uploads/riverside-768x512.png 768w, https://www.tsujileaks.com/wp-content/uploads/riverside.png 1536w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：毎日毎日ね。ほんまにね。脆弱性でも騒ぎになっちゃってね。良い公益性の高い公表が出ることを祈っております。凄いかわし方してる？一連とは言い難い。今後どういう基準でやっていくのか。やれるということは分かった。22報。3点セット。封じ込み切れていなかった。かなり詳細で学びがあると自分も思いました。ほんま貴重。逆に言うと、これが貴重ではない世界になってほしいとも思う次第です。分からん。ふーん。へーで終わるのではなく、議論、検討に繋がるものであって欲しい。対応がいいところランキングええね！VulnrichmentのExploitationの項目を活用できないかの検討と検証。PoCからActiveやKEV=yesに進む数ががが。Active→KEVを意外と辿らない。粘ってみたけど思ってたのと違いました。すんません。Exitノードの急な減少。MitMされたとは。全部丹念に調べはったんですね。何かしら事前に漏れていた？ある意味最大の謎っぽい。「誰が」と「目的」が分からなくて気持ち悪い。何をターゲットにしたのか。Torが破られたわけではないことに注意。Tor通して聴いてます？</p>
 <p><a href="http://www.tsujileaks.com/wp-content/uploads/HVim9P5a4AEAnJV.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/HVim9P5a4AEAnJV-300x200.jpg" alt="" width="300" height="200" class="alignnone size-medium wp-image-2404" srcset="https://www.tsujileaks.com/wp-content/uploads/HVim9P5a4AEAnJV-300x200.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/HVim9P5a4AEAnJV-1024x683.jpg 1024w, https://www.tsujileaks.com/wp-content/uploads/HVim9P5a4AEAnJV-768x512.jpg 768w, https://www.tsujileaks.com/wp-content/uploads/HVim9P5a4AEAnJV.jpg 1536w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
@@ -104,7 +133,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://www.s-rminform.com/latest-thinking/the-luna-moth-files">Cyber briefing note: The Luna Moth files</a><br />
 ・<a href="https://www.bourbon.co.jp/chocobrownie/">ブルボン 濃厚チョコブラウニー</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/321.png"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/321-300x300.png" alt="" width="300" height="300" class="alignnone size-medium wp-image-2395" srcset="https://www.tsujileaks.com/wp-content/uploads/321-300x300.png 300w, https://www.tsujileaks.com/wp-content/uploads/321-1024x1024.png 1024w, https://www.tsujileaks.com/wp-content/uploads/321-150x150.png 150w, https://www.tsujileaks.com/wp-content/uploads/321-768x768.png 768w, https://www.tsujileaks.com/wp-content/uploads/321-144x144.png 144w, https://www.tsujileaks.com/wp-content/uploads/321.png 1254w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/321.png"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/321-300x300.png" alt="" width="300" height="300" class="alignnone size-medium wp-image-2395" srcset="https://www.tsujileaks.com/wp-content/uploads/321-300x300.png 300w, https://www.tsujileaks.com/wp-content/uploads/321-1024x1024.png 1024w, https://www.tsujileaks.com/wp-content/uploads/321-150x150.png 150w, https://www.tsujileaks.com/wp-content/uploads/321-768x768.png 768w, https://www.tsujileaks.com/wp-content/uploads/321-144x144.png 144w, https://www.tsujileaks.com/wp-content/uploads/321.png 1254w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：冒頭からお便り。みんなも買おうぜ。寂しがってくれてた。自他共に認める賑やかし担当だ。履いてたスニーカーの意味。バックアップ大事は昔からやけど、消されるという脅威の変化があったと思っています。ゼロデイバンバン感はないですね。今まであった脆弱性に順番が回ってきた。これまでコスト見合いが悪かったカスタム性がAIで解消されたんだと思います。Omiaiの件との比較。色々なところから情報が出ているときには、ちょっと知らないようなサイトまで視野を広げると、めっけものの情報に出会えるときがある。場合によっては判断を入れないルールにするのが良いときもある。良い相手もいる。伝えるときのネーミング問題。セキュリティって言葉が指すもの。イメージするもの。改造されたハードウェアウォレット。Nano Xって洗剤みたいな名前やな。推定とは言えエグい額。色々な販路に乗るので、どこにも届く可能性がある。代理店の前の経路がありそう。Ledgerのチェッカーはあるが。正規品だからといって改造されていないとは限らないと。名前はちょくちょく見かけるけど、日本国内で言われるとあまり見かけない。何故気付けたのか。具体性のない内容？！アラートは上がっていた。でも、その処理に問題があった。AIも人もミスはある。その前提でどうするか。労力の割り振り方。リークされたチャットの件。Wizard SpiderのBazarCall担当の人たちかも。もう営業活動さながら。ビッシングのところがアツかった。揺さぶるなぁ。電話を切らないことの意味。今取り組んでいることだけではなく、今後についても。技術だけの攻撃ではない点が興味深い。</p>
 <p>&nbsp;<br />
@@ -364,34 +393,9 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=2351</link>
 		<pubDate>Mon, 10 Aug 2026 11:00:25 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2351</guid>
-		<comments>https://www.tsujileaks.com/?p=2351#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2351</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<p>・<a href="https://www.kirin.co.jp/softdrink/kitchen/products/product_detail16.html">ソルティライチ｜商品のこと｜キリン</a><br />
-・<a href="https://are.bocchi-megane.dev/words/ResidentialProxy.html">Residential Proxy — セキュリティのアレまとめ</a><br />
-・<a href="https://www.sophos.com/ja-jp/content/state-of-ransomware">ランサムウェアレポート 2026年版。ソフォスランサムウェアの現状</a><br />
-・<a href="https://coveware.com/2026/07/adverse-cyber-extortions-are-more-common-than-commonly-advised/">Adverse cyber extortions are more common than commonly advised – Coveware</a><br />
-・<a href="https://1password.com/blog/why-ai-generated-patches-still-require-human-review">Off-by-1 Labs Research: AI-generated vulnerability patches require human review | 1Password</a><br />
-・<a href="https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/">ChainDrop: Inside a Self-Propagating npm Worm</a><br />
-・<a href="https://blog.flatt.tech/entry/keyv_compromise">keyv 等 複数著名パッケージへのソフトウェアサプライチェーン攻撃の概要と対応指針 &#8211; GMO Flatt Security Blog</a><br />
-・<a href="https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing">Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work</a><br />
-・<a href="https://piyolog.hatenadiary.jp/entry/2026/08/06/014225">英国AISIの評価中に発生したAIエージェントの権限外行動についてまとめてみた &#8211; piyolog</a><br />
-・<a href="https://www.uha-shop.jp/lp?u=rainbow-ramune">レインボーラムネ｜UHA味覚糖オンラインショップ</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/nasuhiro.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/nasuhiro-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2352" srcset="https://www.tsujileaks.com/wp-content/uploads/nasuhiro-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：どれくらいの梅？新しいステッカー。考えながらのご聴取ありがとうございます！抹消されたアレ。まとめありがとうございます！どっちにパッチ？世の中思う通りにはうまくいかない。何故だろうだけでは防げない。多くの人は正常を知らない。そんなことはないを知らない。色を付けずに見る。ステッカーのコンプについては今回からスタートです。体にも影響出てるねん。脆弱性がこんなに減るのは意外。変化意識しておこう。多要素認証の導入は進んでいるが網羅性に欠けている可能性。検知タイミング違いの暗号化の成功と失敗。長い目で見るとバックアップからの復旧は真ん中程度。要求ぎゃく。やっぱ減ってる。弱毒化。AIによるパッチ作成への評価。それぞれ複数作らせて評価。かなり失敗してるものもあるな。直し方がイマイチ？AIでやることの意義があるのか否か。修正できてるかどうかだけではなく、仕様変わってない？新たな穴ない？という品質に関することへも注意が必要。AIの活用は上司と部下のあるべき姿やと思ってますねん。既視感あるんよなぁ。何回目やっけ？って。令和のワームはこういう形か。今回のやらしさは盗み出す情報の広さ。時間差もあるだろうし、関連性が見えないかもしれない。色々と策は講じられているものの根本的ではない。というよりも人が狙われてる。<br />
-&nbsp;</p>
-<p>&nbsp;<br />
-【チャプター】<br />
-| いつもの雑談から | 00:00 |<br />
-| お便りのコーナー | 06:05 |<br />
-| (T) ランサムウェアの現状 2026年版 | 25:55 |<br />
-| (N) フロンティア AI モデルによる脆弱性パッチの生成 | 42:46 |<br />
-| (P) npm パッケージへのソフトウェアサプライチェーン攻撃再び | 57:26 |<br />
-| オススメのアレ | 70:17 |</p>
-<p>&nbsp;</p><p>The post <a href="https://www.tsujileaks.com/?p=2351">第313回 「ランダム」って入力できへんねん！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<description>&lt;p&gt;・ソルティライチ｜商品のこと｜キリン ・Residential Proxy — セキュリティのアレまとめ ・ランサムウェアレポート 2026年版。ソフォスランサムウェアの現状 ・Adverse cyber extorti … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;https://www.tsujileaks.com/?p=2351&quot; class=&quot;read-more&quot;&gt;もっと読む&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;第313回 「ランダム」って入力できへんねん！スペシャル！&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2351&quot;&gt;第313回 「ランダム」って入力できへんねん！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
 		<enclosure url="https://www.tsujileaks.com/media/are_260810_obonkobon.mp3" length="36988710" type="audio/mpeg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:16:51</itunes:duration>
