@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 03 Nov 2026 03:00:34 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Nov 2026 05:00:19 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,37 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第324回 為になるオススメ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2412</link>
+		<pubDate>Tue, 10 Nov 2026 05:00:19 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2412</guid>
+		<comments>https://www.tsujileaks.com/?p=2412#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2412</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<p>・<a href="https://www.apple.com/jp/ipad-mini/">iPad mini &#8211; Apple（日本）</a><br />
+・<a href="https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/">Shutting the Door on the XCPE Botnet | Google Cloud Blog</a><br />
+・<a href="https://www.npa.go.jp/news/release/2026/20261104001.html">Google社と連携した犯罪インフラのテイクダウンについて｜警察庁Webサイト</a><br />
+・<a href="https://blog.nicter.jp/2026/11/xcpe_campaign/">XCPEマルウェアの解析と国内における観測実態 &#8211;</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2026/11/05/095634">警察庁とGoogleなどによるボットネットXCPEのテイクダウンについてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://www.amiya.co.jp/securityblaze2026/">Security BLAZE 2026 at Online | AMIYA</a><br />
+・<a href="https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/">Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2026/11/09/144357">盗んだ情報をAIに査定させるインフォスティーラー「VOLTA」についてまとめてみた &#8211; piyolog</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/akinosora.png"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/akinosora-300x169.png" alt="" width="300" height="169" class="alignnone size-medium wp-image-2413" srcset="https://www.tsujileaks.com/wp-content/uploads/akinosora-300x169.png 300w, https://www.tsujileaks.com/wp-content/uploads/akinosora-1024x576.png 1024w, https://www.tsujileaks.com/wp-content/uploads/akinosora-768x432.png 768w, https://www.tsujileaks.com/wp-content/uploads/akinosora-1536x864.png 1536w, https://www.tsujileaks.com/wp-content/uploads/akinosora.png 1672w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：Duo注文のその後。iPad miniが先に！？旧型の実物と比べられるのが流石や。辻さんがいなくてもできるコーナー。STB問題。テイクダウンして分かったこと。機能にローダーもあった。それは脅威としての幅が広がる。購入時点から。消しても生き返る。国内にもあった。こういうのそこらかしこにありそう。NICTからの記事を読むと状況は芳しくない。甘い言葉。ニーズがあるから無くならない。できあがっている仕組みへのもぐら叩き感。購入者・利用者に不利益がない構造。ソロで3人とも登壇！AIを組み込んだInfoStealer。認証・認可以外も取れますね。盗む情報にも変化が生まれるかも。それらの情報を有効活用する形や市場ができそう。リセットできない情報。ソーシャルエンジニアリングへの活用もある。代理で色々されるとタイムラグがなくなるケースが生まれる。それと販売のバランスはどうなるか考えたいところ。</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| (N) Google などが XCPE ボットネットをテイクダウン | 06:52 |<br />
+| (P) AI を活用する VOLTA infostealer の活動 | 28:10 |<br />
+| オススメのアレ | 45:53 |</p><p>The post <a href="https://www.tsujileaks.com/?p=2412">第324回 為になるオススメ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_261110_sleep.mp3" length="27044902" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>56:08</itunes:duration>
+	</item>
+	<item>
 		<title>第323回 やんす！やんす！！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=2408</link>
 		<pubDate>Tue, 03 Nov 2026 03:00:34 +0000</pubDate>
@@ -66,7 +97,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://announcements.bybit.com/en/article/incident-update-unauthorized-activity-involving-eth-cold-wallet-blt292c0454d26e9140/">Bybit Announcement | Incident Update: Unauthorized Activity Involving ETH Cold Wallet</a><br />
 ・<a href="https://www.ginco.co.jp/news/20250128_pressrelease">当社サービスへのサイバー攻撃に関するご報告 | Ginco</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/DueDiliyanceBiyance.png"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/DueDiliyanceBiyance-300x200.png" alt="" width="300" height="200" class="alignnone size-medium wp-image-2409" srcset="https://www.tsujileaks.com/wp-content/uploads/DueDiliyanceBiyance-300x200.png 300w, https://www.tsujileaks.com/wp-content/uploads/DueDiliyanceBiyance-1024x683.png 1024w, https://www.tsujileaks.com/wp-content/uploads/DueDiliyanceBiyance-768x512.png 768w, https://www.tsujileaks.com/wp-content/uploads/DueDiliyanceBiyance.png 1536w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/DueDiliyanceBiyance.png"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/DueDiliyanceBiyance-300x200.png" alt="" width="300" height="200" class="alignnone size-medium wp-image-2409" srcset="https://www.tsujileaks.com/wp-content/uploads/DueDiliyanceBiyance-300x200.png 300w, https://www.tsujileaks.com/wp-content/uploads/DueDiliyanceBiyance-1024x683.png 1024w, https://www.tsujileaks.com/wp-content/uploads/DueDiliyanceBiyance-768x512.png 768w, https://www.tsujileaks.com/wp-content/uploads/DueDiliyanceBiyance.png 1536w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：出張先のエレベータで起きた事件。ロックンロールくらい鳴り止まなかった。聖地という新しい概念。昨今のインシデントに対するアクションへのコメントへのコメント。役割を意識していきたい。これも過去の経験があってのことなんですけどね。皆さんの聴き始めたきっかけは気になるものです。1兆円って。どうしてもクレイマークレイマー思い出すんです。1人の侵害から始まったにしては。初期アクセスの後にどうして止まらなかったのか。こうすればよかったの学びが欲しい。対策や信用に偏りがあるのかもしれない。脆弱性管理好きとして思うこと。対策もお金もバランス大事。「AIで攻撃を高度化」ではなく「AIで攻撃を効率化」と考えている。知人の相談から始まった調査。その調査の観点を共有します。「誰の会社か」「誰が作るか」「何がどこへ行くか」「誰が触れるか」「何かあったら誰が直すか」。公式文書に書かれていた住所を調べた。そこから別の会社が出てきた。文書を比べた。人を見た。製品の資料を見た。会社の開示資料を見た。株主を一段ずつ上へたどった。「確認できた事実」「そこから生まれた疑問」「まだ確認できていないこと」これは分けて進めないといけない。深掘り加減。聞くことリストも作る。使い続けてくれていた。</p>
 <p>&nbsp;<br />
@@ -102,7 +133,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <a href="http://www.tsujileaks.com/wp-content/uploads/riverside.png"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/riverside-300x200.png" alt="" width="300" height="200" class="alignnone size-medium wp-image-2401" srcset="https://www.tsujileaks.com/wp-content/uploads/riverside-300x200.png 300w, https://www.tsujileaks.com/wp-content/uploads/riverside-1024x683.png 1024w, https://www.tsujileaks.com/wp-content/uploads/riverside-768x512.png 768w, https://www.tsujileaks.com/wp-content/uploads/riverside.png 1536w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：毎日毎日ね。ほんまにね。脆弱性でも騒ぎになっちゃってね。良い公益性の高い公表が出ることを祈っております。凄いかわし方してる？一連とは言い難い。今後どういう基準でやっていくのか。やれるということは分かった。22報。3点セット。封じ込み切れていなかった。かなり詳細で学びがあると自分も思いました。ほんま貴重。逆に言うと、これが貴重ではない世界になってほしいとも思う次第です。分からん。ふーん。へーで終わるのではなく、議論、検討に繋がるものであって欲しい。対応がいいところランキングええね！VulnrichmentのExploitationの項目を活用できないかの検討と検証。PoCからActiveやKEV=yesに進む数ががが。Active→KEVを意外と辿らない。粘ってみたけど思ってたのと違いました。すんません。Exitノードの急な減少。MitMされたとは。全部丹念に調べはったんですね。何かしら事前に漏れていた？ある意味最大の謎っぽい。「誰が」と「目的」が分からなくて気持ち悪い。何をターゲットにしたのか。Torが破られたわけではないことに注意。Tor通して聴いてます？</p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/HVim9P5a4AEAnJV.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/HVim9P5a4AEAnJV-300x200.jpg" alt="" width="300" height="200" class="alignnone size-medium wp-image-2404" srcset="https://www.tsujileaks.com/wp-content/uploads/HVim9P5a4AEAnJV-300x200.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/HVim9P5a4AEAnJV-1024x683.jpg 1024w, https://www.tsujileaks.com/wp-content/uploads/HVim9P5a4AEAnJV-768x512.jpg 768w, https://www.tsujileaks.com/wp-content/uploads/HVim9P5a4AEAnJV.jpg 1536w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/HVim9P5a4AEAnJV.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/HVim9P5a4AEAnJV-300x200.jpg" alt="" width="300" height="200" class="alignnone size-medium wp-image-2404" srcset="https://www.tsujileaks.com/wp-content/uploads/HVim9P5a4AEAnJV-300x200.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/HVim9P5a4AEAnJV-1024x683.jpg 1024w, https://www.tsujileaks.com/wp-content/uploads/HVim9P5a4AEAnJV-768x512.jpg 768w, https://www.tsujileaks.com/wp-content/uploads/HVim9P5a4AEAnJV.jpg 1536w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a></p>
 <p>&nbsp;<br />
 【チャプター】<br />
 | いつもの雑談から | 00:00 |<br />
@@ -353,37 +384,9 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<link>https://www.tsujileaks.com/?p=2358</link>
 		<pubDate>Mon, 17 Aug 2026 11:00:52 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2358</guid>
-		<comments>https://www.tsujileaks.com/?p=2358#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2358</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
-		<description><![CDATA[<p>・<a href="https://www.konami.com/games/silenthill/f/gate">SILENT HILL f Official Website</a><br />
-・<a href="https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986">AI assistant hacks gym website in first known Australian autonomous cyber attack &#8211; ABC News</a><br />
-・<a href="https://s-wars.jp/">映画「サマーウォーズ」公式サイト</a><br />
-・<a href="https://thinkami.hatenablog.com/entry/2026/08/14/231239">#セキュリティのアレ でRSS配信されなくなった過去回を、自分用に聴けるようにするRSSフィード生成ツールをPythonで作ってみた &#8211; メモ的な思考的な</a><br />
-・<a href="https://www.whitehouse.gov/presidential-actions/2026/08/expanding-capabilities-to-combat-transnational-cyber-enabled-crime/">Expanding Capabilities to Combat Transnational Cyber-Enabled Crime – The White House</a><br />
-・<a href="https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-expands-capabilities-to-combat-transnational-cyber-enabled-crime/">Fact Sheet: President Donald J. Trump Expands Capabilities to Combat Transnational Cyber-Enabled Crime – The White House</a><br />
-・<a href="https://www.whitehouse.gov/presidential-actions/2026/03/combating-cybercrime-fraud-and-predatory-schemes-against-american-citizens/">Combating Cybercrime, Fraud, and Predatory Schemes Against American Citizens – The White House</a><br />
-・<a href="https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/">Former ransomware negotiator gets 4 years for BlackCat attacks</a><br />
-・<a href="https://blog.cloudflare.com/ja-jp/ddos-threat-report-2026-h1/">Cloudflare DDoS脅威レポート（2026年上半期）：DNSフラッドと地政学的緊張が新たな波を引き起こし、テラビット級攻撃が急増 | Cloudflare ブログ</a><br />
-・<a href="https://www.europol.europa.eu/media-press/newsroom/news/europol-supported-global-operation-targets-over-75-000-users-engaged-in-ddos-attacks">Europol-supported global operation targets over 75 000 users engaged in DDoS attacks &#8211; Operation PowerOFF is a global effort aimed at dismantling criminal DDoS-for-hire infrastructure | Europol</a><br />
-・<a href="https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/">Smile, You’re on Camera! Part 2: Lazarus IT Workers Exposed</a><br />
-・<a href="https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation/">How We Caught Lazarus&#8217;s IT Workers Scheme Live on Camera</a><br />
-・<a href="https://www.amepla.jp/f/tie-balls-eggs">【公式】タイボールズ エッグス｜amepla（アメプラ）公式オンラインショップ</a></p>
-<p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/tokoroten.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/tokoroten-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2359" srcset="https://www.tsujileaks.com/wp-content/uploads/tokoroten-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tokoroten-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tokoroten-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tokoroten.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：お盆でした。平穏でした。2/5周。10月以降も頑張ってほしい！アレを勉強会で使っていただけて嬉しい。AIはもはや日常に。馬のアレの行方。サマーウォーズ久々に観ようかな。アレ勢がコラボ。コンバットってちょっとかっこええなぁ。大統領の覚え書き。色々な制限はある。が、しかし。民間ではあるもののは別の国ではありましたね。「アメリカでは～」ってアメリカのみの場合もあることに注意が必要なワードだと思っています。標的が犯罪者か国家支援かって攻撃してみないと分からないという懸念。とはいえ追いつかない、間に合わないからだろう。国の不得手を民間が補う。その逆も。数が増えれば失敗確率上がる説にはどうするのか。久々のDDoSソムリエ。クォータ単位で観ると件数が底上げされているように見える。Operation PowerOffの成果？超帯域幅消費型ってほんま強そう。漢字やと余計に強そう。10分ってずっとですね。対応しているうちに終わることもあるが。ボットネット由来から踏み台由来へ。半年に一度になった。逆潜入の話。前回のレポートの話から。フロントに立ってもらうパターン。今回は偽会社を作っておびき寄せるというもの。動画でやりとり見られますよ。紹介、紹介、紹介で3人。本人確認書類の怪。使われた画像は本物っぽかった。とはいえ流出したものっぽい。色々初歩的でミスも多かった。多くの人が抱くイメージと違うかもしれないですね。踏み台（ジャンプ）サーバを得られたのは大きい。ちょっとおもろいクロージング。本物のValid Accountを渡してしまう前に。後に。委託先の向こう側のどこかにあるかもしれない脅威をどうとらえるか。<br />
-&nbsp;</p>
-<p>&nbsp;<br />
-【チャプター】<br />
-| いつもの雑談から | 00:00 |<br />
-| お便りのコーナー | 03:33 |<br />
-| (P) 国家安全保障に関する米大統領の覚書 | 16:53 |<br />
-| (N) Cloudflare DDoS 脅威レポート 2026年上半期 | 34:02 |<br />
-| (T) 北朝鮮 IT ワーカーの実態調査潜入レポート | 48:22 |<br />
-| オススメのアレ | 73:38 |</p>
-<p>&nbsp;</p><p>The post <a href="https://www.tsujileaks.com/?p=2358">第314回 セキュリティのアレ f！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<description>&lt;p&gt;・SILENT HILL f Official Website ・AI assistant hacks gym website in first known Australian autonomous cyber att … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;https://www.tsujileaks.com/?p=2358&quot; class=&quot;read-more&quot;&gt;もっと読む&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;第314回 セキュリティのアレ f！スペシャル！&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.tsujileaks.com/?p=2358&quot;&gt;第314回 セキュリティのアレ f！スペシャル！&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.tsujileaks.com&quot;&gt;podcast - #セキュリティのアレ&lt;/a&gt;.&lt;/p&gt;</description>
 		<enclosure url="https://www.tsujileaks.com/media/are_260817_oboegaki.mp3" length="38036741" type="audio/mpeg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:19:02</itunes:duration>
