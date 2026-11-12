@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 10 Nov 2026 05:00:19 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Nov 2026 04:57:49 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -69,7 +69,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ・<a href="https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/">Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer</a><br />
 ・<a href="https://piyolog.hatenadiary.jp/entry/2026/11/09/144357">盗んだ情報をAIに査定させるインフォスティーラー「VOLTA」についてまとめてみた &#8211; piyolog</a></p>
 <p>&nbsp;<br />
-<a href="http://www.tsujileaks.com/wp-content/uploads/akinosora.png"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/akinosora-300x169.png" alt="" width="300" height="169" class="alignnone size-medium wp-image-2413" srcset="https://www.tsujileaks.com/wp-content/uploads/akinosora-300x169.png 300w, https://www.tsujileaks.com/wp-content/uploads/akinosora-1024x576.png 1024w, https://www.tsujileaks.com/wp-content/uploads/akinosora-768x432.png 768w, https://www.tsujileaks.com/wp-content/uploads/akinosora-1536x864.png 1536w, https://www.tsujileaks.com/wp-content/uploads/akinosora.png 1672w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/akizora.png"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/akizora-300x200.png" alt="" width="300" height="200" class="alignnone size-medium wp-image-2416" srcset="https://www.tsujileaks.com/wp-content/uploads/akizora-300x200.png 300w, https://www.tsujileaks.com/wp-content/uploads/akizora-1024x683.png 1024w, https://www.tsujileaks.com/wp-content/uploads/akizora-768x512.png 768w, https://www.tsujileaks.com/wp-content/uploads/akizora.png 1536w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &nbsp;</p>
 <p>辻伸弘メモ：Duo注文のその後。iPad miniが先に！？旧型の実物と比べられるのが流石や。辻さんがいなくてもできるコーナー。STB問題。テイクダウンして分かったこと。機能にローダーもあった。それは脅威としての幅が広がる。購入時点から。消しても生き返る。国内にもあった。こういうのそこらかしこにありそう。NICTからの記事を読むと状況は芳しくない。甘い言葉。ニーズがあるから無くならない。できあがっている仕組みへのもぐら叩き感。購入者・利用者に不利益がない構造。ソロで3人とも登壇！AIを組み込んだInfoStealer。認証・認可以外も取れますね。盗む情報にも変化が生まれるかも。それらの情報を有効活用する形や市場ができそう。リセットできない情報。ソーシャルエンジニアリングへの活用もある。代理で色々されるとタイムラグがなくなるケースが生まれる。それと販売のバランスはどうなるか考えたいところ。</p>
 <p>&nbsp;<br />
